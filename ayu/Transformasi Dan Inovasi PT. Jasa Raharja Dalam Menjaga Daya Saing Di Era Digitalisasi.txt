@@ -1,0 +1,403 @@
+Jurnal Ilmiah Wahana Pendidikan, Oktober 2024, 10 (20), 850-857
+DOI: https://doi.org/10.5281/zenodo.14489395
+p-ISSN: 2622-8327 e-ISSN: 2089-5364
+Accredited by Directorate General of Strengthening for Research and Development
+Available online at https://jurnal.peneliti.net/index.php/JIWP
+
+Transformasi Dan Inovasi PT. Jasa Raharja Dalam Menjaga Daya Saing Di Era Digitalisasi
+Suryatman Desri 1 , Adila Putri Ayu2 , Dedi Firmansyah 3, Fani Farista 4
+1,2,3,4
+
+Received:
+Revised :
+Accepted:
+
+09 Oktober 2024
+15 Oktober 2024
+21 Oktober 2024
+
+Keywords:
+(*) Corresponding Author:
+
+Universitas Andalas
+
+Abstract
+Transformasi dan inovasi digital penting bagi perusahaan asuransi di era
+digitalisasi.Transformasi digital
+membantu perusahaan asuransi
+meningkatkan efisiensi dan efektivitas serta melayani pelanggan mereka
+dengan lebih baik. Inovasi juga merupakan kunci untuk mendorong
+pertumbuhan dan tetap kompetitif bagi perusahaan asuransi.Tujuan dari
+penelitian ini adalah untuk mengetahui transformasi dan inovasi yang
+dilakukan PT Jasa Raharja agar tetap kompetitif di era digital serta
+hambatan-hambatan yang dirasakan. Penelitian ini menggunakan metode
+penelitian kualitatif dengan pendekatan literature review. Data
+dikumpulkan dengan cara mengkaji dan menganalisis literatur atau
+referensi yang relevan dengan topik penelitian. Temuan utama studi ini
+menunjukkan bahwa PT Jasa Raharja telah melakukan transformasi dan
+inovasi digital yang signifikan dalam beberapa tahun terakhir.
+Transformasi digital yang dilakukan PT Jasa Raharja meliputi: Penerapan
+teknologi digital dalam proses bisnis seperti sistem informasi manajemen
+(SIM), sistem penagihan elektronik, dan layanan digital lainnya.
+Pembangunan infrastruktur digital seperti jaringan internet dan pusat
+data. Tingkatkan kemampuan digital tenaga kerja. Inovasi yang
+diterapkan oleh PT Jasa Raharja antara lain: (1)Pengembangan produk
+asuransi baru seperti asuransi jiwa berbasis digital. (2) Pengembangan
+layanan digital seperti pembayaran tagihan elektronik dan layanan
+pelanggan 24 jam. Transformasi dan inovasi digital yang dilakukan PT
+Jasa Raharja memberikan dampak positif bagi perusahaan. Transformasi
+digital telah memungkinkan PT Jasa Raharja meningkatkan efisiensi dan
+efektivitas serta memberikan pelayanan yang lebih baik kepada
+pelanggannya. Inovasi juga membantu PT Jasa Raharja mendorong
+pertumbuhan bisnis dan tetap kompetitif.
+transformasi digital,inovasi,hambatan
+,adilaputriayu02@gmail.com
+
+How to Cite: Desri, S., Ayu, A. P., Firmansyah, D., & Farista, F. (2024). Transformasi Dan Inovasi PT. Jasa
+Raharja Dalam Menjaga Daya Saing Di Era Digitalisasi. https://doi.org/10.5281/zenodo.14489395
+
+PENDAHULUAN
+Pada saat ini, transformasi digital telah berubah dari suatu peluang
+teknologi menjadi suatu kebutuhan murni untuk mengelola kebutuhan serta
+harapan populasi dunia (oktaria et al., 2022). Perkembangan ini telah membuat
+perubahan yang cukup signifikan pada banyak organisasi. Transformasi digital
+memperkenalkan proses dan mekanisme atau cara baru yang dapat mempengaruhi
+struktur utama bagaimana perusahaan menjalankan bisnis. Menurut Heavin and
+Power (2018), tujuan utama dari transformasi digital ialah untuk memecahkan
+tantangan terkait efisiensi dan efektivitas. Perusahaan yang tidak mengembangkan
+dan menerapkan strategi transformasi digital dengan cepat tidak mungkin bisa
+untuk mengimbangi serta bersaing dalam realitas digital baru (Hess et al., 2016).
+Hal ini juga berlaku pada perusahaan-perusahaan asuransi yang ada di Indonesia.
+
+850
+
+Desri, S., Ayu, A. P., Firmansyah, D., & Farista, F. / Jurnal Ilmiah Wahana Pendidikan 10(20), 850-
+
+857
+
+Perusahaan asuransi merupakan lembaga nonbank yang mempunyai
+peranan yang tidak jauh berbeda dari bank, yaitu bergerak dalam bidang layanan
+jasa yang diberikan kepada masyarakat dalam mengatasi resiko yang akan terjadi
+di masa yang akan datang. Secara umum, konsep asuransi adalah persiapan yang
+dibuat oleh sekelompok orang yang masing-masing menghadapi kerugian sebagai
+sesuatu yang tidak dapat diduga (Rodoni, 2015). Ada banyak perusahaan asuransi
+yang ada di Indonesia, salah satunya adalah PT Jasa Raharja.
+PT Jasa Raharja (Persero) merupakan salah satu Badan Usaha Milik
+Negara (BUMN) dibawah Departemen Keuangan usaha yang bergerak dalam
+bidang asuransi sosial. Perusahaan ini mempunyai berbagai produk asuransi,
+seperti JP-ASPRI (Asuransi Jiwa), JP-GRAHA (Asuransi Kebakaran), dan JPASTOR (Asuransi Kendaraan Bermotor). Sebagai lembaga di bidang asuransi
+sosial, PT Jasa Raharja (Persero) tak pernah berhenti dalam memaksimalkan
+pelayanan terbaik kepada pelanggan. Untuk memaksimalkan pelayanan terhadap
+masyarakat tentu PT Jasa Raharja membutuhkan strategi-strategi dan inovasi yang
+diterapkan dengan baik agar mampu terus bersaing dalam melayani kebutuhan
+para pelanggan.
+Strategi pada tingkat perusahaan berkenaan dengan arah organisasi secara
+keseluruhan, strategi pada tingkat usaha dititik beratkan pada produk dan pasar.
+Kelemahan dan keunggulan perusahaan hendaknya dianalisis sehingga menjadi
+sebuah titik tolak yang kuat buat perusahaan dalam mengambil keputusan yang
+efektif dan efisien serta untuk memperkuat posisinya dari para pesaing yang ada
+dan pencapaian profit (laba) merupakan tujuan utama setiap perusahaan dan hal
+ini dapat juga sebagai tolak ukur dalam sukses atau tidaknya sebuah perusahaan
+dalam pencapaian tujuannya. Selain itu efektifitas dan efisiensi dalam
+menjalankan operasional perusahaan juga mempunyai peranan penting.
+Perusahaan secara umum melakukan kegiatan pemasaran dalam memperkenalkan
+suatu produk kepada masyarakat yaitu dengan promosi. Perusahaan atau lembaga
+asuransi harus mengadakan komunikasi atau promosi dengan calon klien karena
+hal tersebut merupakan kunci keberhasilan dalam penyampaian produk atau
+jasanya kepada calon klien. (Tjiptono, 2008).
+Sedangkan inovasi adalah sesuatu yang baru diciptakan dan berbeda dari
+yang sebelumnya. Menurut Suwarno (2008), secara umum inovasi dipahami
+dalam konteks perubahan perilaku yang erat kaitannya dengan lingkungan
+berkarakteristik dinamis dan berkembang, dimana praktik pelayanan yang
+rigid, rutin, seadanya, dan datar-datar saja membuat organisasi sektor publik sulit
+untuk bisa memberikan pelayanan yang berkualitas. Pelayanan yang belum
+optimal memaksa organisasi publik untuk bisa melakukan inovasi karena inovasi
+sangat penting dilakukan untuk mengatasi kebuntuan dan kemacetan
+organisasi sektor publik. Salah satu organisasi penyedia layanan publik yang
+dihadapkan pada tantangan inovasi sebagai akibat meningkatnya persaingan
+dalam penyediaan layanan publik adalah PT Jasa Raharja. Dalam urnal ini akan
+dibahas mengenai “Transformasi dan Inovasi PT Jasa Raharja dalam Menjaga
+Daya Saing di Era Digitalisasi”.
+METODE
+
+- 851 -
+
+Desri, S., Ayu, A. P., Firmansyah, D., & Farista, F. / Jurnal Ilmiah Wahana Pendidikan 10(20), 850-
+
+857
+
+Metode penelitian yang digunakan dalam jurnal ini sama dengan jenis
+penelitian yang dilakukan, yaitu penelitian kualitatif dengan pendekatan literature
+review. Dengan kata lain Metode yang digunakan adalah studi pustaka (library
+research) yaitu metode dengan pengumpulan data dengan cara memahami dan
+mempelajari teori-teori dari berbagai literatur yang berhubungan dengan
+penelitian. Menurut Zed (2004).
+Ada empat tahap studi pustaka dalam penelitian yaitu menyiapkan
+perlengkapan alat yang diperlukan, menyiapkan bibliografi kerja,
+mengorganisasikan waktu dan membaca atau mencatat bahan penelitian.
+Pengumpulan data tersebut menggunakan cara mencari sumber dan menkontruksi
+dari berbagai sumber contohnya seperti buku, jurnal dan risetriset yang sudah
+pernah dilakukan. Bahan pustaka yang didapat dari berbagai referensi tersebut
+dianalisis secara kritis dan harus mendalam agar dapat mendukung proposisi dan
+gagasannya.
+Sampel penelitian adalah literatur atau referensi yang relevan dengan topik
+penelitian. Teknik pengambilan sampel menggunakan teknik purposive sampling,
+yaitu teknik pengambilan sampel yang dilakukan dengan cara memilih sampel
+yang memiliki karakteristik tertentu yang sesuai dengan tujuan penelitian. Maka,
+sampel penelitian ini dipilih berdasarkan relevansi terhadap topik penelitian.
+prosedur penelitian meliputi pengumpulan data dan analisis data. Data
+dikumpulkan dengan cara mengkaji dan menganalisis literatur atau referensi yang
+relevan dengan topik penelitian. Analisis data dilakukan dengan menggunakan
+analisis data kualitatif dengan pendekatan tematik.
+Pada bagian instrumen dan teknik analisis data, dijelaskan bahwa
+instrumen penelitian adalah panduan analisis data, sedangkan teknik analisis data
+yang digunakan adalah analisis data kualitatif dengan pendekatan tematik.
+Analisis tematik adalah teknik analisis data yang dilakukan dengan cara
+mengidentifikasi tema-tema utama dalam data.
+HASIL DAN PEMBAHASAN
+Temuan
+Berdasarkan hasil analisis data, diperoleh temuan-temuan sebagai berikut:
+Transformasi digital yang dilakukan PT Jasa Raharja terdiri dari:
+1. Penerapan teknologi digital dalam proses bisnis seperti sistem informasi
+manajemen (SIM), sistem penagihan elektronik, dan layanan digital lainnya.
+2. Pembangunan infrastruktur digital seperti jaringan internet dan pusat data.
+3. Tingkatkan kemampuan digital tenaga kerja.
+Inovasi yang diterapkan oleh PT Jasa Raharja terdiri dari
+beberapa,diantaranya :
+1. Pengembangan produk asuransi baru seperti asuransi jiwa berbasis digital.
+2. Pengembangan layanan digital seperti pembayaran tagihan elektronik dan
+layanan pelanggan 24 jam.
+Transformasi digital dan inovasi yang dilakukan PT Jasa Raharja sudah
+memberikan dampak baik bagi perusahaan. Transformasi digital memungkinkan
+PT Jasa Raharja meningkatkan efisiensi dan efektivitas serta memberikan
+pelayanan yang lebih baik kepada customernya. Inovasi juga membantu PT Jasa
+Raharja mendorong pertumbuhan bisnis sehingga tetap kompetitif.
+- 852 -
+
+Desri, S., Ayu, A. P., Firmansyah, D., & Farista, F. / Jurnal Ilmiah Wahana Pendidikan 10(20), 850-
+
+857
+
+Penerapan teknologi digital dalam proses bisnis PT Jasa Raharja
+memberikan banyak manfaat, yaitu:
+1. Meningkatkan efisiensi dan efektivitas operasional, misalnya dengan
+penerapan sistem informasi manajemen (SIM) yang terintegrasi, sistem
+penagihan elektronik, dan layanan digital lainnya.
+2. Meningkatkan kualitas pelayanan kepada pelanggan, misalnya dengan
+penerapan layanan klaim elektronik dan layanan pelanggan 24 jam.
+3. Meningkatkan daya saing, misalnya dengan pemanfaatan teknologi big data
+dan artificial intelligence.
+Perkembangan produk asuransi baru berbasis digital juga memberikan
+manfaat bagi PT Jasa Raharja:
+1. Menjangkau segmen pasar yang lebih luas, misalnya dengan mengembangkan
+produk asuransi jiwa berbasis digital yang dapat diakses oleh masyarakat
+umum.
+2. Meningkatkan pendapatan, misalnya dengan menerapkan premi yang lebih
+terjangkau untuk produk asuransi digital.
+Pengembangan layanan digital juga telah memberikan manfaat bagi PT Jasa
+Raharja, antara lain:
+1. Menyediakan kemudahan dan kenyamanan bagi pelanggan, misalnya dengan
+menerapkan pembayaran tagihan elektronik dan layanan pelanggan 24 jam.
+2. Meningkatkan kepuasan pelanggan, misalnya dengan mengurangi waktu dan
+tenaga yang dibutuhkan pelanggan untuk mengakses layanan.
+Meski membawa banyak manfaat, transformasi dan inovasi digital yang
+dilakukan PT Jasa Raharja juga menghadapi beberapa kendala, antara lain:
+1. Kurangnya pemahaman masyarakat
+Masih banyak masyarakat yang belum mengetahui perihal pemberian santunan
+bagi korban lalu lintas dan masyarakat, serta banyak masyarakatyang masih
+kurang memahami bagaimana ruang lingkup jaminan yang diberikan oleh Jasa
+Raharja. Hal yang bisa dilakukan untuk mengatasi hambatan diatas adalah dengan
+cara mengadakan kampanye penyuluhan dan edukasi yang efektif. PT Jasa raharja
+dapat menggunakan media sosial, seminar, dan materi pendidikan untuk
+menjelaskan tentang berbagai layanan yang tersedia dan bagaimana masyarakat
+dapat mengaksesnya.
+2. Kendala dalam surat menyurat
+Hambatan dalam surat menyurat adalah seperti surat keterangan ahli waris korban
+kecelakaan meninggal dunia. Korban memiliki dua istri, dalam pengurusan surat
+salah satu istri tidak setuju dan itu menghambat proses surat menyurat. Selain itu
+kendala dalam pengurusan laporan polisi yang apabila kurangnya saksi pada saat
+kejadian kecelakaan sehingga pihak polisi juga kesulitan membuat berita acara.
+3. Kelengkapan Berkas Dokumen
+Proses administrasi yang kompleks dan lamanya prosedur pelayanan membuat
+masyarakat enggan untuk mengklain santunan. Prosedur dalam pengurusan
+santunan ke PT Jasa Raharja sebenarnya tidak sulit karena di era digitalisasi ini
+masyarakat bisa melakukan pengajuan klaim secara online. Tetapi, hal-hal yang
+membuat terlambat dalam pengurusan santunan berasal dari luar instansi seperti
+dari pihak Rumah sakit yang sulit mengeluarkan tanda bukti kuitansi pelunasan
+pembayaran klaim dan juga hal sulit lainya ditambah dengan instansi lain seperti
+- 853 -
+
+Desri, S., Ayu, A. P., Firmansyah, D., & Farista, F. / Jurnal Ilmiah Wahana Pendidikan 10(20), 850-
+
+857
+
+dari kepala desa tiap kampung yang biasanya lama dalam mengeluarkan
+keabsahan ahli waris.
+4. Ketersediaan anggaran, terutama untuk pengembangan teknologi dan
+infrastruktur digital.
+5. Ketersediaan sumber daya manusia yang kompeten, terutama dalam bidang
+teknologi informasi dan digital.
+6. Perubahan budaya kerja, dari budaya tradisional ke budaya digital.
+Untuk mengatasi kendala tersebut, PT Jasa Raharja perlu melakukan
+beberapa upaya seperti:
+a. Meningkatkan anggaran untuk pengembangan teknologi dan infrastruktur
+digital.
+b. Melakukan pelatihan dan pengembangan bagi sumber daya manusia.
+c. Melakukan sosialisasi dan edukasi kepada karyawan mengenai transformasi
+digital dan inovasi.
+Secara keseluruhan, transformasi digital dan inovasi yang dilakukan PT Jasa
+Raharja telah memberikan dampak positif bagi perusahaan. PT Jasa Raharja telah
+berhasil meningkatkan efisiensi dan efektivitas operasional, meningkatkan
+kualitas pelayanan kepada pelanggan, dan meningkatkan daya saing. Untuk
+menjaga momentum keberhasilan tersebut, PT Jasa Raharja perlu terus melakukan
+transformasi digital dan inovasi secara berkelanjutan.
+PEMBAHASAN
+Transformasi dan inovasi PT Jasa Raharja Indonesia untuk menjaga daya
+saing di era digital
+PT Jasa Raharja Indonesia (Jasa Raharja) merupakan badan usaha milik
+negara (BUMN) yang bergerak di bidang asuransi sosial. Jasa Raharja
+bertanggung jawab memberikan perlindungan dasar kepada korban kecelakaan
+angkutan umum dan jalan raya.
+Di era digitalisasi, Jasa Raharja memimpin transformasi dan perubahan baru
+untuk menjaga daya saing. Transformasi dan inovasi ini terjadi pada berbagai
+aspek, yaitu:
+1. Aspek pelayanan
+Jasa Raharja terus mengembangkan layanannya agar lebih mudah diakses
+oleh masyarakat. Salah satu upayanya adalah dengan mengembangkan aplikasi
+JRku. Aplikasi ini dapat digunakan untuk mengajukan klaim secara online,
+mengecek masa berlaku iuran wajib Dana Kecelakaan Jalan (SWDKLLJ) dan
+memperoleh informasi lainnya terkait Jasa Raharja. Selain itu, Jasa Raharja juga
+menjalin kerja sama dengan berbagai pihak untuk memfasilitasi layanan mereka.
+Misalnya saja berkolaborasi dengan Samsat untuk pembayaran SWDKLLJ secara
+online dan berkolaborasi dengan rumah sakit untuk menyediakan informasi
+kecelakaan secara real-time.
+Terbukti jasa raharja Meraih skor 96,31 pada penilaian Good Corporate
+Governance (GCG) dengan predikat “SANGAT BAIK”. Pencapaian skor tersebut
+menunjukkan bahwa Jasa Raharja memandang GCG tidak hanya sebagai upaya
+kepatuhan terhadap peraturan namun juga sebagai wujud kesadaran internal yang
+memungkinkan perusahaan beroperasi secara sehat, bertanggung jawab, dan
+sangat tangguh dalam menghadapi tantangan bisnis yang semakin berkembang.
+- 854 -
+
+Desri, S., Ayu, A. P., Firmansyah, D., & Farista, F. / Jurnal Ilmiah Wahana Pendidikan 10(20), 850-
+
+857
+
+Menerima Penghargaan Kinerja BUMN Excellence 2019 dengan “Band Level:
+Good Performance” dengan skor KPKU 2019 sebesar 598 dan merupakan
+emerging industry leader.( jasaraharja.co.id)
+2. Aspek teknologi
+Jasa Raharja juga memimpin transformasi teknologi untuk mendukung
+layanan tersebut. . Salah satu upayanya adalah dengan menerapkan sistem
+informasi digital yang terintegrasi. Sistem ini akan memungkinkan Jasa Raharja
+mengelola data dan informasi dengan lebih mudah serta memberikan layanan
+yang lebih cepat dan akurat.
+3. Aspek Sumber Daya Manusia
+Jasa Raharja juga menerapkan transformasi sumber daya manusia untuk
+mendukung transformasi dan inovasi. Salah satu upayanya adalah dengan
+meningkatkan keterampilan karyawan melalui pelatihan dan pengembangan.
+Transformasi dan inovasi yang dilakukan Jasa Raharja telah memberikan
+dampak positif bagi perusahaan. Hal ini terlihat dari kinerja Jasa Raharja yang
+semakin meningkat, baik dari sisi pelayanan, keuangan, dan kepatuhan.
+Apa saja transformasi dan inovasi yang dilakukan PT Jasa Raharja untuk
+menjaga daya saing di era digital?
+Penjelasan:
+Pertanyaan penelitian ini diajukan untuk mengetahui transformasi dan
+inovasi apa saja yang dilakukan PT Jasa Raharja untuk menjaga daya saing di era
+digital. Pertanyaan ini penting untuk dijawab karena transformasi dan inovasi
+digital merupakan kunci bagi perusahaan asuransi untuk tetap kompetitif di era
+digital.
+Pertanyaan penelitian ini dapat dijawab dengan mengkaji dan menganalisis
+literatur atau referensi yang relevan dengan topik penelitian. Literatur atau
+referensi yang relevan dapat berupa buku, jurnal, artikel, atau situs web.
+Berdasarkan hasil kajian dan analisis literatur, dapat disimpulkan bahwa
+transformasi dan inovasi yang dilakukan PT Jasa Raharja untuk menjaga daya
+saing di era digital meliputi:
+Transformasi layanan: Jasa Raharja terus mengembangkan layanannya agar
+lebih mudah diakses oleh masyarakat. Salah satu upayanya adalah dengan
+mengembangkan aplikasi JRku. Aplikasi ini dapat digunakan untuk mengajukan
+klaim secara online, mengecek masa berlaku iuran wajib Dana Kecelakaan Jalan
+(SWDKLLJ) dan memperoleh informasi lainnya terkait Jasa Raharja. Selain itu,
+Jasa Raharja juga menjalin kerja sama dengan berbagai pihak untuk memfasilitasi
+layanan mereka.
+Transformasi teknologi: Jasa Raharja juga memimpin transformasi
+teknologi untuk mendukung layanan tersebut. Salah satu upayanya adalah dengan
+menerapkan sistem informasi digital yang terintegrasi. Sistem ini akan
+memungkinkan Jasa Raharja mengelola data dan informasi dengan lebih mudah
+serta memberikan layanan yang lebih cepat dan akurat.
+Transformasi sumber daya manusia: Jasa Raharja juga menerapkan
+transformasi sumber daya manusia untuk mendukung transformasi dan inovasi.
+Salah satu upayanya adalah dengan meningkatkan keterampilan karyawan melalui
+pelatihan dan pengembangan.
+
+- 855 -
+
+Desri, S., Ayu, A. P., Firmansyah, D., & Farista, F. / Jurnal Ilmiah Wahana Pendidikan 10(20), 850-
+
+857
+
+Transformasi dan inovasi ini telah memberikan dampak positif bagi PT Jasa
+Raharja. Hal ini terlihat dari kinerja Jasa Raharja yang semakin meningkat, baik
+dari sisi pelayanan, keuangan, dan kepatuhan.
+KESIMPULAN
+Transformasi dan inovasi digital adalah kunci bagi perusahaan asuransi
+untuk tetap kompetitif di era digital. PT Jasa Raharja menyadari hal ini dan telah
+melakukan transformasi dan inovasi digital yang signifikan dalam beberapa tahun
+terakhir.
+Perubahan dan inovasi yang dilakukan PT Jasa Raharja memberikan
+dampak positif bagi perusahaan.
+Hal ini dibuktikan dengan membaiknya kinerja Jasa Raharja, baik dari sisi
+pelayanan, keuangan, dan kepatuhan.
+Keunggulan penelitian ini adalah memberikan gambaran menyeluruh
+mengenai transformasi dan inovasi digital yang dilakukan PT Jasa Raharja.
+Studi tersebut juga memberikan bukti empiris mengenai dampak positif
+transformasi dan inovasi digital bagi PT Jasa Raharja.
+Keterbatasan penelitian ini adalah penelitian ini dilakukan hanya dengan
+menggunakan metode tinjauan pustaka.Untuk memperoleh hasil yang lebih rinci,
+sebaiknya penelitian ini diperluas dengan menggunakan metode penelitian
+kuantitatif atau kualitatif.
+Potensi penerapan penelitian ini adalah dapat dijadikan referensi bagi
+perusahaan asuransi lain yang ingin menerapkan transformasi dan inovasi digital.
+Kajian ini juga menjadi landasan penelitian lebih lanjut mengenai
+transformasi dan inovasi digital di sektor asuransi.
+Berikut rekomendasi penelitian selanjutnya:
+1. Untuk memperoleh hasil yang lebih rinci dapat dilakukan penelitian lebih
+lanjut dengan menggunakan metode penelitian kuantitatif atau kualitatif.
+2. Penelitian lebih lanjut dapat fokus pada aspek spesifik transformasi dan
+inovasi digital, seperti aspek teknologi, layanan, dan sumber daya manusia.
+3. Penelitian lebih lanjut dapat dilakukan dengan membandingkan transformasi
+dan inovasi digital PT Jasa Raharja dengan perusahaan asuransi lainnya.
+DAFTAR PUSTAKA
+Putri, O. A., & Hariyanti, S. (2022). Transformasi Digital Dalam Bisnis Dan
+Manajeme. Proceedings of Islamic Economics,
+Business, and Philanthrop, 135-166.
+Umami, A., & Syahriza, R. (2022). Analisis Kualitas Pelayanan Terhadap. Jurnal
+Ilmu Administrasi Publik, 33-42.
+Yudha, P. I., Njatrijani, R., & Lestari, S. N. (2016). Implementasi Tanggung
+Jawab Perusahaan Asuransi
+Sosial Jasa Raharja Terhadap Korban
+Kecelakaan Lalu Lintas di Jalan Raya (Studi Jasa Raharja
+Perwakilan Magelang). DIPONEGORO LAW REVIEW, 1-16.
+Oktaria, A., Handoyo, R., & Utami, R. (2022). Transformasi digital dan inovasi
+dalam industri asuransi di era digitalisasi. Jurnal Manajemen Teknologi,
+17(1), 1-14.
+
+- 856 -
+
+Desri, S., Ayu, A. P., Firmansyah, D., & Farista, F. / Jurnal Ilmiah Wahana Pendidikan 10(20), 850-
+
+857
+
+Heavin, P., & Power, P. (2018). Digital transformation: A strategy for success.
+London: Kogan Page.
+Hess, T., Matt, C., & Benlian, A. (2016). Digital transformation: A research
+agenda. Business & Information Systems Engineering, 58(2), 123-131.
+Rodoni, A. (2015). Asuransi: Dasar-dasar dan praktiknya. Jakarta: Rajawali Press.
+Tjiptono, F. (2008). Strategi pemasaran. Yogyakarta: Andi Offset.
+Suwarno, W. (2008). Inovasi dalam organisasi publik. Jakarta: PT Gramedia
+Pustaka Utama.
+jasaraharja.co.id(diakses Rabu, Desember 2023,01:11)
+
+- 857 -
+
+

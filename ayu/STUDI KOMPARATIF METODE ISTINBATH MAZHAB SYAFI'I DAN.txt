@@ -1,0 +1,1074 @@
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+STUDI KOMPARATIF METODE ISTINBATH MAZHAB SYAFI'I DAN
+HANAFI DALAM MASALAH MUAMALAH KONTEMPORER
+Lutfi Chakim1, Naila Humnati Rosyidah2,
+Syahidah Asma Amanina3, Hariirotus Sa’diyyah4, Siyono5
+Universitas Islam Negeri Salatiga1,2,3,4,5
+Email: lutfichakim27@gmail.com1, unailarosyidah@gmail.com2,
+amaninaaja27@gmail.com3 sadiyyahhariirotus@gmail.com4,
+siyono347@gmail.com5
+Abstrak
+Perkembangan muamalah kontemporer memunculkan bentuk transaksi baru yang
+belum sepenuhnya terakomodasi dalam metodologi fikih klasik, sehingga
+menimbulkan pertanyaan mengenai bagaimana metode istinbath Mazhab Syafi’i
+dan Hanafi dapat digunakan untuk menjawab problem ekonomi modern.
+Penelitian ini bertujuan mengidentifikasi perbedaan dan persamaan metode
+istinbath kedua mazhab serta menilai relevansinya dalam isu kontemporer seperti
+transaksi digital, akad daring, dan aset digital. Penelitian menggunakan
+pendekatan kualitatif berbasis studi kepustakaan melalui analisis komparatif
+terhadap literatur ushul fikih klasik dan kajian kontemporer. Hasil penelitian
+menunjukkan bahwa kedua mazhab sama-sama berpegang pada Al-Qur’an,
+Sunnah, ijma’, dan qiyas, dengan Mazhab Syafi’i yang lebih tekstual dan ketat,
+sementara Mazhab Hanafi lebih rasional dan fleksibel melalui penerapan istihsan
+dan ‘urf. Perbedaan ini menghasilkan variasi penetapan hukum pada kasus digital
+seperti e-wallet, jual beli online, dan cryptocurrency. Penelitian ini menyarankan
+integrasi antara kehati-hatian metodologis Syafi’i dan fleksibilitas Hanafi sebagai
+dasar perumusan hukum muamalah modern yang adaptif serta sesuai prinsip
+syariah.
+Kata Kunci: Istinbath hukum, Mazhab Syafi’i, Mazhab Hanafi, Muamalah
+Kontemporer, Transaksi digital
+Abstract
+Contemporary muamalah developments have given rise to new forms of
+transactions that are not fully accommodated in classical fiqh methodology,
+raising questions about how the istinbath methods of the Shafi'i and Hanafi
+schools of thought can be used to address modern economic problems. This study
+aims to identify the differences and similarities between the istinbath methods of
+the two schools of thought and assess their relevance to contemporary issues such
+as digital transactions, online contracts, and digital assets. The study uses a
+qualitative approach based on a literature review through a comparative analysis
+of classical usul fiqh literature and contemporary studies. The results show that
+both schools adhere to the Qur'an, Sunnah, ijma', and qiyas, with the Shafi'i
+school being more textual and strict, while the Hanafi school is more rational and
+flexible through the application of istihsan and 'urf. These differences result in
+1864
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+variations in the determination of laws in digital cases such as e-wallets, online
+buying and selling, and cryptocurrency. This research suggests integrating the
+methodological caution of the Shafi'i school with the flexibility of the Hanafi
+school as the basis for formulating adaptive modern muamalah laws that are
+consistent with Shariah principles.
+Keywords: Legal istinbath, Mazhab Syafi’i, Mazhab Hanafi, Contemporary
+muamalah, Digital transactions
+A.
+
+Pendahuluan
+Perkembangan praktik ekonomi modern telah menghadirkan ragam
+transaksi baru yang jauh lebih kompleks dibandingkan bentuk-bentuk
+muamalah klasik1. Transformasi digital, inovasi layanan keuangan, dan
+model bisnis berbasis teknologi menimbulkan kebutuhan akan kepastian
+hukum yang lebih adaptif2. Kondisi ini mendorong kajian fikih muamalah
+untuk terus diperbarui agar mampu menjawab dinamika masyarakat3. Di
+tengah perubahan tersebut, para ahli hukum Islam dituntut untuk
+menafsirkan kembali prinsip-prinsip fikih agar tetap relevan4. Namun,
+hingga kini belum sepenuhnya jelas bagaimana metodologi klasik dapat
+dioperasionalkan dalam konteks modern yang serba cepat5.
+Kajian-kajian sebelumnya menunjukkan bahwa setiap mazhab
+memiliki kerangka metodologis yang berbeda dalam melakukan istinbath
+terhadap persoalan muamalah6. Perbedaan itu mencakup cara memahami
+nash, penggunaan qiyas, serta penerapan kaidah ushuliyah tertentu.
+Keragaman metode ini memberikan wawasan yang kaya, namun sekaligus
+menunjukkan adanya variasi dalam hasil hukum yang dihasilkan. Meski
+sejumlah penelitian telah membandingkan mazhab secara umum, sebagian
+besar belum menyoroti bagaimana metode tersebut diterapkan pada konteks
+muamalah kontemporer secara spesifik7. Hal ini menandai adanya
+
+1
+
+Aisyah Abdul Jabbar et al., “The Relevance and Dynamics of Muamalat Transactions in
+the Context of Modern Economics : A Holistic Review” 2, no. 1 (2024): 47–60.
+2
+Nikmah Dalimunthe et al., “PENGARUH TEKNOLOGI DIGITAL TERHADAP
+HUKUM BISNIS : TANTANGAN DAN PELUANG,” JSE: Jurnal Sharia Economica 4, no. 3
+(2025): 148–57.
+3
+Mardiah, “FIQHI ISLAM DENGAN PENDEKATAN KONTEKSTUAL DALAM
+PENDIDIKAN ISLAM,” Literasi Kita Indonesia 4, no. 2 (2023): 96–103.
+4
+Abdul Hanan Muhajir et al., “ANALISIS QOWAIDUL FIQHIYAH; SOLUSI
+TERHADAP TANTANGAN KONTEMPORER DALAM HUKUM ISLAM,” Ta’dibiya 3, no. 1
+(2023): 81–94.
+5
+Tania Melani Putri and Suwandi, “Teori Klasik Dan Efektivitas Organisasi Di Era
+Digital,” JOURNAL OF LITERATURE REVIEW 1, no. 2 (2025): 373–78.
+6
+Hasmira Rahmadani et al., “Analisis Perbandingan Fatwa-Fatwa Dalam Perspektif
+Mazhab Hukum Islam Dan Argumentasinya,” Journal of Religion and Social Community 1, no. 3
+(2025): 146–49.
+7
+Abdullah, “KONSEP IJMA ’ DALAM MU ’ AMALAH KONTEMPORER,”
+PROGRESSA: Journal of Islamic Religious Instruction 07, no. 01 (2023): 35–34.
+
+1865
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+kebutuhan untuk memperjelas ruang lingkup penerapan metodologi masingmasing mazhab8.
+Perbedaan pendekatan istinbath antara berbagai mazhab tersebut
+membuka peluang untuk memahami bagaimana kerangka berpikir tertentu
+memengaruhi keputusan hukum. Dalam situasi modern, pertanyaan
+mengenai kesesuaian metode dengan bentuk transaksi baru menjadi semakin
+penting9. Banyak isu muamalah kontemporer belum dikaji secara mendalam
+melalui perspektif komparatif yang fokus pada metodologi10. Akibatnya,
+masih terdapat kesenjangan pengetahuan mengenai hubungan metodologis
+antara prinsip klasik dan penerapannya pada kasus kekinian.
+Berdasarkan dinamika dan gap tersebut, penelitian ini memusatkan
+perhatian pada permasalahan utama berupa perbandingan metode istinbath
+Mazhab Syafi'i dan Hanafi dalam isu-isu muamalah kontemporer11. Kedua
+mazhab ini sering dijadikan rujukan dalam literatur fikih, tetapi penjelasan
+mengenai bagaimana mereka menafsirkan masalah modern masih minim.
+Pendekatan komparatif diperlukan untuk memahami kedalaman argumentasi
+yang dibangun masing-masing mazhab12. Tanpa analisis metode yang
+sistematis, perbedaan pandangan sering kali dipahami hanya sebagai
+perbedaan hasil hukum semata. Oleh sebab itu, eksplorasi metodologis
+menjadi langkah penting untuk menambah wawasan di bidang fikih
+muamalah13.
+Dengan mempertimbangkan berbagai kesenjangan tersebut, artikel
+ini bertujuan menganalisis secara komparatif metode istinbath Mazhab
+Syafi'i dan Hanafi serta relevansinya terhadap problem muamalah masa kini
+14
+. Analisis ini diharapkan mampu memberikan gambaran yang lebih jelas
+mengenai pola argumentasi dan prinsip dasar yang digunakan kedua mazhab
+dalam menghadapi persoalan kontemporer 15. Hasil kajian juga diharapkan
+dapat memperkaya diskursus akademik mengenai adaptasi metodologi
+klasik pada konteks modern. Selain itu, penelitian ini berupaya menawarkan
+pemahaman yang lebih komprehensif mengenai kontribusi masing-masing
+8
+
+Rahmadani et al., “Analisis Perbandingan Fatwa-Fatwa Dalam Perspektif Mazhab Hukum
+Islam Dan Argumentasinya.”
+9
+Fahrul Dawam, “DASAR PENDEKATAN DAN METODE PEMIKIRAN IMAM SYAFI
+‘ I DAN M QURAISH SIHAB TERKAIT TENTANG HUKUM PEMAKAIN JILBAB,”
+Musyarokah: Jurnal Hukum Ekonomi Syariah 2, no. 2 (2024): 34–52.
+10
+Rahmadani et al., “Analisis Perbandingan Fatwa-Fatwa Dalam Perspektif Mazhab
+Hukum Islam Dan Argumentasinya.”
+11
+Dudang Gojali and Hapid Ali, “STUDI ANALISIS METODE ISTINBATH HUKUM
+IMAM SYAFI’I DAN IMAM HANAFI TENTANG BA’I AL MU’ATHOH,” Jurnal Perspektif 5,
+no. 1 (2021): 33–56.
+12
+Sartika Fortuna Ihsan et al., “Komparasi Epistemologi Hadis Sunni Dan Syiah:
+Pendekatan Validitas Dan Otoritas Di Tengah Tantangan Modernitas,” Mauriduna 5, no. 1 (2024):
+378–95, https://doi.org/10.37274/mauriduna.v5i2.1192.
+13
+Rahmadani et al., “Analisis Perbandingan Fatwa-Fatwa Dalam Perspektif Mazhab
+Hukum Islam Dan Argumentasinya.”
+14
+Gojali and Ali, “STUDI ANALISIS METODE ISTINBATH HUKUM IMAM SYAFI’I
+DAN IMAM HANAFI TENTANG BA’I AL MU’ATHOH.”
+15
+Abdullah, “KONSEP IJMA ’ DALAM MU ’ AMALAH KONTEMPORER.”
+
+1866
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+mazhab dalam pengembangan hukum muamalah 16. Dengan demikian,
+tujuan utama penulisan ini adalah menghadirkan analisis ilmiah yang dapat
+menjadi pijakan bagi penelitian lanjutan di bidang serupa.
+B.
+
+Metode Penelitian
+Metode penelitian yang digunakan dalam artikel ini adalah
+pendekatan kualitatif dengan jenis penelitian kepustakaan (library research).
+Pendekatan ini dipilih karena kajian difokuskan pada analisis terhadap
+sumber-sumber fikih, ushul fiqh, serta literatur kontemporer yang membahas
+muamalah modern, sehingga tidak memerlukan pengumpulan data lapangan.
+Sumber data dalam penelitian ini terdiri dari buku-buku pendukung, jurnal
+ilmiah dan artikel akademik yang relevan dengan pembahasan muamalah
+modern17.
+Pengumpulan data dilakukan melalui teknik dokumentasi, yaitu
+dengan mengidentifikasi, menyeleksi, dan mencatat informasi dari literatur
+yang relevan. Data yang terkumpul kemudian dianalisis menggunakan
+metode analisis komparatif (comparative analysis). Analisis ini dilakukan
+melalui beberapa tahap, yaitu deskripsi konsep dan metode istinbath masingmasing mazhab, interpretasi makna serta landasan metodologisnya,
+kemudian membandingkan persamaan dan perbedaan logika hukum,
+penggunaan qiyas, urf, maslahah, dan istihsan dalam konteks muamalah
+kontemporer18. Dengan metodologi ini, diharapkan penelitian mampu
+menghasilkan pemahaman komprehensif mengenai relevansi metode
+istinbath kedua mazhab dalam menjawab isu muamalah modern.
+
+C.
+
+Hasil dan Pembahasan
+1. Metode Istinbath Mazhab Syafi’i
+Metode istinbath dalam mazhab Syafi’i lahir melalui perjalanan
+intelektual Panjang Imam Muhammad bin Idris al Syafi’i, seorang ulama
+yang hidup pada masa ketika mazhab-mazhab fiqih mulai berkembang
+pesat19. Pada masa itu, dunia keilmuan Islam terbagi dalam dua arus besar
+yaitu madrasah hadits di Hijaz yang sangat tekstual, dan madrasah ra’yu di
+Irak yang lebih rasional. Imam Syafi’i kemudian dikenal sebagai tokoh yang
+berhasil mengharmonikan dua kutub besar tersebut melalui metodologi
+
+16
+
+Mardiah, “FIQHI ISLAM DENGAN PENDEKATAN KONTEKSTUAL DALAM
+PENDIDIKAN ISLAM.”
+17
+Aulia Latiffah R, Arini Fitriah, and Fatmah Taufik Hidayat, “KONSEP MUAMALAH
+DALAM PERDAGANGAN EMAS DAN MATA UANG DIGITAL DI ERA MODERNISASI,”
+Jurnal Inovasi Global 3, no. 12 (2024): 2073–80.
+18
+Abal Qosim Al banan, Imron Mustofa, and Agus Solikin, “ISTINBATH HUKUM
+PERNIKAHAN BEDA AGAMA MENURUT RASYID RIDHA DAN YUSUF ALQARDHAWI,” AL-USROH 4, no. 02 (2024): 145–65.
+19
+Jidan Ahmad Fadillah et al., “Madzhab Dan Istinbath Hukum,” Al-Hikkmah: Jurnal Studi
+Agama-Agama 7, no. 2 (2021): 235–45.
+
+1867
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+istinbath yang sistematis dan tertulis untuk pertama kalinya dalam sejarah
+fiqih20.
+Perjalanan ini diawali sejak masa mudanya di Makkah, ketika beliau
+menghafal Al-Qur’an pada usia tujuh tahun dan al-Muwatta’ karya Imam
+Malik pada usia sepuluh tahun. Selain itu, beliau menimba ilmu langsung
+kepada Imam Malik dan ahli hadits lainnya sehingga pemikirannya sangat
+dipengaruhi oleh tradisi Hijaz yang kuat dalam berpegang pada sunnah 21.
+Namun, perjalanan ilmiahnya ke Irak mempertemukannya dengan Mazhab
+Hanafi, yang terkenal dengan pendekatan ra’yu dan qiyas yang luas.
+Pertemuan dua tradisi inilah yang kemudian melahirkan system istinbath
+yang menjadi ciri khas mazhab Syafi’i yang memprioritaskan nash tetapi
+tetap memberikan ruang bagi qiyas dengan syarat ketat 22.
+Perumusan metode istinbath Syafi’i mencapai puncaknya ketika
+beliau menulis ar-Risalah, karya monumental yang dianggap sebagai buku
+pertama dalam disiplin ushul fiqh yang tersusun secara sistematis. Di
+dalamnya, Imam Syafi’i menjelaskan tata urut dalil, kaidah memahami nash,
+peran bahasa Arab, kedudukan Sunnah, serta syarat-syarat qiyas23. Dalam
+ar-Risalah, metode istinbath Syafi’i dibangun atas empat pilar utama, yaitu
+Al-Qur’an, Sunnah, Ijma’, dan Qiyas. Melalui struktur ini, beliau menolak
+penggunaan istihsan atau ra’yu bebas yang tidak memiliki dasar nash, tetapi
+tetap menerima perluasan hukum melalui qiyas dengan ketentuan ketat24.
+Mazhab Syafi’i kemudian berkembang luas di dunia Islam, termasuk
+Asia Tenggara, karena metodologi istinbathnya dinilai mampu menjawab
+perkembangan hukum masyarakat tanpa keluar dari batas nash25. Pada masa
+kontemporer, metode istinbath Syafi’i kembali menjadi acuan penting dalam
+menjawab persoalan muamalah modern seperti, transaksi digital, fintech
+syariah, akad daring, hingga cryptocurrency. Dengan demikian, Sejarah
+metoder istinbath Syafi’i merupakan akumulasi dari perjalanan keilmuan,
+interaksi dengan mazhab lain, serta upaya menyatukan pendekatan hadits
+dan ra’yu dalam satu sistem ilmiah yang komprehensif dan konsisten.
+
+20
+
+Lutfi Zarkasi and Achmad Raffi, “Analisis Metode Qiyas Imam Syafi ’ i,” Pelita: Jurnal
+Studi
+Islam
+Mahasiswa
+UII
+Dalwa
+1,
+no.
+November
+(2023):
+1–11,
+https://doi.org/10.38073/pelita.v1i1.1162.
+21
+M. Khoirul Anam, “Dasar-Dasar Istinbath Hukum Imam Syafi’i,” Jurnal Pendidikan
+Dan Pemikiran 14, no. 1 (2019).
+22
+Nur Kholifah and Miftakhul Rohman, “METODOLOGI ISTINBATH HUKUM IMAM
+ASY- SYAFI’I,” Jurnal Sinda: Comprehensive Journal of Islamic Social Studies 2, no. 2 (2022):
+37–51, https://doi.org/doi.org/10.28926/sinda.v2i2.469.
+23
+Anton Jamal, “Ijtihad Dan Qiyas Menurut Imam Syafi ’ I : Hubungan Qiyas Dengan
+Berbagai
+Metode
+Ijtihad
+Dalam
+Ushul
+Fiqh”
+4,
+no.
+1
+(2024):
+1–10,
+https://doi.org/10.47498/maqasidi.v4i1.3125.
+24
+Khairani Salsa Bella et al., “Sumber-Sumber Dalil Hukum Tentang Qiyas: Telaah
+Teoritis Dan Relevansi Kontemporer,” Jurnal Ilmiah Kajian Multidisipliner 9, no. 4 (2025): 110–
+16.
+25
+Zainal Azwar and Farid Afif Syahputra Rinaldi, “Consistency of the Indonesian Ulama
+Council in Using Istislah as a Method for Legal Istinbath,” Al Istinbath: Jurnal Hukum Islam 9,
+no. 1 (2024): 1–24.
+
+1868
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+Metode istinbath Imam Syafi’i dibangun atas prinsip bahwa hukum
+syariah harus Kembali kepada nash yang pasti, dan akal hanya digunakan
+ketika ketidakadaan nash melalui qiyas yang terukur. Adapun langkahlangkah metodologinya adalah sebagai berikut:
+a. Al-Qur’an sebagai Sumber Hukum Utama
+Imam Syafi’i menegaskan bahwa seluruh persoalan hukum harus
+dikembalikan kepada Al-Qur’an sebagai sumber hukum tertinggi26.
+Setiap ketetapan hukum wajib berangkat dari makna zahir nash selama
+tidak ada indikasi yang memalingkannya. Dalam praktik muamalah,
+ayat-ayat terkait keadilan, larangan riba, larangan penipuan, dan
+kebolehan bertransaksi menjadi pijakan dasar sebelum merujuk kepada
+sumber lain. Contoh: ketentuan larangan praktir gharar pada akad-akad
+digital diambil dari dalil umum Qs. Al Baqarah:188 melalui pendekatan
+makna Zahir dan keberlakuannya yang universal.
+b. Sunnah sebagai penjelas Al-Qur’an
+Imam Syafi’i memposisikan sunnah sejajar dengan Al-Qur’an dalam hal
+penetapan hukum, selama hadits tersebut shahih dan sanadnya
+bersambung hingga Rasulullah saw. sunnah menjadi penafsir utama
+ayat-ayat muamalah yang bersifat umum maupun global27.
+c. Ijma’ sebagai Dalil ketiga
+Ijma’ dijadikan sebagai dasar hukum ketika tidak ditemukan ketetapan
+khusus dari Al-Qur’an dan sunnah. Imam Syafi’i Merima ijma’ ulama,
+bukan ijma’ wilayah tertentu seperti penduduk Madinah, yang
+menurutnya tidak representatif 28. Dalam muamalah modern, ijma’
+lembaga fiqh internasional seperti Majma’ al-Fiqh al-Islami dijadikan
+rujukan penting dalam menetapkan kelayakan akad digital dan hukum
+transaksi daring.
+d. Qiyas sebagai Instrumen Utama dalam Menjawab Persoalan Baru
+Qiyas adalah alat utama Imam Syafi’i dalam istinbath ketika nash tidak
+memberikan penjelasan langsung. Qiyas dilakukan dengan mencari
+padanan hukum melalui persamaan illat yang kuat. Misalnya penentuan
+hukum dompet digital (e-wallet) diqiyaskan dengan akad wakalah bil
+ujrah karena adanya unsur perwakilan sekaligus layanan tambahan29.
+Cryptocurrency yang tidak memiliki underlying asset dikaji melalui
+qiyas kepada mal mustafad dan prinsip sad dak dzari’ah untuk menolak
+unsur spekulatif.
+e. ‘Urf (kebiasaan) sebagai Pendukung Hukum
+26
+
+Tentiyo Suharto, Asmuni, and Tuti Anggraini, “Konsep Al- Qur ’ an s Ebagai Sumber
+Utama Dalam Hukum Islam,” Jurnal Multidisiplin Madani (MUDIMA) 2, no. 2 (2022): 955–76.
+27
+Eva Nur Hopipah and Abdulah Syafe’i, “Sumber Hukum Islam: Kedudukan Al-Qur’an
+Sebagai Sumber Hukum,” Qaf 2 (2023).
+28
+Sitty Fauzia Tunai, “Pandangan Imam Syafi’i Tentang Ijma’ Sebagai Sumber PEnetapan
+Hukum Islam Dan Relevansinya Dengan Perkembangan Hukum Islam Dewasa Ini,” Jurnal Ilmiah
+Al-Syari’ah 3, no. 2 (2005).
+29
+Kholifah and Rohman, “METODOLOGI ISTINBATH HUKUM IMAM ASYSYAFI’I.”
+
+1869
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+Mazhab Syafi’i menerima ‘urf selama tidak bertentangan dengan nash
+dan membawa kemashlahatan30. Dalam muamlah kontemporer, ‘urf
+sering digunakan untuk memvalidasi praktik transaksi digital yang
+menjadi kebiasaan masyarakat, seperti pembayaran melalui QR, akad
+melalui chat, dan transaksi non-tunai.
+f. Pendekatan Bahasa (lughawi) sebagai Metode Pemahaman Nash
+Imam Syafi’i menggunakan pendekatan linguistik dalam menafsirkan
+ayat atau hadits muamalah, terutama yang memiliki makna ganda atau
+bersifat umum. Penafsiran dilakukan melalui ilmu nahwu, balaghah, dna
+konteks kebahasaan. Dalam isu kontemporer seperti akad digital,
+pendekatan bahasa digunakan untuk memahami definisi akad, Ridha,
+dan ijab qabul dalam konteks non-verbal.
+Implikasi istinbath imam syafi’i terhadap muamalah kontemporer 31:
+a. Memberikan kepastian hukum dalam transaksi digital
+Metode syafi’i yang berbasis nash dan qiyas memberikan kepastian
+hukum untuk transaksi modern seperti e-commerce, mobile bangking,
+dan kontrak digital. Struktur dalil yang jelas membantu menetapkan
+batas syar’i dalam platform daring.
+b. Menguatkan standarisasi akad modern
+Pendekatan Syafi’i memperkuat penerapan rukun akad, kejelasan objek,
+dan larangan gharar dalam sistem keuangan modern seperti e-wallet,
+paylater, dan fintech.
+c. Mendorong inovasi keuangan syariah yang tetap patuh syariat
+Qiyas memungkinkan pembentukan analogi baru untuk mengakomodasi
+instrumen keuangan kontemporer, tetapi tetap menjaga prinsip keadilan
+dan transparansi
+d. Memperkuat peran ijma’ kontemporer dan Lembaga fatwa
+Kaidah Syafi’i yang mengakui ijma’ mendukung legitimasi Keputusan
+Lembaga fatwa dalam merumuskan hukum transaksi digital
+e. Menjaga keseimbangan antara tekstualitas dan kontekstualitas
+Syafi’i tetap menoleransi ‘urf yang tidak bertentangan dengan syariat,
+pendekatannya mampu diaplikasikan pada kebiasaan-kebiasaan baru
+Masyarakat modern
+Metode istinbath Imam Syafi’i merupakan sistem penetapan hukum
+yang ketat, sistematis, dan tekstual tetapi tetap memiliki ruang bagi ijtihad
+melalui qiyas dan ‘urf. Dalam konteks muamalah kontemporer, metode ini
+tidak hanya relevan tetapi juga menjadi referensi utama dalam merumuskan
+hukum-hukum modern. Dengan memadukan kekuatan nash, analisis
+linguistik, ijma’, dan qiyas. Pendekatan Imam Syafi’i mampu memberikan
+
+30
+
+Muhammad Furqan and Syahrial, “Kedudukan ‘Urf Sebagai Sumber Hukum Dalam
+Mazhab Syāfi’Ī,” Jurnal Al-Nadhair 1, no. 2 (2022): 73–92.
+31
+Muh. Ahsan Kamil, Muhajirin, and Rusli Malii, “Analisis Metode Ijtihad Hukum Imam
+Al-Syafi’i: Dinamika Pengembangan Qiyas Dan Implementasinya Dalam Al-Sharf,” J-HES Jurnal
+Hukum Ekonomi Syariah 07, no. 01 (2023): 1–18.
+
+1870
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+jawaban syariat terhadap tantangan ekonomi digital dan transaksi modern
+secara komprehensif dan terukur32.
+2. Metode Istinbath Mazhab Hanafi
+Mazhab Hanafi didirikan oleh Imam Abu Hanifah an-Nu’man bin
+Tsabit di Kufah, Irak, yang pada masa itu merupakan pusat peradaban dan
+perdagangan dengan interaksi budaya yang sangat beragam33. Lingkungan
+ini tidak hanya menjadi latar historis, tetapi juga faktor epistemologis yang
+membentuk pola pikir Abu Hanifah yang progresif, rasional, dan responsif
+terhadap perubahan sosial. mazhab ini kemudian menjadi rujukan hukum di
+kekhalifahan Abbasiyah dan Utsmaniyah, karena karakter metodologinya
+yang adaptif memberi ruang bagi penerapan hukum pada wilayah dan
+masyarakat yang sangat beragam 34.
+Mazhab Hanafi dikenal dengan pendekatan istinbath hukum yang
+rasional dan fleksibel, sehingga mampu merespons dinamika sosial
+masyarakat secara lebih adaptif. Kelebihan metode Imam Hanafi adalah
+fleksibilitas dan responsivitasnya terhadap kebutuhan masyarakat tanpa
+melepaskan diri dari landasan syar’i. Metode istinbath hukum Imam
+Hanafi terus berevolusi untuk merespons kompleksitas transaksi modern,
+terutama dalam bidang ekonomi syariah, teknologi finansial, dan
+praktik muamalah kontemporer. Fleksibilitasnya dalam memadukan
+teks, konteks, dan kemaslahatan menjadikannya alat vital untuk
+menyelesaikan dilema hukum yang tidak terantisipasi dalam nash
+eksplisit35.
+Imam Hanafi dalam menetapkan hukum menggunakan beberapa
+sumber utama dan metode istinbath, yaitu Al-Qur’an, As-Sunnah, Ijma’,
+Qiyas, Istihsan, dan ‘Urf36. Imam Hanafi dalam menetapkan hukum,
+pertama-tama merujuk kepada Al-Qur;an. Bila tidak ditemui dalam AlQur’an, maka beliau mencari dasar hukumnya melalui sunah Rasulallah
+saw. Jika tidak ditemui sunah-sunah yang dapat dijadikan sandaran hukum,
+beliau merujuk kepada fatwa-fatwa para sahabat Rasulallah saw. Jika tidak
+ditemui, maka beliau menggunakan segala kemampuannya dengan Qiyas,
+Istihsan dan Urf (adat kebiasaan manusia).
+
+32
+
+Asman, “Comparative Analysis of the Istinbath Methods of the Sh Afi ’ i and Hanafi
+Schools Regarding the Role of the Wali Mujbir in Marriage Law,” Al-Ahkam: Jurnal Ilmu
+Syari’ah Dan Hukum 9, no. 1 (2024): 29–46.
+33
+Syifa Hanifah and Hendri Sayuti, “Sejarah Pemikiran Empat Ulama Mazhab,”
+Mauriduna:
+Journal
+of
+Islamic
+Studies
+6,
+no.
+1
+(2025):
+464–75,
+https://doi.org/10.37274/mauriduna.v6i1.1376; Ali Akbar et al., “Hukum Islam Pada Periode
+Imam Mazhab,” Didaktik : Jurnal Ilmiah PGSD FKIP Universitas Mandiri 10, no. 1 (2024): 108–
+22.
+34
+Hanifah and Sayuti, “Sejarah Pemikiran Empat Ulama Mazhab.”
+35
+Muhammad Mifthah Enaldi, Muhajirin, and Oneng Nurul Bariyah, “Dialektika Metode
+Istinbat Hukum Imam Hanafi : Dinamika Pengembangan Istihsan Dan Implementasinya Dalam
+Bidang Ekonomi Dan Keuangan Syari’ah,” Taraadin 6, no. 1 (2025): 15–27.
+36
+Askar Saputra, “Metode Ijtihad Imam Hanafi Dan Imam Malik,” Jurnal Syariah Hukum
+Islam 1, no. 1 (2018): 16–37, https://doi.org/10.5281/zenodo.1242561.
+
+1871
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+a. Al-Qur’an sebagai Sumber Hukum Pertama yang Digunakan Imam Abu
+Hanifah
+Dalam pandangan Imam Abu Hanifah, Al-Qur’an menempati posisi
+tertinggi sebagai sumber hukum, sejalan dengan jumhur ulama. Beliau
+meyakini bahwa Al-Qur’an terdiri atas lafaz dan makna sekaligus.
+Namun, Abu Hanifah memiliki pendapat yang lebih progresif mengenai
+status terjemahan Al-Qur’an: terjemahan tetap dianggap sebagai AlQur’an dalam batas tertentu sehingga boleh digunakan dalam shalat,
+termasuk dalam bahasa Persi, meskipun tidak dalam kondisi darurat.
+Pandangan ini berbeda dengan Imam Syafi’i yang menegaskan bahwa
+bacaan Al-Qur’an dalam shalat harus menggunakan lafaz Arab dan
+terjemahan tidak dapat menggantikannya37.
+b. Sunnah
+Hadis menempati posisi penting dalam mazhab Hanafi sebagai sumber
+hukum setelah Al-Qur’an. Hal ini ditegaskan oleh ungkapan Imam Abu
+Hanifah yang menyatakan bahwa ia menetapkan hukum berdasarkan AlQur’an, lalu hadis ketika tidak ditemukan dalil dalam Al-Qur’an38. Para
+ulama sepakat bahwa hadis sahih merupakan sumber hukum, tetapi
+mereka berbeda pendapat dalam menentukan standar kesahihannya.
+Dalam mazhab Hanafi, hadis diklasifikasikan menjadi mutawatir,
+masyhur, dan ahad. Hadis mutawatir diterima tanpa perdebatan,
+sedangkan hadis ahad hanya dapat diamalkan dengan memenuhi syarat
+tertentu, seperti keadilan, kecerdasan, ketakwaan, serta kemampuan
+hafalan dan pemahaman perawi. Imam Hanafi bahkan menambahkan
+tiga syarat tambahan: perbuatan perawi tidak boleh bertentangan dengan
+riwayatnya, isi hadis tidak membahas hal-hal yang semestinya
+diriwayatkan banyak orang, dan riwayat tidak boleh bertentangan
+dengan qiyas jika perawinya bukan seorang faqih 39.
+c. Ijma’
+Ijma’ didefinisikan sebagai kesepakatan para ulama atas suatu
+masalah hukum setelah wafatnya Nabi Muhammad saw40. Para
+ulama, termasuk Imam Abu Hanifah telah sepakat bahwa ijma`
+merupakan salah satu sumber hukum dalam Islam41. Kedudukan ijma’
+sebagai sumber hukum islam didasari oleh hadis Nabi yang mengaskan
+bahwa pada hakikatnya ijma’ adalah milik ummat Ilam secara
+keseluruhan. Imam mujtahid merupakan wakil ummat dalam
+memutuskan hukum. Tentunya mereka sebagai wakil ummat tidak
+mungkin berdusta atau berbuat kesalahan yang disengaja. Maka jika
+37
+
+Saputra.
+Irwansyah, Halimatus Adiah, and Muhammad Sibawaih, “Metode Ijtihad Imam Abu
+Hanifah Dan Imam Malik,” Jurnal Cerdas Hukum 1, no. 1 (2022): 89–99.
+39
+Saputra, “Metode Ijtihad Imam Hanafi Dan Imam Malik.”
+40
+Wahyu Wahyudi and Ending Solehudin, “Ijma’ Sebagai Sumber Hukum: Antara
+Konsensus Ulama Dan Dinamika Zaman,” Equality: Journal of Islamic Law (EJIL) 3, no. 2
+(2025): 47–64, https://doi.org/https://doi.org/10.15575/ejil.v3i2.1938.
+41
+Saputra, “Metode Ijtihad Imam Hanafi Dan Imam Malik.”
+38
+
+1872
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+mereka sudah berkumpul dan memutuskan hukum suatu masalah, maka
+keputusannya dianggap abash dan benar42.
+d. Qiyas
+Mazhab Hanafi menjadikan qiyas sebagai
+alat utama
+untuk
+menafsirkan hukum ketika tidak ditemukan dalil eksplisit43. Jumhur
+ulama sepakat bahwa qiyas merupakan sumber hukum. Ia berada pada
+urutan keempat setelah Al-Qur'an, Hadis, dan Ijma’. Bagi ulama yang
+menjadikan qiyas sebagai sumber hukum atau disebut mutsbitul qiyas,
+memiliki alasan yang kuat baik dari sisi nash maupun akal. Dalam nash
+Al-Qur’an terdapat banyak ayat yang menyuruh agar manusia dapat
+menggunakan akalnya semaksimal mungkin44.
+e. Istihsan
+Salah satu ciri khas mazhab Hanafi adalah penggunaan istihsan, yaitu
+memilih ketentuan hukum yang lebih adil dengan mengesampingkan
+qiyas dalam kondisi tertentu, sehingga hukum tetap fleksibel dan dapat
+menyesuaikan konteks sosial tanpa meninggalkan prinsip syariah45.
+Imam Abu Hanifah sendiri banyak menggunakan istihsan dalam
+penetapan hukum46. Metode ini diperdebatkan para ulama. Sebagian
+menilai bahwa istihsan sebenarnya dipraktikkan oleh banyak ulama,
+meskipun tidak selalu disebutkan secara formal. Perdebatan ini muncul
+karena sebagian ulama, terutama Imam Syafi’i, menolak istihsan
+sehingga memunculkan kembali pembahasan tentang definisi dan tujuan
+sebenarnya dari metode tersebut47.
+f. ‘Urf
+Imam Hanafi menggunakan ‘urf sebagai dasar berhujjah ketika tidak
+ditemukan ketentuan dalam Al-Qur’an, Sunnah, ijma’, qiyas, maupun
+istihsan48. Dalam praktiknya, ‘urf juga digunakan oleh mayoritas ulama
+fikih, terutama Malikiyah dan Hanafiyah. Bagi ulama Hanafi, ‘urf
+bahkan dapat didahulukan dari qiyas kahfi dan dapat membatasi nash
+yang bersifat umum, karena fungsinya adalah mengevaluasi penerapan
+nash dalam kenyataan sosial49. Abdul Wahhab Khallaf menyamakan
+‘urf dengan adat, dan dalam praktik fikih kedua istilah ini memang
+42
+
+Saputra.
+Anwar Habibi Siregar, “Peran Mazhab Fikih Dalam Pembentukan Hukum Islam Klasik
+Dan Modern,” Jurnal Riset Rumpun Ilmu Sosial, Politik Dan Humaniora 4, no. 3 (2025): 541–59,
+https://doi.org/https://doi.org/10.55606/jurrish.v4i3.5952.
+44
+Saputra, “Metode Ijtihad Imam Hanafi Dan Imam Malik.”
+45
+Siregar, “Peran Mazhab Fikih Dalam Pembentukan Hukum Islam Klasik Dan Modern.”
+46
+Jamilah, As’ad Badar, and Alang Sidek, “Hukum Membaca Al-Qur’an Bagi Wanita Haid
+Perspektif Mazhab Hanafi Dan Mazhab Maliki (Tinjauan Istihsan),” JSL: Journal Smart Law 2,
+no. 2 (2024): 161–71.
+47
+Hanif A’la Ilhami, Ismail, and Asasriwarni, “Komparasi Istihsan Antar Mazhab Fikih
+Dan Penerapannya Dalam Penetapan Hukum Islam,” Comparativa 5, no. 1 (2024): 1–25.
+48
+Sulfan Wandi, “Eksistensi ‘Urf Dan Adat Kebiasaan Sebagai Dalil Fiqh,” Samarah:
+Jurnal Hukum Keluarga Dan Hukum Islam 2, no. 1 (2018): 181–96.
+49
+Wahyu Syarvina, Sudirman Suparmin, and Tuti Anggraini, “Aplikasi ’Urf Dalam
+Ekonomi Islam,” AT-TIJARAH: Jurnal Penelitian Keuangan Dan Perbankan Syariah 4, no. 1
+(2022): 1–16, https://doi.org/https://doi.org/10.52490/attijarah.v4i1.285.
+43
+
+1873
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+sering digunakan secara bergantian karena maknanya kerap tumpang
+tindih dalam penetapan hukum50.
+Metode istinbath Mazhab Hanafi menekankan keseimbangan antara
+kekuatan nash dan pertimbangan rasional. Melalui hierarki sumber hukum
+seperti Al-Qur’an, Sunnah, ijma’, qiyas, istihsan, dan ‘urf, Imam Abu
+Hanifah menunjukkan pendekatan hukum yang fleksibel dan kontekstual
+sehingga mampu merespons kebutuhan masyarakat yang beragam.
+Fleksibilitas metode istinbath mazhab Hanafi relevan dalam menghadapi
+persoalan kontemporer. Dengan kerangka ini, mazhab Hanafi tetap mampu
+memberikan solusi terhadap isu-isu modern seperti transaksi digital dan
+berbagai bentuk muamalah baru.
+3. Analisi Komparatif Metode Istinbath Mazhab Syafi’i dan Hanafi
+dalam Masalah Muamalah Kontemporer
+Mazhab Syafi’i dan Hanafi memiliki beberapa persamaan mendasar
+dalam metodologi istinbath, terutama dalam struktur hierarki dalil.
+Keduanya menjadikan Al-Qur’an dan Sunnah sebagai sumber hukum
+tertinggi, serta meletakkan ijma’ dan qiyas sebagai instrumen penalaran
+untuk menyelesaikan persoalan baru51. Dalam kondisi tidak ditemukannya
+dalil tekstual yang eksplisit, kedua mazhab menggunakan qiyas sebagai alat
+utama melakukan analogi terhadap kasus-kasus kontemporer, misalnya
+dalam menentukan hukum transaksi digital, fintech, atau akad daring yang
+tidak pernah disebutkan secara langsung di dalam nash. Kesamaan ini
+menunjukkan bahwa kedua mazhab sama-sama menghargai kesinambungan
+prinsip syariah dengan realitas modern dengan tetap mempertahankan
+kerangka ijtihad yang sistematis52.
+Selain itu, baik Syafi’i maupun Hanafi menerima ‘urf sebagai
+pertimbangan hukum dalam batas tertentu. Mazhab Hanafi menggunakan
+‘urf secara luas sebagai adaptasi sosial dalam konteks masyarakat sedangkan
+mazhab Syafi’i menerimanya dengan syarat tidak bertentangan dengan
+nash53. Dalam konteks masalah kontemporer, kedua mazhab sama-sama
+mempertimbangkan kebiasaan masyarakat modern, seperti penggunaan akad
+melalui platform digital, sistem pembayaran non-tunai, atau kebiasaan
+transaksi daring. Penggunaan ‘urf ini menjembatani kebutuhan syariah
+dengan praktik masyarakat masa kini.
+Perbedaan paling mendasar berada pada karakter metodologis kedua
+mazhab. Mazhab Syafi’i lebih tekstual (nash-centric), sehingga proses
+50
+Syarial Dedi and Hardivizon, “Implementasi ’Urf Pada Kasus Cash Waqf (Kajian
+Metodologi Hukum Islam),” Al-Awqaf: Jurnal Wakaf Dan Ekonomi Islam 11, no. 1 (2018): 33–48,
+https://doi.org/https://doi.org/10.47411/al-awqaf.v11i1.27.
+51
+Winarno, “Eksistensi Istihsan Dalam Istinbath Hukum Menurut Persfektif Imam Hanafi,”
+Asy-Syar’iyyah: Jurnal Ilmu Syari’ah Dan Perbankan Islam 2, no. 2 (2017): 47–69.
+52
+Nia Darmawati, Muhammad Firdaus, and M. Yakub, “Dinamika Perbedaan Pemikiran
+Antar Madzhab Hanafi, Maliki, Syafi’i, Hanbali,” Jurnal Kajian Islam Dan Sosial Keagamaan
+Vol. 2, no. 4 (2025): 957–63.
+53
+Arif Al Anang and Anwar Saleh Hasibuan, “SISTEMATISASI EPISTEMOLOGI
+ISTINBAT HUKUM DALAM MAZHAB HANAFI: Antara Teks Dan Realitas,” Jurnal Al
+Ashriyyah 11, no. 01 (2025): 167–78.
+
+1874
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+istinbath sangat bergantung pada kejelasan dalil. Imam Syafi’i menolak
+istihsan karena dianggap sebagai ra’yu tanpa dasar pasti, serta membatasi
+penggunaan qiyas dengan aturan ketat, terutama dalam mencari illat.
+Sebaliknya, mazhab Hanafi lebih rasional dan fleksibel, memberi ruang luas
+bagi qiyas dan istihsan ketika nash dinilai tidak memberikan jawaban
+langsung. Fleksibilitas ini membuat mazhab Hanafi lebih responsif terhadap
+perubahan sosial, misalnya dalam urusan ekonomi dan muamalah yang
+kompleks.
+Penerapan metode istinbath Mazhab Syafi’i dan Hanafi dalam
+persoalan muamalah kontemporer dapat terlihat jelas dalam berbagai praktik
+transaksi modern, seperti penggunaan e-wallet, jual beli online, pembiayaan
+syariah, hingga aset digital54. Dalam kasus dompet digital, Mazhab Syafi’i
+menekankan syarat kejelasan akad dan kepastian saldo sehingga top-up
+dipandang sebagai akad qardh yang tidak boleh menghasilkan keuntungan
+tambahan bagi penyedia layanan55. Mereka berhati-hati terhadap fitur
+cashback atau potongan harga jika berkaitan dengan akad utang, karena
+dikhawatirkan mendekati riba. Sebaliknya, Mazhab Hanafi memandang
+saldo digital sebagai dayn yang sah digunakan sebagai alat pembayaran
+karena telah diterima secara luas oleh masyarakat. Dengan menerima urf
+sebagai dasar hukum, mereka lebih fleksibel dalam menilai fitur-fitur digital
+seperti cashback selama tidak terkait dengan kewajiban mengembalikan
+utang secara berlebih56.
+Contoh lain terlihat pada akad pembiayaan leasing syariah (ijarah
+muntahiyah bi tamlik). Mazhab Syafi’i mengharuskan pemisahan antara
+akad sewa dan akad jual beli, karena penggabungan kedua akad dalam satu
+kesepakatan sejak awal dianggap merusak kejelasan transaksi57. Mazhab
+Hanafi lebih menerima penggunaan janji pemindahan kepemilikan pada
+akhir masa sewa, sehingga memudahkan praktik leasing syariah modern
+yang membutuhkan fleksibilitas58. Dalam konteks jual beli online, Mazhab
+Syafi’i mensyaratkan gambaran barang yang jelas dan transparansi penuh
+karena objek jual beli harus ma’lum dan bebas dari gharar. Foto yang
+
+54
+
+Dedi Susanto, Sabbar Dahham Sabbar, and Mukhtar Luthfi, “Relevansi Dan
+Implementasi Fiqh Muamalah Dalam Transaksi Ekonomi Modern,” Jurnal Studi Ekonomi Dan
+Bisnis Islam (SEBI) 7, no. 1 (2025): 9–18.
+55
+Yudi Khoeri Abdillah and Saeful Huda Mubaarok, “Hadits Ahkam Tentang Qardh,”
+KHULASAH : Islamic Studies Journal 05, no. 01 (2023): 39–45.
+56
+Rahmat Hidayat and Dahyul Daipon, “STUDI KOMPARATIF TERHADAP ULAMA
+HANAFIYYAH DAN SYAFI ’ IYYAH TENTANG WAKAF TUNAI Wakaf Sebagai Sebuah
+Pranata Sosial Yang Memegang Peran Penting Dalam Kehidupan Keagamaan Dan Sosial Umat
+Islam . Oleh Karena Itu , Semua Pengaturan Mengenai Hukum Perwakafan,” ALHURRIYAH :
+Jurnal Hukum Islam 03, no. 01 (2018): 94–110.
+57
+Robiatul Adhawiyah, Parman Komarudin, and Muhammad Rifqi Hidayat, “ANALISIS
+HUKUM KONTRAK SYARIAH TERHADAP TRANSAKSI KEPEMILIKAN RUMAH
+DENGAN TANAH BERSERTIFIKAT HAK GUNA BANGUNAN DI PT. SUCI GRIYA
+PERSADA,” AT TARADI 8, no. 2 (2019): 124–31.
+58
+Firdaus Muhammad Arwan, “Ijarah Muntahiyah Bittamlik Sebagai Konstruksi Perjanjian
+Sewa Beli,” Millah : Jurnal Studi Agama: Jurnal Studi Agama 19, no. 1 (2019): 23–50.
+
+1875
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+menipu atau informasi yang tidak lengkap dianggap membatalkan akad59.
+Sementara itu, Mazhab Hanafi lebih longgar dengan menerima jual beli
+berdasarkan deskripsi (bay’ al-washf) selama spesifikasinya tertulis dengan
+jelas, sehingga lebih selaras dengan cara kerja marketplace digital saat ini60.
+Persoalan baru seperti cryptocurrency juga menunjukkan perbedaan
+signifikan antara kedua mazhab. Mazhab Syafi’i cenderung menolak
+pengakuan crypto sebagai alat tukar karena sifatnya yang fluktuatif dan
+tidak memiliki nilai intrinsik, sehingga mengandung unsur gharar dan
+spekulasi61. Berbeda dengan itu, Mazhab Hanafi membuka ruang untuk
+menganggap crypto sebagai aset bernilai jika masyarakat telah
+menjadikannya sebagai barang ekonomi yang diakui. Dengan syarat tidak
+digunakan untuk spekulasi berlebihan, crypto dapat diperjualbelikan secara
+sah menurut pendekatan mereka62. Dalam layanan jasa titip atau wakalah
+online, Mazhab Syafi’i mensyaratkan kejelasan keuntungan agen dan tidak
+membolehkan pengambilan margin tanpa izin. Sementara Mazhab Hanafi
+membolehkan agen mengambil keuntungan dari selisih harga jika hal
+tersebut telah menjadi kebiasaan umum (urf) dalam masyarakat63.
+Jika keduanya dibandingkan secara kritis, perbedaan paling
+menonjol terletak pada tingkat fleksibilitas dalam menerima inovasi hukum.
+Mazhab Syafi’i berusaha menjaga kemurnian metode dengan menghindari
+instrumen istinbath yang dianggap subjektif, sedangkan Mazhab Hanafi
+lebih memberi ruang pada rasionalitas dan pertimbangan sosial64. Perbedaan
+ini membentuk dua karakter produk hukum: Syafi’i lebih ketat dan berhatihati, Hanafi lebih praktis dan kontekstual.
+Meskipun berbeda, keduanya tidak saling menegasikan. Justru
+kombinasi kehati-hatian Syafi’i dan fleksibilitas Hanafi dapat menjadi titik
+temu bagi pembentukan hukum muamalah modern di Indonesia. Hal ini
+terlihat dalam praktik lembaga fatwa seperti DSN-MUI yang memanfaatkan
+qiyas sebagai dasar utama, namun tetap membuka ruang bagi maslahah dan
+59
+Saifuddin and Eva Wildani Febrianti, “Gharar Dalam Transaksi Online : Analisis Akad
+Jual Beli Pada Marketplace Digital,” Jurnal Teknologi Dan Manajemen Industri Terapan (JTMIT)
+4, no. 2 (2025): 178–84.
+60
+Muhammad Iqbal and Muh Idris, “TINJAUAN HUKUM ISLAM TERHADAP
+SAMPEL DALAM JUAL BELI ONLINE (STUDI PENDAPAT MAZHAB HANAFI, MAZHAB
+MALIKI, MAZHAB SYAFI’I, MAZHAB HAMBALI,” Fawaid: Sharia Economic Law Review 3,
+no. 1 (2021): 61–72.
+61
+Khairunnisa Harahap, Tuti Anggraini, and Asmuni, “CRYPTOCURRENCY DALAM
+PERSFEKTIF SYARIAH: SEBAGAI MATA UANG ATAU ASET KOMODITAS,”
+NIAGAWAN 11, no. 1 (2022): 43–56.
+62
+Irgi Rinangkoe Diaz and Sandy Rizki Febriadi, “Tinjauan Fikih Muamalah Terhadap
+Kegiatan Transaksi Jual Beli Aset Kripto Pada Blockchain,” Bandung Conference Series: Sharia
+Economic Law 2, no. 1 (2022): 9–17.
+63
+Hidayat and Daipon, “STUDI KOMPARATIF TERHADAP ULAMA HANAFIYYAH
+DAN SYAFI ’ IYYAH TENTANG WAKAF TUNAI Wakaf Sebagai Sebuah Pranata Sosial Yang
+Memegang Peran Penting Dalam Kehidupan Keagamaan Dan Sosial Umat Islam . Oleh Karena Itu
+, Semua Pengaturan Mengenai Hukum Perwakafan.”
+64
+Asman, “Comparative Analysis of the Istinbath Methods of the Sh Afi ’ i and Hanafi
+Schools Regarding the Role of the Wali Mujbir in Marriage Law.”
+
+1876
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+perkembangan sosial sebagaimana semangat metode Hanafi65. Dengan
+demikian, analisis komparatif ini menunjukkan bahwa kedua mazhab
+memiliki kontribusi penting dan saling melengkapi. Syafi’i menjaga
+ketelitian metodologis, sementara Hanafi menawarkan adaptasi hukum yang
+lebih realistis. Keduanya bersama-sama relevan untuk menjawab tantangan
+muamalah kontemporer yang terus berkembang.
+D.
+
+Penutup
+Kajian komparatif ini menunjukkan bahwa meskipun Mazhab Syafi‘i
+dan Mazhab Hanafi sama-sama berakar pada Al-Qur’an, Sunnah, ijma’, dan
+qiyas, perbedaan orientasi epistemologis keduanya menghasilkan pola
+istinbath yang berbeda namun saling melengkapi dalam menghadapi
+persoalan muamalah kontemporer. Mazhab Syafi‘i menonjol melalui
+pendekatan tekstual yang ketat, penekanan pada kejelasan nash, serta
+penggunaan qiyas yang terstruktur, sehingga memberikan fondasi normatif
+yang kuat untuk mengatur transaksi modern yang menuntut kepastian
+hukum, seperti akad digital, e-commerce, dan layanan keuangan berbasis
+teknologi. Sebaliknya, Mazhab Hanafi menampilkan fleksibilitas
+metodologis melalui instrumen istihsan dan penerimaan luas terhadap ‘urf,
+yang memungkinkan hukum Islam beradaptasi dengan dinamika sosialekonomi, praktik keuangan digital, dan inovasi yang tidak secara eksplisit
+dibahas dalam nash. Analisis ini mengungkap bahwa kedua mazhab tetap
+berkomitmen pada nilai keadilan, kemaslahatan, dan perlindungan terhadap
+kepentingan masyarakat, meskipun melalui jalur penalaran yang berbeda.
+Penelitian ini juga memperlihatkan bahwa dialog metodologis antara kedua
+mazhab dapat memperkaya pengembangan fikih muamalah, terutama dalam
+merumuskan kerangka hukum yang responsif namun tetap berakar pada
+prinsip syariah. Namun demikian, studi ini masih bersifat teoretis dan belum
+mengkaji penerapan konkret kedua metode dalam praktik regulasi atau
+putusan lembaga fatwa. Oleh karena itu, penelitian selanjutnya perlu
+diarahkan pada analisis empiris di berbagai yurisdiksi Muslim untuk menilai
+bagaimana metode Syafi‘i dan Hanafi diintegrasikan dalam menghadapi
+tantangan ekonomi digital secara nyata.
+
+65
+
+Arwan, “Ijarah Muntahiyah Bittamlik Sebagai Konstruksi Perjanjian Sewa Beli.”
+
+1877
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+DAFTAR PUSTAKA
+Abdillah, Yudi Khoeri, and Saeful Huda Mubaarok. “Hadits Ahkam Tentang
+Qardh.” KHULASAH : Islamic Studies Journal 05, no. 01 (2023): 39–45.
+Abdullah. “KONSEP IJMA ’ DALAM MU ’ AMALAH KONTEMPORER.”
+PROGRESSA: Journal of Islamic Religious Instruction 07, no. 01 (2023):
+35–34.
+Adhawiyah, Robiatul, Parman Komarudin, and Muhammad Rifqi Hidayat.
+“ANALISIS HUKUM KONTRAK SYARIAH TERHADAP TRANSAKSI
+KEPEMILIKAN RUMAH DENGAN TANAH BERSERTIFIKAT HAK
+GUNA BANGUNAN DI PT. SUCI GRIYA PERSADA.” AT TARADI 8, no.
+2 (2019): 124–31.
+Akbar, Ali, Nurul Hafizha Rokan, Niza Alfira, Lily Dahrena Siregar, and Aldi
+Saputra Siregar. “Hukum Islam Pada Periode Imam Mazhab.” Didaktik :
+Jurnal Ilmiah PGSD FKIP Universitas Mandiri 10, no. 1 (2024): 108–22.
+Anam, M. Khoirul. “Dasar-Dasar Istinbath Hukum Imam Syafi’i.” Jurnal
+Pendidikan Dan Pemikiran 14, no. 1 (2019).
+Anang, Arif Al, and Anwar Saleh Hasibuan. “SISTEMATISASI
+EPISTEMOLOGI ISTINBAT HUKUM DALAM MAZHAB HANAFI:
+Antara Teks Dan Realitas.” Jurnal Al Ashriyyah 11, no. 01 (2025): 167–78.
+Arwan, Firdaus Muhammad. “Ijarah Muntahiyah Bittamlik Sebagai Konstruksi
+Perjanjian Sewa Beli.” Millah : Jurnal Studi Agama: Jurnal Studi Agama 19,
+no. 1 (2019): 23–50.
+Asman. “Comparative Analysis of the Istinbath Methods of the Sh Afi ’ i and
+Hanafi Schools Regarding the Role of the Wali Mujbir in Marriage Law.”
+Al-Ahkam: Jurnal Ilmu Syari’ah Dan Hukum 9, no. 1 (2024): 29–46.
+Azwar, Zainal, and Farid Afif Syahputra Rinaldi. “Consistency of the Indonesian
+Ulama Council in Using Istislah as a Method for Legal Istinbath.” Al
+Istinbath: Jurnal Hukum Islam 9, no. 1 (2024): 1–24.
+banan, Abal Qosim Al, Imron Mustofa, and Agus Solikin. “ISTINBATH
+HUKUM PERNIKAHAN BEDA AGAMA MENURUT RASYID RIDHA
+DAN YUSUF AL- QARDHAWI.” AL-USROH 4, no. 02 (2024): 145–65.
+Bella, Khairani Salsa, Fauziah Layang, Nashirah Ulfah, and Fatma Taufik
+Hidayat. “Sumber-Sumber Dalil Hukum Tentang Qiyas: Telaah Teoritis Dan
+Relevansi Kontemporer.” Jurnal Ilmiah Kajian Multidisipliner 9, no. 4
+(2025): 110–16.
+Dalimunthe, Nikmah, Putri Hayati, Ema Nur Syahfitri, Annisa Khoiri, Aisyah Nur
+Tanjung, Nelmi Sari, Arvina Wahyuni, and Nur Hamidah. “PENGARUH
+TEKNOLOGI DIGITAL TERHADAP HUKUM BISNIS : TANTANGAN
+DAN PELUANG.” JSE: Jurnal Sharia Economica 4, no. 3 (2025): 148–57.
+Darmawati, Nia, Muhammad Firdaus, and M. Yakub. “Dinamika Perbedaan
+Pemikiran Antar Madzhab Hanafi, Maliki, Syafi’i, Hanbali.” Jurnal Kajian
+Islam Dan Sosial Keagamaan Vol. 2, no. 4 (2025): 957–63.
+Dawam, Fahrul. “DASAR PENDEKATAN DAN METODE PEMIKIRAN
+IMAM SYAFI ‘ I DAN M QURAISH SIHAB TERKAIT TENTANG
+HUKUM PEMAKAIN JILBAB.” Musyarokah: Jurnal Hukum Ekonomi
+Syariah 2, no. 2 (2024): 34–52.
+1878
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+Dedi, Syarial, and Hardivizon. “Implementasi ’Urf Pada Kasus Cash Waqf
+(Kajian Metodologi Hukum Islam).” Al-Awqaf: Jurnal Wakaf Dan Ekonomi
+Islam 11, no. 1 (2018): 33–48. https://doi.org/https://doi.org/10.47411/alawqaf.v11i1.27.
+Diaz, Irgi Rinangkoe, and Sandy Rizki Febriadi. “Tinjauan Fikih Muamalah
+Terhadap Kegiatan Transaksi Jual Beli Aset Kripto Pada Blockchain.”
+Bandung Conference Series: Sharia Economic Law 2, no. 1 (2022): 9–17.
+Enaldi, Muhammad Mifthah, Muhajirin, and Oneng Nurul Bariyah. “Dialektika
+Metode Istinbat Hukum Imam Hanafi : Dinamika Pengembangan Istihsan
+Dan Implementasinya Dalam Bidang Ekonomi Dan Keuangan Syari’ah.”
+Taraadin 6, no. 1 (2025): 15–27.
+Fadillah, Jidan Ahmad, Jusuf Satriani, Mohamad Badrus, and Iffatin Nur.
+“Madzhab Dan Istinbath Hukum.” Al-Hikkmah: Jurnal Studi Agama-Agama
+7, no. 2 (2021): 235–45.
+Furqan, Muhammad, and Syahrial. “Kedudukan ‘Urf Sebagai Sumber Hukum
+Dalam Mazhab Syāfi’Ī.” Jurnal Al-Nadhair 1, no. 2 (2022): 73–92.
+Gojali, Dudang, and Hapid Ali. “STUDI ANALISIS METODE ISTINBATH
+HUKUM IMAM SYAFI’I DAN IMAM HANAFI TENTANG BA’I AL
+MU’ATHOH.” Jurnal Perspektif 5, no. 1 (2021): 33–56.
+Hanifah, Syifa, and Hendri Sayuti. “Sejarah Pemikiran Empat Ulama Mazhab.”
+Mauriduna: Journal of Islamic Studies 6, no. 1 (2025): 464–75.
+https://doi.org/10.37274/mauriduna.v6i1.1376.
+Harahap, Khairunnisa, Tuti Anggraini, and Asmuni. “CRYPTOCURRENCY
+DALAM PERSFEKTIF SYARIAH: SEBAGAI MATA UANG ATAU
+ASET KOMODITAS.” NIAGAWAN 11, no. 1 (2022): 43–56.
+Hidayat, Rahmat, and Dahyul Daipon. “STUDI KOMPARATIF TERHADAP
+ULAMA HANAFIYYAH DAN SYAFI ’ IYYAH TENTANG WAKAF
+TUNAI Wakaf Sebagai Sebuah Pranata Sosial Yang Memegang Peran
+Penting Dalam Kehidupan Keagamaan Dan Sosial Umat Islam . Oleh Karena
+Itu , Semua Pengaturan Mengenai Hukum Perwakafan.” ALHURRIYAH :
+Jurnal Hukum Islam 03, no. 01 (2018): 94–110.
+Hopipah, Eva Nur, and Abdulah Syafe’i. “Sumber Hukum Islam: Kedudukan AlQur’an Sebagai Sumber Hukum.” Qaf 2 (2023).
+Ihsan, Sartika Fortuna, Novizal Wendry, Hidayati Suhaili, and Asraf Kurnia.
+“Komparasi Epistemologi Hadis Sunni Dan Syiah: Pendekatan Validitas Dan
+Otoritas Di Tengah Tantangan Modernitas.” Mauriduna 5, no. 1 (2024):
+378–95. https://doi.org/10.37274/mauriduna.v5i2.1192.
+Ilhami, Hanif A’la, Ismail, and Asasriwarni. “Komparasi Istihsan Antar Mazhab
+Fikih Dan Penerapannya Dalam Penetapan Hukum Islam.” Comparativa 5,
+no. 1 (2024): 1–25.
+Iqbal, Muhammad, and Muh Idris. “TINJAUAN HUKUM ISLAM TERHADAP
+SAMPEL DALAM JUAL BELI ONLINE (STUDI PENDAPAT MAZHAB
+HANAFI, MAZHAB MALIKI, MAZHAB SYAFI’I, MAZHAB
+HAMBALI.” Fawaid: Sharia Economic Law Review 3, no. 1 (2021): 61–72.
+Irwansyah, Halimatus Adiah, and Muhammad Sibawaih. “Metode Ijtihad Imam
+Abu Hanifah Dan Imam Malik.” Jurnal Cerdas Hukum 1, no. 1 (2022): 89–
+1879
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+99.
+Jabbar, Aisyah Abdul, Meguellati Achour, Edwards Geraldine, and Ishmah
+Afiyah. “The Relevance and Dynamics of Muamalat Transactions in the
+Context of Modern Economics : A Holistic Review” 2, no. 1 (2024): 47–60.
+Jamal, Anton. “Ijtihad Dan Qiyas Menurut Imam Syafi ’ I : Hubungan Qiyas
+Dengan Berbagai Metode Ijtihad Dalam Ushul Fiqh” 4, no. 1 (2024): 1–10.
+https://doi.org/10.47498/maqasidi.v4i1.3125.
+Jamilah, As’ad Badar, and Alang Sidek. “Hukum Membaca Al-Qur’an Bagi
+Wanita Haid Perspektif Mazhab Hanafi Dan Mazhab Maliki (Tinjauan
+Istihsan).” JSL: Journal Smart Law 2, no. 2 (2024): 161–71.
+Kamil, Muh. Ahsan, Muhajirin, and Rusli Malii. “Analisis Metode Ijtihad Hukum
+Imam Al-Syafi’i: Dinamika Pengembangan Qiyas Dan Implementasinya
+Dalam Al-Sharf.” J-HES Jurnal Hukum Ekonomi Syariah 07, no. 01 (2023):
+1–18.
+Kholifah, Nur, and Miftakhul Rohman. “METODOLOGI ISTINBATH HUKUM
+IMAM ASY- SYAFI’I.” Jurnal Sinda: Comprehensive Journal of Islamic
+Social
+Studies
+2,
+no.
+2
+(2022):
+37–51.
+https://doi.org/doi.org/10.28926/sinda.v2i2.469.
+Mardiah. “FIQHI ISLAM DENGAN PENDEKATAN KONTEKSTUAL
+DALAM PENDIDIKAN ISLAM.” Literasi Kita Indonesia 4, no. 2 (2023):
+96–103.
+Muhajir, Abdul Hanan, Hidayat Mustafid, Khaerunnizar, and Slamet Hasan.
+“ANALISIS
+QOWAIDUL
+FIQHIYAH;
+SOLUSI
+TERHADAP
+TANTANGAN KONTEMPORER DALAM HUKUM ISLAM.” Ta’dibiya
+3, no. 1 (2023): 81–94.
+Putri, Tania Melani, and Suwandi. “Teori Klasik Dan Efektivitas Organisasi Di
+Era Digital.” JOURNAL OF LITERATURE REVIEW 1, no. 2 (2025): 373–
+78.
+R, Aulia Latiffah, Arini Fitriah, and Fatmah Taufik Hidayat. “KONSEP
+MUAMALAH DALAM PERDAGANGAN EMAS DAN MATA UANG
+DIGITAL DI ERA MODERNISASI.” Jurnal Inovasi Global 3, no. 12
+(2024): 2073–80.
+Rahmadani, Hasmira, Suci Pratama Putri, Muhammad Idham Jamal, and
+Muhammad Rusdi. “Analisis Perbandingan Fatwa-Fatwa Dalam Perspektif
+Mazhab Hukum Islam Dan Argumentasinya.” Journal of Religion and Social
+Community 1, no. 3 (2025): 146–49.
+Saifuddin, and Eva Wildani Febrianti. “Gharar Dalam Transaksi Online : Analisis
+Akad Jual Beli Pada Marketplace Digital.” Jurnal Teknologi Dan
+Manajemen Industri Terapan (JTMIT) 4, no. 2 (2025): 178–84.
+Saputra, Askar. “Metode Ijtihad Imam Hanafi Dan Imam Malik.” Jurnal Syariah
+Hukum
+Islam
+1,
+no.
+1
+(2018):
+16–37.
+https://doi.org/10.5281/zenodo.1242561.
+Siregar, Anwar Habibi. “Peran Mazhab Fikih Dalam Pembentukan Hukum Islam
+Klasik Dan Modern.” Jurnal Riset Rumpun Ilmu Sosial, Politik Dan
+Humaniora
+4,
+no.
+3
+(2025):
+541–59.
+https://doi.org/https://doi.org/10.55606/jurrish.v4i3.5952.
+1880
+
+Iqtishaduna: Jurnal Ilmiah Mahasiswa Hukum Ekonomi Syariah
+Volume 7 Nomor 2 Januari 2026
+ISSN (Online): 2714-6917
+Halaman 1864-1881
+
+Suharto, Tentiyo, Asmuni, and Tuti Anggraini. “Konsep Al- Qur ’ an s Ebagai
+Sumber Utama Dalam Hukum Islam.” Jurnal Multidisiplin Madani
+(MUDIMA) 2, no. 2 (2022): 955–76.
+Susanto, Dedi, Sabbar Dahham Sabbar, and Mukhtar Luthfi. “Relevansi Dan
+Implementasi Fiqh Muamalah Dalam Transaksi Ekonomi Modern.” Jurnal
+Studi Ekonomi Dan Bisnis Islam (SEBI) 7, no. 1 (2025): 9–18.
+Syarvina, Wahyu, Sudirman Suparmin, and Tuti Anggraini. “Aplikasi ’Urf Dalam
+Ekonomi Islam.” AT-TIJARAH: Jurnal Penelitian Keuangan Dan Perbankan
+Syariah
+4,
+no.
+1
+(2022):
+1–16.
+https://doi.org/https://doi.org/10.52490/attijarah.v4i1.285.
+Tunai, Sitty Fauzia. “Pandangan Imam Syafi’i Tentang Ijma’ Sebagai Sumber
+PEnetapan Hukum Islam Dan Relevansinya Dengan Perkembangan Hukum
+Islam Dewasa Ini.” Jurnal Ilmiah Al-Syari’ah 3, no. 2 (2005).
+Wahyudi, Wahyu, and Ending Solehudin. “Ijma’ Sebagai Sumber Hukum: Antara
+Konsensus Ulama Dan Dinamika Zaman.” Equality: Journal of Islamic Law
+(EJIL)
+3,
+no.
+2
+(2025):
+47–64.
+https://doi.org/https://doi.org/10.15575/ejil.v3i2.1938.
+Wandi, Sulfan. “Eksistensi ‘Urf Dan Adat Kebiasaan Sebagai Dalil Fiqh.”
+Samarah: Jurnal Hukum Keluarga Dan Hukum Islam 2, no. 1 (2018): 181–
+96.
+Winarno. “Eksistensi Istihsan Dalam Istinbath Hukum Menurut Persfektif Imam
+Hanafi.” Asy-Syar’iyyah: Jurnal Ilmu Syari’ah Dan Perbankan Islam 2, no.
+2 (2017): 47–69.
+Zarkasi, Lutfi, and Achmad Raffi. “Analisis Metode Qiyas Imam Syafi ’ i.”
+Pelita: Jurnal Studi Islam Mahasiswa UII Dalwa 1, no. November (2023):
+1–11. https://doi.org/10.38073/pelita.v1i1.1162.
+
+1881
+
+

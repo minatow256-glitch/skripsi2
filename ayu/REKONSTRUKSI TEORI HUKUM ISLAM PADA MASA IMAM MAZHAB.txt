@@ -1,0 +1,695 @@
+E-ISSN: 3031-0458
+
+Indonesian Journal of Islamic Jurisprudence,Economic and
+Legal Theory
+
+REKONSTRUKSI TEORI HUKUM ISLAM PADA MASA IMAM MAZHAB
+Rusdiyah*, Bachtiar Agusman, Najla Amali, Nisa Adelia, Muhammad Taha Madani, Nur Azmi
+As’syifa Munirah
+Universitas Islam Negeri Antasari, Banjarmasin, Indonesia
+E-mail: rusdiyah@uin-antasari.ac.id*
+Received 02-11-2024| Revised form 17-1-2024 | Accepted 22-11-2024
+Abstract
+The four major Imams of Islamic law—Abu Hanifah, Malik, Shafi'i, and Ahmad bin Hanbal—
+developed distinct methodologies for deriving legal rulings. Abu Hanifah emphasized rational
+reasoning and analogical reasoning (qiyas). Malik prioritized the practices of the people of Medina
+and the concept of public interest (maslahah mursalah). Shafi'i established a systematic approach
+based on textual sources and consensus (ijma'). Ahmad bin Hanbal adhered strictly to the Quran
+and Sunnah, using analogy only when necessary.These methods continue to be relevant in the
+modern era. Qiyas and istihsan enable the adaptation of law to contemporary challenges. Maslahah
+mursalah allows for addressing public interests not explicitly covered by texts. Ijma' supports global
+consensus on Islamic issues. The textual approach ensures adherence to the Quran and Sunnah. By
+understanding the historical development of Islamic legal thought, scholars and practitioners can
+apply these methods to address modern issues while preserving the core principles of Islamic law.
+The Imams' diverse approaches provide a flexible framework for Islamic law to remain relevant and
+responsive to the changing world.
+Keywords: Reconstruction, legal theory, Mazhab
+Abstrak
+Empat imam besar hukum Islam-Abu Hanifah, Malik, Syafi'i, dan Ahmad bin Hanbalmengembangkan metodologi yang berbeda untuk memperoleh keputusan hukum. Abu Hanifah
+menekankan pada penalaran rasional dan penalaran analogis (qiyas). Malik memprioritaskan
+praktik-praktik masyarakat Madinah dan konsep kepentingan umum (maslahah mursalah). Syafi'i
+menetapkan pendekatan sistematis berdasarkan sumber-sumber tekstual dan konsensus (ijma').
+Ahmad bin Hanbal berpegang teguh pada Al-Quran dan Sunnah, menggunakan analogi hanya jika
+diperlukan, dan metode-metode ini terus relevan di era modern. Qiyas dan istihsan memungkinkan
+adaptasi hukum terhadap tantangan-tantangan kontemporer. Maslahah mursalah memungkinkan
+untuk menangani kepentingan publik yang tidak secara eksplisit tercakup dalam teks. Ijma'
+mendukung konsensus global tentang isu-isu Islam. Pendekatan tekstual memastikan kepatuhan
+terhadap Al-Quran dan Sunnah. Dengan memahami perkembangan historis pemikiran hukum Islam,
+para sarjana dan praktisi dapat menerapkan metode-metode ini untuk mengatasi masalah-masalah
+modern sambil tetap menjaga prinsip-prinsip inti hukum Islam. Pendekatan para imam yang
+beragam memberikan kerangka kerja yang fleksibel bagi hukum Islam untuk tetap relevan dan
+responsif terhadap perubahan dunia.
+Kata Kunci: Rekonstruksi, teori hukum, Mazhab
+
+This is an open access article under the CC BY-NC-SA license.
+
+https://shariajournal.com/index.php/IJIJEL/
+2066
+
+Indonesian Journal of Islamic Jurisprudence, Economic and Legal Theory, Vol. 2, Nomor 4 (Desember, 2024): 2066-2080
+
+LATAR BELAKANG
+Hukum Islam memiliki sejarah panjang dalam pembentukannya, dimulai dari masa
+Nabi Muhammad SAW hingga berkembang dengan lahirnya berbagai mazhab fiqh
+(hukum Islam). Para Imam Mazhab, yaitu Imam Abu Hanifah, Imam Malik, Imam Syafi'i,
+dan Imam Ahmad bin Hanbal, memainkan peran penting dalam mengkonstruksi teori
+hukum Islam. Mereka dikenal karena upaya mereka dalam menyusun metodologi yang
+sistematis dalam menginterpretasikan Al-Qur'an, Sunnah, Ijma', dan Qiyas. Setiap
+mazhab memiliki pendekatan yang berbeda-beda, baik dalam memahami teks-teks
+agama maupun dalam mengatasi permasalahan yang muncul pada masa mereka.
+Pada masa itu, tantangan-tantangan hukum memerlukan metode yang dapat
+menjawab berbagai situasi baru di masyarakat Muslim yang terus berkembang. Oleh
+karena itu, pemikiran para Imam Mazhab membentuk landasan dalam pengembangan
+hukum Islam. Namun, pendekatan mereka dalam mengkonstruksi hukum Islam
+memiliki variasi, yang mencerminkan perbedaan geografis, sosial, dan politik di
+wilayah-wilayah tempat mereka hidup. Misalnya, Imam Abu Hanifah lebih
+menekankan pada logika dan ra'yu (pendapat rasional) dalam pengambilan keputusan
+hukum, sementara Imam Malik lebih mengandalkan praktik masyarakat Madinah
+sebagai sumber utama dalam pengambilan hukum. Imam Syafi'i membangun
+sistematika hukum yang mengutamakan teks (nash) sebagai dasar hukum, sementara
+Imam Ahmad bin Hanbal lebih dikenal dengan pendekatan yang ketat pada Hadis Nabi
+SAW.
+Perbedaan metode ini menimbulkan berbagai bentuk aplikasi hukum yang
+berbeda di berbagai mazhab, dan membuka ruang bagi pembahasan tentang
+bagaimana relevansi metode-metode tersebut terhadap hukum Islam di era modern.
+Dengan berbagai perubahan sosial, politik, dan teknologi yang berkembang pesat,
+hukum Islam juga ditantang untuk mampu memberikan solusi yang relevan terhadap
+permasalahan kontemporer. Studi tentang metode pengembangan hukum yang
+dilakukan oleh para Imam Mazhab dapat memberikan panduan berharga bagi
+pengembangan hukum Islam yang fleksibel namun tetap berlandaskan pada prinsipprinsip syariah yang kokoh.
+
+PEMBAHASAN
+I.
+
+Biografi Para Imam Mazhab
+A. Imam Hanafi
+Abu Hanifah Nu’man Bin Tsabit Bin Zutha Al-Kufi, dikenal dengan Kuniyah
+Abu Hanifah. Lahir pada tahun 80 Hijriyah (696 M) dan meninggal pada tahun 150
+Hijriyah (767 M). Abu Hanifah hidup selama 52 tahun dalam masa amawiyah dan
+
+2067
+
+Rusdiyah, Bachtiar Agusman, Najla Amali, Nisa Adelia, Muhammad Taha Madani, Nur Azmi As’syifa
+Munirah, Rekonstruksi Teori Hukum Islam Pada Masa Imam Mazhab
+
+18 tahun dalam masa abbasiyyah. Maka segala daya pikir, daya cepat tanggapnya
+dimiliki dimasa umawi, walaupun akalnya terus tembus ingin mengetahui apa yang
+belum diketahui.
+Beliau hidup pada masa para Sahabat kecil. Mereka adalah Anas Bin Malik,
+Abdullah Bin Abi Aufa Al-Anshari. Abu Thufail Amir Bin Watsilah dan Sahal Bin
+Sa’ad As-Sa’idi RA. Beliau sempat melihat Anas Bin Malik ketika Anas berkunjung
+ke Kufah. Dengan demikian Abu Hanifah masih tergolong dalam tingkatan para
+tabi’in, khususnya shigor tabi’in karena masih bertemu dengan salah satu sahabat
+RA meskipun tidak meriwayatkan dari mereka. Namun Ibnu hajar
+menggolongkannya sebagai orang-orang yang dimasa tabiut tabi’in, yaitu tingkat
+yang sezaman dengan tabi’in junior. Ibnu hajar hanya mengkategorikan sezaman
+namun tidak memasukkannya kedalam tingkat tabi’in.1
+Bapak beliau adalah seorang pedagang yang sukses, ayah dan kakek beliau
+adalah pedagang kain, darah pembisnis mengalir dalam nadi imam Abu hanifah.
+Beliau merupakan satu keturunan dengan saudara Rasulullah. Neneknya Zauta
+adalah suku (bani) Tamim. Sedang ibu beliau tidak dikenal dikalangan para sejarah
+tapi bagaimanapun juga ia tetap menghormati dan berbakti kepada ibunya.
+Namun yang menjadi keunikan dari Imam Abu Hanifah ialah beliau tidak fokus
+belajar agama dari waktu kecil. Akan tetapi beliau memulai belajar agama ketika
+memasuki usia remaja.2
+Abu Hanifah memiliki beberapa anak, diantaranya ada yang diberi hanifah.
+Maka sebab itu beliau diberi kuniyah dengan sebutan abu hanifah. Ini menurut
+satu riwayat. Adapaun menurut riwayat lain, sebab beliau mendapat gelar Abu
+Hanifah karena beliau adalah seseorang yang rajin melakukan ibadah kepada Allah
+dan sungguh-sungguh mengerjakan kewajiban dalam agama. Kata “hanif” dalam
+Bahasa arab artinya ”cenderung atau cendong” kepada agama yang benar. Dan
+adapula riwayat lain mengatakan, bahwa beliau mendapatkan kuniyah abu
+hanifah karena lantaran eratnya berteman dengan “tinta”. Karena tinta/dawat
+dalam lugat Irak yaitu Hanifah. Yakni beliau dimana-mana senantiasa membawa
+dawat guna menulis atau mencatat ilmu pengtahuan yang diperoleh oleh para
+guru beliau atau lainnya. Maka sebab itu beliau dipanggil dengan sebutan Abu
+Hanifah.3
+Adapun karya beliau, diantaranya : Asy-syurut : kitab membahas perjanjian, AlFiqh al-Akbar : membahas ilmu kalam teologi dan diberi syarah oleh Abu Mansur
+Muhammad al-Maturidi dan Imam Abu Muntaha al-Maula Ahmad ibn Muhammad
+al-Maqnisawi.4
+“Biografi Imam Abu Hanifah | Almanhaj,” March 26, 2016, https://almanhaj.or.id/4507-biografi-imam-abuhanifah.html.
+2
+wildan jauhari, Biografi Imam Abu Hanifah, 1st ed. (jakarta selatan: rumah fiqih publishing, 2018). Hal.10
+3
+“Biografi Imam Abu Hanifah | Almanhaj.”
+4
+jauhari, Biografi Imam Abu Hanifah. Hal.17
+1
+
+2068
+
+Indonesian Journal of Islamic Jurisprudence, Economic and Legal Theory, Vol. 2, Nomor 4 (Desember, 2024): 2066-2080
+
+Prinsip-prinsip yang dipengang Imam Abu Hanifah dalam perkembangan
+sejarah yang terus menurus mengakibatkan masyarakat pun terkena dampaknya.
+Maka para mujhtahid melakukan ijtihad dengan menyesuaikan situasi dan kondisi
+ketika itu. Dalam melakukan ijtihad para mujtahid memiliki prinsip-prinsip yang
+harus diperpegangi, seperti imam abu hanifah, ia memiliki prinsip dalam yang
+dipegangi dalam mengeluarkan fatwa atau pendapat, yaitu : beliau tidak
+menerima beberapa hadist yang terdapat keraguaan pada status keshahihan
+hadis dan hanya bedasarkan pada kitab suci Al-Qur’an. Melalui qiyas ia berusaha
+agar ayat-ayat al-qur’an dapat disesuaikan pada berbagai macam kondisi zaman.
+Mazhab Hanafi menggambarkan upaya penyesuaian hukum islam (fiqh) dengan
+keperluan masyarakat disegala aspek. Hal itu disebabkan karena mendasari pada
+Al-Qur’an, hadis, Ijma’, Qiyas dan Istihsan. Hal ini menyebabkan bidang-bidang
+ijtihad dapat ditetapkan sesuai dengan keadaan masyarakat tanapa keluar dari
+prinsip-prinsip dan aturan pokok Islam.
+Imam Abu Hanifah merupakan salah satu imam mujtahid yang konsen dalam
+ranah hukum islam. Melihat dari segi historisnya. Beliau melakukan istimbat
+hukum islam dengan al-qur’an dan hadis. Apalagi hidup beliau di kota kuffah
+sangat jauh dari kota Makkah dan Madinah yang masyhur sebagai pusat
+diturunkannya al-hadis, ini menjadi bukti bahwa abu hanifah dalam memutuskan
+sebuah masalah dengan menggunakan ijtihad disertai dengan akal rasionalnya.
+Maka dari pada itu, beliau dikatakan sebagai tokoh rasional (ahlu al-ra’yu) karena
+beliau menetapkan hukum mengutamkan ra’yu dibantikan menggunakan khabar
+ahad. Apabila terdapat pertentangan beliau menggunakan qiyas dan istihsan.
+Dalam memahami nash al-qur’an beliau tidak hanya menafsirkan ayat ayat yang
+mujmal, tetapi juga memperhatikan pada kalimat khas dan ‘am pada ayat alqur’an. Ini menjadi ciri khas bagi ulama Iraq yang dipelopori oleh imam Hanafi dan
+ulam-ulama hijaz yang semazhab.
+B. Imam Malik
+Imam Malik mempunyai nama lengkap Malik ibn Anas ibn Abi Amir ibn Amr AlAshbakhi. Lahir di Madinah pada tahun 93 H dan wafat pada tahun 179 H. Imam
+Malik juga biasa dipanggil Abu Abdullah dan Al- Ashbakhi. Silsilah nasabnya sampai
+pada Ya’rab ibn Qatthan salah satu kabilah besar di Yaman. Imam Malik hidup
+sezaman dengan imam besar lainnya, seperti Imam Ja’far As-Shadik, Imam Al-
+
+2069
+
+Rusdiyah, Bachtiar Agusman, Najla Amali, Nisa Adelia, Muhammad Taha Madani, Nur Azmi As’syifa
+Munirah, Rekonstruksi Teori Hukum Islam Pada Masa Imam Mazhab
+
+Layst, Ibn Saad, dan Abu Hanifah. Sejak lahir hingga wafat, ia tinggal dan menetap
+di Madinah, kecuali beribadah haji ke Mekkah.5
+Imam Malik memiliki beberapa guru, seperti Nafi’ bin Abi Na’im, Rabiah,
+Abdur Rahman bin Hurmuz, Ibnu Shihab Az-Zuhri dan Nafi’ Maula bin Umar.
+Rabiah dan Abdur Rahman bin Hurmuz adalah gurunya dalam bidang hadis, selain
+Az-Zuhri dan Nafi’ Maula bin Umar. Imam Malik juga belajar qiraat Nafi’ bin Abi
+Na’im. 6 Imam Malik sangat ahli dalam ilmu pengetahuan, terutama dalam ilmu
+hadis dan fikih. Beliau pernah menyatakan, “Aku telah menulis dengan tanganku
+sendiri 100.000 hadis.” Selain itu, ia juga mengatakan “Aku datang pada Said bin
+Musayyab, Urwah, Al-Qasim, Abu Salamah, Hamid dan Salim secara bergiliran untuk
+mendengarkan hadis mereka dan dari setiap orang aku menerima 50-100 hadis,
+setelah itu aku pulang dan aku telah menghafalnya tanpa keliru sedikitpun.”7
+Salah satu karya Imam Malik yang terkenal adalah Al-Muwattha. Pada masa
+pemerintahan Al-Manshur, awalnya digunakan untuk sumber legislasi negara,
+seiring waktu, Al-Muwattha menjadi salah satu rujukan utama dalam fikih
+khususnya mazhab Maliki. Sebuah kitab hadis bergaya fiqh, atau kitab fiqh
+bergaya hadis yang menjadikan keisitimewaan dari kitab Al-Muwattha, sekaligus
+sebagai kitab hadis dan fiqh tertua yang masih dapat kita jumpai.8
+C. Imam Syafi’i
+Abu Abdillah Muhammad bin Idris bin Al-Abbas bin Utsman bin Syafi’i Al-Syaib
+bin Ubaid bin Al-Yazid bin Hasyim bin Al-Muthallib bin Abdu Al-Manaf AlMuthalibbi (anak paman Rasulullah Saw), adalah nama asli dari Imam Syafi’i.
+Dalam pandangan para ahli sejarah tepatnya pada tahun 150 H (767 M).
+Menyangkut tentang tahun kelahirannya, dimata para ahli sejarah tidak ditemui
+adanya perselisihan pendapat, namun ketika mempersoalkan tempat dimana ia
+dilahirkan, disana mulai tampak ada perbedaan-perbedaaan, meskipun tidak
+mendasar. Sebagian ada yang mengatakan bahwa Imam Syafi’i lahir di Ghazah
+(Gazza), yaitu bagian Selatan Palestina. Sebagian yang lain mengatakan ia lahir di
+Asqolan (Libanon). Perbedaan ini tidak dianggap terlalu mendasar karena kedua
+
+5
+
+Dedi Supriyadi, Fiqih Munakahat Perbandingan (Bandung: Pustaka Setia, 2011), 16.
+Muhammad Zuhri, Hukum Islam Dalam Lintasan Sejarah (Jakarta: RajaGrafindo Persada, 1996), 105.
+7
+Abdullah Mushthafa Al=Maraghi, Pakar-Pakar Fiqh Sepanjang Sejarah (Yogyakarta: LKPSM, n.d.), 79.
+8
+Zuhri, Hukum Islam Dalam Lintasan Sejarah, 1996, 105.
+6
+
+2070
+
+Indonesian Journal of Islamic Jurisprudence, Economic and Legal Theory, Vol. 2, Nomor 4 (Desember, 2024): 2066-2080
+
+tempat tersebut sama-sama berada di wilayah Palestina. Hanya saja yang satu
+berada di kota sedangkan satunya lagi berada di desa.9
+Imam Syafi’i lahir pada masa Bani Abbasiyah, tepatnya pada masa kekuasaan
+Abu Ja’far Al Mansyur (137-159 H/754-744 M). Imam Syafi’i mulai belajar Hadis dan
+Fiqh di Mekkah. Setelah itu beliau pindah ke Madinah untuk belajar dengan Imam
+Malik. Imam Asy’Syafi’i juga pernah berguru dengan Muhammad ibn Al-Hasan AsySyaibani yang merupakan seorang teman dan pengikut dari Imam Abu Hanifah.
+Untuk mempelajari Fiqh Irak. Kemudian beliau kembali ke Mekkah dan mulai
+mengajarkan dua corak fikih tersebut selama kurang lebih 9 tahun di Masjid Al
+Haram, pada masa itu beliau juga mulai Menyusun Thuruq al- Istinbaht al-Ahkam.10
+Imam Syafi’i secara sederhana mulai mengembangkan proses keilmuan
+beliau hingga mengantarkannya pada derajat ulama pembangun madzhab. Dalam
+empat tahapan, yaitu tahapan pemula, tahap perkembangan, tahap kemunculan
+mazhab Al-Qadim, tahap kesempurnaan Al-Jadid dan tahap pengayaan.
+Dalam hal ini, Imam Syafi’i mulai diakui sebagai imam mazhab, dikarenakan
+proses pengembaraan keilmuan beliau yang cukup melelahkan dan melaui proses
+yang Panjang. Berbekalkan dengan keillmuan hadith yang beliau dapatkan setelah
+berguru dengan Imam Malik dengan berusaha mengupas dan menelaah kitab almuwatha’. Tidak hanya itu beliau tidak segan-segan melakukan diskusi-diskusi
+dengan para ulama dengan maksud melakukan pembelaan-pembelaan terhadap
+aliran hadits tersebut.11
+D. Imam Ahmad bin Hanbal
+Nama lengkap Imam Hanbali adalah Imam Abu Abdullah Ahmad bin Hambal
+bin Bilal Addahili As- Sayibani Al Maruzzi. Ia lahir di Bagdad pada tahun 164/780
+M.12 Sebenarnya orang tua Imam Hanbali tinggal di kota Marwin, namun ketika
+ibunya hamil, ia pergi ke kota Baghdad dan melahirkan Imam Hanbali di sana.13
+Ayahnya bernama Muhammad As-Syaibani dan ibunya bernama Syarifah Binti
+Maimunah Binti Abdul Malik Bin Sawadah Binti Hindun As-Syaibani (juga seorang
+wanita dari Syaibaniyah), dari kelompok terkemuka Bani Amir. 14 Ayahnya
+meninggal pada usia 30 tahun, sebelum Imam Hanbali lahir, sehingga ia tidak
+pernah diasuh oleh ayahnya, hanya oleh ibunya.
+
+Roibin, Sosiologi Hukum Islam Telaah Sosio-Historis Pemikiran Imam Syafi’i, 1st ed. (Malang: UIN Malang
+Press, 2008), 63.
+10
+Dedi Supriyadi, Fiqh Munakahat Perbandingan (Dari Tekstualitas Sampai Legislasi), 1 (Bandung: CV Pustaka
+Setia, 2011), 22.
+11
+Roibin, Sosiologi Hukum Islam Telaah Sosio-Historis Pemikiran Imam Syafi’i, 73.
+12
+M. Ali Hasan, Perbandingan Mazhab, 4th ed. (Jakarta: PT. RajaGrafindo Persada, 2002), 221.
+13
+Huzaemah Tahido Yanggo, Pengantar Perbandingan Mazhab (Jakarta: Logos, 1997), 137.
+14
+Hasan, Perbandingan Mazhab, 2002, 222.
+9
+
+2071
+
+Rusdiyah, Bachtiar Agusman, Najla Amali, Nisa Adelia, Muhammad Taha Madani, Nur Azmi As’syifa
+Munirah, Rekonstruksi Teori Hukum Islam Pada Masa Imam Mazhab
+
+Pernasaban Imam Hanbal sendiri mengambil nama Ibnu Hanbal itu dari
+kakeknya yaitu bernama Hanbal. Maka orang lebih suka memanggil ibnu Hanbal
+meskipun Hanbal sendiri adalah nama kakeknya. Dan ayahnya bernama
+Muhammad, itu karena kakeknya lebih terkenal dari ayahnya, kakeknya Hanbal
+bin Hilal adalah Gubernur Khurasan pada masa Daulah Umayyah.15
+Imam Hambali pernah dipenjara karena seorang Mutashim memanggilnya
+dan bertanya apakah Al-Qur'an adalah makhluk hidup, dan dia tidak menjawab
+bahwa Al-Qur'an adalah makhluk hidup, seperti yang diinginkan Mutashim. Karena
+jawaban yang tidak diinginkan mustahim tersebut, dia dipukul sampai pingsan,
+diikat dan dipenjara. Karena kejadian tersebut Imam Hanbali dipenjara selama
+bertahun-tahun. Bahkan selama itu pula ia didera dan dipukul dengan cemeti
+sampai pingsan dan didorong dengan pedang, kemudian dilemparkan diatas
+tanah dan diinjak-injak. Hukuman tersebut berakhir pada masa pemerintahaan Alwatsiq, kemudian setelah Al-Watsiq wafat, jabatan khalifah digantukan oleh AlMutawakkil Billah. Atas kebijakannya, Imam Hanbali dibebaskan dari penjara.
+Ketika Imam Hambal keluar dari penjara, usianya sudah lanjut. Dan keadaan
+tubuhnya yang sering mendapatkan siksaan membuat ia sering jatuh sakit.
+Akhirnya beliau wafat pada hari Jumat tanggal 12 Rabi’ul Awal tahun 241 H/ 855 M,
+pada usia 77 tahun, beliau dimakamkan diperkuburan Bab Harb di kota Baghdad.
+Imam Hambali belajar ilmu pengetahuan agama pertama kali di Baghdad yang
+juga pada saat itu Bahgdad menjadi pusat ilmu pengetahuan dan satu satunya
+kota yang sudah maju. Pada usia 16 tahun barulah Imam Hambali pergi keluar kota
+untuk menuntut ilmu yaitu ke kota Kufah, Bashrah , Syam, Yaman, Mekah dan
+Madinah. Dalam kehidupan sehari-hari beliau mempunyai gaya hidup yang
+sederhana. Ia adalah seorang yang mempunyai sifat-sifat yang luhur dan budi
+pekerti yang tinggi. Keurunan Imam Hambal bertemu dengan keturunan
+Rasulullah saw. Dan beliau terkenal wara’, zuhud, amanah dan kuat berpegang
+pada yang hak, ia hafal Al- beliau ke berbagai negeri dalam rangka mencari orangorang yang meriwayatkan hadist-hadist dari Nabi. Bahkan beliau menghiraukan
+kepayahan atau kesulitan yang akan ditempuh. Karena itulah Imam Abdul Malik
+bin Maimun pernah berkata “kedua mataku belum pernah melihat orang yang lebih
+utama daripada Imam Hanbali, dan aku belum pernah melihat dari ahli hadist yang
+lebih menghormati para hukum- hukum Allah dan sunnah rasul-Nya”. Itulah salah
+satu riwayat yang menerangkan kecintaan Imam Hambali kepada sunnah Nabi.
+Karena kecintaan Imam Hanbali pada hadist-hadist Nabi, Imam Syafi’i seorang
+yang pernah menjadi guru Imam Hanbal berkata, kepada muridnya itu “engkau
+lebih tau dan lebih mengerti tentang hadist-hadist Nabi dari pada saya, oleh karena
+itu jika terdapat hadist shahih maka sampaikanlah kepada saya, saya akan
+Ahmad Asy-Syurbasi, Al-Aimmah al-Arba’ah: 4 Mutiara Zaman Biografi Imam Mazhab (Terjemahan Futuhul
+Arifin) (Jakarta: Pustaka Qalani, n.d.), 168.
+15
+
+2072
+
+Indonesian Journal of Islamic Jurisprudence, Economic and Legal Theory, Vol. 2, Nomor 4 (Desember, 2024): 2066-2080
+
+II.
+
+mencarinya di mana saja hadist itu berada”. Imam Hambal belajar fiqh dari Imam
+Syafi’i dan Imam Syafi’i belajar hadist dari Imam Hanbali. Imam Hanbali mendapat
+guru-guru hadist terkenal, diantaranya: Sufyan ibn ‘Uyainah, Ibrahim ibn Sa’ad
+Yahya ibn Qathan.
+Walaupun sebenarnya beliau adalah ahli fiqh namun karena kerajinan dan
+kemahirannya dalam ilmu hadist Ibnu Jarir menggolongkan Imam Hambali ke
+dalam ulama hadist, bukan ulama fiqh (fuqaha) demikian juga Ibnu Kutaibah. Hal
+ini karena Imam Hambali tidak membukukannya fiqhnya dalam suatu kitab, tidak
+pula mendiktikannya kepada murid-muridnya sebagaimana yang dilakukan Abu
+Hanifah. Setelah lama mengelilingi dunia dalam rangka menuntut ilmu, akhirnya
+Imam Ahmad bin Hambal menetap kembali di kota Baghdad dengan motivasi
+menyampaikan ilmu tersebut kepada umat manusia. Hasil-hasil ijtihad Imam
+Ahmad dapat diterima oleh murid-muridnya dengan baik, sehingga mereka pun
+menyebarkan Mazhab Hambali dan mengakibatkan banyaknya orang yang selalu
+hadir dalam setiap majelis pengajiannya. Muncul dan tersebarnya pendapatpendapat fikih Imam Ahmad bin Hambal juga disebabkan oleh latar belakang
+sosial di zamannya.
+Metode Istinbath Para Imam Mazhab dalam Pengembangan Hukum Islam
+Dalam sejarah perkembangan hukum Islam, peran para Imam Mazhab terlihat
+sangat signifikan. Para Imam Mazhab turut berperan dalam membentuk serta
+mengembangkan berbagai teori hukum. Setiap Imam Mazhab memiliki cara
+tersendiri dalam memahami serta menggunakan hukum Islam. Perbedaan ini tidak
+hanya mencerminkan pemikiran individual mereka, tetapi juga konteks sosial,
+budaya, dan geografis di mana mereka hidup.
+A. Imam Hanafi
+Dalam istinbat hukum islam yang dilakukan oleh imam abu hanifah, tidak
+dijelaskan ijtihad secara terperinci. Namun kaidah umumnya yang melandasi
+kontruksi fikih dapat kita pahami pada pernyataan beliau: “saya kembalikan semua
+pertanyaan kepada kitab, jika tidak menemukan jawabanynya yang sah dalam kitab
+Allah, saya merujuk kepada Sunnah Nabi, maka saya mengambil pendapat para
+sahabat Nabi dan tidak mengambil selain mereka. Ketika masalah sampai ke
+Ibrahim, Sha’b, Hasan, Ibnu Sieni, Atha’ dan sa;ad bin Musayyab, sebagian tabiin,
+maka saya berhak berijihad seperti mereka.”16
+Dari penyataan di atas dapat dipahami, bahwa ketika hukum suatu
+permasalahan sudah ada dalam al-qur’an dan hadist dan dijelaskan secara sharih,
+mak diamabilah hukum tersebut dari al-qur’an dan hadis. Namun jika al-qur’an dan
+
+Murni Utami, Noor Hafizah, and Nurul Izatil Hasanah, “MAZHAB HANAFIAH DAN
+PERKEMBANGANNYA: SEJARAH DAN PETA PEMIKIRAN,” Islamic Education 1, no. 2 (May 11, 2023):
+21–35, https://maryamsejahtera.com/index.php/Education/article/view/166.
+16
+
+2073
+
+Rusdiyah, Bachtiar Agusman, Najla Amali, Nisa Adelia, Muhammad Taha Madani, Nur Azmi As’syifa
+Munirah, Rekonstruksi Teori Hukum Islam Pada Masa Imam Mazhab
+
+hadis tidak menjelaskan namun hanya menyebutkan dasar dasarnya saja atau
+sesuatu yang serupa dari permasalahan. Maka dalam pengambilan hukum
+diperlukan ijtihad. Nash yang hanya menyebutkan secara tidka langsung, sebagai
+mana firman Allah “Hai orang-orang yang beriman, sesungguhnya (meminum)
+khamar, berjudi, (berkorban untuk) berhala, mengundi nasib dengan panah, adalah
+termasuk perbuatan syaitan. Maka jauhilah perbuatan-perbuatan itu agar kamu
+mendapat keberuntungan.” Pada ayat sebelumnya hanya disebutkan miras.
+Alasana diharmkannya karena sifatnya yang memabukkan. Maka segala yang
+memabukan dilarang oleh syariat. Jenis penalaran seperti ini yang disebut dengan
+qiyas.
+Pada dasarnya. Yang membedakan prinsip pemikiran Abu Hanifah dengan
+para imam yang lainnya iyalah kemauan yang mendalam untuk menggali hukum
+dan menyentuh tujuan dan kepentingan moral yang menjadi objek utama
+pembuatan hukum.hal ini mencakup Qiyas, Istihsan, ‘Urf dan lainnya. dengan apa
+yang disebutkan imam abu hanifah menegakkan fikih sebagaimana yang diketahui
+oleh para ulama yang mendalami ushul fiqh.
+B. Imam Malik
+Sama halnya dengan para imam lain, Imam Malik menempatkan Al-Qur’an
+sebagai sumber hukum pertama, kemudian Hadis, dengan ketentuan hadis-hadis
+yang mutawatir atau masyhur. Namun, ia mau menggunakan hadis ahad sebagai
+dalil syar’i kalau memang tidak ada dalil lain yang lebih kuat. Imam Malik juga
+menjadikan praktek masyarakat Madinah sebagai dasar penetapan hukum. Ia
+berpandangan bahwa sebagian masyarakat Madinah merupakan keturunan
+langsung sahabat dan Madinah sendiri menjadi tempat Rasulullah SAW.
+menghabiskan 10 tahun terakhir hidupnya, maka praktik yang dilakukan semua
+masyarakat Madinah merupakan bentuk sunnah yang otentik yang diriwayatkan
+dalam bentuk tindakan bukan kata-kata.17
+Pada dasarnya, Imam Malik juga memperhatikan ketentuan-ketentuan ijtihad
+yang digunakan ulama mazhab pada umumnya ketika tidak ada dalam Al-Qur’an
+dan Sunnah. Ia mengutamakan ijma’ para sahabat baru qiyas, tetapi jika tidak
+dapat ditempuh melalui ijma’, ia baru menggunakan qiyas jika pada masalah yang
+di qiyaskan terdapat banyak illat (alasan yang serupa atau hampir sama). Selain
+metode di atas, Imam Malik berpendapat jika tidak ada nashnya, suatu hukum
+yang ditetapkan harus memperhatikan kemaslahatan dan kemanfaatan serta
+menjauhan kemudharatan sebagai akibat dari suatu ketetapan hukum. Teori ini
+kemudian dikenal dengan Maslahah Mursalah.18
+C. Imam Syafi’i
+
+17
+18
+
+Ngainun Naim, Sejarah Pemikiran Hukum Islam (Yogyakarta: Teras, 2009), 88.
+Supriyadi, Fiqih Munakahat Perbandingan, 18.
+2074
+
+Indonesian Journal of Islamic Jurisprudence, Economic and Legal Theory, Vol. 2, Nomor 4 (Desember, 2024): 2066-2080
+
+Imam Syafi’i mengembangkan hukum islam melalui metode ijtihad yang
+sistematis, yang berfokus pada dalil-dalil syar’i seperti Al-Qur’an dan Hadis. Hal ini
+diperjelas oleh Imam Syafi’i dalam kitab Ar-Risalah. Beliau juga memperkenalkan
+qiyas (analogi/perbandingan) untuk menerapkan hukum pada situasi baru dan
+menekankan ‘ijma (kesepakatan ulama) sebagai sumber hukum yang penting.
+Imam Syafi’i mengkombinasikan fiqh Hijaz (Mazhab Maliki) dengan Fiqh Iraq
+(Mazhab Hanafi) dan menciptakan mazhab baru yang beliau diktekan kepada
+murid-muridnya dalam bentuk buku yang dinamakan al-hujjah pendiktean
+berlangsung di Iraq pada tahun 810 M dan sejumlah muridnya menghafalkannya
+dan menyampaikannya kepada orang lain. Buku dan periode keulamaannya pada
+masa ini lebih dikenal sebagai mazhab Qadim (Qaul Qadim).19
+Semunculnya Qaul Qadim berlangsung dari kedatangan kedua imam syafi’i di
+Baghdad pada tahun 195 H sampai kepergian beliau ke Mesir pada tahun 199 H.
+Dan mulai muncul Qaul Jadid fase ini dimulai dari tahun 199 H sampai pada waktu
+wafat beliau pada tahun 204 H. Imam Syafi’i juga berpendapat bahwa pendapat
+para sahabat yang disepakati bersama merupakan hujjah. Adapun ketika sahabat
+tidak sepakat dalam satu permasalahan maka membutuhkan tarjih (menentukan
+mana yang lebih kuat atau benar berdasarkan sumber-sumber yang ada) dengan
+dalil yang lain. Imam Syafi’i berpendapat bahwa kalau hanya seorang sahabat
+berpendapat akan satu masalah dan tidak ada nash dalam masalah itu maka
+pendapat sahabat tadi lebih utama dari qiyas. Jikalau pendapat sahabat (qaul
+shahabi) itu berada dalam hal-hal yang bersifat ijtihadiyah, imam Syafi’i
+berpendapat bahwa qaul shahabi bukan hujjah terhadap pendapat mujtahid lain.
+Dalam kitab ar-Risalah asy-Syafi’i karya Imam Syafi’i ditegaskan, bahwa Imam
+Syafi’i sangat menekankan al-qiyas sebagai metode ijtihad. Bahkan dalam
+beberapa bagian dari buku tersebut menegaskan al-qiyas merupakan satu-satunya
+metode ijtihad. Dalam hal ini ia berkata, al-ijtihad huwa al-qiyas (Ijtihad itu tiada lain
+adalah al-qiyas).
+Metode khas istinbath Imam Syafi'i didasarkan pada Al-Quran, As-Sunnah,
+ijma, dan qiyas. Fiqh Syafi'i merupakan campuran antara fiqh ahli rayu dan ahlu
+hadis. Perpaduan ini, beliau bangun dalam ushul fiqh yang dikenal dengan aliran
+mutakallimin (kalam). Imam Asy-Syafi'i menggunakan Al-Quran sebagai sumber
+hukum dan syariat. Lalu, ia merujuk pada hadis sebagai penetapan hukum. Jika
+hadis dianggap cukup dalam menetapkan hukum, rayu beliau kesampingkan.
+Imam Asy-Syafi'i menggunakan ijma sebagai penetapan hukum setelah hadis
+karena secara empiris, fiqhnya mengarahkan ijma sebagai hujjah, bahkan lebih
+mengutamakan ijma atas hadis yang disampaikan satu orang (hadis ahad).
+19
+
+Ngainun Naim, Sebuah Pengantar Sejarah Pemikiran Hukum Islam, 1st ed. (Yogyakarta: Teras, 2009), 90.
+
+2075
+
+Rusdiyah, Bachtiar Agusman, Najla Amali, Nisa Adelia, Muhammad Taha Madani, Nur Azmi As’syifa
+Munirah, Rekonstruksi Teori Hukum Islam Pada Masa Imam Mazhab
+
+Selanjutnya, Imam Asy-Syafi'i menetapkan qiyas dalam metode istinbath-nya.
+Dapat dikatakan bahwa Imam Asy-Syafi'i adalah orang yang pertama menjelaskan
+qiyas secara terperinci. Imam Asy-Syafi'i menolak metode istihsan Abu Hanifah
+karena menganggap istihsan sebagai penetapan hukum yang tidak disandarkan
+dalam Al-Quran dan sunnah. Hal ini dibuktikan dalam kitab Imam Syafi'i, Ibthal AlIstihsan.20
+Ulama membagi pendapat imam Syafi’i menjadi dua, yaitu Qaul Qadim dan
+Qaul Jadid. Qaul Qadim adalah pendapat imam Syafi’i yang dikemukakan dan
+ditulis di Irak. Di Irak, beliau belajar kepada ulama Irak dan banyak mengambil
+pendapat ulama Irak yang termasuk ahl al-ra’yi. Qaul Qadim merupakan pendapat
+Imam Syafi’i yang pertama kali di fatwakan ketika tinggal di bagdad irak (195 H),
+setelah diberi wewenang untuk berfatwa oleh gurunya, yaitu Syeh Muslim bin
+Kholid (seorang ulama besar yang menjadi mufti di mekah) dan Imam Malik
+(Pendiri mazhab Malikiyah dan yang pertama kali mempunyai inisiatif untuk
+mengumpulkan hadits dalam kitab sunah). Sedangkan Qaul Jadid adalah pendapat
+imam Syafi’i yang dikemukakan dan ditulis di Mesir.
+Setelah tinggal di Irak, imam Syafi’i melakukan perjalanan ke Mesir kemudian
+tinggal di sana. Di Mesir, dia bertemu dengan (dan berguru kepada) ulama Mesir
+yang pada umumnya sahabat imam Malik. Imam Malik adalah penerus fikih
+Madinah yang dikenal sebagai ahl al-hadits. Karena perjalanan intelektualnya itu,
+imam Syafi’i mengubah beberapa pendapatnya yang kemudian disebut Qaul Jadid.
+Dengan demikian, Qaul Qadim adalah pendapat imam Syafi’i yang bercorak ra’yu,
+sedangkan Qaul Jadid adalah pendapatnya yang bercorak sunnah.21
+D. Imam Ahmad bin Hambal
+Dalam persoalan fikih, pemikiran beliau cenderung dipengaruhi oleh ijtihad
+Imam Syafi’i. 22 Imam Ahmad bin Hanbal pernah berkata “Jika saya ditanya
+mengenai masalah yang saya tidak mengetahui hadisnya, saya akan menjawab
+menurut pendapat Syafi’i”. Karena inilah beberapa ulama mengatakan bahwa
+Imam Ahmad bukanlah seorang fuqaha, melainkan seorang muhaddis. At-Thabari
+mengatakan kalau Imam Hanbali bukan seorang Ahli Fikih tapi hanya seorang
+perawi Hadis dan Muqallid (orang yang bertaqlid). Imam Ahmad bin Hanbal dalam
+menentukan persoalan hukum menggunakan asas sebagai berikut:
+1. Asas pertama yang dipergunakan oleh Imam Ahmad dengan merujuk pada
+Nash al-Qur'an dan hadis. Jika beliau menemukan jawabannya pada nash,
+
+20
+
+Supriyadi, Fiqh Munakahat Perbandingan (Dari Tekstualitas Sampai Legislasi), 23.
+Ita Sofia Ningrum, “Dasar-Dasar Para Ulama Dalam Berijtihad Dan Metode Istinbath Hukum (Fundamentals
+of Scholars in Conducting Ijtihad and Instibath Methods of Law),” Mizan: Jurnal Ilmu Syariah, FAI Universitas
+Ibnu Khaldun, 1, 5 (2017): 103–104.
+22
+Adriyani, M. Ihya Ayudiya, and Nabil Mahasin, “Perkembangan Pemikiran Fiqih Imam Ahmad Bin Hanbal:
+Konstruksi M,Etode Ijtihad,” Jurnal Islamic Education, 2, 1 (2023): 67–69.
+21
+
+2076
+
+Indonesian Journal of Islamic Jurisprudence, Economic and Legal Theory, Vol. 2, Nomor 4 (Desember, 2024): 2066-2080
+
+maka beliau akan mengesampingkan dasar hukum lainnya seperti amalan,
+pendapat, ataupun Qiyas yang menyelisihnya.
+2. Asas kedua Fatwa para sahabat. Apabila dalam al-Qur'an dan Hadis tidak
+beliau dapatkan jawaban atas persoalan yang terjadi, maka beliau memilih
+fatwa dari sahabat.Pendapat sahabat yang tidak memiliki perbedaan,
+ataupun tidak satupun sahabat yang menyelisih pendapat tersebut dapat
+dijadikan hujjah setelah Nash al-Quran dan Hadis menurut Imam Ahmad.
+Namun Imam Ahmad tidak menyebut ini sebagai Ijma.
+3. Asas ketiga yakni memilih salah satu pendapat sahabat yang diperselisihkan.
+Jika dalam Nash dan Fatwa Sahabat yang disepekati tidak terdapat jawaban
+maka Imam Ahmad memilih fatwa sahabat yang diperselisihkan. Beliau akan
+memilih salah satu dari pendapat tersebut untuk dijadikan hujjah. Tentu saja
+Imam Ahmad memilih pendapat yang menurut beliau paling sesuai dengan
+kandungan Nash al-Quran dan Hadis.
+4. Asas keempat yakni memakai hadis mursal serta hadis dha’if dalam
+penentuan hukum setelah fatwa sahabat. Hadis mursal bisa dijadikan
+sebagai pegangan jika memang tidak terdapat jawaban atas suatu masalah
+dalam asas sebelumnya menurut Imam Ahmad. Beliau menolak hadis
+dengan perawi yang dikenal dengan pendusta namun tidak menolak hadis
+yang perawinya belum sampai kedalam kategori istsiqah. Kategori hadis
+yang termasuk dha’if dalam perspektif beliau jika dikategorikan pada
+pengelompokan hadis maka masuk kedalam hadis Hasan. Beliau lebih
+memilih untuk menggunakan hadis berderajat dhaif, tapi bukan termasuk
+hadis maudu’ menurut beliau dari pada menolaknya dan memilih
+mendahulukan akal.
+5. Asas kelima yang beliau mengunakan adalah Qiyas. Setelah tidak didapatkan
+jawaban dari masalah hukum dengan menggunakan keempat asas
+sebelumnya maka jalan terakhir yang beliau tempuh yakni dengan qiyas.
+Dalam metode qiyas yang dilakukan Imam Ahmad bukan hanya melihat pada
+illat (sebab) seperti yang ditempuh imam fikih. tapi beliau menggunakan
+perspektif lain yakni dengan juga melihat hikmah yang tercakup dalam
+hukum itu sendiri. Sebab illat adalah sebabnya, sedangkan hikmah adalah
+tujuannya.23
+Hasan Abu Thalib, mengelaborasi bahwa dalam proses istinbath hukum
+Ahmad Ibn Hambal, telah menggariskan dasar-dasar ushul fikihnya yaitu: (a)Kitab
+al-Qur'an, (b) as-Sunnah, (c) al-Ijma', (d) Qiyas, (e) Istihshab, (f) Masalih Mursalah,
+dan (g) Sad Dzairah. Hadis mursal dan Hadis dho'if lebih didahulukan dan pada
+penggunaan qiyas. Ahmad Ibn Hanbal menggunakan pendapat sahabat sebagai
+
+23
+
+Marzuki, “Ahmad Bin Hanbal: Pemikiran Fiqih Dan Ushul Fiqihnya,” Jurnal Hunafa, 2, 2 (2005): 112.
+
+2077
+
+Rusdiyah, Bachtiar Agusman, Najla Amali, Nisa Adelia, Muhammad Taha Madani, Nur Azmi As’syifa
+Munirah, Rekonstruksi Teori Hukum Islam Pada Masa Imam Mazhab
+
+III.
+
+alasan meninggalkan qiyas. Dengan kata lain, dapat dinyatakan bahwa Ahmad Ibn
+Hambal tidak akan menggunakan dan menolak qiyas, kecuali jika darurat.
+Dari sini terkesan bahwa beliau lebih mengutamakan nash dalam istinbath
+hukum (biannahu ab'ad al-Mazahib 'an al- Akhzi bi al-ra'yi wa aksaruha tamassuan
+bi al nusus). Dengan kata lain, teori pemikiran ushul fiqh lebih menggunakan
+pendekatan literal dalam menghadapi berbagai masalah fiqhiyah. Di dalam
+mazhab Hanbali yang dijadikan sebagai sumber dalil dalam istinbat hukum dan
+sistematikanya adalah pertama al-Kitab, kedua al-Sunnah, ketiga al-Ijma', keempat
+al- Qiyas, kelima al-Istishab, keenam al-Masalih, ketujuh Sad al-Dzari'ah, dan
+kedelapan Pendapat Sahabat. Mereka mendahulukan qaul-sahabi dari qiyas. Qiyas
+hanya digunakan jika tidak dalam keadaan darurat. Begitu pula, mazhab Hanbali
+mendahulukan ijma' dari qiyas, dan dalam hal Sunnah, mazhab Hanbali
+menggunakan hadits Mursal dan hadits Dhaif dan mendahulukannya dari qiyas.24
+Relevansi Metode yang digunakan pada Masa Imam Mazhab terhadap Hukum
+Islam di Era Modern
+Metode istinbath (pengambilan hukum) yang dikembangkan oleh para Imam
+Mazhab pada masa klasik, seperti Abu Hanifah, Malik bin Anas, Muhammad bin Idris
+Asy-Syafi'i, dan Ahmad bin Hanbal, tetap memiliki relevansi penting bagi konteks
+hukum Islam di era modern. Relevansi ini tampak dari bagaimana pendekatanpendekatan mereka terhadap Al-Qur'an, Sunnah, ijma' (konsensus), qiyas (analogi),
+dan metode tambahan lainnya dapat diaplikasikan untuk merespons berbagai
+persoalan hukum kontemporer. Di tengah perubahan sosial, teknologi, dan ekonomi
+yang dinamis, metode ini dapat memberikan panduan untuk pengambilan hukum
+yang fleksibel namun tetap berlandaskan syariat Islam yang kokoh.25
+A. Kehadiran Qiyas dan Istihsan sebagai Solusi Kontekstual
+Imam Abu Hanifah dikenal dengan pendekatan qiyas dan istihsan, yang
+merupakan upaya mengadaptasi hukum untuk berbagai kondisi zaman. Dengan
+memanfaatkan qiyas, hukum yang tidak secara eksplisit disebutkan dalam AlQur'an atau Hadis dapat diselesaikan melalui analogi dengan kasus yang serupa.
+Istihsan, yang digunakan untuk mencapai kemaslahatan (kebaikan umum) bahkan
+jika bertentangan dengan analogi qiyas biasa, memungkinkan adanya fleksibilitas
+dalam hukum yang dapat menyesuaikan kebutuhan masyarakat modern yang
+dinamis.26
+B. Maslahah Mursalah untuk Kemaslahatan Umum
+Imam Malik memperkenalkan konsep maslahah mursalah (kemaslahatan yang
+tidak terikat teks), di mana suatu hukum dapat diambil demi kemaslahatan publik
+ketika nash tidak secara spesifik mengatur hal tersebut. Pendekatan ini tetap
+
+24
+
+Abdurrahman Asy-Syarqawi, Riwayat Sembilan Imam Fiqih (Bandung: Pustaka Hidayah, 2000), 489.
+Al-Maraghi, Pakar-Pakar Fiqh Sepanjang Sejarah (Yogyakarta: LKPSM, n.d.), 45.
+26
+M. Ali Hasan, Perbandingan Mazhab (Jakarta: PT. RAJAGRAFINDO PERSADA, 2002), 78.
+25
+
+2078
+
+Indonesian Journal of Islamic Jurisprudence, Economic and Legal Theory, Vol. 2, Nomor 4 (Desember, 2024): 2066-2080
+
+relevan di era sekarang, terutama dalam mengatasi isu-isu baru seperti regulasi
+teknologi, hak asasi manusia, dan hukum keluarga modern yang sering tidak
+dijelaskan secara spesifik dalam sumber-sumber klasik.27
+C. Penerapan Ijma’ untuk Memastikan Kesepakatan Hukum
+Imam Syafi'i menekankan pentingnya ijma’ sebagai bentuk kesepakatan
+ulama untuk memastikan ketetapan hukum. Di era globalisasi saat ini, ijma' dapat
+dilihat sebagai bentuk konsensus para ulama dari berbagai latar belakang untuk
+menanggapi permasalahan yang dihadapi umat Islam secara universal. Dengan
+perkembangan teknologi komunikasi, ijma’ tidak lagi terbatas secara geografis,
+sehingga dapat mencakup ulama dari seluruh dunia yang berdiskusi tentang
+hukum-hukum kontemporer yang dibutuhkan umat Islam masa kini.28
+D. Pendekatan Ahmad bin Hanbal yang Berorientasi pada Teks
+Imam Ahmad bin Hanbal cenderung mengutamakan nash (teks Al-Qur'an dan
+Hadis) dalam menentukan hukum dan hanya menggunakan qiyas dalam kondisi
+darurat. Pendekatan tekstual ini memberikan panduan bagi umat Islam modern
+yang ingin tetap berpegang pada nash. Namun, keterbatasan metode ini untuk
+menghadapi kasus yang tidak ada dalam nash memperlihatkan pentingnya
+fleksibilitas dalam memahami maqasid syariah (tujuan-tujuan syariah) untuk
+mempertimbangkan maslahat di era sekarang.29
+SIMPULAN
+Para Imam Mazhab memberikan kontribusi besar dalam pembentukan metode
+istinbath hukum Islam yang beragam dan kontekstual, yaitu dengan merujuk pada AlQur'an, Sunnah, ijma’, dan qiyas. Setiap Imam memiliki pendekatan unik: Abu Hanifah
+dengan qiyas dan istihsan yang rasional; Malik bin Anas dengan maslahah mursalah
+yang berorientasi pada kemaslahatan; Syafi'i dengan penekanan pada qiyas dan ijma’
+yang terstruktur; serta Ahmad bin Hanbal dengan pendekatan literal terhadap teks.
+Di era modern, metode-metode ini tetap relevan. Qiyas dan istihsan
+memungkinkan penyesuaian hukum dengan kondisi zaman, maslahah mursalah
+memperhatikan kepentingan publik dalam isu-isu kontemporer, ijma’ mendukung
+konsensus dalam persoalan global, dan pendekatan literal membantu menjaga
+kepatuhan pada nash. Dengan demikian, metode istinbath para Imam Mazhab
+memberikan landasan yang fleksibel bagi hukum Islam untuk tetap relevan dan
+responsif terhadap perubahan zaman, tanpa meninggalkan prinsip syariah.
+Roibin, Sosiologi Hukum Islam: Telaah Sosio-Historis Pemikiran Imam Syafi’i (Malang: UIN Malang
+Press, 2008), 112.
+28
+Muhammad Zuhri, Hukum Islam Dalam Lintasan Sejarah (Jakarta: PT. RAJAGRAFINDO PERSADA,
+1996), 64.
+29
+Adriyani, M. Ihya Ayudiya, and M. Nabil Mahasin, “Perkembangan Pemikiran Fiqh Imam Ahmad Bin
+Hanbal: Konstruksi Metode Ijtihad,” Jurnal Isamic Education 2, no. 1 (2023): 35.
+27
+
+2079
+
+Rusdiyah, Bachtiar Agusman, Najla Amali, Nisa Adelia, Muhammad Taha Madani, Nur Azmi As’syifa
+Munirah, Rekonstruksi Teori Hukum Islam Pada Masa Imam Mazhab
+
+DAFTAR PUSTAKA
+Adriyani, M. Ihya Ayudiya, and Nabil Mahasin. “Perkembangan Pemikiran Fiqih Imam
+Ahmad Bin Hanbal: Konstruksi M,Etode Ijtihad.” Jurnal Islamic Education, 2, 1 (2023).
+Al=Maraghi, Abdullah Mushthafa. Pakar-Pakar Fiqh Sepanjang Sejarah. Yogyakarta: LKPSM,
+n.d.
+Al-Maraghi. Pakar-Pakar Fiqh Sepanjang Sejarah. Yogyakarta: LKPSM, n.d.
+Asy-Syarqawi, Abdurrahman. Riwayat Semnilan Imam Fiqih. Bandung: Pustaka Hidayah,
+2000.
+Asy-Syurbasi, Ahmad. Al-Aimmah al-Arba’ah: 4 Mutiara Zaman Biografi Imam Mazhab
+(Terjemahan Futuhul Arifin). Jakarta: Pustaka Qalani, n.d.
+“Biografi Imam Abu Hanifah | Almanhaj,” March 26, 2016. https://almanhaj.or.id/4507biografi-imam-abu-hanifah.html.
+Hasan, M. Ali. Perbandingan Mazhab. 4th ed. Jakarta: PT. RajaGrafindo Persada, 2002.
+———. Perbandingan Mazhab. Jakarta: PT. RAJAGRAFINDO PERSADA, 2002.
+jauhari, wildan. Biografi Imam Abu Hanifah. 1st ed. jakarta selatan: rumah fiqih publishing,
+2018.
+Marzuki. “Ahmad Bin Hanbal: Pemikiran Fiqih Dan Ushul Fiqihnya.” Jurnal Hunafa, 2, 2
+(2005).
+Naim, Ngainun. Sebuah Pengantar Sejarah Pemikiran Hukum Islam. 1st ed. Yogyakarta:
+Teras, 2009.
+———. Sejarah Pemikiran Hukum Islam. Yogyakarta: Teras, 2009.
+Ningrum, Ita Sofia. “Dasar-Dasar Para Ulama Dalam Berijttihad Dan Metode Istinbath
+Hukum (Fundamentals of Scholars in Conducting Ijtihad and Instibath Methods of
+Law).” Mizan: Jurnal Ilmu Syariah, FAI Universitas Ibnu Khaldun, 1, 5 (2017).
+Roibin. Sosiologi Hukum Islam Telaah Sosio-Historis Pemikiran Imam Syafi’i. 1st ed. Malang:
+UIN Malang Press, 2008.
+———. Sosiologi Hukum Islam: Telaah Sosio-Historis Pemikiran Imam Syafi’i. Malang: UIN
+Malang Press, 2008.
+Supriyadi, Dedi. Fiqh Munakahat Perbandingan (Dari Tekstualitas Sampai Legislasi). 1.
+Bandung: CV Pustaka Setia, 2011.
+———. Fiqih Munakahat Perbandingan. Bandung: Pustaka Setia, 2011.
+Utami, Murni, Noor Hafizah, and Nurul Izatil Hasanah. “MAZHAB HANAFIAH DAN
+PERKEMBANGANNYA: SEJARAH DAN PETA PEMIKIRAN.” Islamic Education 1, no. 2
+(May
+11,
+2023):
+21–35.
+https://maryamsejahtera.com/index.php/Education/article/view/166.
+Yanggo, Huzaemah Tahido. Pengantar Perbandingan Mazhab. Jakarta: Logos, 1997.
+Zuhri, Muhammad. Hukum Islam Dalam Lintasan Sejarah. Jakarta: RajaGrafindo Persada,
+1996.
+———. Hukum Islam Dalam Lintasan Sejarah. Jakarta: PT. RAJAGRAFINDO PERSADA, 1996.
+
+2080
+
+

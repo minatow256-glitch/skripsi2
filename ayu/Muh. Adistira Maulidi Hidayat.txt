@@ -1,0 +1,713 @@
+Muh. Adistira Maulidi Hidayat
+Universitas Islam Negeri Sunan Gunung Djati Bandung
+adistirahidayat@gmail.com
+Usep Saepullah
+Universitas Islam Negeri Sunan Gunung Djati Bandung
+usepsaepullah72@uinsgd.ac.id
+Abstract: Maslahah mursalah is a legal basis used to regulate
+new issues that are not explicitly mentioned in the Quran
+and Sunnah. Every regulation established by naṣh or ijma’ is
+based on the principle of achieving benefits and preventing
+harm. Therefore, every legal foundation used stems from the
+interests and benefits of humanity (al-maslahah). Maṣlahah
+relates to the needs of human life, including aspects such as
+religion, soul, reason, lineage, dignity, and wealth. Therefore,
+when clear legal rulings are not found in the Quran or Sunah,
+Islamic law or fiqh can be established by considering
+maṣlahaḥ. This writing aims to further elaborate on the
+concept of maṣlahah mursalah, its legal basis, classification,
+maṣlahah mursalah as a basis for legal legislation, and its
+application in family law.
+Keyword: Uṣhûl, Fiqh, Maṣlahah, Mursalah
+Abstrak: Maṣlahah mursalah adalah dasar hukum yang
+digunakan untuk mengatur permasalahan yang muncul
+namun tidak ditemukan penjelasan yang lebih rinci, baik
+Minhaj: Jurnal Ilmu Syariah
+Volume 5, Nomor 1, Januari 2024 ; p-ISSN 2745-4282; e-ISSN 2745-5246; 45-61
+
+dalam al-Quran maupun sunah. Setiap peraturan yang
+ditetapkan oleh naṣh atau ijma’ didasarkan pada prinsip
+mencapai manfaat atau kemaslahatan serta mencegah dari
+kemudharatan. Oleh karena itu, setiap dasar hukum yang
+digunakan berasal dari kepentingan kemaslahatan manusia
+(al-maṣlahah). Maṣlahah adalah tentang kepentingan atau
+kemaslahatan yang berkaitan dengan kehidupan manusia,
+melibatkan dimensi-dimensi seperti spiritualitas (agama),
+intelektualitas (akal), keturunan, harga diri, dan kekayaan
+(harta). Ketika tidak ada ketentuan hukum yang eksplisit
+dalam al-Qur'an atau sunah terkait hal tertentu, maṣlahaḥ
+dapat menjadi pertimbangan penting dalam mengambil
+keputusan, hukum syariat ataupun fikih dapat ditetapkan
+dengan mempertimbangkan maslahah tersebut. Tulisan ini
+bertujuan untuk memaparkan lebih lanjut mengenai konsepsi
+maṣlahah mursalah, dasar hukum, klasifikasi, maṣlahah mursalah
+sebagai dasar legislasi hukum, dan juga penerapannya dalam
+bidang hukum keluarga.
+Kata Kunci: Uṣhûl, Fiqh, Maṣlahah, Mursalah
+Pendahuluan
+Akal merupakan anugerah yang Allah SWT berikan kepada
+manusia sebagai ciptaan-Nya yang paling sempurna. Akal juga yang
+menjadi pembeda antara manusia dengan binatang. Penggunaan akal
+yang baik dapat membawa manusia melalui proses yang dinamakan
+tafakkur yaitu kemampuan untuk merangsang pengetahuan menjadi
+pemahaman yang lebih dalam, di mana kekuatan bergerak sesuai dengan
+pandangan atau pemahaman yang dimiliki. Bahkan ada sebuah hikmah
+yang mengatakan “tafakkur sesaat (selama satu jam) lebih baik dibandingkan
+ibadah satu tahun.”1
+Jika kita kembali melihat kepada fakta yang ada dalam sejarah,
+wafatnya Nabi Muhammad SAW menjadi latar belakang terjadinya ijtihad
+besar-besaran yang dilakukan oleh umat Islam. Hal ini terjadi karena
+masyarakat Islam pada masa itu muncul berbagai macam permasalahan
+yang tidak didapatkan penjelasannya secara rinci, baik dalam al-Qur’an
+maupun sunah. Maka ijtihad merupakan jalan yang dilakukan ulama pada
+1 Abdul Aziz bin Nashir Al-Jalil, Tidakkah Kalian Berfikir, Cet. I (Jakarta: Cakrawala,
+
+2008), 7–8.
+
+46 Muh. Adistira Maulidi H & Usep Saipullah – Maslahah Mursalah dan Penerapannya
+
+saat itu untuk menemukan hukum yang bisa dijadikan acuan untuk umat
+Islam, tanpa terlepas dari sumber hukum utama umat islam, yaitu alQur’an dan hadis.
+Dalam studi ilmu uṣhûl fiqh, terdapat dua istilah yang masyhur yaitu
+dalil pembentukan hukum (al-„adillah ash-shar„iyyah), dan sumber hukum
+Islam (maṣhâdir al-aḥkâm). Dalil hukum merujuk pada segala sesuatu yang
+menjadi pedoman dalam menetapkan hukum, sementara sumber hukum
+merujuk pada tempat atau asal dari mana hukum Islam diperoleh.2
+Sumber hukum utama dalam Islam terbatas pada al-Qur'an dan hadis
+sebagai landasan utama.
+Namun, dalam menemukan hukum-hukum yang kompleks dan
+tidak secara langsung dijelaskan dalam kedua sumber hukum diatas,
+ulama menggunakan berbagai metode interpretasi seperti qiyâs (analogi),
+ijma' (kesepakatan para ulama), maṣlahah mursalah (kemaslahatan umum),
+istiḥsan (preferensi hukum), shar„u man qablanâ (praktik para generasi
+sebelumnya), `urf (kebiasaan masyarakat), dan lain-lain sebagai dalil
+hukum untuk memahami hukum Islam dalam konteks yang berbeda.
+Meskipun demikian, sumber hukum utama tetaplah al-Qur'an dan hadis,
+sedangkan dalil hukum mencakup berbagai metode interpretasi yang
+digunakan oleh ulama untuk menetapkan hukum Islam dalam situasi
+yang beragam dan kompleks.
+Dalam Islam, Seluruh ketentuan berupa perintah maupun larangan
+yang ditetapkan oleh Allah SWT mengandung kebaikan atau manfaat
+(maṣlahah) untuk individu dan masyarakat. Tidak ada hukum syara‟ yang
+tidak terkait dengan kemaslahatan. Setiap perintah yang Allah SWT
+berikan kepada manusia mengandung manfaat, baik itu manfaat yang
+langsung dirasakan saat itu maupun manfaat yang akan dirasakan
+kemudian. Sebagai contoh, perintah berpuasa memiliki banyak manfaat
+untuk kesehatan fisik dan mental manusia. Di sisi lain, larangan yang
+Allah SWT tetapkan juga memiliki kandungan kemaslahatan di dalamnya.
+Manusia dilarang untuk melakukan hal-hal tertentu agar dapat terhindar
+dari kerusakan atau bahaya. Sebagai contoh, larangan mengkonsumsi
+minuman beralkohol (khamr) memiliki tujuan untuk melindungi individu
+dari dampak negatif yang dapat merusak tubuh, jiwa, dan kesehatan
+mental.
+Hasil penelitan dalam jurnal lain dengan judul Konsep al-Maslahah alMursalah dalam Perspektif Ekonomi Pada Era Revolusi Industri 4.0 yang ditulis
+oleh Hadi Peristiwo dan Abdul Hadi menjelaskan mengenai konsep
+2 Amir Syarifuddin, Pembaharuan Pemikiran Dalam Hukum Islam (Padang: Angkasa Raya,
+
+1990), 20–21.
+
+Volume 5, Nomor 1, Januari 2024
+
+47
+
+maslahah mursalah yang menekankan kepada penerapannya dalam hukum
+ekonomi Islam. Salah satu implementasi kaidah maṣlahah mursalah adalah
+mengenai waralaba atau biasa disebut dengan franchise. Dalam konteks
+waralaba (franchise) yang berbasis pada prinsip syariat, konsep maslahah
+mursalah digunakan untuk menyesuaikan hukum waralaba dengan
+bidang bisnisnya serta sistem kerjasama yang sesuai dengan prinsip
+syariah. Pendekatan penetapan hukum menggunakan maslahah mursalah
+sangat relevan dengan upaya pembaharuan hukum Islam karena
+bertujuan untuk mewujudkan dan menjaga kemaslahatan umat sesuai
+dengan prinsip yang dimaksud oleh syariat. Meskipun sistem waralaba
+memiliki banyak keunggulan, belum tentu sempurna secara keseluruhan.
+Namun, dengan meminimalkan risiko bisnis tersebut melalui pendekatan
+maslahah dan menghindari mudharat, sistem waralaba tetap sesuai
+dengan prinsip maslahah mursalah.3 Oleh karena itu tulisan ini akan
+mengangkat mengenai maslahah mursalah dan implementasinya terhadap
+hukum keluarga.
+Metodologi
+Penelitian ini dilakukan dengan metode studi kepustakaan
+menggunakan pendekatan kualitatif. Fokus penelitian utama adalah
+menggali berbagai sumber referensi tertulis dalam rangka aktualisasi data
+dalam konteks maṣlahah mursalah dan penerapannya dalam Hukum
+Keluarga. Tujuan studi kepustakaan adalah untuk menyaring berbagai
+sumber data yang dikumpulkan dari berbagai literatur terpercaya, dengan
+maksud menghasilkan data yang bermanfaat bagi perkembangan ilmu di
+masa depan, terutama dalam konteks uṣhûl fiqh.
+Hasil dan Pembahasan
+Definisi Maṣlahah Mursalah
+Maslahah mursalah berasal dari kata maṣlahah dan juga mursalah.
+Etimologi kata maṣlahah terhubung dengan kata ṣalah sebagai sinonim,
+yang memiliki konsep suatu makna yatiu keselamatan dari cacat,
+kebaikan, kebenaran, ketetapan, atau menunjukkan sesuatu yang baik,
+benar, sempurna, teratur, terpuji, bermanfaat, jujur, dan tulus.4 Secara
+eksplisit, terdapat penjelasan dalam Kamus Besar Bahasa Indonesia
+3 Hadi Peristiwo and Abdul Hadi, “Konsep Al-Maslahah al-Mursalah Dalam Perspektif
+
+Ekonomi Pada Era Revolusi Industri 4.0,” Jurnal Al-Ahkam, No. 2, Vol. 15 (June 2019):
+67, https://doi.org/10.37035/ajh.v15i2.2402.
+4 Nawir Yuslem, Kitab Induk Usul Fikih (Bandung: Cipta Pustaka Media, 2007), 135.
+
+48 Muh. Adistira Maulidi H & Usep Saipullah – Maslahah Mursalah dan Penerapannya
+
+(KBBI) yang menjelaskan bahwa maslahat merupakan suatu konsep yang
+merujuk kepada suatu yang dapat mendatangkan manfaat, kebaikan,
+maupun faidah.5
+Dalam beberapa situasi, tidak setiap orang mampu memikirkan
+mengenai konsep tentang maslahat ini. Maslahat dapat dicapai bagi
+orang-orang yang menggunakan otak mereka untuk berfikir secara
+komprehensif, dan bersedia untuk berpikir menggunakan metode yang
+biasa digunakan oleh cendikiawan muslim. Sedangkan bagi masyarakat
+umum, maslahat merupakan suatu hal yang asing, dikarenakan
+ketidakmampuannya untuk dapat mengidentifikasi manfaat atau
+memahami makna yang terkandung dibalik suatu masalah ataupun
+hukum yang ada. Oleh karena menurut al-Ghazali, pada intinya maslahat
+berarti sesuatu yang menghasilkan kebaikan atau keuntungan serta pada
+saat yang sama menghindarkan dari kerugian atau kerusakan. Namun
+pada hakikatnya, maslahat bertujuan untuk mempertahankan tujuan
+shara‟ (maqâsidus shari‟ah) dalam menegakkan hukum.
+Konsep maslahat menurut Yusuf Hamid al-Alim dibagi menjadi
+dua arti, yaitu maṣlahah majâzî dan maṣlahah haqiqî. Maṣhlahah majazî
+mengacu pada perbuatan yang pada dasarnya memiliki kemanfaatan atau
+kebaikan. Contoh dari makna majazî ini adalah tindakan menuntut ilmu.
+Dengan mendapatkan ilmu, dapat menghasilkan manfaat atau kebaikan,
+begitu juga dengan bertani dan berdagang. Dengan melakukan kegiatan
+seperti pada contoh diatas, seseorang akan mendapatkan manfaat atau
+imbalan dari apa yang dikerjakannya, seperti bertambahnya ilmu bagi
+orang yang menuntut ilmu, dan juga kepemilikan harta atau keuntungan
+bagi yang bercocok tanam dan berdagang. Dengan kata lain, makna
+majazî mengacu pada perbuatan yang pada dasarnya membawa kebaikan
+atau manfaat.6
+Selanjutnya adalah maṣlahah haqiqî yang mengacu pada maslahat
+yang secara harfiah memiliki arti manfaat atau kemaslahatan. Jika
+dibandingkan dengan maṣlahah majâzî, tentu memiliki arti yang berbeda.
+Lebih lanjut dijelaskan, al-maṣlahah memiliki arti sebagai sesuatu yang
+bermanfaat atau sesuai dalam konteksnya yang sebenarnya. Contoh yang
+diberikan adalah pena yang memiliki kemaslahatan untuk penulisan.
+Dengan kata lain, pena itu memang memberikan manfaat dalam tindakan
+kepenulisan. Sehingga maslahat dalam pengertian hakiki mengacu pada
+
+5 Nur Rofifah and Imam Nahe’i, Kajian Tentang Hukum Dan Penghukuman Dalam Islam
+
+(Jakarta: Komnas HAM, 2016), 50.
+6 Yusuf Hamid al-’Alim, Al-Maqasid al-Ammah Li Asy-Syari„ah al-Islâmiyyah (Riyadh:
+International Islamic Publishing House, 1994), 132.
+Volume 5, Nomor 1, Januari 2024
+
+49
+
+manfaat yang ada secara nyata dalam perbuatan itu sendiri, bukan
+sekadar manfaat yang diambil oleh manusia dari apa yang dilakukannya.
+Sedangkan menurut bahasa, al-Mursalah memiliki arti kebebasan
+ataupun dapat berarti sesuatu yang terlepas. Jika digabungkan menjadi
+sebuah kalimat utuh yaitu maṣlahah mursalah, mengacu kepada penjelasan
+beberapa ulama, memiliki penjelasan sebagai berikut.
+Abdul Wahab Khallaf menjelasan pengertian dari maṣlahah mursalah
+yaitu situasi dimana shara‟ tidak secara tegas mengatur mengenai hukum
+yang berkaitan dengan maslahat tersebut. Tidak terdapatnya penjelasan
+mengenai dalil dan sumber yang secara eksplisit mengarahkan atau
+mengakui atau bahkan membatalkan maslahat tersebut dalam konteks
+hukum Islam. Dengan kata lain, maṣlahah mursalah adalah maslahat yang
+tidak terdapat penjelasannya dalam sumber hukum utama umat Islam
+seperti al-Qur’an dan sunah.7
+Dalam kitab al-Mushtashfa, al-Ghazali menjelaskan definisi maṣlahah
+mursalah yaitu suatu kegiatan apa pun yang tidak memiliki dalil dukungan
+dari naṣ yang terdapat dalam sumber hukum yang ada, baik memberi
+perintah, larangan, dan tidak ada pula yang memperhatikannya. Dengan
+kata lain, maṣlahah mursalah adalah maslahat yang tidak memiliki dasar
+hukum yang spesifik dalam teks hukum Islam dan tidak diperhatikan
+oleh hukum syariat dengan jelas. Al-Syaukani dalam kitab Irsyâd al-Fuḥûl
+memberikan penjelasan mengenai definisi maslahat yaitu suatu perkara
+yang tidak dapat dipastikan apakah syara‟ menolaknya atau
+mempertimbangkannya. Dengan kata lain, maslahat tersebut adalah
+maslahat yang belum jelas statusnya dalam kerangka hukum syara‟,
+apakah diterima ataupun ditolak.
+Berdasarkan beberapa penjelasan mengenai definisi maṣlahah
+mursalah diatas, terdapat perbedaan redaksi yang mungkin terlihat, pada
+intinya terdapat kesamaan mendasar yang mencakup suatu situasi dalam
+menetapkan hukum yang tidak terdapat ketentuan jelas dalam al-Qur’an
+atau sunah. Hal ini didasarkan pada pertimbangan yang ditujukan untuk
+kemaslahatan dan kepentingan hidup umat manusia, yang bersandar pada
+prinsip mengejar kemanfaatan dan menjauhi atau bahkan menghindari
+kerusakan. Dengan kata lain, kesamaan inti adalah penggunaan hikmah
+dan pertimbangan maslahat dalam menetapkan hukum di luar ketentuan
+tegas dari teks-teks utama Islam.
+
+7 Abdullah
+
+Wahab Khallaf, Ilmu Ushulul Fiqh. Terj. Noer Iskandar al-Bansany, KaidahKaidah Hukum Islam, Cet. 8 (Jakarta: PT. Raja Grafindo Perkasa, 2002), 123.
+
+50 Muh. Adistira Maulidi H & Usep Saipullah – Maslahah Mursalah dan Penerapannya
+
+Dasar Hukum dan Kehujahan Maṣlahah Mursalah
+Jika kita melihat kembali kepada definisi maslahat yang
+dikemukakan al-Syaukani, dijelaskan bahwa maslahat itu belum jelas
+statusnya dalam kerangka hukum syara‟, apakah diterima atau ditolak.
+Meskipun demikian, justru landasan hukum yang digunakan oleh
+maṣlahah mursalah ini berasal dari al-Qur’an dan hadis. Bahkan bisa
+dibilang landasan hukumnya banyak ditemukan, seperti yang dijelaskan
+pada ayat-ayat berikut ini:8
+
+ِ
+‫وى ْم‬
+َ َ‫ِف الدُّنْيَا َواْل ِخَرِة ۗ َويَ ْسأَلُون‬
+ُ ُ‫صَل ٌح ََلُْم َخْي ٌر ۖ َوإِ ْن ُتَالط‬
+ْ ِ‫ك َع ِن الْيَ تَ َام ٰى ۖ قُ ْل إ‬
+ِ ِ
+‫اَّللَ َع ِز ٌيز َح ِك ٌيم‬
+‫َعنَ تَ ُك ْم ۚ إِ هن ه‬
+‫صلِ ِح ۚ َولَ ْو َشاءَ ه‬
+‫فَِإ ْخ َوانُ ُك ْم ۚ َو ه‬
+ْ ‫اَّللُ َل‬
+ْ ‫اَّللُ يَ ْعلَ ُم الْ ُم ْفس َد م َن الْ ُم‬
+“Tentang dunia dan akhirat. Dan mereka bertanya kepadamu
+tentang anak yatim, katakalah: "Mengurus urusan mereka secara
+patut adalah baik, dan jika kamu bergaul dengan mereka, maka
+mereka adalah saudaramu; dan Allah mengetahui siapa yang
+membuat kerusakan dari yang mengadakan perbaikan. Dan jikalau
+Allah menghendaki, niscaya Dia dapat mendatangkan kesulitan
+kepadamu. Sesungguhnya Allah Maha Perkasa lagi Maha
+Bijaksana.” (Q.S. al-Baqarah: 220)
+
+ُّ ‫هاس قَ ْد َجاءَتْ ُكم هم ْو ِعظَةٌ ِّمن هربِّ ُك ْم َو ِش َفآءٌ لِّ َما ِِف‬
+ٌ‫ٱلص ُدوِر َو ُى ًدى َوَر ْْحَة‬
+ُ ‫َيَٰيُّ َها ٱلن‬
+ِ
+ِ‫ض ِل ه‬
+ِِ ِ
+‫ك فَلْيَ ْفَر ُحوا ُى َو َخْي ٌر ِّمها َْي َمعُو َن‬
+ْ ‫ي قُ ْل بَِف‬
+َ ‫ٱَّلل َوبَِر ْْحَتِ ِوۦ فَبِ َٰذل‬
+َ ‫لّلْ ُم ْؤمن‬
+“Hai manusia, sesungguhnya telah datang kepadamu pelajaran dari
+Tuhanmu dan penyembuh bagi penyakit-penyakit (yang berada) dalam
+dada dan petunjuk serta rahmat bagi orang-orang yang beriman"
+Katakanlah: "Dengan kurnia Allah dan rahmat-Nya, hendaklah
+dengan itu mereka bergembira. Kurnia Allah dan rahmat-Nya itu
+adalah lebih baik dari apa yang mereka kumpulkan". (Q.S Yûnus:
+57)
+Hadis yang diriwayatkan oleh Imam Ibnu Majah
+
+ِ ٍِ
+ٍ ِ
+ِِ
+: َ ‫قَا‬. ِ‫ي َر ِض َي للاُ َعْنوُ أَ هن َر ُس ْوَ للا‬
+ِّ ‫َع ْن أَِِب َسعْيد َس ْعد بْ ِن َمالك بْ ِن سنَان اخلُ ْد ِر‬
+‫اج ْو‬
+ٌ ْ‫ضَرَر َوالَ ِضَر َار» َح ِدي‬
+َ َ‫«ال‬
+َ ‫ َرَواهُ ابْ ُن َم‬.‫ث َح َس ٌن‬
+“Dari Abu Sa‟id Sa‟ad bin Malik bin Sinan Al-Khudri
+radhiyallahu „anhu bahwa Rasulullah shallallahu „alaihi wa sallam
+bersabda, “Tidak boleh memberikan mudarat tanpa disengaja atau
+pun disengaja.” (Hadis hasan, H.R. Ibnu Majah)
+
+Departemen Agama RI, Al-Qur‟an Dan Terjemahannya (Semarang: CV. Asy-Syifa’,
+1984).
+8
+
+Volume 5, Nomor 1, Januari 2024
+
+51
+
+Dalam salah satu bukunya, Abdul Wahab Khalaf menyatakan
+bahwa Imam Malik, Imam Ahmad bin Hanbal dan para pengikut mereka
+memegang erat prinsip istiṣlah sebagai metode syariat untuk menentukan
+hukum terkait peristiwa-peristiwa yang tidak memiliki dasar hukum yang
+kuat baik dari naṣ maupun dari ijma‟ ulama. Sedangkan Imam al-Syafi’i
+dan para pengikut madzhabnya, dalam konteks ini tidak memberikan
+rekomendasi dalam penggunaan konsep istiṣlah. Mereka memegang
+prinsip bahwa seorang muslim yang menerapkan istiṣlah adalah sama
+dengan yang menggunakan istiḥsan, karena keduanya dianggap cukup
+identik.
+Diantara para ulama yang menggunakan maṣlahah mursalah sebagai
+ḥujjah adalah Imam Maliki, sebagai ulama yang masyhur menggunakan
+metode ini meskipun banyak pengikut Imam Maliki menolak pendekatan
+ini secara faktual. Imam Maliki seringkali memberikan fatwa-fatwa yang
+didasarkan pada maslahat dalam berbagai konteks hukum yang
+dihadapinya.9
+Klasifikasi Maṣhlahah Mursalah
+Kontinuitas kekuatan maslahat bisa dipelajari dengan
+mempertimbangkan tujuan syara‟ dalam menetapkan hukum, yang terkait
+dengan lima prinsip utama kehidupan manusia: spiritualitas (agama),
+keselamatan jiwa, intelektualitas (akal), keselamatan keturunan, dan
+kekayaan (harta). Evaluasi kekuatan maslahat juga bergantung pada
+seberapa besar kebutuhan dan permintaan kehidupan manusia terhadap
+kelima aspek ini. Dalam aspek kekuatan dari maṣlahah mursalah sebagai
+dasar (ḥujjah) dalam menentukan hukum, dibagi menjadi tiga macam,
+yaitu kemaslahatan primer (maṣlahah ḍaruriyyah), kemaslahatan sekunder
+(maṣlahah ḥajiyah), dan kemashlahatan tersier (maṣlahah taḥsiniyyah).
+Kemashlahatan primer (mahlahah ḍaruriyah) adalah jenis
+kemaslahatan yang sangat penting dalam kehidupan manusia.
+Kehadirannya adalah suatu kebutuhan yang tak terpisahkan dari prinsipprinsip utama, artinya jika tidak terpenuhinya maslahat ini dalam
+kehidupan manusia, maka kehidupan manusia tidak memiliki makna
+apapun. Keberadaan kemaslahatan ini sangat penting sehingga jika
+diabaikan akan mengakibatkan kehancuran dalam struktur kehidupan
+manusia. Jika ditarik kedalam contoh penerapannya dalam kehidupan,
+dapat berupa larangan murtad sebagai bagian dari menjaga agama,
+larangan pembunuhan sebagai bagian dari menjaga keselamatan jiwa,
+9 Saifudin
+
+Zuhri, Ushul Fiqh Akal Sebagai Sumber Hukum Islam, Cet. 2 (Yogyakarta:
+Pustaka Pelajar, 2011), 85–86.
+
+52 Muh. Adistira Maulidi H & Usep Saipullah – Maslahah Mursalah dan Penerapannya
+
+melarang meminum alkohol maupun minuman keras (khamr) demi
+menjaga keselamatan akal, larangan berzina demi menjaga keturunan, dan
+melarang mencuri sebagai bagian dari menjaga harta.10
+Kemashlahatan sekunder (maṣlahah ḥajiyah) adalah jenis
+kemaslahatan yang kedudukannya tidak sepenting maṣlahah ḍaruriyah.
+Kemaslahatan ini tidak terkait secara langsung dengan pemenuhan
+kebutuhan dasar manusia, tetapi secara tidak sadar dapat berkontribusi
+kedalam tujuan syara‟ tersebut. Contoh kemashlahatan sekunder
+mencakup mengaji dan mempelajari ilmu agama bertujuan untuk
+menegakkan agama, melakukan aktifitas makan dan minum bertujuan
+untuk kelangsungan hidup, belajar mengasah kemampuan berfikir
+bertujuan untuk meningkatkan akal, serta melakukan pekerjaan ataupun
+perdagangan bertujuan untuk memperoleh harta. Sedangkan
+kemaslahatan tersier (maṣlahah taḥsiniyyah) adalah jenis kemaslahatan yang
+merupakan pelengkapan dari maṣlahah ḍaruriyah atau ḥajiyah yang masih
+terhubung dengan lima tujuan syara‟. Memang secara ẓohir dapat dilihat
+bahwa kemashlahatan tersier ini tidak perlu dipenuhi oleh manusia.
+Tetapi disisi lain, tujuan utama dari kemashlahatan ini adalah sebagai
+penyempurna bagi kehidupan umat manusia.
+Gagasan mengenai maṣhlahah mursalah pertama kali digagas oleh
+Imam Maliki. Dalam perjalanannya, para ulama merumuskan
+sistematisasi terhadap maṣhlahah mursalah agar timbulnya keserasian
+(munâsib) antara istiṣhlah dengan tujuan hukum. Sehingga terbagilah
+maṣhlahah mursalah dalam tiga bagian, yaitu kemaslahatan pada naṣ
+(maṣlahah mu‟tabarah), kemaslahatan yang ditolak (maṣlahah mulghah), dan
+kemaslahatan tidak pada naṣ (maṣlahah mursalah).
+Kemaslahatan pada nasṣ (maṣlahah mu'tabarah) adalah kemaslahatan
+yang keberadaannya didasarkan pada dalil naṣ, baik itu dalam al-Qur’an
+maupun hadis. Dengan kata lain, semua hukum yang dijelaskan dalam
+naṣ disebut sebagai maṣlahah mu'tabarah. Jika ditarik kedalam penerapan
+dari maṣlahah mu'tabarah. Terdapat beberapa contoh, termasuk larangan
+keras untuk membunuh, larangan mencuri, larangan melakukan tindakan
+asusila (berzina), larangangan berjudi, dan lain sebagainya. Jika terdapat
+situasi atau timbulnya hukum yang baru terhadap suatu permasalahan,
+maka hukum baru tersebut dapat ditentukan melalui analogi dengan
+maslahat yang telah ditentukan dalam dua sumber hukum Islam. Dalam
+
+10 Firdaus, Ushul Fiqh (Ciputat: Penerbit, 2004), 83.
+Volume 5, Nomor 1, Januari 2024
+
+53
+
+kajian ilmu uṣhûl fiqh, Metode pengambilan keputusan terkait masalah
+yang baru muncul seperti ini dikenal sebagai qiyâs.11
+Kemaslahatan yang ditolak (maṣlahah al-mulghah), adalah jenis
+kemaslahatan yang dianggap oleh akal manusia sebabagai kemashlahatan
+yang baik, namun disisi lain hukum syara' melarangnya atau tidak
+memperbolehkannya. Terdapat beberapa isyarat dalam hukum Islam
+yang menolak kemaslahatan ini, dengan kata lain meskipun sesuatu
+mungkin tampak masuk akal atau bermanfaat menurut pandangan
+manusia, jika syara‟ secara tegas atau implisit melarangnya maka
+kemaslahatan tersebut tidak boleh diikuti atau dijadikan dasar untuk
+tindakan atau hukum syariah yang baru.
+Sebagai contoh ada seorang yang sangat kaya raya melakukan
+hubungan badan dengan istrinya di siang hari di bulan Ramadan.
+Kemudian hukuman yang akan diterimanya adalah puasa secara berturutturut selama dua bulan penuh. Hal ini meskipun terlihat membuatnya
+jera tidak dibolehkan oleh syara‟, maka hukuman yang diterimanya adalah
+sesuai dengan ketentuan al-Qur’an yaitu memerdekakan hamba sahaya,
+meskipun di sisi lain adalah mampu.
+Kemudian yang terakhir adalah maṣlahah mursalah yaitu jenis
+kemaslahatan yang secara eksplisit tidak disebutkan dalam naṣ, tetapi naṣ
+juga tidak melarang atau menolaknya. Dalam konteks ini, meskipun nash
+tidak secara khusus menyebutkan maṣlahah tersebut, namun tidak ada
+ketentuan dalam syara‟ yang secara tegas melarangnya. Oleh karena itu,
+ulama dalam beberapa situasi tertentu dapat mempertimbangkan dan
+mendasarkan hukum syara‟ pada maṣlahah mursalah, meskipun bukan
+berdasarkan petunjuk langsung dari naṣ. Ini memberikan kerangka kerja
+yang lebih luas untuk menafsirkan dan menerapkan hukum Islam dalam
+situasi-situasi di mana istiṣlah ini relevan dan penting.12
+Syarat Maṣlahah Mursalah sebagai Dasar Legislasi Hukum Islam
+Dalam perjalanannya, banyak perhatian terhadap istiṣlah baik dari
+kalangan ulama maupun masyrakat Islam pada umumnya. Di sisi lain,
+kebanyakan ulama sangat amat terbantu dengan adanya istiṣlah yang bisa
+menjadikan jalan mereka dalam menentukan hukum cenderung lebih
+mudah. Tapi sebaliknya, jika setiap permasalahan dijadikan berdasar
+kepada kemaslahatan hal ini juga cepat atau lambat dapat menimbulkan
+kemadharatan. Oleh karena hal itu, para ulama berusaha merumuskan
+11 Imron Rosadi, “Maslahah Mursalah Sebagai Dalil Hukum,” Jurnal SHUF, No. 1, 24
+
+(2012): 22, http://hdl.handle.net/11617/2910.
+12 Al-Ghazali, Al-Mustasfa Min „Ilm al-Usûl (Beirut: Dar al-Fikr, n.d.), 251.
+
+54 Muh. Adistira Maulidi H & Usep Saipullah – Maslahah Mursalah dan Penerapannya
+
+beberapa syarat dalam menetapkan maṣlahah mursalah jika ingin
+diterapkan sebagai suatu hukum Islam.
+Al-Syatibi menjelaskan mengenai syarat penerapan maṣlahah
+mursalah jika ingin diterapkan sebagai hukum Islam jika kemaslahatan
+tersebut dasar hukum yang terdapat dalam ketentuan yang ada hukum
+syara‟, dan juga yang perlu diperhatikan lebih lanjut adalah mengenai ilmu
+uṣhûl dan furu‟ nya tidak berlawanan dengan apa yang ada didalam teks
+hukum. Satu hal yang harus menjadi perhatian mengenai kemaslahatan
+adalah, teori ini hanya dapat diaplikasikan dalam ruang lingkup ilmu
+sosial bermasyarakat (mu'âmalah) dimana aspek rasionalitas lebih terbuka
+dibandingkan dengan ruang lingkup bidang peribadatan. Hal ini
+dikarenakan dalam ilmu social (mu‟âmalah), syara‟ tidak mengatur dengan
+sangat rinci. Terakhir, hasil dari maslahat bertujuan untuk menjaga aspekaspek Primer (Ḍaruriyyah), Sekunder (Ḥajiyyah), dan juga Tersier
+(Taḥsiniyyah). Teori kemaslahatan digunakan sebagai cara untuk
+mengatasi berbagai permasalahan yang ada dalam hidup manusia,
+terutama dalam konteks hubungan manusia dengan manusia yang
+lainnya.13
+Sedangkan melihat penjelasan Abdul Wahhab Khallaf, syarat
+maṣlahah mursalah jika ingin diterapkan sebagai hukum Islam merujuk
+kepada merupakan kepentingan yang nyata dan bukan sekadar asumsi
+(secara hakiki) tetapi didasarkan pada riset, kewaspadaan, serta
+pendalaman terhadap suatu masalah secara komprehensif, serta jelas
+memberikan manfaat serta menghindari madarat. Merupakan
+kepentingan banyak orang, bukan ditujukan demi terwujudnya hasrat
+individu, juga tidak menimbulkan kontradiksi antara istiṣlah dengan
+hukum qaṭ‟i baik dalam al-Qur'an, hadis, dan ijma' ulama.14 Selaras
+dengan penjelasan diatas, al-Ghazali menambahkan bahwa maṣlahah
+mursalah dapat diaplikasikan kedalam hukum Islam jika memenuhi
+kriteria yaitu sesuai dengan prinsip-prinsip syariat, tidak berusaha
+melangkahi hukum yang telah ada, dan harus adanya unsur darurat atau
+keperluan yang bersifat urgen yang berkaitan dengan kemaslahatan yang
+ada dalam masyarakat.15
+Berdasarkan pernyataan ulama mengenai penerapan teori
+kemashlahatan, dapat ditarik simpulan bahwa maṣlahah mursalah tidak bisa
+digunakan semena-mena. Terdapat beberapa klasifikasi yang wajib
+13 Al- Syatibi, Al-I‟tishom (Beirut: Dar al-Fikr, 1991), 115.
+
+14 Khallaf, Ilmu Ushulul Fiqh. Terj. Noer Iskandar al-Bansany, Kaidah- Kaidah Hukum Islam,
+
+125.
+15 Mukhsin Jamil, Kemaslahatan Dan Pembaharuan Hukum Islam (Semarang: Walisongo
+Press, 2008), 24.
+Volume 5, Nomor 1, Januari 2024
+
+55
+
+dijalankan oleh mukallaf dalam memahami teori kemashlahatan sebagai
+dasar ditetapkannya suatu hukum. Syarat-syarat di atas juga menekankan
+larangan menggunakan istiṣlah dalam beberapa permasalahan yang masih
+dalam tahap prasangka (zanni), terlebih perkara tersebut dapat
+menimbulkan kemudaratan. Terakhir, maslahat tersebut harus
+memberikan manfaat secara umum, dapat diakses oleh berbagai pihak
+dan tidak boleh menyimpang dari tujuan yang terdapat dalam al-Qur'an
+dan hadis sebagai sumber hukum dan pedoman bagi seluruh masyarakat
+Islam.
+Implementasi Maslahah Mursalah dalam Masalah Hukum
+Keluarga
+Hukum tentu memiliki tujuan untuk memberikan kesejahteraan
+bagi masyarakat luas. Oleh karena itu dalam perjalanannya, para pembuat
+hukum terlebih di Indonesia ini banyak bersinggungan dengan teori
+kemaslahatan. Namun dalam tulisan ini, akan diuraikan sedikit mengenai
+sekian contoh kasus dari hukum keluarga yang menggunakan maṣlahah
+mursalah sebagai dalil hukumnya.
+Pencatatan merupakan hal yang diwajibkan oleh undang-undang
+yang mengatur calon pasangan suami istri jika hendak melaksanakan
+perkawinan. Hal ini diatur dalam pasal 2 ayat 2 Undang-Undang Nomor
+1 Tahun 1974 yang berbunyi “Tiap-tiap perkawinan dicatat menurut peraturan
+perundang-undangan yang berlaku”. Karena dampak pencatatan perkawinan
+tidak terbatas sebagai syarat administrasi belaka, melainkan sebagai bukti
+akan permasalahan-permasalahan yang terjadi kedepannya yang
+merupakan dampak dari dilaksanakannya perkawinan tersebut. Seperti
+perceraian, hak asuh anak, perwalian, dan lain sebagainya.
+Namun pada hakikatnya, pencatatan perkawinan ini bukan
+merupakan hal yang wajib dilakukan dalam hukum Islam. Menurut
+pendapat yang populer dikalangan jumhur ulama, rukun perkawinan itu
+hanya sebatas pada calon suami, calon isteri, wali, dua orang saksi, dan
+juga ṣigat atau ijab kabul. Sehingga perkawinan dinyatakan sah apabila
+terdapat lima rukun di atas, dan jika salah satunya tidak terpenuhi maka
+perkawinan tersebut dianggap tidak sah. Jadi pengaruh pencatatan
+perkawinan dalam hukum Islam sebenarnya tidak ada karena tidak ada
+ketentuan yang mengaturnya. Hanya terbatas pada sah atau tidaknya
+syarat dan rukun nikahnya.
+Oleh karena tidak adanya ketentuan dari hukum Islam yang bisa
+dijadikan landasan bagi pembuat hukum untuk mengatur pencatatan
+perkawinan ini, maka digunakanlah teori maṣlahah mursalah. Karena dalam
+maṣlahah mursalah diberikan penjelasan bahwa apa yang tidak dijelaskan
+56 Muh. Adistira Maulidi H & Usep Saipullah – Maslahah Mursalah dan Penerapannya
+
+dalam al-Qur’an dan hadis dapat dijadikan sebagai suatu hukum dengan
+dasar memberikan kemaslahatan dan menolak kemudaratan.
+Jika kembali kepada penerapan teori kemashlahatan kedalam
+hukum Islam, didasarkan kepada kepentingan masyarakat umum, bukan
+hanya kepentingan perorangan saja. Maka, pencatatan perkawinan ini
+sudah memenuhi syarat tersebut. Karena, jika tidak adanya pencatatan
+perkawinan, maka terjadi tidak terpenuhinya syarat administrasi seorang
+warga negara sehingga tidak memiliki dokumen resmi yang menjadi bukti
+terjadinya suatu peristiwa hukum (perkawinan), dalam hal ini akte nikah.
+Jika sepasang suami istri tidak memiliki bukti pernikahan mereka (akte
+nikah), hal ini juga dapat berimplikasi tidak adanya kekuatan hukum
+dalam mendapatkan layanan hukum dari instansi yang berwenang.
+Sebagai contoh tidak tidak terdaftarnya perkawinan tersebut dalam Dinas
+Kependudukan dan Pencatatan Sipil (DISDUKCAPIL), tidak
+mendapatkan akte kelahiran bagi anak, dan lain sebagainya. Dapat
+disimpulkan dari pernyataan diatas, bahwa istri dan anak mendapatkan
+mudarat dari tidak tercatatnya suatu perkawinan.
+Selain itu juga harta bersama dari suatu perkawinan yang tidak
+dicatat dapat menimbulkan mudarat yang lebih besar jika suatu saat
+dihadapkan dalam suatu perceraian. Pemerintah sebagai pemegang
+otoritas tertinggi dalam hal ini, dalam membuat undang-undang
+memberikan kewajiban bagi setiap warga negara yang hendak
+melaksanakan perkawinan agar dicatatkan sehingga tidak menimbulkan
+kemudaratan di kemudian hari.16 Dalam kasus hukum keluarga lainnya
+yang berkaitan dengan maṣlahah mursalah adalah dalam batas usia minimal
+dalam melaksanakan perkawinan. Sebagaimana kita ketahui dalam hukum
+Islam, bahwa usia perkawinan tidak diatur secara mendetail. Bahkan
+dalam sebuah hadis dikatakan bahwa Nabi Muhammad SAW menikahi
+istrinya Aisyah RA pada saat beliau masih berumur enam tahun dan
+menggaulinya pada umur sembilan tahun.17 Disisi lain, zaman itu di
+Jazirah Arab menikahi perempuan yang masih muda adalah hal yang
+umum dan telah menjadi norma budaya masyarakat Arab. Ini mungkin
+dipandang sebagai respon terhadap budaya yang sangat menghormati
+dan melindungi kehormatan perempuan dalam kerangka Islam. Salah
+satu cara untuk menjaga dan menghormati kehormatan perempuan
+
+16 Ali Mutakin, “Implementasi Mashlahah Mursalah Dalam Kasus Perkawinan,” Jurnal
+
+KORDINAT,
+No.
+2,
+Vol.
+XVII
+(Oktober
+2018):
+342–46,
+https://doi.org/10.15408/kordinat.v17i2.9615.
+17 Abu Abdullah Muhammad bin Ismail Al- Bukhari, Ensiklopedia Hadits; Shahih alBukhari 1. Terj. Masyhar Dan Muhammad Suhadi, Cet. I (Jakarta: Almahira, 2011), 17.
+Volume 5, Nomor 1, Januari 2024
+
+57
+
+adalah memberikan mereka pasangan hidup yang berperan sebagai
+pemimpin keluarga.
+Pemerintah selaku pemegang kekuasaan tertinggi dalam mengatur
+setiap hal yang berkaitan dengan masyarakat tentu saja harus
+memberikan peraturan yang dapat menimbulkan kemaslahatan bagi
+seluruh pihak. Perkawinan bertujuan untuk menciptakan lingkup
+keluarga yang bertujuan untuk memberikan kebahagiaan dan
+kesejahteraan melalui terciptanya hubungan yang harmonis dan suasana
+yang didalamnya mengayomi seluruh keluarganya, yang senantiasa
+diberkahi dan dipandu oleh Tuhan Yang Maha Kuasa. Untuk mencapai
+hal ini, sangat penting bagi calon pengantin untuk matang dalam
+beberapa aspek, termasuk kematangan usia saat menikah, kematangan
+dalam pemikiran, dan kematangan dalam tindakan, demi terwujudnya
+perkawinan sebagaimana beberapa aspek yang dijelaskan di atas.18
+Pada mulanya, batasan usia untuk perkawinan diatur dalam pasal 7
+ayat (1) Undang-Undang Nomor 1 Tahun 1974 dan pasal 15 ayat (1)
+Kompilasi Hukum Islam (KHI), dimana perkawinan hanya
+diperbolehkan jika pihak pria telah mencapai usia 19 tahun dan pihak
+wanita telah mencapai usia 16 tahun. Tetapi, ketentuan ini diubah oleh
+Undang-Undang Nomor 16 Tahun 2019 yang menetapkan bahwa
+perkawinan dapat diizinkan jika kedua belah pihak, pria dan wanita,
+mencapai usia 19 tahun.
+Dari aturan di atas tampak munculnya teori maṣlahah mursalah yang
+diterapkan dalam pengaturan batas usia dalam melaksanakan perkawinan.
+Hal ini juga didasari kepada fakta sosial yang ada dalam masyarakat yang
+menyebabkan aturan mengenai batas usia ini dapat diterapkan. Namun
+dikarenakan batas usia merupakan sesuatu yang ijtihâdiyyah yang benar
+nya pun dianggap relatif, maka ketentuan yang berlaku tersebut tidak
+bersifat kaku. Jika sewaktu-waktu terdapat beberapa hal yang
+mengharuskan mereka untuk melaksanakan perkawinan di bawah
+ketentuan yang berlaku, maka pemerintah harus turut serta mencarikan
+jalan keluarnya (dalam hal ini berhak untuk mengajukan dispensasi
+perkawinan).
+Ditekankannya aturan mengenai batas usia dalam undang-undang
+perkawinan tentu memiliki tujuan kemaslahatan bagi semua pihak yang
+terlibat di dalamnya. Dapat diambil simpulan bahwa calon suami dan istri
+harus memiliki kedewasaan fisik dan mental yang memadai, agar mereka
+dapat mencapai tujuan perkawinan dengan baik, mencegah perceraian,
+serta dapat melahirkan keturunan yang memiliki kesehatan jasmani.
+18 Abdul Manan, Aneka Masalah Hukum Perdata Islam Di Indonesia (Jakarta: Kencana,
+
+2006), 11.
+
+58 Muh. Adistira Maulidi H & Usep Saipullah – Maslahah Mursalah dan Penerapannya
+
+Dikarenakan beberapa alasan diatas, perkawinan yang melibatkan calon
+pengantin yang usianya masih dibawah usia yang ditetapkan dalam
+undang-undang, perlakuan hakim yang tepat adalah dihindari ataupun
+ditolak permohonannya. Hal ini dilakukan agar dapat mengurangi risiko
+perceraian akibat ketidakmatangan mereka dalam mengemban tanggung
+jawab sebagai suami maupun istri.
+Kesimpulan
+Pada dasarnya, beberapa definisi tentang maṣlahah mursalah
+memiliki kesamaan mendasar yang terkait dengan penegakan hukum
+Islam dalam situasi di mana ketentuan yang jelas tidak tersedia dalam alQur'an atau sunnah. Ini berakar pada pertimbangan terhadap
+kemaslahatan atau kepentingan manusia yang berlandaskan pada prinsip
+mencari manfaat dan menghindari kerusakan. Artinya, inti kesamaannya
+adalah penggunaan kebijaksanaan dan pertimbangan maslahat untuk
+menetapkan hukum ketika tidak ada ketentuan yang tegas dalam teks
+utama hukum Islam.
+Dalam segi penggunaaan maṣlahah mursalah sebagai ḥujjah, Imam
+Malik, Imam Ahmad, dan para pengikut mereka memegang erat prinsip
+istiṣlah sebagai metode syariah untuk menentukan hukum terkait
+peristiwa-peristiwa yang tidak memiliki dasar yang kuat baik dari naṣ
+maupun dari ijma‟ ulama. Sedangkan Imam asy-Syafi’i beserta para
+pengikutnya, mengemukakan pendapat mereka bahwa mereka menolak
+konsep istiṣlah dengan memegang prinsip bahwasanya setiap orang yang
+menerapkan istiṣlah adalah sama dengan yang menggunakan istiḥsan,
+karena istiṣlah dianggap identik dengan istiḥsan.
+Dalam aspek kekuatan dari maṣlahah mursalah sebagai ḥujjah dalam
+menentukan hukum, dibagi menjadi tiga macam yaitu kemaslahatan
+primer (maṣlahah ḍaruriyyah), kemaslahatan sekunder (maṣlahah ḥajiyah),
+dan kemaslahatan tersier (maṣlahah taḥsiniyyah). Sedangkan dalam munâsib
+antara istiṣlah dengan tujuan hukum, terbagilah menjadi tiga bagian, yaitu
+kemaslahatan pada naṣ (maṣlahah mu‟tabarah), kemaslahatan yang ditolak
+(maṣlahah mulghah), dan yang terakhir adalah maṣlahah mursalah.
+Maṣlahah mursalah bukan merupakan kaidah yang bisa digunakan
+semena-mena. Terdapat beberapa klasifikasi khusus yang wajib dipenuhi
+oleh mukallaf dalam memahami maṣlahah mursalah sebagai dasar
+ditetapkannya suatu hukum. Syarat-syarat di atas juga menekankan
+larangan menggunakan istiṣlah dalam beberapa permasalahan yang masih
+dalam tahap prasangka (ẓanni), terlebih perkara tersebut dapat
+menimbulkan kemudaratan. Terakhir, maslahat tersebut harus
+Volume 5, Nomor 1, Januari 2024
+
+59
+
+memberikan manfaat secara umum, dapat diakses oleh berbagai pihak,
+dan tentu tidak boleh menyimpang dari tujuan yang terdapat dalam alQur'an dan hadis sebagai sumber hukum dan pedoman bagi seluruh
+masyarakat Islam.
+Penerapan kaidah maṣlahah mursalah dalam hukum yang ada di
+Indonesia sangat banyak sekali, termasuk di dalamnya wilayah hukum
+keluarga. Contoh implementasi dalam hukum keluarga adalah pencatatan
+perkawinan yang diwajibkan oleh warga negara yang hendak melakukan
+perkawinan. Dan juga batas usia minimal dalam melaksanakan
+perkawinan yang diatur menjadi 19 tahun untuk pria dan 19 tahun untuk
+wanita.
+Daftar Pustaka
+Al- Syatibi. Al-I‟tishom. Beirut: Dar al-Fikr, 1991.
+Al-Ghazali. Al-Mustasfa Min „Ilm al-Usûl. Beirut: Dar al-Fikr, n.d.
+Alim, Yusuf Hamid al-’. Al-Maqasid al-Ammah Li Asy-Syari„ah alIslâmiyyah. Riyadh: International Islamic Publishing House, 1994.
+Al-Jalil, Abdul Aziz bin Nashir. Tidakkah Kalian Berfikir. Cet. I. Jakarta:
+Cakrawala, 2008.
+Firdaus. Ushul Fiqh. Ciputat: Penerbit, 2004.
+Jamil, Mukhsin. Kemaslahatan Dan Pembaharuan Hukum Islam. Semarang:
+Walisongo Press, 2008.
+Khallaf, Abdullah Wahab. Ilmu Ushulul Fiqh. Terj. Noer Iskandar alBansany, Kaidah- Kaidah Hukum Islam. Cet. 8. Jakarta: PT. Raja
+Grafindo Perkasa, 2002.
+Manan, Abdul. Aneka Masalah Hukum Perdata Islam Di Indonesia. Jakarta:
+Kencana, 2006.
+Mutakin, Ali. “Implementasi Mashlahah Mursalah Dalam Kasus
+Perkawinan.” Jurnal KORDINAT, No. 2, Vol. XVII (Oktober
+2018). https://doi.org/10.15408/kordinat.v17i2.9615.
+RI, Departemen Agama. Al-Qur‟an Dan Terjemahannya. Semarang: CV.
+Asy-Syifa’, 1984.
+Rofifah, Nur, and Imam Nahe’i. Kajian Tentang Hukum Dan Penghukuman
+Dalam Islam. Jakarta: Komnas HAM, 2016.
+Rosadi, Imron. “Maslahah Mursalah Sebagai Dalil Hukum.” Jurnal
+SHUF, No. 1, 24 (2012). http://hdl.handle.net/11617/2910.
+60 Muh. Adistira Maulidi H & Usep Saipullah – Maslahah Mursalah dan Penerapannya
+
+Syarifuddin, Amir. Pembaharuan Pemikiran Dalam Hukum Islam. Padang:
+Angkasa Raya, 1990.
+Yuslem, Nawir. Kitab Induk Usul Fikih. Bandung: Cipta Pustaka Media,
+2007.
+Zuhri, Saifudin. Ushul Fiqh Akal Sebagai Sumber Hukum Islam. Cet. 2.
+Yogyakarta: Pustaka Pelajar, 2011.
+
+Volume 5, Nomor 1, Januari 2024
+
+61
+
+

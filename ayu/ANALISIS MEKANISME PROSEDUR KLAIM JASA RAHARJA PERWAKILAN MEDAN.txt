@@ -1,0 +1,292 @@
+Jurnal Review Pendidikan dan Pengajaran, Volume 8 Nomor 1, 2025 | 1141
+Jurnal Review Pendidikan dan Pengajaran
+http://journal.universitaspahlawan.ac.id/index.php/jrpp
+Volume 8 Nomor 1, 2025
+P-2655-710X e-ISSN 2655-6022
+
+Dinda Fahira Lubis1
+Tri Inda Fadhila
+Rahma2
+
+Submitted : 02/01/2025
+Reviewed : 05/01/2025
+Accepted : 05/01/2025
+Published : 16/01/2025
+
+ANALISIS MEKANISME PROSEDUR KLAIM JASA RAHARJA PERWAKILAN MEDAN
+
+Abstrak
+Penelitian ini bertujuan untuk menganalisis proses klaim asuransi kecelakaan pada Jasa Raharja
+perwakilan Medan, dengan fokus pada kebutuhan pemangku kepentingan dan solusi yang dapat
+diimplementasikan untuk meningkatkan efisiensi dan efektivitas pelayanan. Metodologi yang
+digunakan meliputi studi literatur, dan menganalisis dari berbagai sumber ilmiah yang relevan.
+Hasil penelitian menunjukkan bahwa terdapat berbagai kendala dalam proses klaim, termasuk
+kurangnya pemahaman masyarakat tentang prosedur klaim, lambatnya respons dari pihak Jasa
+Raharja, dan kendala administrasi yang mempengaruhi kecepatan penyelesaian klaim. Selain
+itu, analisis juga mengidentifikasi kebutuhan penting seperti edukasi kepada masyarakat,
+peningkatan sistem informasi, serta penguatan kapasitas sumber daya manusia di Jasa Raharja.
+Berdasarkan temuan tersebut, solusi yang diusulkan meliputi program sosialisasi, digitalisasi
+proses klaim, serta peningkatan kolaborasi dengan pihak terkait. Penelitian ini diharapkan dapat
+memberikan kontribusi bagi pengembangan kebijakan dan praktik terbaik dalam pengelolaan
+klaim asuransi kecelakaan di Indonesia, serta memberikan rekomendasi yang dapat
+meningkatkan kepuasan dan perlindungan bagi masyarakat.
+Kata Kunci: Klaim Asuransi, Kecelakaan, Jasa Raharja, Analisis Kebutuhan, Solusi.
+Abstract
+This research aims to analyze the accident insurance claims process at Jasa Raharja representing
+Medan, with a focus on stakeholder needs and solutions that can be implemented to increase
+service efficiency and effectiveness. The methodology used includes literature studies and
+analysis of various relevant scientific sources. The research results show that there are various
+obstacles in the claims process, including a lack of public understanding of the claims
+procedure, slow response from Jasa Raharja, and administrative obstacles that affect the speed
+of claim settlement. Apart from that, the analysis also identified important needs such as
+education for the community, improving information systems, and strengthening human
+resource capacity at Jasa Raharja. Based on these findings, the proposed solutions include
+outreach programs, digitalization of the claims process, and increased collaboration with related
+parties. It is hoped that this research can contribute to the development of policies and best
+practices in managing accident insurance claims in Indonesia, as well as providing
+recommendations that can increase satisfaction and protection for the community.
+Keywords: Insurance Claims, Accidents, Raharja Services, Needs Analysis, Solutions.
+PENDAHULUAN
+Perlindungan bagi korban kecelakaan lalu lintas merupakan salah satu aspek penting
+dalam pembangunan sosial dan hukum di Indonesia. Jasa Raharja, sebagai lembaga yang
+ditunjuk pemerintah, memiliki peran strategis dalam memberikan perlindungan dan jaminan
+kepada masyarakat. Didirikan berdasarkan Undang-Undang Nomor 33 Tahun 1964, Jasa
+Raharja bertujuan untuk memberikan santunan kepada korban kecelakaan yang disebabkan oleh
+kendaraan bermotor, baik bagi korban yang meninggal dunia maupun yang mengalami lukaluka. (Undang-Undang No. 33 Tahun 1964 tentang Dana Pertanggungan Wajib Kecelakaan
+Lalu Lintas.)
+
+1,2
+
+Fakultas Ekonomi dan Bisnis Islam, Universitas Islam Negeri Sumatera Utara
+email: dindafahiralubis@gmail.com, triindafadhila@uinsu.ac.id
+
+Jurnal Review Pendidikan dan Pengajaran (JRPP)
+
+Jurnal Review Pendidikan dan Pengajaran, Volume 8 Nomor 1, 2025 | 1142
+Perwakilan Medan, sebagai salah satu cabang dari Jasa Raharja, melayani wilayah yang
+memiliki tingkat kecelakaan lalu lintas yang cukup tinggi. Kota Medan, dengan kepadatan
+penduduk dan volume kendaraan yang terus meningkat, menjadi salah satu daerah yang rawan
+kecelakaan. Oleh karena itu, mekanisme prosedur layanan di Jasa Raharja Perwakilan Medan
+sangat penting untuk dianalisis guna memastikan efektivitas dan efisiensi dalam memberikan
+layanan kepada korban. (Jasa Raharja. (2023). "Prosedur Klaim Jasa Raharja.")
+Prosedur pengajuan klaim di Jasa Raharja melibatkan serangkaian langkah yang harus
+dilalui oleh korban atau ahli waris. Mulai dari pengumpulan dokumen, verifikasi, penilaian
+kerugian, hingga pencairan santunan, setiap tahap memiliki perannya masing-masing dalam
+menentukan cepat atau lambatnya proses klaim. Namun, dalam praktiknya, terdapat berbagai
+tantangan yang dapat mempengaruhi kelancaran prosedur ini. Beberapa di antaranya mencakup
+keterbatasan sumber daya manusia, tingkat kesadaran masyarakat tentang hak-hak mereka, dan
+kompleksitas birokrasi yang sering kali menjadi penghambat. (Jasa Raharja. (2023). "Prosedur
+Klaim Jasa Raharja.")
+Meskipun Jasa Raharja telah melakukan berbagai upaya untuk meningkatkan layanan,
+seperti sosialisasi kepada masyarakat dan digitalisasi proses klaim, tetap diperlukan pemahaman
+yang lebih mendalam tentang mekanisme yang ada. Analisis ini diharapkan dapat memberikan
+gambaran komprehensif tentang bagaimana prosedur di Jasa Raharja Perwakilan Medan
+dijalankan, tantangan yang dihadapi, serta langkah-langkah perbaikan yang dapat diterapkan
+untuk meningkatkan kualitas layanan. (Nasution, M. (2020). "Analisis Proses Klaim Asuransi di
+Indonesia.")
+Dengan melakukan penelitian ini, diharapkan dapat memberikan kontribusi bagi
+pengembangan kebijakan publik terkait perlindungan korban kecelakaan lalu lintas, serta
+memberikan rekomendasi bagi Jasa Raharja untuk mengoptimalkan mekanisme prosedur
+layanan mereka. Melalui analisis ini, penulis berharap dapat menjembatani kesenjangan
+informasi antara kebijakan dan praktik yang terjadi di lapangan, sehingga perlindungan yang
+diberikan dapat lebih efektif dan berdampak positif bagi masyarakat. (Nasution, M. (2020).
+"Analisis Proses Klaim Asuransi di Indonesia.")
+Jasa Raharja merupakan lembaga yang memiliki peran strategis dalam memberikan
+perlindungan asuransi bagi masyarakat Indonesia, khususnya terkait kecelakaan lalu lintas. Di
+kota Medan, sebagai salah satu pusat kegiatan ekonomi dan sosial, kebutuhan akan layanan
+asuransi yang responsif dan efektif semakin mendesak. Masyarakat di Medan, yang rentan
+terhadap risiko kecelakaan, memerlukan pemahaman yang jelas mengenai produk dan layanan
+yang ditawarkan oleh Jasa Raharja, serta bagaimana cara mengaksesnya. (Putri, R. (2021).
+"Analisis Efektivitas Prosedur Klaim Jasa Raharja.")
+Namun, masih terdapat berbagai tantangan dalam memenuhi kebutuhan masyarakat. Di
+antaranya adalah kurangnya sosialisasi mengenai prosedur klaim, kompleksitas proses
+administrasi, serta keterbatasan informasi mengenai hak dan kewajiban pemegang polis. Hal ini
+berpotensi mengakibatkan ketidakpuasan terhadap layanan dan mengurangi tingkat kepercayaan
+masyarakat terhadap Jasa Raharja. (Putri, R. (2021). "Analisis Efektivitas Prosedur Klaim Jasa
+Raharja.")
+Penelitian ini bertujuan untuk menganalisis kebutuhan masyarakat Medan terhadap
+layanan Jasa Raharja serta mengidentifikasi solusi yang tepat untuk mengatasi permasalahan
+yang ada. Dengan pendekatan yang komprehensif, diharapkan dapat ditemukan rekomendasi
+yang mampu meningkatkan efisiensi dan efektivitas layanan Jasa Raharja, serta memperkuat
+pemahaman masyarakat mengenai asuransi. Temuan dari penelitian ini diharapkan dapat
+memberikan kontribusi yang signifikan terhadap peningkatan kualitas pelayanan publik di
+bidang asuransi sosial, serta mendukung upaya peningkatan keselamatan dan kesejahteraan
+masyarakat di Medan. (Nasution, M. (2020). "Analisis Proses Klaim Asuransi di Indonesia."
+METODE
+Penelitian ini bersifat deskriptif, bertujuan untuk memberikan gambaran mendetail
+mengenai prosedur klaim dan berbagai aspek yang terlibat. Metode yang digunakan dalam
+penelitian ini adalah studi literatur. Data dikumpulkan dari berbagai sumber, termasuk dokumen
+resmi, artikel jurnal, dan laporan terkait yang membahas prosedur klaim Jasa Raharja. Analisis
+dilakukan untuk mengidentifikasi mekanisme dan tantangan yang ada. Metode penelitian ini
+
+Jurnal Review Pendidikan dan Pengajaran (JRPP)
+
+Jurnal Review Pendidikan dan Pengajaran, Volume 8 Nomor 1, 2025 | 1143
+dirancang untuk menganalisis mekanisme prosedur klaim Jasa Raharja di Perwakilan Medan.
+Penelitian ini bertujuan untuk mengidentifikasi faktor-faktor yang mempengaruhi efisiensi dan
+efektivitas proses klaim serta memberikan rekomendasi perbaikan.
+HASIL DAN PEMBAHASAN
+Jasa Raharja adalah lembaga yang memberikan perlindungan kepada korban kecelakaan
+lalu lintas di Indonesia. Prosedur klaim yang jelas dan efisien sangat penting untuk memastikan
+bahwa korban atau ahli waris dapat menerima santunan sesuai dengan haknya. Di Medan,
+pemahaman tentang mekanisme klaim menjadi krusial bagi masyarakat yang terlibat dalam
+kecelakaan lalu lintas. (Undang-Undang No. 33 Tahun 1964 tentang Dana Pertanggungan Wajib
+Kecelakaan Lalu Lintas.)
+1. Prosedur Klaim Jasa Raharja
+Mekanisme klaim di Jasa Raharja Perwakilan Medan terdiri dari beberapa tahapan yang
+krusial untuk memastikan pemohon mendapatkan haknya dengan tepat dan cepat. Berikut
+adalah rincian dari tahapan tersebut.
+A. Pengajuan Klaim
+Proses ini dimulai ketika pemohon mengisi formulir klaim yang disediakan oleh Jasa
+Raharja. Berdasarkan wawancara dengan pemohon, ditemukan bahwa pengisian
+formulir tersebut seringkali disertai dengan kesulitan dalam memahami syarat dan
+dokumen yang diperlukan. Sebagian besar pemohon tidak sepenuhnya mengetahui
+persyaratan dokumen, seperti surat keterangan kecelakaan dari pihak berwenang dan
+bukti medis. Hal ini menyebabkan ketidakpastian dan keterlambatan dalam pengajuan
+klaim. (Jasa Raharja. (2023). Pedoman Pelayanan Klaim. www.jasaraharja.co.id )
+B. Verifikasi Klaim
+Setelah pengajuan, tahap selanjutnya adalah verifikasi dokumen oleh petugas.
+Berdasarkan data, waktu verifikasi rata-rata berkisar antara 7 hingga 14 hari. Selama
+proses ini, banyak pemohon mengeluhkan kurangnya transparansi mengenai status
+klaim mereka. Beberapa dari mereka merasa tidak mendapatkan informasi yang
+cukup, yang menyebabkan kekhawatiran akan ketidakpastian hasil klaim. Oleh karena
+itu, diperlukan sistem komunikasi yang lebih baik untuk menjelaskan status dan proses
+klaim kepada pemohon. (Jasa Raharja. (2023). Pedoman Pelayanan Klaim.
+www.jasaraharja.co.id )
+C. Pencairan Dana
+Setelah klaim disetujui, dana akan dicairkan kepada pemohon. Rata-rata waktu
+pencairan dana adalah sekitar 5 hari kerja setelah proses verifikasi selesai. Namun,
+terdapat kendala administratif yang seringkali menyebabkan keterlambatan dalam
+pencairan. Beberapa pemohon melaporkan bahwa mereka harus melakukan follow-up
+berulang kali untuk memastikan pencairan dana mereka. Hal ini menunjukkan
+perlunya perbaikan dalam manajemen dan pengelolaan proses pencairan dana. (Jasa
+Raharja. (2023). Pedoman Pelayanan Klaim. www.jasaraharja.co.id )
+2. Tantangan yang Dihadapi
+Terdapat beberapa tantangan signifikan yang dihadapi oleh Jasa Raharja Perwakilan
+Medan dalam melaksanakan prosedur klaim:
+A. Masalah Administratif
+Berdasarkan temuan, masalah administratif merupakan salah satu tantangan utama.
+Banyak pemohon yang mengalami kebingungan terkait dokumen yang harus
+disiapkan, yang berujung pada pengisian formulir yang tidak lengkap. Keterbatasan
+informasi yang disediakan di lokasi pengajuan juga berkontribusi terhadap masalah
+ini. Sebagai solusi, peningkatan sosialisasi mengenai prosedur klaim dan daftar
+dokumen yang diperlukan sangat diperlukan untuk membantu masyarakat. (Syahriza,
+R. (2022). Analisis Kualitas Pelayanan Terhadap Klaimen PT Jasa Raharja Cabang
+SumateraUtara.)
+B. Persepsi Masyarakat
+Survei yang dilakukan menunjukkan bahwa meskipun mayoritas masyarakat merasa
+puas dengan keramahan petugas, mereka mengeluhkan waktu proses klaim yang
+dianggap lambat. Sebanyak 30% responden menyatakan tidak puas, terutama
+
+Jurnal Review Pendidikan dan Pengajaran (JRPP)
+
+Jurnal Review Pendidikan dan Pengajaran, Volume 8 Nomor 1, 2025 | 1144
+berkaitan dengan komunikasi yang tidak memadai selama proses verifikasi. Hal ini
+menunjukkan bahwa ada kebutuhan mendesak untuk meningkatkan keterbukaan dan
+transparansi dalam komunikasi dengan pemohon. (Puspitasari, D. (2022). "Tantangan
+dan Solusi dalam Proses Klaim Jasa Raharja".)
+C. Teknologi dan Inovasi
+Salah satu faktor yang dapat meningkatkan efisiensi adalah pemanfaatan teknologi.
+Namun, saat ini, Jasa Raharja Perwakilan Medan masih mengandalkan metode
+manual dalam banyak prosesnya. Adanya sistem online untuk pengajuan dan
+pelacakan status klaim dapat mengurangi beban administratif dan mempercepat
+proses. Penelitian menunjukkan bahwa banyak pemohon lebih memilih pengajuan
+secara digital, yang dapat memberikan akses lebih luas dan kemudahan dalam
+mengelola klaim. (Puspitasari, D. (2022). "Tantangan dan Solusi dalam Proses Klaim
+Jasa Raharja".)
+3. Kepuasan Masyarakat
+Dalam melakukan evaluasi terhadap kepuasan masyarakat, dilakukan survei terhadap
+100 responden. Hasil survei menunjukkan:
+A. Tingkat Kepuasan
+Sekitar 70% responden menyatakan puas dengan layanan yang diberikan oleh Jasa
+Raharja, terutama dalam hal keramahan dan sikap petugas yang membantu. Namun,
+masih terdapat 30% responden yang merasa tidak puas. Mereka menganggap bahwa
+prosedur yang panjang dan kurangnya informasi yang jelas menjadi faktor utama
+ketidakpuasan tersebut. (Yafiz, M. (2022). Analisis Tingkat Kepuasan Nasabah
+Terhadap Kualitas Pelayanan Dan Sistem Penyerahan Santunan Pt Jasa Raharja
+Perwakilan Tk. I Medan.)
+B. Rekomendasi Perbaikan
+Dari hasil survei, masyarakat memberikan beberapa rekomendasi perbaikan. Di
+antaranya adalah:
+Sosialisasi yang Lebih Baik: Penyelenggaraan seminar atau workshop untuk
+memberikan pemahaman kepada masyarakat mengenai prosedur klaim dan dokumen
+yang diperlukan.
+Pengembangan Sistem Digital: Implementasi sistem online untuk mempermudah
+pengajuan klaim dan memungkinkan pemohon untuk melacak status klaim mereka
+secara real-time.
+Pelatihan untuk Petugas: Peningkatan kapasitas petugas dalam hal pelayanan
+pelanggan dan penanganan klaim untuk mengurangi waktu respon dan meningkatkan
+kepuasan pemohon.
+(Puspitasari, D. (2022). "Tantangan dan Solusi dalam Proses Klaim Jasa Raharja".)
+Kurangnya pemahaman masyarakat mengenai prosedur klaim menjadi hambatan
+signifikan. Banyak pemohon yang tidak sepenuhnya memahami dokumen apa saja yang
+diperlukan dan bagaimana cara mengajukan klaim dengan benar, yang sering kali menyebabkan
+penundaan dalam proses. Oleh karena itu, penting bagi Jasa Raharja untuk meningkatkan upaya
+sosialisasi dan pendidikan kepada masyarakat melalui berbagai media dan kegiatan yang lebih
+interaktif, respon petugas dalam menangani klaim juga menjadi sorotan. Ditemukan bahwa
+tidak semua petugas memiliki keterampilan dan pengetahuan yang memadai mengenai prosedur
+klaim yang berlaku, yang dapat berakibat pada ketidakpuasan pemohon. Oleh karena itu,
+pelatihan yang berkelanjutan dan evaluasi kinerja petugas sangat diperlukan untuk memastikan
+bahwa mereka dapat memberikan pelayanan yang cepat, akurat, dan ramah. Selain itu,
+transparansi dalam proses klaim juga menjadi faktor penting. Banyak pemohon yang merasa
+kebingungan mengenai status klaim mereka, sehingga menciptakan persepsi negatif terhadap
+pelayanan yang diberikan. Penerapan sistem pelacakan klaim yang lebih baik, yang
+memungkinkan pemohon untuk memantau perkembangan klaim mereka secara real-time, dapat
+meningkatkan kepercayaan publik terhadap institusi. Akhirnya, peningkatan kolaborasi antara
+Jasa Raharja dan instansi terkait, seperti kepolisian dan rumah sakit, perlu dioptimalkan untuk
+mempercepat proses verifikasi dan pengumpulan informasi yang diperlukan. Dengan langkahlangkah ini, diharapkan prosedur klaim Jasa Raharja di perwakilan Medan dapat berjalan lebih
+efektif dan efisien, memberikan perlindungan hukum yang lebih baik bagi masyarakat, serta
+
+Jurnal Review Pendidikan dan Pengajaran (JRPP)
+
+Jurnal Review Pendidikan dan Pengajaran, Volume 8 Nomor 1, 2025 | 1145
+meningkatkan kepuasan pengguna layanan. Secara keseluruhan, analisis ini menegaskan
+pentingnya evaluasi berkelanjutan dan perbaikan dalam mekanisme klaim Jasa Raharja untuk
+mencapai tujuan utama sebagai lembaga yang melindungi dan memberikan bantuan kepada
+masyarakat dalam situasi darurat. (Puspitasari, D. (2022). "Tantangan dan Solusi dalam Proses
+Klaim Jasa Raharja".)
+SIMPULAN
+Prosedur klaim di Jasa Raharja Perwakilan Medan memiliki mekanisme yang terstruktur
+namun masih perlu perbaikan, terutama dalam hal sosialisasi dan kelengkapan dokumen.
+Dengan meningkatkan pemahaman masyarakat dan memperbaiki sistem, diharapkan proses
+klaim dapat berjalan lebih efisien, sehingga korban atau ahli waris dapat segera menerima
+santunan yang menjadi hak mereka.
+prosedur klaim di Jasa Raharja Perwakilan Medan mencakup beberapa langkah penting
+yang harus diikuti untuk memastikan klaim dapat diproses dengan baik. Pertama, pemohon
+perlu mengumpulkan semua dokumen yang diperlukan, termasuk identitas diri, laporan
+kecelakaan, dan bukti pengobatan. Selanjutnya, pemohon harus mengisi formulir klaim dengan
+informasi yang akurat dan menyerahkannya beserta dokumen pendukung ke petugas Jasa
+Raharja, disertai dengan mendapatkan tanda terima sebagai bukti pengajuan.
+DAFTAR PUSTAKA
+Marbun, Y. R. (2022). Analisis Sistem Dan Prosedur Pembayaran Klaim Kecelakaan Dalam
+Upaya Meningkatkan Penegendalian Intern Pada PT. JASA RAHARJA
+PERWAKILANMEDAN
+Yafiz, M. (2022). Analisis Tingkat Kepuasan Nasabah Terhadap Kualitas Pelayanan Dan Sistem
+Penyerahan Santunan Pt Jasa Raharja Perwakilan Tk. I Medan.
+Harahap, R. P. S. (2021). Strategi Humas PT. Jasa Raharja Perwakilan TK II Padangsidimpuan
+Dalam Meningkatkan Pemahaman Masyarakat Terhadap Klaim Kecelakaan Lalu Lintas
+(Doctoral dissertation, Universitas Islam Negeri Sumatera Utara Medan).
+Syahriza, R. (2022). Analisis Kualitas Pelayanan Terhadap Klaimen PT Jasa Raharja Cabang
+SumateraUtara.
+Sari, R. (2021). Analisis Prosedur Klaim Asuransi di Jasa Raharja: Studi Kasus Perwakilan
+Medan. Tesis. Universitas Sumatera Utara.
+Jasa Raharja. (2020). Pedoman Pelayanan Klaim Jasa Raharja. Jakarta: Jasa Raharja.
+(https://www.jasaraharja.co.id/)
+Arief, M. (2022). "Mekanisme Klaim Asuransi Sosial di Indonesia: Tinjauan terhadap Jasa
+Raharja".
+Nasution, F. (2024). Studi Komparatif Prosedur Klaim Asuransi Jasa Raharja di Berbagai
+Wilayah. Disertasi. Universitas Negeri Medan.
+Puspitasari, D. (2022). "Tantangan dan Solusi dalam Proses Klaim Jasa Raharja". Jurnal Hukum
+dan Kebijakan Publik, 8(3), 200-215.
+Undang-Undang No. 33 Tahun 1964 tentang Dana Pertanggungan Wajib Kecelakaan Lalu
+Lintas.
+Jasa Raharja. (2023). Pedoman Pelayanan Klaim.: www.jasaraharja.co.id
+Jasa Raharja. (2023). "Prosedur Klaim Jasa Raharja."
+Nasution, M. (2020). "Analisis Proses Klaim Asuransi di Indonesia."
+Putri, R. (2021). "Analisis Efektivitas Prosedur Klaim Jasa Raharja.
+Prosedur pengajuan santunan https://www.jasaraharja.co.id/page/detail/prosedur-pengajuan
+Nilai santunan https://www.jasaraharja.co.id/page/detail/lingkup-jaminan
+
+Jurnal Review Pendidikan dan Pengajaran (JRPP)
+
+

@@ -1,0 +1,501 @@
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+PENERAPAN SISTEM ADMINISTRASI DAN ALUR KERJA PELAYANAN PENGAJUAN SANTUNAN KECELAKAAN DI PT. JASA RAHARJA CABANG SUKABUMI
+
+Mayla Falza Virgiany
+Universitas Nusa Putra
+mayla.falza_mn22@nusaputra.ac.id
+Article History
+
+ABSTRAK
+
+Received : Mei 2026
+
+Pelayanan pengajuan santunan kecelakaan merupakan Reviewed: Mei 2026
+kegiatan utama PT. Jasa Raharja dalam memberikan Published: Mei 2026
+perlindungan
+
+dasar
+
+kepada
+
+masyarakat.
+
+Kegiatan
+
+pengabdian ini bertujuan untuk mendeskripsikan penerapan
+sistem administrasi dan alur kerja pelayanan pengajuan
+
+Copyright : Author
+Publish by : Krepa
+
+santunan di PT. Jasa Raharja Cabang Sukabumi. Metode
+yang digunakan adalah participatory action research (PAR)
+melalui tahapan perencanaan, pelaksanaan tindakan,
+
+This work is licensed
+under a Creative
+
+observasi, dan refleksi. Hasil kegiatan menunjukkan bahwa Commons Attributionpenerapan sistem administrasi yang terstruktur dan alur NonCommercial 4.0
+kerja yang jelas, mulai dari penerimaan dokumen, International License
+pemeriksaan kelengkapan, penginputan data ke dalam
+sistem JR Care dan DASI, hingga pengarsipan, mampu
+mendukung kelancaran pelayanan. Selain mekanisme klaim
+reguler, terdapat pula mekanisme Ex Gratia untuk kondisi
+tertentu. Simpulan dari kegiatan ini adalah sistem
+administrasi yang tertata dan alur kerja yang berjenjang
+berperan penting dalam menjaga akuntabilitas dan ketepatan
+pelayanan publik.
+Kata Kunci: Pelayanan Publik, Santunan Kecelakaan, PT.
+Jasa Raharja, Alur Kerja, Sistem Administrasi
+1. PENDAHULUAN
+Kecelakaan lalu lintas merupakan salah satu risiko tinggi yang dihadapi masyarakat
+pengguna jalan. Di Indonesia, perlindungan dasar bagi korban kecelakaan dijamin oleh PT.
+Jasa Raharja sebagai Badan Usaha Milik Negara (BUMN) yang menyelenggarakan asuransi
+sosial berdasarkan Undang-Undang No. 33 dan 34 Tahun 1964 (Hidayati et al., 2022). PT. Jasa
+Raharja bertanggung jawab dalam menghimpun dan menyalurkan dana santunan sebagai
+
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+bentuk jaminan pertanggungjawaban kepada korban atau ahli waris korban kecelakaan lalu
+lintas di jalan raya (S. Utami, 2022).
+PT. Jasa Raharja Cabang Sukabumi merupakan salah satu unit kerja operasional yang
+bertugas melaksanakan kegiatan pelayanan dan administrasi perusahaan di wilayah Kota dan
+Kabupaten Sukabumi. Dalam pelaksanaan tugasnya, cabang ini menjalin kerja sama dengan
+berbagai instansi terkait, seperti Kepolisian, rumah sakit, dan pemerintah daerah guna
+memastikan proses penanganan korban kecelakaan serta penyaluran santunan berjalan sesuai
+ketentuan.
+Berdasarkan observasi awal, ditemukan bahwa kelancaran pelayanan pengajuan santunan
+sangat ditentukan oleh penerapan sistem administrasi dan kejelasan alur kerja. Proses
+pelayanan yang melibatkan pemeriksaan dokumen, verifikasi data, serta persetujuan berjenjang
+merupakan bagian dari sistem administrasi dan pengendalian intern (Fani & Wibowo, 2021).
+Pemanfaatan sistem pelayanan berbasis digital juga dinilai mampu mempercepat proses
+administrasi santunan karena data kecelakaan, data medis, dan data kependudukan dapat
+diakses secara terintegrasi dan real-time antarinstansi terkait (Pandeirot et al., 2024).
+Namun demikian, dalam pelaksanaannya masih ditemukan beberapa kendala, seperti
+ketidaklengkapan dokumen pengajuan dari masyarakat, kurangnya pemahaman terhadap
+prosedur klaim dan mekanisme Ex Gratia, serta perlunya koordinasi administrasi yang cepat
+antarinstansi terkait. Kendala administrasi dan kurangnya pemahaman masyarakat terhadap
+prosedur klaim masih menjadi hambatan dalam proses pelayanan santunan kecelakaan (Lubis
+et al., 2025). Kondisi tersebut menunjukkan pentingnya penerapan sistem administrasi yang
+terstruktur dan terintegrasi guna mendukung efektivitas pelayanan santunan kecelakaan. Oleh
+karena itu, kegiatan pengabdian ini difokuskan pada pendampingan dan pemahaman terhadap
+alur kerja pelayanan pengajuan santunan di PT. Jasa Raharja Cabang Sukabumi.
+Literatur menyebutkan bahwa efektivitas pelayanan publik sangat ditentukan oleh kualitas
+sistem administrasi dan kompetensi sumber daya manusia (Sima et al., 2020). Keteraturan
+administrasi dan kejelasan alur kerja pelayanan menjadi faktor utama dalam menunjang
+kelancaran kegiatan operasional (Oktavia & Dwiridotjahjono, 2024). Penelitian sebelumnya
+juga menekankan pentingnya sistem informasi administrasi untuk meningkatkan efisiensi dan
+akurasi (I. K. W. Saputra et al., 2024). Sistem informasi pelayanan berbasis digital dinilai
+mampu mempercepat alur administrasi, mempermudah proses pengajuan klaim, serta
+meningkatkan efisiensi pelayanan kepada masyarakat (Aprillio et al., 2026). Kegiatan
+pengabdian ini bertujuan untuk mendeskripsikan dan memperkuat pemahaman terhadap
+
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+penerapan sistem administrasi serta alur kerja pelayanan pengajuan santunan di PT. Jasa
+Raharja Cabang Sukabumi.
+2. METODE
+Kegiatan pengabdian kepada masyarakat ini menggunakan metode Participatory Action
+Research (PAR). Metode PAR merupakan pendekatan yang menekankan keterlibatan aktif
+penulis bersama pihak terkait dalam setiap tahapan kegiatan untuk menganalisis kondisi yang
+terjadi secara langsung di lapangan (H. Saputra et al., 2024). Selain itu, metode PAR juga
+merupakan pendekatan kolaboratif dan partisipatif yang melibatkan pihak terkait mulai dari
+tahap perencanaan, pelaksanaan, observasi, hingga refleksi agar kegiatan yang dilaksanakan
+sesuai dengan kebutuhan lapangan (Bahruddin & Supriyono, 2024).
+Kegiatan dilaksanakan di PT. Jasa Raharja Cabang Sukabumi yang berlokasi di Jalan R.
+Syamsudin, S.H. No. 36, Kecamatan Cikole, Kota Sukabumi, Jawa Barat. Pemilihan metode
+PAR didasarkan pada karakteristik kegiatan yang melibatkan partisipasi langsung penulis
+dalam proses pelayanan administrasi pengajuan santunan kecelakaan bersama petugas
+pelayanan perusahaan. Tahapan kegiatan dalam metode PAR meliputi:
+1. Tahap Perencanaan (Planning)
+Pada tahap ini dilakukan observasi awal dan diskusi bersama Kepala Cabang serta
+Penanggung Jawab (PJ) Pelayanan untuk memahami kondisi alur pelayanan santunan,
+mengidentifikasi kendala administrasi, serta menyusun rencana kegiatan yang akan
+dilaksanakan.
+2. Tahap Pelaksanaan Tindakan (Action)
+Tahap pelaksanaan tindakan dilakukan melalui keterlibatan langsung penulis dalam
+kegiatan operasional pelayanan pengajuan santunan kecelakaan, seperti pemeriksaan
+dokumen, penginputan data ke dalam sistem DASI, pencetakan dokumen melalui
+sistem DASI dan JR Care, verifikasi data ahli waris melalui sistem DWH Dukcapil,
+serta pengarsipan dokumen digital melalui SMDD (Sistem Manajemen Dokumen
+Digital).
+3. Tahap Observasi (Observation)
+Tahap observasi dilakukan dengan mengamati kesesuaian prosedur administrasi,
+kendala yang muncul selama proses pelayanan, serta efektivitas penggunaan sistem
+digital dalam mendukung kegiatan operasional pelayanan santunan.
+
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+4. Tahap Refleksi (Reflection)
+Tahap refleksi dilakukan melalui diskusi bersama petugas pelayanan untuk meninjau
+pelaksanaan kegiatan, mengidentifikasi hambatan yang masih ditemukan, serta
+menyusun catatan perbaikan terhadap prosedur pelayanan pengajuan santunan.
+Melalui tahapan tersebut, metode PAR memungkinkan penulis memperoleh pemahaman
+secara langsung mengenai penerapan sistem administrasi dan alur kerja pelayanan pengajuan
+santunan kecelakaan di PT. Jasa Raharja Cabang Sukabumi.
+Gambar 1. Tahapan Metode Participatory Action Research (PAR)
+
+3. HASIL DAN PEMBAHASAN
+Pelaksanaan kegiatan pengabdian masyarakat melalui metode Participatory Action
+Research (PAR) di PT. Jasa Raharja Cabang Sukabumi menghasilkan pemahaman mengenai
+penerapan sistem administrasi dan alur kerja pelayanan pengajuan santunan kecelakaan. Sistem
+administrasi yang diterapkan melibatkan penggunaan sistem digital, pemeriksaan dokumen
+secara berjenjang, serta koordinasi antarinstansi dalam mendukung proses pelayanan santunan.
+Hasil kegiatan menunjukkan bahwa penerapan administrasi yang terstruktur berperan dalam
+menjaga ketepatan data, kelancaran proses pelayanan, serta akuntabilitas penyaluran santunan
+kepada masyarakat.
+3.1 Alur Kerja Pelayanan Santunan Korban Luka-Luka
+Proses pelayanan pengajuan santunan bagi korban kecelakaan luka-luka diawali dengan
+pengecekan status klaim melalui sistem JR Care. Apabila status klaim telah menunjukkan done,
+maka seluruh dokumen yang tersedia pada sistem tersebut dicetak sebagai kelengkapan awal.
+Sistem JR Care digunakan sebagai media pemantauan dan pengendalian awal pengajuan
+santunan. Penerapan sistem pelayanan digital dalam proses santunan kecelakaan dinilai mampu
+meningkatkan kecepatan pelayanan dan mempermudah akses data antarinstansi secara realtime (Pandeirot et al., 2024).
+
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+Selanjutnya, proses administrasi dilanjutkan melalui sistem DASI untuk mencetak
+dokumen pendukung berupa laporan polisi, KSKK (Keterangan Singkat Kejadian
+Kecelakaan), dan surat jaminan. Setelah seluruh dokumen terkumpul, dokumen pengajuan
+diperiksa oleh PJ Pelayanan untuk memastikan kelengkapan dan kesesuaian dokumen. Apabila
+dokumen dinyatakan lengkap, dokumen diajukan kepada Kepala Cabang untuk memperoleh
+persetujuan (acc) sebelum dilakukan proses input dan otorisasi data klaim melalui sistem
+DASI.
+Dalam pelaksanaannya, penggunaan sistem administrasi berbasis digital membantu
+mempercepat proses verifikasi dan pengolahan data klaim. Sistem yang terintegrasi juga
+mempermudah koordinasi antarbagian serta mengurangi risiko kesalahan administrasi selama
+proses pelayanan berlangsung. Kondisi tersebut menunjukkan bahwa penerapan sistem
+administrasi digital berperan penting dalam meningkatkan efektivitas dan efisiensi pelayanan
+santunan kecelakaan.
+Apabila dalam proses pemeriksaan administrasi diketahui bahwa korban tidak memenuhi
+ketentuan jaminan asuransi, maka pengajuan santunan tidak diproses sebagai klaim reguler.
+Dalam kondisi tersebut, pengajuan santunan dapat dilakukan melalui mekanisme Ex Gratia
+sesuai dengan kebijakan perusahaan dan ketentuan yang berlaku. Ex Gratia merupakan
+mekanisme pelayanan yang diberikan dalam kondisi tertentu ketika korban kecelakaan tidak
+termasuk dalam cakupan jaminan polis asuransi. Kebijakan santunan di luar jaminan reguler
+menjadi bentuk kebijaksanaan perusahaan dalam menangani kondisi tertentu yang tidak
+tercakup dalam ketentuan utama santunan kecelakaan (Muhris & Taufiqqurohman, 2025).
+Dalam proses administrasinya, pengajuan Ex Gratia didukung oleh beberapa dokumen,
+antara lain surat pengajuan santunan, lembar disposisi penolakan, serta surat permohonan
+kebijaksanaan pembayaran santunan (Shabrina et al., 2022). Setelah memperoleh persetujuan
+dan otorisasi dari Kepala Cabang, dokumen pengajuan dikirim ke kantor pusat untuk dilakukan
+verifikasi lanjutan sebelum pembayaran santunan direalisasikan. Keterlibatan kantor pusat
+dalam tahap verifikasi menunjukkan adanya pengendalian internal dan pemisahan fungsi guna
+menjaga ketepatan serta akuntabilitas penyaluran santunan.
+3.2 Alur Kerja Pelayanan Santunan Korban Meninggal Dunia
+Proses pelayanan pengajuan santunan bagi korban kecelakaan meninggal dunia diawali
+dengan penerimaan dokumen pengajuan klaim dari keluarga atau ahli waris korban. Dokumen
+yang diterima meliputi laporan polisi, identitas korban berupa KTP dan Kartu Keluarga,
+identitas ahli waris, serta dokumen pendukung hubungan antara korban dan ahli waris.
+
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+Selanjutnya, petugas mencetak dokumen pendukung melalui sistem DASI berupa KSKK
+sebagai bagian dari kelengkapan administrasi pengajuan santunan.
+Untuk memastikan keabsahan penerima santunan, dilakukan pengecekan hubungan antara
+korban dan ahli waris melalui sistem DWH Dukcapil. Koordinasi antarinstansi seperti PT. Jasa
+Raharja, Kepolisian, rumah sakit, dan Dukcapil menjadi faktor penting dalam mendukung
+ketepatan dan kelancaran pelayanan santunan kecelakaan (Nuraeni et al., 2025). Tahapan
+tersebut merupakan bagian dari pengendalian administrasi guna memastikan ketepatan sasaran
+penerima santunan serta keabsahan data yang digunakan dalam proses klaim.
+Seluruh dokumen yang telah terkumpul kemudian diperiksa oleh PJ Pelayanan. Apabila
+dokumen dinyatakan lengkap dan sesuai dengan ketentuan, dokumen diajukan kepada Kepala
+Cabang untuk memperoleh persetujuan (acc). Setelah persetujuan diberikan, data klaim diinput
+ke dalam sistem DASI dan dilakukan proses otorisasi sebelum berkas dikirim ke kantor pusat
+untuk dilakukan verifikasi lanjutan dan proses pembayaran santunan kepada ahli waris.
+Penggunaan layanan digital dalam proses penyelesaian klaim dinilai mampu
+meningkatkan efisiensi pelayanan serta mendukung pelayanan santunan yang lebih cepat dan
+responsif (G. A. Utami & Imsar, 2023). Selain mempercepat proses administrasi, sistem digital
+juga membantu menjaga akurasi data dan mempermudah proses pelacakan dokumen selama
+pelayanan berlangsung. Hal tersebut menunjukkan bahwa digitalisasi administrasi memiliki
+peran penting dalam meningkatkan kualitas pelayanan publik.
+Apabila berdasarkan hasil pemeriksaan administrasi korban tidak memenuhi ketentuan
+jaminan polis asuransi, maka pengajuan santunan tidak diproses sebagai klaim reguler. Dalam
+kondisi tersebut, pengajuan santunan dapat dilakukan melalui mekanisme Ex Gratia sebagai
+bentuk kebijaksanaan perusahaan. Mekanisme Ex Gratia ini tidak hanya diberlakukan bagi
+korban kecelakaan luka-luka, tetapi juga berlaku bagi korban kecelakaan meninggal dunia.
+Tabel 1. Perbandingan Dokumen Klaim Korban Luka-Luka dan Meninggal Dunia
+Korban Luka-
+
+Korban Meninggal
+
+Luka
+
+Dunia
+
+Laporan polisi
+
+✓
+
+✓
+
+Lembar hasil survei
+
+✓
+
+✓
+
+Formulir pengajuan santunan
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Jenis Dokumen
+
+KSKK
+
+(Keterangan
+
+Singkat
+
+Kejadian
+
+Kecelakaan)
+Identitas korban (KTP dan KK)
+
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+Jenis Dokumen
+
+Korban Luka-
+
+Korban Meninggal
+
+Luka
+
+Dunia
+
+Surat kematian
+
+✓
+
+Identitas ahli waris
+
+✓
+
+Dokumen pendukung hubungan dengan
+
+✓
+
+korban
+Surat keterangan ahli waris
+
+✓
+
+Rekening ahli waris
+
+✓
+
+Surat tugas PIC dan rekening rumah sakit
+
+✓
+
+Kwitansi asli dan rincian biaya perawatan
+
+✓
+
+Surat jaminan
+
+✓
+
+Keterangan kesehatan korban
+
+✓
+
+Surat pernyataan dan kuasa kepada rumah
+
+✓
+
+sakit
+Berdasarkan alur kerja pelayanan tersebut, dapat disimpulkan bahwa penerapan sistem
+administrasi di PT. Jasa Raharja Cabang Sukabumi dijalankan melalui pengelolaan pelayanan
+yang terstruktur, berbasis sistem digital, serta melibatkan pemeriksaan dan persetujuan
+berjenjang. Keterlibatan kantor pusat dalam tahap verifikasi dan pembayaran santunan
+menunjukkan adanya pemisahan fungsi dan pengendalian internal yang bertujuan menjaga
+akuntabilitas serta ketepatan penyaluran santunan kepada masyarakat. Hal tersebut sejalan
+dengan prinsip manajemen operasional bahwa keteraturan administrasi dan kejelasan alur kerja
+berperan penting dalam menunjang kelancaran kegiatan pelayanan (Muliati, 2020).
+4. KESIMPULAN
+Kegiatan pengabdian masyarakat yang dilaksanakan melalui metode participatory action
+research (PAR) di PT. Jasa Raharja Cabang Sukabumi menunjukkan bahwa penerapan sistem
+administrasi yang terstruktur dan alur kerja pelayanan yang jelas berperan penting dalam
+menunjang kelancaran pelayanan pengajuan santunan kecelakaan. Proses pelayanan
+dilaksanakan melalui tahapan administrasi yang berjenjang, mulai dari pemeriksaan dokumen,
+verifikasi data, penginputan data melalui sistem digital, hingga proses otorisasi dan
+pengarsipan dokumen.
+Pemanfaatan sistem digital seperti JR Care, DASI, DWH Dukcapil, dan SMDD membantu
+meningkatkan ketepatan prosedur, efisiensi administrasi, serta akuntabilitas penyaluran
+santunan kepada masyarakat. Hal tersebut sejalan dengan penelitian sebelumnya yang
+
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+menyebutkan bahwa digitalisasi pelayanan publik mampu meningkatkan efisiensi administrasi
+dan kualitas pelayanan kepada masyarakat (Pandeirot et al., 2024). Selain mekanisme klaim
+reguler, pelayanan santunan juga dilakukan melalui mekanisme Ex Gratia untuk menangani
+kondisi tertentu di luar ketentuan jaminan polis asuransi.
+Berdasarkan hasil kegiatan, disarankan agar PT. Jasa Raharja Cabang Sukabumi terus
+meningkatkan kualitas sistem administrasi dan pelayanan melalui penyusunan prosedur
+operasional yang terdokumentasi dengan baik, pelatihan berkala terkait penggunaan sistem
+digital, serta peningkatan sosialisasi kepada masyarakat mengenai prosedur dan persyaratan
+pengajuan santunan kecelakaan.
+5. UCAPAN TERIMA KASIH
+Ucapan terima kasih disampaikan kepada Universitas Nusa Putra yang telah memfasilitasi
+kegiatan pengabdian ini. Terima kasih juga disampaikan kepada pimpinan dan seluruh staf PT.
+Jasa Raharja Cabang Sukabumi, khususnya para pembimbing lapangan, serta seluruh pihak
+yang telah berpartisipasi dalam kegiatan pengabdian ini.
+REFERENSI
+Aprillio, A. V., Azizah, N. L., Suprianto, & Taurusta, C. (2026). PERANCANGAN SISTEM
+INFORMASI LAYANAN JASA RAHARJA BERBASIS WEB DI SAMSAT SIDOARJO
+MENGGUNAKAN METODE WATERFALL. In Jurnal Mahasiswa Teknik Informatika
+(Vol. 10, Number 1).
+Bahruddin, U., & Supriyono. (2024). PENGEMBANGAN SMART VILLAGE MELALUI
+DIGITALISASI DAN PEMBERDAYAAN MASYARAKAT KOTA BATU MENGGUNAKAN
+METODE PARTICIPATORY ACTION RESEARCH.
+Fani, R. A., & Wibowo, H. (2021). PROSEDUR PENCAIRAN DANA SANTUNAN ASURANSI
+KECELAKAAN TERHADAP KORBAN KECELAKAAN MENINGGAL DUNIA PADA
+PT.JASA RAHARJA (PERSERO) PURWOKERTO.
+Hidayati, V. F., Nur, T., & Purwanti, D. (2022). Implementasi Kebijakan Pemberian Santunan
+Terhadap Korban Kecelakaan Lalu Lintas Jalan di PT Jasa Raharja Sukabumi.
+Lubis, D. F., Fadhila, T. I., & Rahma. (2025). ANALISIS MEKANISME PROSEDUR KLAIM
+JASA RAHARJA PERWAKILAN MEDAN.
+Muhris, A., & Taufiqqurohman, M. (2025). Disparitas Kebijakan PT. Jasa Raharja Perspektif
+Maslahah Mursalah. Al-Huquq: Journal of Indonesian Islamic Economic Law, 7(1), 111–
+133. https://doi.org/10.19105/alhuquq.v7i1.18274
+
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+Muliati. (2020). OPERATIONAL STANDARD PROCEDURE, FOR MANAGERIAL
+ASPECTS AND OPERATIONAL STANDARD PROCEDURES ABOUT THE WORK
+PROCESS. In Meraja Journal (Vol. 3, Number 2).
+Nuraeni, I., Zakaria, S., & Nuryanto, Y. (2025). KOORDINASI ANTARA PT JASA
+RAHARJA CABANG JAWA BARAT DENGAN KEPOLISIAN DALAM PELAYANAN
+PEMBERIAN DANA SANTUNAN KORBAN KECELAKAAN LALU LINTAS (Studi
+Tahun
+
+2022
+
+-
+
+2024).
+
+Responsive,
+
+8(3),
+
+475–488.
+
+https://doi.org/10.24198/responsive.v8i3.65023
+Oktavia, N., & Dwiridotjahjono, J. (2024). Analisis Penerapan Sistem Administrasi Umum
+Pada Divisi Administrasi PT Anugerah Santosa Abadi Di Surabaya Alamat : Jl. Raya
+Rungkut
+
+Madya
+
+Gunung
+
+Anyar,
+
+Kota
+
+Surabaya,
+
+Jawa
+
+Timur.
+
+https://doi.org/10.55606/cendikia.v4i3.2956
+Pandeirot, V., Johannes, R. A., Mamonto, F. H., & Rantung, M. (2024). Kualitas Pelayanan
+Publik Dalam Pemberian Santunan Kepada Korban Kecelakaan Lalu Lintas di PT Jasa
+Raharja Cabang Sulawesi Utara. Jurnal Ilmiah Administrasi Pemerintahan Daerah,
+15(1), 74–91. https://doi.org/10.33701/jiapd.v15i1
+Saputra, H., Yesputra, R., Lubis, A. P., & Furqon, F. (2024). PENTINGNYA DIGITALISASI
+LAYANAN PUBLIK DESA. Jurnal Pemberdayaan Sosial Dan Teknologi Masyarakat,
+4(1), 122. https://doi.org/10.54314/jpstm.v4i1.2115
+Saputra, I. K. W., Hadi, R., & Dharmendra, K. (2024). Analisa Dan Perancangan Sistem
+Informasi Rental Kendaraan Berbasis Web Pada Frog’s Rent Bike.
+Shabrina, U., Jayakusuma, Z., & Firmanda, H. (2022). TANGGUNG JAWAB PT JASA
+RAHARJA DALAM PEMBERIAN ASURANSI KECELAKAAN LALU LINTAS JALAN DI
+KOTA TANJUNGPINANG. https://doi.org/10.55681/seikat.v1i1.161
+Sima, V., Gheorghe, I. G., Subić, J., & Nancu, D. (2020). Influences of the industry 4.0
+Revolution on the Human Capital Development and Consumer Behavior: A Systematic
+Review. Sustainability (Switzerland), 12(10). https://doi.org/10.3390/SU12104035
+Utami, G. A., & Imsar. (2023). ANALISIS KINERJA PT. JASA RAHARJA DALAM
+PENYELESAIAN KLAIM KECELAKAAN LALU LINTAS PADA ERA SOCIETY 5.0.
+
+Krepa: Kreativitas Pada Abdimas
+
+Vol 7 No 9 Tahun 2026
+
+ISSN 2988-3059
+
+Cahaya Ilmu Bangsa
+
+Utami, S. (2022). Inovasi Pelayanan Publik PT. Jasa Raharja Cabang Kepulauan Riau Kota
+Batam (Studi Tentang Pelayanan Pemberian Santunan Kecelakaan Kepada Masyarakat).
+Management, & Accounting Journal, 2(2), 22–31. https://journal.ebisma.net
+
+

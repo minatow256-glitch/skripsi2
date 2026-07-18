@@ -1,0 +1,6460 @@
+No. 7583/KOM-D/SD-S1/2025
+PENGARUH PROGRAM CORPORATE SOCIAL RESPONSIBILITY
+TERHADAP KEPERCAYAAN MASYARAKAT PADA PT. JASA
+RAHARJA CABANG RIAU
+
+SKRIPSI
+Diajukan Kepada Fakultas Dakwah dan Komunikasi
+Universitas Islam Negeri Sultan Syarif Kasim Riau
+Untuk Memenuhi Sebagian Syarat Memperoleh
+Gelar Sarjana Strata Satu (S1) Ilmu Komunikasi (S.I.Kom)
+
+Oleh:
+RICO ANDRIATMOKO
+NIM. 11840311839
+
+PROGRAM STUDI ILMU KOMUNIKASI
+FAKULTAS DAKWAH DAN KOMUNIKASI
+UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM
+RIAU
+2025
+
+ABSTRAK
+
+Nama
+
+: Rico Andriatmoko
+
+Jurusan
+
+: Ilmu Komunikasi (Public Relation)
+
+Judul
+
+: Pengaruh Program Corporate Social Responsibility Terhadap
+Kepercayaan Masyarakat Pada PT. JASA RAHARJA Cabang
+Riau
+
+Kurangnya perhatian terhadap Pendidikan seperti fasilitas pendidikan yang kurang
+memadai, kondisi lingkungan yang kurang kondusif, kesadaran masyarakat akan
+pentingnya kesehatan. Tujuannya untuk menciptakan hubungan perusahaan yang
+serasi, seimbang, dan sesuai dengan lingkungan, nilai, norma, dan budaya guna
+mewujudkan kemandirian dengan harapan agar dapat meningkatkan kesejahteraan
+masyarakat, baik melalui tanggung jawab dalam aspek sosial, ekonomi,
+pendidikan dan lingkungan. Penelitian ini berfokus kepada ada atau tidaknya
+Pengaruh Program CSR Terhadap Kepercayaan Masyarakat Pada PT. Jasa
+Raharja Cabang Riau. Tujuan dari penelitian ini untuk menguji pengaruh program
+CSR terhadap kepercayaan masyarakat pada PT. Jasa Raharja. Penelitian ini
+menggunakan metode kuantitatif dengan pendekatan survei data diperoleh dari
+100 responden masyarakat yang berada di wilayah kerja PT. Jasa Raharja. Teknik
+analisis data digunakan adalah Uji korelasi dan Uji regresi linear sederhana. Hasil
+penelitian menunjukkan bahwa program CSR berpengaruh positif dan signifikan
+terhadap kepercayaan masyarakat. Hal ini ditunjukkan dengan nilai signifikan
+dibawah 0,60 dengan nilai koefisien korelasi yang menunjukkan kuat.
+Kata Kunci : Corporate Social Responsibility, Kepercayaan Masyarakat,
+Tanggung Jawab, Jasa Raharja
+
+i
+
+ABSTRACT
+
+Name
+
+: Rico Andriatmoko
+
+Department
+
+: Communication Science (Public Relation)
+
+Heading
+
+: The Influence of Corporate Social Responsibility Programs on
+Public Trust At PT. JASA RAHARJA Riau Branch
+
+Lack of attention to education such as inadequate educational facilities, less
+conducive environmental conditions, public awareness of the importance of
+health. The goal is to create company relationships that are harmonious,
+balanced, and in accordance with the environment, values, norms, and culture in
+order to realize independence in the hope of improving people's welfare, both
+through responsibility in social, economic, educational, and environmental
+aspects. This research focuses on whether or not there is an influence of CSR
+programs on public trust in PT. Jasa Raharja Riau Branch. The purpose of this
+study is to test the influence of CSR programs on public trust in PT. Jasa Raharja.
+This study uses a quantitative method with a survey approach, data obtained from
+100 community respondents in the work area of PT. Jasa Raharja. The data
+analysis techniques used are correlation test and simple linear regression test.
+The results of the study show that CSR programs have a positive and significant
+effect on public trust. This is shown by a significant value below 0.60 with a
+correlation coefficient value that shows a strong correlation value.
+Keywords : Corporate Social Responsibility, Public Trust, Responsibility, Jasa
+Raharja
+
+ii
+
+KATA PENGANTAR
+
+Alhamdulillah, Puji syukur penulis ucapkan kehadirat Allah SWT. Atas
+nikmat dan karunia-Nya sehingga penulis dapat menyelesaikan skripsi dengan
+judul “Pengaruh Program CSR Terhadap Kepercayaan Masyarakat Pada
+PT. Jasa Raharja Cabang Riau”. Shalawat dan salam tidak lupa penulis
+sampaikan kepada Nabi Muhammad SAW, sebagai suri teladan bagi seluruh umat
+Islam dan tak lupa pula kita curahkan kepada beliau dan para sahabatnya dan
+semoga kita semua termasuk orang-orang yang mendapatkan tempatnya di surge
+nanti, Aamiin.
+Penulisan skripsi ini diajukan untuk memenuhi salah satu syarat untuk
+memperoleh gelar Sarjana pada jurusan Ilmu Komunikasi Fakultas Dakwah Dan
+Komunikasi Universitas Islam Negeri Sultan Syarif Kasim. Selama
+menyelesaikan penulisan skripsi ini, penulis mendapatkan bimbingan dan bantuan
+dari berbagai pihak, saya ingin mengucapkan terima kasih kepada Bapak Ali
+Wiratmoko dan Ibu Emma selaku orang tua tercinta, tersayang dan terbaik penulis
+yang memberikan dukungan baik moral maupun material yang tak terhingga
+dengan apapun, serta semangat, motivasi, do’a dan kesabaran yang sangat luar
+biasa yang tidak bisa diucapkan dengan kata-kata. berbagai pihak penulis
+menyampaikan banyak terima kasih kepada:
+1. Ibu Prof. Dr. Hj. Leny Nofianti MS, SE,. M.Si., AK,. CA selaku Rektor
+Universitas Islam Negeri Sultan Syarif Kasim Riau.
+2. Ibu Prof Dr. Hj. Helmiati, M.Ag. selaku Wakil Rektor I, Bapak Dr. H.
+Mas‟ud Zein, M.Pd, selaku Wakil Rektor II, dan bapak Edi Erwan S.
+Pt.,M. Sc.,Ph, D., selaku Wakil Rektor III UIN Sultan Syarif Kasim Riau.
+3. Bapak Prof. Dr. Masduki, M.Ag selaku Dekan Fakultas Dakwah dan
+Komunikasi Universitas Islam Negeri Sultan Syarif Kasim Riau.
+4. Bapak Dr. Muhammad Badri, S.P., M.Si selaku Wakil Dekan I, Fakultas
+Dakwah dan Komunikasi Universitas Islam Negeri Sultan Syarif Kasim
+Riau.
+5. Ibu Dr. Hj. Titi Antin, S.Sos., M.Si selaku Wakil Dekan II, Fakultas
+Dakwah dan Komunikasi Universitas Islam Negeri Sultan Syarif Kasim
+Riau.
+6. Bapak Dr. Sudianto, S.Sos., M.Ikom selaku Wakil Dekan III, Fakultas
+Dakwah dan Komunikasi Universitas Islam Negeri Sultan Syarif Kasim
+Riau.
+
+iii
+
+7. Bapak Dr. Muhammad. Badri, M.Si. selaku Ketua Program Studi Ilmu
+Komunikasi UIN Suska Riau.
+8. Bapak Artis S.Ag, M.I.Kom. Selaku Sekretaris Program Studi Ilmu
+Komunikasi UIN Suska Riau.
+9. Bapak Dr. Elfiandri, M. Si. selaku Dosen Pembimbing yang telah
+memberikan banyak ilmunya kepada penulis berupa arahan dan bimbingan
+sehingga penulis dapat menyelesaikan Skripsi ini.
+10. Bapak Zulkarnaini. M.Ag selaku Dosen Akademik (PA) yang telah
+menjadi penasehat akademik dari semester awal hingga akhir.
+11. Seluruh dosen Program Studi Ilmu Komunikasi Fakultas Dakwah dan
+Komunikasi Universitas Islam Negeri Sultan Syarif Kasim Riau yang telah
+memberikan ilmu dan pengalaman yang berharga selama ini.
+12. Seluruh Staf dan Pegawai Fakultas Dakwah dan Komunikasi Universitas
+Islam Negeri Sultan Syarif Kasim Riau yang telah memberikan
+kemudahan pada penulis selama proses pendidikan berlangsung.
+13. Teman Seperjuangan Rabudi Bersama, berjuang & memotivasi.
+14. Teman, Sahabat, Bestie dan Tersayangnya penulis yaitu Reza Hendarto,
+Chrysna Maria Marbun, Mutia Lady Afisa, Riski Ramadani, Ega AP,
+Fraya NP yang memberi dukungan dalam mengerjakan skripsi.
+15. Kepada semua pihak yang telah membantu dan mendukung baik secara
+langsung maupun tidak langsung, kiranya menjadi amal sholeh disisi Allah
+SWT.
+Penulis sadar bahwa skripsi ini masih banyak kekurangan dan
+kelemahannya, maka untuk penyempurnaannya penulis berharap kepada semua
+pihak agar dapat menyampaikan kritik dan saran yang membangun untuk
+menambah kesempurnaan skripsi ini. Semoga skripsi ini berguna bagi seluruh
+pihak yang membacanya.
+Pekanbaru, 10 Juli 2025
+
+Rico Andriatmoko
+11840311839
+
+iv
+
+DAFTAR ISI
+ABSTRAK ............................................................................................................ i
+ABSTRACT ......................................................................................................... ii
+KATA PENGANTAR ........................................................................................ iii
+DAFTAR ISI ....................................................................................................... vi
+DAFTAR TABEL . ............................................................................................. vii
+DAFTAR GAMBAR .......................................................................................... ix
+BAB I PENDAHULUAN ..................................................................................... 1
+1.1 Latar Belakang Masalah ......................................................................... 1
+1.2 Penegasan Istilah .................................................................................... 2
+1.3 Rumusan Masalah ................................................................................... 3
+1.4 Tujuan dan Kegunaan Penelitian ............................................................. 3
+1.5 Sistematika Penulisan .............................................................................. 4
+BAB II TINJAUAN PUSTAKA .......................................................................... 5
+2.1 Kajian Terdahulu .................................................................................... 5
+2.2 Landasan Teori ..................................................................................... 12
+2.3 Definisi Konseptualisasi dan Operasional Variabel ............................. 21
+2.4 Kerangka Pemikiran ............................................................................. 26
+2.5 Hipotesis Penelitian ............................................................................... 27
+BAB III METODOLOGI PENELITIAN ........................................................ 28
+3.1 Desain Penelitian .................................................................................. 28
+3.2 Lokasi dan Waktu Penelitian ................................................................ 28
+3.3 Populasi dan Sampel Penelitian ............................................................ 28
+3.4 Teknik Pengumpulan Data ................................................................... 30
+3.5 Teknik Analisis Data ............................................................................ 32
+BAB IV GAMBARAN UMUM LOKASI PENELITIAN .............................. 34
+4.1 Gambaran Umum PT. Jasa Raharja ...................................................... 34
+4.2 Visi Misi .............................................................................................. 37
+4.3 Struktur Organisasi .............................................................................. 38
+BAB V HASIL PENELITIAN DAN PEMBAHASAN ................................... 39
+5.1 Hasil Penelitian ..................................................................................... 39
+5.2 Pembahasan .......................................................................................... 47
+5.3 Uji Validitas dan Reliabilitas ............................................................... 49
+5.4 Uji Koefisien Korelasi .......................................................................... 52
+
+v
+
+5.5 Uji Koefisien Determinasi .................................................................... 54
+5.6 Uji Regresi Linear Sederhana ............................................................... 55
+5.7Uji Hipotesis .......................................................................................... 56
+BAB VI PENUTUP ............................................................................................ 58
+6.1 Kesimpulan ........................................................................................... 58
+6.2 Saran ..................................................................................................... 59
+DAFTAR PUSTAKA
+DAFTAR LAMPIRAN
+
+vi
+
+DAFTAR TABEL
+Tabel 1.1
+Kegiatan Corporate Social Responsibility ......................................... 15
+Tabel 1.2
+Operasional Variabel X dan Variabel Y ............................................ 25
+Tabel 2.1
+Skala Likert ........................................................................................ 30
+Tabel 5.1
+Jenis Kelamin Responden .................................................................. 38
+Tabel 5.2
+Usia Responden .................................................................................. 38
+Tabel 5.3
+Pekerjaan Responden ......................................................................... 39
+Tabel 5.4
+Rekapitulasi Jawaban Variabel (X) .................................................... 40
+Tabel 5.5
+Rekapitulasi Jawaban Variabel (Y)..................................................... 41
+Tabel 5.6
+Hasil Jawaban Responden (X1 dan Y1) ............................................. 42
+Tabel 5.7
+Hasil Jawaban Responden (X2 dan Y2) ............................................. 43
+Tabel 5.8
+Hasil Jawaban Responden (X3 dan Y3) ............................................. 43
+Tabel 5.9
+Hasil Jawaban Responden (X4 dan Y4) ............................................. 44
+Tabel 5.10 Hasil Jawaban Responden (X5 dan Y5) ............................................. 44
+Tabel 5.11 Hasil Jawaban Responden (X6 dan Y6) ............................................. 45
+Tabel 5.12 Hasil Jawaban Responden (X7 dan Y7) ............................................. 46
+Tabel 5.13 Hasil Jawaban Responden (X8 dan Y8) ............................................. 46
+Tabel 5.14 Hasil Jawaban Responden (X9 dan Y9) ............................................. 47
+Tabel 5.15 Hasil Uji Validitas Corprorate Social Responsibilites (CSR) (X) ..... 50
+Tabel 5.16 Hasil Uji Validitas Variabel Kepercayaan Masyarakat (Y) ................ 51
+Tabel 5.17 Uji Hasil Responden X ....................................................................... 52
+Tabel 5.18 Uji Hasil Responden Y ...................................................................... 52
+Tabel 5.19 Hasil Uji Reabilitas ............................................................................. 53
+Tabel 5.20 Hasil Uji Koefisien Korelasi ............................................................... 54
+Tabel 5.21 Interpretasi Koefisien Korelasi ........................................................... 54
+Tabel 5.22 Hasil Uji Koefisien Detreminasi ......................................................... 55
+Tabel 5.23 Hasil Uji Regresi Linear Sederhana Sigma X dan Y dalam Model
+Summary ................................................................................................................... 57
+Tabel 5.24 Hasil Uji Regresi Linear Sederhana Sigma X dan Y dalam
+Annova ...................................................................................................................... 57
+Tabel 5.25 Hasil Uji Regresi Linear Sederhana Sigma X dan Y dalam
+Coefficients .............................................................................................................. 57
+Tabel 5.26 Hasil Uji Hipotesis .............................................................................. 58
+
+vii
+
+DAFTAR GAMBAR
+Gambar 2.1
+Gambar 4.1
+
+Kerangka Pikir ................................................................................ 26
+Struktur Organisasi .......................................................................... 37
+
+viii
+
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang Masalah
+Dalam lingkungan bisnis yang semakin kompetitif, citra perusahaan yang
+baik menjadi sangat penting untuk membedakan diri dari pesaing. Oleh karena itu,
+dengan menunjukkan bahwa mereka bertanggung jawab secara sosial dan
+lingkungan, perusahaan dapat membangun kepercayaan dan hubungan baik
+dengan masyarakat di sekitar mereka, serta memperkuat merek mereka. Corporate
+social responsibility (CSR) atau tanggung jawab sosial perusahaan adalah suatu
+konsep di mana perusahaan mempertimbangkan dampak sosial dan lingkungan
+dari kegiatan bisnis mereka, serta menyeimbangkan tanggung jawab perusahaan
+dalam menghasilkan laba tetapi juga bermanfaat bagi masyarakat dan
+lingkungan.(Sri Ardani & Mahyuni, 2020)
+Program Corporate social responsibility (CSR) yang berhasil akan
+menciptakan hubungan harmonis antara perusahaan dengan masyarakat.
+Kebijakan melibatkan masyarakat sekitar dalam rantai pasok, yaitu memposisikan
+masyarakat sebagai sumber tenaga kerja dan mitra bisnis dapat meningkatkan
+ketahanan dan efisiensi usaha. Adapun perusahaan yang menjalankan tanggung
+jawab sosial terhadap masyarakat, akan diapresiasi positif oleh konsumen,
+pemegang saham dan masyarakat umum. Kepercayaan ini mencerminkan
+keyakinan masyarakat bahwa perusahaan akan bertindak dengan integritas,
+kejujuran, dan tanggung jawab, serta memberikan manfaat sosial yang nyata.(Sri
+Ardani & Mahyuni, 2020)
+Program CSR (Corporate Social Reponsibility) merupakan salah satu
+kewajiban yang harus dilaksanakan oleh perusahaan sesuai dengan isi pasal 74
+Undang-undang Perseroan Terbatas (UUPT) yang baru. Undang-undang ini
+disyahkan dalam sidang paripurna DPR. Dengan adanya Undang-undang ini,
+industri atau korporasi-korporasi wajib untuk melaksanakannya, tetapi kewajiban
+ini bukan merupakan suatu beban yang memberatkan. Perlu diingat pembangunan
+suatu negara bukan hanya tanggung jawab pemerintah dan industri saja, tetapi
+setiap insan manusia berperan untuk mewujudkan kesejahteraan sosial dan
+pengelolaan kualitas hidup masyarakat. Industri dan korporasi berperan untuk
+mendorong pertumbuhan ekonomi yang sehat dengan mempertimbangkan pula
+faktor lingkungan hidup(Sri Ardani & Mahyuni, 2020)
+Program CSR (Corporate Social Responsibility) ini telah banyak
+dilaksanakan oleh perusahaan yang ada di Provinsi Riau. Salah satunya menurut
+(Yusri, W. dkk, 2025) program CSR ini juga dilaksanakan oleh PT. RAPP dengan
+memberikan beasiswa di bidang Pendidikan, mendirikan masjid di bidang
+Keagamaan, dan memberikan bantuan agribisnis untuk wilayah Estate Cerenti.
+
+1
+
+2
+
+Selain itu juga, fakta di lapangan mengemukakan menurut ( Azizah, U. dkk, 2025)
+PT. Bangun Tenera Riau juga melakukan program CSR di wilayah Pantai Raja
+dengan memberikan bantuan gaji untuk guru honorer yang ada di wilayah
+tersebut.
+Salah satu perusahaan penyedia layanan asuransi kecelakaan lalu lintas
+ialah PT Jasa Raharja. PT. Jasa Raharja sendiri merupakan perusahaan pengelola
+asuransi untuk setiap pengguna lalu lintas seperti penumpang transportasi umum,
+kendaraan pribadi, dan pejalan kaki. Kurangnya perhatian terhadap Pendidikan
+seperti fasilitas pendidikan yang kurang memadai, kondisi lingkungan yang
+kurang kondusif, kurangnya kesadaran masyarakat akan pentingnya kesehatan.
+ditunjang dengan tidak adanya sarana dan prasarana yang memadai serta
+minimnya kemampuan masyarakat dalam mengelola dan mengembangkan
+usahanya menjadi fokus utama program Corporate Social Responsibility yang
+dilakukan PT. Jasa Raharja. (Sri Ardani & Mahyuni, 2020)
+CSR/TJSL PT. Jasa Raharja merupakan bentuk tanggung jawab
+perusahaan terhadap dampak yang diakibatkan oleh kebijakan dan kegiatanya
+kepada masyarakat dan lingkungan melalui perilaku yang transparan dan beretika
+sesuai dengan peraturan perundang-undangan yang berlaku serta konsisten dengan
+norma internasional. Tujuanya untuk menciptakan hubungan perusahaan yang
+serasi, seimbang, dan sesuai dengan lingkungan, nilai, norma, dan budaya guna
+mewujudkan kemandirian serta membangun kepercayaan masyarakat.
+Oleh karenanya, PT. Jasa Raharja selaku perusahaan terkait bekerjasama
+dengan berbagai pihak untuk menjalankan program-program Corporate Social
+Responsibility-nya, dengan harapan agar dapat meningkatkan kesejahteraan
+masyarakat, baik melalui tanggung jawab dalam aspek sosial, ekonomi,
+pendidikan maupun lingkungan.
+Berdasarkan uraian pada latar belakang diatas, maka penelitian ini
+berfokus kepada ada atau tidaknya Pengaruh Program CSR Terhadap
+Kepercayaan Masyarakat Pada PT. Jasa Raharja Cabang Riau.
+1.2 Penegasan Istilah
+1.2.1 Pengaruh
+Menurut (Susilawati, R, 2020) mengemukakan bahwasanya
+pengaruh yaitu tindakan yang muncul dari sesuatu yang dilakukan
+seseorang sehingga dapat mempengaruhi lingkungan di sekitarnya.
+1.2.2 Corporate Social Responsibility (CSR)
+Menurut (Inayatussa’dah & Sisdianto, 2024) menjelaskan
+bahwasanya CSR/Corporate Social Responsibility merupakan sebuah
+tanggung jawab perusahaan untuk memberikan kontribusi kepada
+masyarakat dalam meningkatkan kesejahteraan dengan berbagai
+aspek.
+
+3
+
+1.2.3 Kepercayaan
+Gefen dalam (Dhani, K, 2019) mengemukakan bahwasanya
+kepercayaan adalah rasa percaya diri yang dirasakan karena hasrat dari
+orang lain sehingga dapat meningkatkan kekuatan dirinya.
+1.2.4 Masyarakat
+Menurut Hanafi, M dalam (Wahyuni, S., 2020) menjelaskan
+bahwa masyarakat adalah gabungan dari beberapa kelompok individu
+berdasarkan tatanan sosial yang mana di dalam nya mereka salng
+melakukan interaksi.
+1.3 Rumusan Masalah
+Adapun Rumusan masalah dalam penelitian ini adalah apakah
+program Corporate Social Responsibility memiliki pengaruh signifikan
+terhadap kepercayaan masyarakat pada PT. Jasa Raharja Cabang Riau?
+1.4 Tujuan dan Kegunaan Penelitian
+1.4.1 Tujuan Penelitian
+Tujuan dari penelitian ini adalah untuk menguji pengaruh program
+Corporate Social Responsibility terhadap kepercayaan masyarakat
+pada PT. Jasa Raharja Cabang Riau.
+1.4.2 Kegunaan Penelitian
+Peneliti berharap penelitian ini berguna sebagai berikut:
+a. Kegunaan Teoritis
+1) Sebagai kajian ilmiah bagi penulis dan mahasiswa.
+2) Sebagai pengembangan ilmu yang diperoleh penulis selama
+menjadi mahasiswa ilmu komunikasi di Fakultas Dakwah dan
+Komunikasi UIN Suska Riau.
+b. Kegunaan Praktis
+1) Sebagai salah satu syarat untuk memperoleh sarjana strata
+(S1) pada jurusan ilmu komunikasi konsentrasi public
+relation di Fakultas Dakwa dan Komunikasi Universitas
+Islam Negeri Sultan Syarif Kasim Riau.
+2) Dapat memberikan wawasan, pemahaman, pengalaman,
+pengetahuan yang mendalam tentang pentingnya CSR dalam
+membangun kepercayaan masyarakat serta menjadi sarana
+yang bermanfaat dalam mengimplementasikan pengetahuan
+penulis.
+3) Sebagai masukan dan bahan pertimbangan bagi para peneliti
+selanjutnya dengan tujuan agar keilmuan mereka bisa
+bertambah dan bisa sebagai bahan referensi ketika akan
+melakukan penelitian yang berkaitan dengan Pengaruh
+Program Corporate Social Responsibility Terhadap
+
+4
+
+Kepercayaan Masyarakat Pada PT. Jasa Raharja Cabang
+Riau.
+1.5 Sistematika Penulisan
+Dalam penelitian ini untuk mengetahui secara keseluruhan terhadap
+penelitian ini, maka penulis melampirkan sistematikan penulisan sebagai
+berikut :
+BAB I
+: PENDAHULUAN
+Dalam bab ini terdiri atas Latar Belakang, Penegasan
+Istilah, Rumusan Masalah, Tujuan dan Kegunaan
+Penelitian.
+BAB II
+: TINJAUAN PUSTAKA
+Dalam bab ini menjelaskan tentang Kajian Terdahulu,
+Landasan Teori, Konsep Operasional, Kerangka
+Pemikiran dan Hipotesis.
+BAB III
+: METODOLOGI PENELITIAN
+Pada bab ini menjelaskan tentang Desain Penelitian,
+Lokasi dan Waktu Penelitian, Populasi dan Sampel,
+Teknik Pengumpulan Data, Uji Validitas dan Reabilitas,
+dan Teknik Analisis Data.
+BAB IV
+: GAMBARAN UMUM
+Pada bab ini menjelaskan tentang gambaran umum
+subjek penelitian.
+BAB V
+: HASIL DAN PEMBAHASAN
+Hasil penelitian dan pembahasan.
+BAB VI
+: PENUTUP
+Kesimpulan dan saran.
+
+BAB II
+TINJAUAN PUSTAKA
+2.1 Kajian Terdahulu
+Sebagai pertimbangan antara penelitian yang sedang dilakukan dengan
+penelitian yang telah dilakukan terdahulu, maka penulis perlu melakukan studi
+pustaka dengan penelitian yang sedang dilakukan untuk mengetahui
+bagaimana pengaruh program CSR terhadap kepercayaan masyarakat pada
+PT. Jasa Raharja Cabang Riau. Penelitian yang telah dilakukan antara lain:
+1. Jurnal yang berjudul “Pengaruh Program CSR, Kepercayaan
+Konsumen, dan Persepsi Konsumen terhadap Perilaku Konsumen
+AQUA”.
+Oleh Amalia Nurul Adila dan Albari, Jurusan Management Fakultas
+Bisnis dan Ekonomi Universitas Islam Indonesia. Seiring dengan
+perkembangan zaman dan kemajuan teknologi membuat roda
+perekonomian tumbuh dengan pesat. Ditambah dengan kebutuhan
+masyarakat yang semakin hari semakin meningkat termasuk air minum
+yang merupakan kebutuhan primer, sehingga muncul inovasi air
+minum dalam kemasan (AMDK) dengan berbagai merek untuk
+memenuhi kebutuhan masyarakat. Merek-merek tersebut saling
+berkompetisi untuk mendapatkan posisi di benak para konsumen.
+Maka dari itu, para pelaku bisnis harus mampu menumbuhkan
+kepercayaan konsumen salah satunya dengan cara melaksanakan
+program CSR secara nyata agar persepsi masyarakat terhadap suatu
+merek akan baik dan berpengaruh terhadap perilaku konsumen atas
+minat beli suatu produk. Penelitian ini bertujuan untuk menguji adanya
+pengaruh program CSR, kepercayaan dan persepsi konsumen terhadap
+perilaku konsumen AQUA. Populasi yang digunakan merupakan orang
+yang pernah melakukan pembelian dan mengonsumsi produk AMDK
+merek AQUA. Penelitian ini menggunakan pendekatan kuantitatif
+karena penelitian ini bertujuan untuk menjelaskan hubungan
+antarvariabel dan menguji teori dengan menyajikan data berupa angka
+Kemudian teknik pengambilan sampel yang digunakan adalah nonprobability sampling. Sedangkan metode yang digunakan adalah
+metode convenience sampling. Dalam penelitian ini, sampel yang
+digunakan sebanyak 166 responden yang pernah mengonsumsi serta
+melakukan transaksi pembelian produk AQUA. Untuk memperoleh
+data primer, peneliti menyebarkan kuesioner berisikan pertanyaan
+yang sesuai dengan indikator-indikator dari keseluruhan variabel
+penelitian kepada responden melalui online (googleform). Dalam
+
+5
+
+6
+
+mengumpulkan data dilakukan dengan menggunakan skala likert 1-5
+sebagai alat ukur untuk setiap item indikator pengukuran. Hasil
+penelitian uraian pada penelitian ini yang memaparkan studi empiris
+terkait empat variabel yang saling berkaitan, namun variabel yang
+paling berpengaruh yakni kepercayaan konsumen terhadap perilaku
+konsumen, sehingga cukup beralasan untuk disimpulkan bahwa
+kepercayaan konsumen mampu mempengaruhi perilaku konsumenn
+khususnya pada konsumen Danone Aqua. Dalam mempengaruhi
+perilaku konsumen, kepercayaan konsumen secara berkesinambungan
+memberi pengaruh terhadap pelaksanaan evaluasi perusahaan yang
+kemudian menggencarkan program CSR sebagai bukti nyata bahwa
+perusahaan melakukan tanggung jawab sosial.(Adila et al., 2016)
+2. Jurnal yang berjudul “Pengaruh Penerapan Corporate Social
+Responsibility (CSR) Terhadap Citra Merek, Kepercayaan Merek
+Dan Loyalitas Merek”.
+Oleh Jesi Trilia Sovani, Achmad Fauzi Dh dan Zainul Arifin, Fakultas
+Ilmu Komunikasi, Universitas Brawijaya. Salah satu perusahaan di
+Kabupaten Pasuruan yang telah menjalankan program CSR adalah PT.
+Tirta Investama, di Desa Keboncandi, Kecamatan Gondang Wetan,
+Kabupaten Pasuruan. PT. Tirta Investama merupakan industri air
+minum dalam kemasan (AMDK) merek Aqua. Program CSR yang
+telah dilakukan oleh PT. Tirta Investama khususnya di Desa
+Keboncandi meliputi berbagai bidang yaitu di bidang Pendidikan,
+bidang Sosial, Pemberdayaan Masyarakat dan bidang Keagamaan/Hari
+Besar Nasional. Penerapan program CSR oleh PT. Tirta Investama
+dengan menjalin kemitraan dengan Yayasan Social Invesment
+Indonesia (YSII) sebagai pengelola CSR PT. Tirta Investama.
+Penelitian ini bertujuan untuk mempelajari secara empirik pengaruh
+dari variabel Corporate Social Responsibility (CSR) terhadap Citra
+Merek, Kepercayaan Merek dan Loyalitas MerekJumlah sampel yang
+digunakan dalam penelitian ini 116 orang responden dengan
+menggunakanAccidental
+SamplingRespondennya
+merupakan
+masyarakat sekitar Desa Keboncandi yang mengetahui dan
+memperoleh CSR PTTirta Investama, Menggunakan produk Aqua
+Danone dan Melakukan pembelian minimal 3 kali selama enam bulan
+terakhir. Hasil penelitian menunjukkan bahwa Corporate Social
+Responsibility (CSR) berpengaruh signifikan terhadap Citra
+MerekCorporate Social Responsibility (CSR) berpengaruh signifikan
+terhadap Kepercayaan MerekCorporate Social Responsibility CSR)
+berpengaruh signifikan terhadap Loyalitas MerekCitra Merek
+
+7
+
+berpengaruh signifikan terhadap Kepercayaan Merek. Citra Merek
+berpengaruh signifikan terhadap Loyalitas MerekKepercayaan Merek
+berpengaruh signifikan terhadap Loyalitas Merek.(Sovani et al., 2016)
+3. Jurnal yang berjudul “Manajemen Corporate Social Responsibility
+GraPari Kota Pekanbaru Dalam Meningkatkan Kepercayaan
+Masyarakat”.
+Oleh Hary Rahmadika dan Muhd Ar. Imam Riauan. Jurusan Ilmu
+Komunikasi Jurnalistik dan Jurusan Ilmu Komunikasi Hubungan
+Masyarakat, Fakultas dakwah dan Komunikasi, Universitas Islam
+Riau. GraPari Telkomsel sendiri bekerja sebagai penyambung berbagai
+macam hubungan yang dijalankan perusahaan. Perusahaan ini juga
+menangani hubungan-hubungan dan komunikasi ke pihak publik.
+Mereka juga menjalankan aktivitas program corporate social
+responsbility, kegiatan ini merupakan kegiatan sosial yang dijalankan
+perusahaan. Perusahaan mempunyai tanggung jawab sosial untuk
+masyarakat sekitar. Maka mulailah perusahaan meningkatkan kegiatan
+public relations (PR) atau Hubungan Masyarakat (Humas) dengan
+membuat bagian – bagian tersendiri dalam pelaksanaan tugas
+pekerjaan bagi karyawannya yaitu bagian Humas yang di kepalai oleh
+Kepala Bagian Humas,di bawah naungan Manager Umum GraPari
+(Graha Pari Seraya) Telkomsel Smart Officer di Kota Pekanbaru. Pada
+perusahaan GraPari Telkomsel sendiri public relations tugasnya selain
+menangani masalah dengan sebuah media yang terkait, mereka juga
+menjalankan program corporate social responsibilty. Kegiatan
+corporate social responsibilty GraPari Telkomsel ini merupakan
+kegiatan sosial yang dijalankan oleh perusahaan. Perusahaan
+mempunyai tanggung jawab sosial untuk masyarakat sekitar. Metode
+yang digunakan dalam penelitian ini adalah metode penelitian
+kualitatif dengan pendekatan deskriptif. Informan dalam penelitian
+merupakan karyawan tetap di GraPari Telkomsel Kota Pekanbaru.
+Hasil penelitian menunjukkan bahwa untuk meningkatkan kepercayaan
+masyarakat dilakukan sosial mapping dengan mengikutsertakan
+masyarakat,
+menjalankan
+program-program
+sesuai
+dengan
+perencanaan, melakukan kerja sama dengan yayasan yang bergerak
+dalam bidang yang sama dan menurunkan pendamping di lapangan
+serta membangun citra perusahaan.(Rahmadika & Riauan, 2022)
+4. Jurnal yang berjudul “Pengaruh Program Corporate Social
+Responsiility (CSR) Terhadap Peningkatan Kesejahteraan
+Masyarakat Dalam Perspektif Ekonomi Islam”.
+
+8
+
+Oleh Aisyah Amini, Program Studi Ekonomi Syari’ah, Universitas
+Islam Negri Raden Intan Lampung. Corporate Social Responsibility
+(CSR) adalah sekumpulan kewajiban organisasi untuk melindungi dan
+memajukan masyarakat di mana organisasi berada. Pelaksanaa CSR
+dalam Perspektif Ekonomi Islam merupakan tujuan dari syariat Islam
+(Muqassid al syari’ah) atau maslahah karena bisnis adalah upaya untuk
+menciptakan maslahah, bukan hanya sekedar mencari keuntungan. Hal
+ini sesuai dengan prinsip CSR yaitu “triple buttom line” yang terdiri
+dari keuntungan (Profit), menjaga kelestarian lingkungan (Planet),
+serta meningkatkan kesejahteraan masyarakat (People). PT. PGE Area
+Ulubelu merupakan bagian dari PT. Pertamina Geothermal Energy
+yang melakukan pengusahaan pengembangan energy panas bumi di
+Lampung yang dijadikan objek dalam penelitian ini. Metode penelitian
+kuantitaitif dengan penelitian lapangan (field research) , data primer
+diperoleh dari kusioner dan wawancara, sedangkan data sekunder dari
+dokumentasi. Populasi penelitian ini yaitu berjumlah 90 responden (45
+responden desa Pagar Alam dan 45 responden desa Ngarip). Metode
+pengambilan sampel menggunakan teknik purposive sampling. Dalam
+penelitian ini penulis menggunakan metode Mixed Methode, yaitu
+menggabungkan antara metode kuantitatif dan kualitatif dalam suatu
+penelitian, dan data diolah dengan menggunakan software SPSS 22.
+Selain itu penelitian ini juga menggunakan analisis regresi linear
+sederhana untuk menguji hasil kuisioner yang di sebar kepada
+responden. Berdasarkan hasil penelitian menunjukkan bahwa variabel
+Program CSR berpengaruh secara postif dan signifikan terhadap
+peningkatan kesejahteraan masyarakat, Hal ini ditunjukkan dengan
+perolehan hasil uji t yaitu sebesar 4,813 thitung > ttabel atau 4.531
+(thitung > ttabel 4.813 > 2,017) dengan nilai signifikansi sebesar 0,000
+(0,000 < 0,05) di desa Pagar Alam dan untuk desa ngarip perolehan
+hasil uji t yaitu sebesar 5.303 (thitung > ttabel 5.303 > 2,017) dengan
+nilai signifikansi sebesar 0,000 (0,000 < 0,05). Berdasarkan hasil uji
+koefesien determinasi (R2) diperoleh hasil 0,350 untuk desa Pagar
+Alam dan 0,401 untuk desa Ngarip, dengan demikian sumbangan
+pengaruh variabel (X) Program CSR terhadap variabel (Y)
+Peningkatan Kesejahteraan Masyarakat adalah sebesar 35% di desa
+Pagar Alam dan 40% di desa Ngarip dan sisanya dipengaruhi variabel
+lain yang tidak dimasukkan dalam model penelitian ini. Sedangkan
+dalam perspektif ekonomi Islam pelaksanaan CSR PT. pertamina
+Geothermal Energy Area Ulubelu sesuai dengan prinsipnya yaitu
+keseimbangan dan tanggung jawab dalam bisnis.(Amini, 2018)
+
+9
+
+5. Jurnal yang berjudul “Pengelolaan Corporate Social Responsibility
+(CSR) Dalam Membangun Citra Perusahaan”.
+Oleh Nurjanah, Noor Efni Salam dan Rusmadi Awza, Jurusan Ilmu
+Komunikasi FISIP, Universitas Riau. Pengelolaan Corporate Social
+Responsibility (CSR) dalam Membangun Citra Perusahaan. Corporate
+Social Responsibility (CSR) merupakan salah satu bentuk strategi PR
+yang dapat digunakan untuk membentuk citra positif perusahaan
+dimata stakeholder, oleh karena itu perusahaan dituntut untuk
+melakukan program CSR sesuai dengan Undang-Undang No. 40 tahun
+2007. Penelitian ini bertujuan untuk menganalisis bagaimana PT. CPI
+dalam mengelola program CSR sehingga mampu membangun citra
+perusahaan. Metode penelitian yang digunakan adalah Deskriptif
+Kualitatif dengan menggunakan teknik observasi, wawancara dan
+dokumentasi. Hasil penelitiannya adalah aktivitas Corporate Social
+Responsibility (CSR) yang dilakukan PT CPI melalui kegiatan
+Community Development (CD) berupa program pendidikan,
+kesehatan, pembangunan infrastuktur, maupun program Local
+Business Development (LBD) yang ditujukan kepada masyarakat tidak
+bertujuan untuk memperoleh keuntungan, melainkan mencari citra
+positif di mata masyarakat sekitar dan dunia. Sedangkan program
+Community Relation (CR) yang memberikan bantuan dalam bentuk
+bantuan spontan, seremonial, dan kondisional bertujuan untuk
+membangun hubungan sosial yang harmonis dengan warga sebagai
+perwujudan dari hubungan ke masyarakat.(Salam, 2007)
+6. Jurnal yang berjudul “Partisipasi Masyarakat dan Stakeholder
+Dalam Penyelenggaraan Program Corporate social Responsibility
+(CSR) Dan Dampaknya Terhadap Komunitas Perdesaan”.
+Oleh Isma Rosyida dan Fredian Tonny Nasdian, Jurusan Sains
+Komunikasi dan Pengembangan Masyarakat, Fakultas Ekologi
+Manusia, IPB. Pemberdayaan adalah jalan menuju partisipasi dan
+partisipasi yang menentukan sosial dan ekonomi masyarakat dampak
+program pembangunan. Secara umum, penelitian ini bertujuan untuk
+mengidentifikasi korelasi antara tingkat partisipasi masyarakat dan
+pemangku kepentingan dalam menyelenggarakan program Tanggung
+Jawab Sosial Perusahaan Geothermal Corporation melalui Micro
+Finance Board dan dampaknya terhadap sosial dan ekonomi
+masyarakat keadaan. Penelitian ini concern untuk melihat
+implementasi Keuangan Mikro Berbasis Masyarakat Program di
+Kecamatan Kabandungan dengan menggelar LKMS Kartini. Subjek
+penelitian ini adalah masyarakat Desa Cihamerang, termasuk
+
+10
+
+pemerintah daerah dan masyarakat setempat, juga staf perusahaan.
+Metode yang tersirat dalam penelitian ini terdiri dari studi kuantitatif
+dan kualitatif. Sampel diambil sebanyak empat puluh lima responden
+yang mewakili masyarakat Desa Cihamerang, dengan informan
+sebanyak sembilan orang. Hasil penelitian ini menunjukkan bahwa
+setiap pemangku kepentingan memiliki jenis dan tingkat yang berbedabeda partisipasi. Semakin tinggi tingkat partisipasi anggota dewan
+keuangan mikro dalam setiap langkah program Implementasinya,
+dampak sosial dan ekonomi yang lebih tinggi akan didapat.(Rosyida &
+Nasdian, 2011)
+7. Jurnal
+yang
+berjudul
+“Pengaruh
+corporate
+social
+responsibility(CSR) terhadap corporate image PT dan Liris’’
+sebagai perusahaan yang bergerak di bidang tekstil, PT Dan Liris
+sudah melakukan CSR agar dapat membina hubungan baik dengan
+masyarakat serta bertanggungjawab atas dampak yang terjadi akibat
+kegiatan di perusahaan. Bentuk-bentuk CSR terebut dilakukan sesuai
+dengan kebutuhan masyarakat seperti memperbaiki akses jalan
+kawasan perusahaab, memperbaiki tempat ibadah,membangun tendon
+air dan WC pribadi bagi rumah-rumah masyarakat. Selain itu,
+perusahaan juga memberikan program CSR bagi karyawaan contihnya
+membiayai ibadah umroh bagi karyawan yang memiliki kinerja baik
+dan beasiswa bagi anak-anak karyawan yang berprestasi. Hingga saat
+ini citra yang melekat pada PT DAN Liris citra yang positif.(Ningrum
+& Hadi, 2020)
+8. Jurnal yang berjudul “Penerapan Corporate Social Responsibility
+(CSR) dan Manfaatnya Bagi Perusahaan”.
+Oleh Ni Ketut Sri Ardani, Luh Putu Mahyuni, Jurusan Manajemen
+Bisnis, Universitas Pendidikan Nasional, Penelitian ini bertujuan untuk
+mengetahui bagaimana penerapan Corporate Social Responsibility dan
+manfaat bagi perusahaan pada Toya Devasya. Penelitian ini
+menggunakan metode penelitian kualitatif. Teknik pengumpulan data
+yang digunakan adalah dengan menggunakan metode wawancara dan
+dokumentasi. Analisis data menggunakan teknik analisis data Model
+Miles and Huberman, yang terdiri dari reduksi data, penyajian data dan
+penarikan kesimpulan. Hasil penelitian menunjukkan bahwa Toya
+Devasya menerapkan Corporate Social Responsibility berlandaskan
+Tri Hita Karana. Dimana Tri Hita Karana mengandung makna yang
+sudah sangat komplek karena setiap unsurnya mencerminkan hal yang
+perlu dilaksanakan oleh setiap perusahaan. Perusahaan memandang
+penerapan Corporate Social Responsibility penting dilakukan karena
+
+11
+
+menjadi solusi dari dampak kegiatan bisnis yang ditimbulkan
+Pelaksanaan Corporate Social Responsibiliy yang dilakukan oleh
+perusahaan sudah dapat diterima dengan baik oleh masyarakat sekitar.
+Dari penerapan Corporate Social Responsibiliy ini menunjukan adanya
+manfaat yang dapat diterima oleh perusahaan seperti dukungan dari
+masyarakat dan kenyamanan saat bekerja yang dirasakan oleh
+karyawan. Kesadaran yang telah dimiliki perusahaan untuk
+menerapkan Corporate Social Responsibility akan memberikan
+dampak besar bagi perusahaan. Keharmonisan yang tercipta antara
+antara perusahaaan, masyarakat dan lingkungan merupakan salah satu
+dampak yang akan dirasakan perusahaan dalam menjalankan kegiatan
+bisnisnya. Keharmonisan inilah yang akan memberikan efek terhadap
+citra perusahaan dimata masyarakat. Perusahaan akan mendapatkan
+dukungan dan diakui keberadaannya di lingkungan sekitar perusahaan.
+Karena terjaganya hubungan yang baik dengan lingkungan sekitar,
+maka masyarakat pun akan dengan sukarela memberikan dukungannya
+terhadap Toya Devasya seperti mempromosikan keberadaan
+perusahaan kepada wisatawan sehingga terjadi peningkatan jumlah
+pengujung yang akan mempengaruhi pendapatan.(Sri Ardani &
+Mahyuni, 2020)
+9. Jurnal yang berjudul “Analisis Kualitas Pelayanan Terhadap
+Klaimen PT Jasa Raharja Cabang Sumatera Utara”.
+Oleh Afifa Umami, Rahmi Syahriza, Fakultas Ilmu Administrasi,
+Universitas Islam Negeri Sumatera Utara, Penelitian ini bertujuan
+untuk mengetahui kualitas pelayanan yang diberikan PT Jasa Raharja
+Cabang Sumut terhadap klaimen atau nasabah korban kecelakaan lalu
+lintas jalan. Metode yang digunakan dalam penelitian ini adalah
+metode kualitatif, dengan memperoleh hasil secara langsung
+dilapangan serta pengetahuan mengenai masalah yang ada
+dilingkungan sosial. Penelitian ini dilaksanakan di Kantor Jasa Raharja
+Cabang Sumut yang beralamat Jl. Jendral Gatot Subroto No. 142
+Medan. Jenis dan sumber data yang digunakan dalam penelitian ini
+adalah : Data primer dan data sekunder. Teknik pengumpulan data
+dilakukan dengan cara observasi, wawancara dan studi pustaka.
+Penelitian ini menunjukkan hasil adanya faktor – faktor yang
+menghambat kualitas pelayanan, yaitu: banyak masyarakat kurang
+memahami ruang lingkung jaminan yang ditanggung Jasa Raharja,
+komunikasi kepada mitra yang belum merata serta kendala eksternal
+seperti surat-menyurat. Faktor dari perusahaan yaitu minimya sumber
+
+12
+
+daya manusia yang mengakibatkan kurang efektif dan tepat
+waktu.(Rahmi Syariza, 2022)
+10. Jurnal yang berjudul “Analisis Kinerja PT. Jasa Raharja Dalam
+Penyelesaian Klaim Kecelakaan Lalu Lintas Pada Era Society
+5.0". Oleh Gita Aulia Utami, Imsar, Fakultas Ekonomi dan Perbankan
+Syariah, Universitas Islam Negeri Sumatera Utara, Jurnal ini bertujuan
+untuk mengetahui bagaimana kinerja PT. Jasa Raharja Cab. Sumatera
+Utara dalam penyelesaian klaim kecelakaan lalu lintas pada era society
+5.0. Penelitian ini dilakukan di kantor PT. Jasa Raharja Cab. Sumatera
+Utara. Jenis penelitian memakai metode deskriptif pendekatan
+kualitatif. Sedang teknik pengumpulan data yang dipakai peneliti yakni
+wawancara, observasi juga dokumentasi. Hasil penelitian ini
+mendiskripsikan bahwa kinerja dalam penyelesaian klaim PT. Jasa
+Raharja Cab. Sumatera Utara sudah berjalan seefisien mungkin.
+Dilihat dari terealisasikannya rata-rata pembayaran santunan selama 3
+tahun 11 bulan: Rp. 713,570,352,518,- (2019-s/d Nov 22) dengan
+58.334 ribu kasus dengan besaran santunan yang disalurkan.
+Penyelenggaraan layanan digital pada masyarakat pada era society 5.0
+membawa dampak, yakni: (1) memberi layanan santunan inklusif. Dan
+(2) memberi pelayanan efisien 24 jam.(Utami & Imsar, 2023)
+2.2 Landasan Teori
+2.2.1 Stakeholder Theory
+Stakeholder Theory adalah teori yang menyatakan perusahan
+bukanlah entitas yang hanya beroperasi untuk kepentingan sendiri, tetapi
+juga harus memberikan manfaat kepada seluruh pemangku kepentingan
+meliputi (pemegang saham, konsumen, pemasok, pemodal dan
+masyarakat). Tanggung jawab perusahan tidak hanya sebatas pada para
+pemilik (shareholder) dengan indikator ekonomi (Economic focused),
+tetapi mencakup pada ranah yang lebih luas yaitu terkait sosial
+kemasyarakatan (stakeholder) dengan indikator faktor sosial (social
+dimention), sehingga faktor ini yang menjadi dasar munculnya istilah
+tanggung jawab sosial.(Supriyadi & Setyorini, 2020)
+2.2.2 Corporate Social Responsibility
+a.
+Defenisi Corporate Social Responsibility
+Secara teoritis, CSR merupakan inti dari etika bisnis, perusahaan
+tidak hanya mempunyai kewajiban ekonomi dan legal kepada
+pemegang saham (stakeholder), tetapi perusahaan juga mempunyai
+kewajiban terhadap pihak lain yang berkepentingan (stakeholder).
+Sebuah perusahaan tidak bisa hidup, beroperasi dan bertahan serta
+memperoleh keuntungan tanpa bantuan dari berbagai pihak. CSR
+
+13
+
+lebih menunjukkan kepedulian perusahaan terhadap kepentingan
+pihak-pihak lain secara lebih luas dari pada hanya sekedar
+kepentingan perusahan itu sendiri.(Yanti et al., 2021)
+Corporate Social Responsibility juga merujuk pada hubungan
+antara perusahaan dengan customer, employers, komonitas
+masyarakat, investor, pemerintah, supplier serta kompetitor.
+Keterkaitan teori CSR dengan aktivitas perusahaan, dapat dikatakan
+bahwa tanggung jawab lebih merujuk pada kepedulian perusahaaan
+terhadap kepentingan stakeholder dari pada sekedar kepentingan
+perusahaan tersebut.(Sitorus, 2014)
+Salah satu konsep menyebutkan Corporate Social Responsibility
+atau Tanggung jawab sosial perusahanan merupakan komitmen
+perseroan untuk berperan serta dalam pembangunan ekonomi
+berkelanjutan guna meningkatkan kualitas kehidupan dan lingkungan
+yang bermanfaat, baik bagi perseroan sendiri, komunitas setempat,
+maupun masyarakat pada umumnya.
+Secara umum Corporate Social Responsibility merupakan
+peningkatan kualitas kehidupan dimana kemampuan manusia sebagai
+dan anggota masyarakat dapat menanggapi keadaan sosial yang ada,
+dan dapat menikmati, memanfaatkan serta memelihara lingkungan
+hidup atau dapat dikatakan sebagai proses penting dalam pengaturan
+biaya yang dikeluarkan dan keuntungan kegiatan bisnis dari
+stakeholders baik secara internal (pekerja, stakeholders dan penanam
+modal) maupun ekstemal (kelembagaan pengaturan umum, anggotaanggota masyarakat, kelompok masyarakat sipil dan perusahaan lain.
+(Satriyadi & Listya, 2023)
+Corporate Social Responsibility (CSR) sebagai suatu bentuk
+komitmen perusahaan untuk meningkatkan kualitas hidup dari
+karyawan, komunitas lokal, dan masyarakat secara lebih luas sebagai
+bentuk kontribusinya terhadap pembangunan ekonomi berkelanjutan
+yang tercermin melalui praktik bisnis yang baik. (Irawan & Muarifah,
+2020)
+Dengan demikian dari kumpulan definisi diatas, dapat
+disimpulkan bahwa CSR dapat dimaknai sekumpulan kewajiban atau
+komitmen baik bagi perusahaan maupun organisasi dibidang sosial
+dalam bentuk kontribusi di bidang ekonomi yang berkelanjutan guna
+meningkatkan kualitas kehidupan dan lingkungan yang bermanfaat,
+baik bagi organisasi sendiri, komunitas setempat, maupun masyarakat
+pada umumnya.
+1) Ruang Lingkup Corporate Social Responsibility (CSR)
+
+14
+
+Pada prinsipnya CSR merupakan komitmen perusahaan
+terhadap kepentingan para stakeholders dalam arti luas daripada
+sekedar kepentingan perusahaan. Meskipun secara moral adalah
+baik bagi perusahaan mengejar keuntungan, bukan berarti
+perusahaan dibenarkan mencapai keuntungan tersebut dengan
+mengorbankan kepentingan-kepentingan pihak lain yang terkait.
+Oleh karena itu setiap perusahaan harus bertanggung jawab atas
+tindakan dan kegiatan dari usahanya yang mempunyai dampak
+baik langsung maupun tidak langsung terhadap stakeholders-nya
+dan lingkungan dimana perusahaan melakukan aktivitas usahanya.
+Sehingga secara positif, hal ini bermakna bahwa setiap perusahaan
+dalam menjalankan akyivitasnya sedemikian rupa, pada akhirnya
+mampu meningkatkan kesejahteraan para stakeholders-nya dengan
+memerhatikan kualitas lingkungan kearah yang lebih baik.(Sari &
+Maharani, 2021)
+Corporate Social Responsibility (CSR) adalah konsep
+perusahaan mengintegrasikan kepedulian sosial dan lingkungan
+dalam mengoprasikan bisnis dan berinterkasi dengan para
+pemangku kepentingan secara sukarela yang mempengaruhi pada
+keberhasilan bisnis yang berkelanjutan.(Winningsih & Rejeki,
+2022)
+Corporate Social Responsibility (CSR) adalah berbagai
+bentuk tanggung jawab terhadap seluruh pemangku kepentingan,
+yang diantaranya adalah konsumen, karyawan, pemegang saham,
+komunitas, dan lingkungan dalam segala aspek operasional
+perusahaan yang mencakup aspek social, ekonomi, dan
+lingkungan.(Nadirah, 2020)
+Konsep Corporate Social Responsibility semakin popular
+terutama setelah kehadiran buku Cannibas With Froks: The Triple
+Buttom Line in 21st Century Business (1998), karya Jhon
+Elkington. Dia mengemas Corporate Social Responsibility dalam
+tiga fokus atau 3P yang merupakan singkatan dari Profit, Planet,
+dan People. Perusahaan yang baik tidak hanya memburu
+keuntungan ekonomi belaka (Profit), melainkan memiliki
+kepedulian pada kelestrian lingkungan (Planet), dan kesejahteraan
+masyarakat (People).(Azheri, 2012)
+Pada tahun 2002 Global Compact Initiative menegaskan
+Kembali tentang Triple P sebagai tiga pilar CSR dengan
+menyatakan bahwa tujuan bisnis adalah untuk mencari laba
+(Profit), mensejahterakan orang (People), dan menjamin
+
+15
+
+keberlanjutan Kehidupan (Planet). Ketiga aspek itu diwujudkan
+dalam kegiatan sebagaimana terlihat pada tabel berikut.
+Tabel 1.1
+Kegiatan Corporate Social Responsibility
+No. Aspek
+1.
+Sosial
+
+2.
+
+Ekonomi
+
+3.
+
+Lingkungan
+
+Muatan
+Pendidikan, pelatihan, kesehatan, perumahan,
+penguatan kelembagaan (secara internal,
+termasuk
+kesejahteraan
+karyawan),
+kesejahteraan social,
+olahraga, pemuda, wanita, agama, kebudayaan,
+dan sebagainya.
+Kewirausahaan, kelompok usaha bersama/unit
+mikro
+kecil
+dan
+usaha
+menengah
+(KUB/UMKM),
+agrobisnis,
+pembukaan
+lapangan kerja, infrastruktur ekonomi dan usaha
+produktif lain.
+Penghijauan, reklamasi lahan, pengelolaan air,
+pelestarian
+alam,
+ekowisata
+penyehatan
+lingkungan, pengendalian populasi, serta
+penggunaan produksi dan energy secara efesien.
+
+Sumber: (Azheri, 2012)
+2) Jenis-jenis CSR
+a) CSR Pendidikan
+Sebagai salah satu pilar pembangunan bangsa, pendidikan
+tidak dapat diabaikan oleh perusahaan dalam menerapkan CSR.
+maka tidak mengherankan pendidikan adalah bidang yang tidak
+terlewatkan dalam implementasi Corporate Social Responsibility
+setiap Perusahaan. (Amalia et al., 2021)
+b) CSR Kesehatan
+Peningkatan kesehatan suatu penduduk adalah salah satu
+target perusahaan. Dengan demikian, program-program Corporte
+Social Responsibiity sudah sebaiknya tidak meninggalkan
+programnya dibidang kesehatan bisa dilakukan dengan cara,
+disesuaikan dengan kebutuhan dan apa yang semestinya dilakukan
+di daerah setempat.
+Contohnya, untuk daerah tertentu salah satu kendala yang
+dihadapi adalah masih rendahnya kondisi kesehatan manusia,
+termasuk masih rendahnya fasilitas kesehatan terutama daerahdaerah terpencil.
+
+16
+
+c)
+
+CSR Ekonomi
+Peningkatan taraf hidup masyarakat dalam bidang ekonomi
+menjadi perhatian penting setiap pemangku kebijakan Corporate
+Social dengan mengembangkan Lembaga Keuangan Mikro,
+bantuan modal Responsibility nya. Peningkatan pendapatan
+ekonomi bisa diterapkan kepada pengusah-pengusaha kecil, dan
+pemberdayaan petani.
+d) CSR Lingkungan
+Tanggung jawab terhadap perlindungan lingkungan seringkali
+dianggap berada diranah publik. Dimasa lalu pemerintah
+dipandang sebagi aktor utama yang mengadopsi perilaku ramah
+lingkungan, sementara itu pihak swasta hanya dilihat sebagai
+timbulnya masalah-masalah lingkungan, namun kini terbalik,
+kiprah
+perusahaan
+dalam
+mewujudkan
+pembangunan
+berkelanjutan secara ekonomi, sosial dan lingkungan global mulai
+nyata. Pertama semakin terbatasnya sumber daya alam di dunia ini
+menjadi kendala utama bisnis. Kedua, keterbatasan SDM ini
+menyetir arah pasar sehingga perusahaan dihadapkan pada banyak
+pihak yang peduli lingkungan. Konsep 3P (profit, people dan
+planet) adalah gambaran bahwa perusahaan selalu mempunyai
+dampak langsung terhadap lingkungan (planet). Dengan demikian,
+program-program CSR tidak bisa meningggalkan implementasinya
+khususnya di bidang lingkungan.
+3)
+Indikator Keberhasilan CSR
+a) Secara umum, keberhasilan CSR dapat dilihat dari nilai
+etika yang dikandungnya yaitu turut menegakkan social
+justice, sustainability, equit.
+b) Secara social, keberhasilan CSR dapat dinilai dari tinggi
+rendahnya legitimilasi social korporasi dihadapan
+stakeholder sosialnya.
+c) Secara bisnis, keberhasilan CSR dapat dinilai dari
+meningkatnya nilai saham akibat peningkatan social
+image.
+d) Secara teknis, keberhasilan CSR dapat dilihat dari
+capaian program hasil evaluasi Teknik lapangan.
+(Azheri, 2012)
+4)
+Prinsip-prinsip Tanggung Jawab Sosial Perusahan
+1) Sustainability
+
+17
+
+4)
+
+Sustainability berkaitan dengan bagaimana perusahaan
+dalam melakukan aktivitas tetap memperhitungkan
+keberlanjutan sumberdaya di masa depan.
+2) Accountability
+Upaya perusahaan terbuka dan bertanggung jawab atas
+aktivitias yang telah dilakukan. Akuntabilitas dapat
+dijadikan sebagai media bagi perusahaan untuk
+membangun citra dan network terhadap para pemangku
+kepentingan (stakeholders).
+3) Transparency
+Prinsip penting bagi pihak eksternal yang berperan untuk
+mengurangi asimetri informasi dan pertanggungjawaban
+berbagai dampak dari lingkungan. (Ningrum & Hadi,
+2020)
+Manfaat Non Finansial CSR
+1) Kepercayaan
+Untuk membangun kepercayaan yang kokoh dibutuhkan
+prinsip-prinsip kode etik, transparansi, keterbukaan,
+proses bisnis yang beretika dan mekanisme agar
+kepercayaan itu menjadi strategi berbisnis yang
+berkesinambungan. Suplemen itu melibatkan proses
+pembentukan kepercayaan dengan stakeholders.
+2) Kreadibilitas
+Repustasi perusahaan akan semakin berkembang melalui
+kerja keras dalam menjafa serta meningkatkan
+kreabilitas. Area kreabilitas tersebut mencakup
+kreabilitas lingkungan, sosial dan finansial. Pengetahuan
+dan kompetensi serta kepemimpinan. Kunci-kunci ini
+yang harus dijalanin perusahaan menuju proses masif
+peningkatan reputasi perusahaan.
+3) Tanggung jawab
+Bertanggung jawab dalam mengelola dampak negatif
+dari operasional perusahaan adalah bagian sistematis
+yang harus dilaksanakan perusahaaan tanpa syarat
+apapun, karena tanggung jawab akan dilihat sebagai
+suatu sikap yang sangat penting dari penilaian dalam
+memperkuat reputasi perusahaan.
+
+18
+
+4) Akuntabilitas
+Untuk memperkuat reputasi perusahaan sebagai skema
+peaporan aktivitas CSR kepada stakeholder dan bersifat
+dua arah.
+5) Manajemen Risiko
+Mengelola risiko bisnis secara lebih tanggap dan
+terperinci
+Reputasi perusahan menyangkut stigma bahwa
+bagaimana risiko suatu bisnis akan dikelola lebih
+tanggap detail dan presisi. (Natalina, 2022)
+2.2.3 Corporate Social Responsibility (CSR) dalam Peraturan
+Perundang-Undangan
+Hasil penelitian menunjukkan bahwa ketentuan yuridis CSR di
+Indonesia secara spesifik belum ada, namun secara implicit telah diatur
+dalam beberapa ketentuan peraturan perundang-undangan seperti pasal (1)
+Undang-Undang Nomor 40 tahun 2007 tentang Perseroan Terbatas
+(UUPT): “Perseroan Terbatas yang selanjutnya disebut Perseroan, adalah
+badan hukum yang merupakan persekutuan modal, didirikan berdasarkan
+perjanjian, melakukan kegiatan usaha dengan modal dasar yang
+seluruhnya terbagi dalam saham dan memenuhi persyaratan yang
+ditetapkan dalam undang-undang ini serta peraturan pelaksanaanya”.
+Pasal 66 angka 2 C UUPT yang menyebutkan Laporan
+pelaksanaan Tanggung Jawab Sosial dan Lingkungan.
+Pasal 74 UUPT mengatur antara lain:
+a. Ayat (1) Perseroan yang menjalankan kegiatan usahanya di
+bidang dan/ atau berkaitan dengan sumber daya alam wajib
+melaksanakan Tanggung Jawab Sosial dan Lingkungan.
+b. Ayat (2) Tanggung Jawab Sosial dan Lingkungan sebagaimana
+dimaksud pada ayat (1) merupakan kewajiban perseroan yang
+dianggarkan dan diperhitungkan sebagai biaya perseroan yang
+pelaksanaanya dilakukan dengan memperhatikan kepatutan dan
+kewajaran.
+c. Ayat (3) Perseroan yang tidak melaksanakan sebagaimana
+dimaksud pada ayat (1) dikenakan sanksi sesuai dengan ketentuan
+perundangundangan.
+d. Ketentuan lebih lanjut mengenai Tanggung Jawab Sosial dan
+Lingkungan diatur dengan peraturan Pemerintah. (Heliwela,
+2011)
+Selanjutnya jika dibandingkan dengan Undang-Undang Nomor 25
+Tahun 2007 tentang Penanaman Modal (UUPM), pasal 15 huruf (b)
+
+19
+
+mewajibkan setiap penanam modal di Indonesia melakukan tanggung
+jawab sosial perusahaan sebagaimana disebutkan dalam dalam Pasal 15
+huruf b. Apabila penanam modal tidak melakukan hal tersebut maka
+undang-undang memberikan sanksi mulai dari peringatan tertulis,
+pembatasan kegiatan usaha, pembekuan kegiatan usaha dan/atau
+pencabutan kegiatan usaha.
+Pasal 16 huruf (d) UUPM, menyatakan bahwa setiap penanam
+modal bertanggung jawab terhadap kelestarian lingkungan hidup,
+selanjutnya pasal16 huruf (e) UUPM, menyatakan bahwa setiap penanam
+modal bertanggung jawab menciptakan kemaslahatan, kesehatan,
+kenyamanan, dan kesejahteraan pekerja. Selanjutnya pasal 17 UUPM
+menentukan bahwa penanam modal yang mengusahakan sumber daya
+alam wajib mengalokasikan dana secara bertahap untuk pemulihan lokasi
+yang memenuhi standar kelayakan lingkungan hidup yang pelaksanaanya
+diatur sesuai dengan ketentuan peraturan perundang-undangan.
+Sanksi bagi penggaran CSR dalam pelestarian lingkungan hidup
+secara implicit tidak diatur dalam UUPT maupun UUPM, dikarenakan
+belum adanya peraturan pemerintah lebih lanjut, namun ketentuan pasal
+74 ayat (3) UUPT merujuk langsung pada undang-undang terkait
+berdasarkan dampak yang diakibatkanya. Selain itu UUPT tidak
+menyebutkn secara rinci berapa besaran biaya yang harus dikeluarkan
+perusahaan untuk CSR serta sanksi bagi yang melanggar.
+Program CSR merupakan suatu program yang cukup bermanfaat
+bagi pemberdayaan masyarakat secara berkelanjutan kalau dilaksanakan
+secara sistematis, integrated, dan berkesinambungan, agar programprogram CSR bisa tepat sasaran dan dapat dipantau tingkat efektivitas dan
+kinerjanya, maka diperlukan pemantauan dan penilaian agar dapat
+diketahui sejauh mana perusahaan telah menjalankan program
+pengembangan masyarakay secara baik dan benar. Perlu dorongan supaya
+perusahaan yang terlibat dalam melaksanakan pengembangan masyarakat
+melalui program CSR, akan tetapi jangan sampai kurang bermanfaat
+karena salah metode dan strategi, oleh karena itu sangat diperlukan
+evaluasi secara objektif oleh pemerintah.
+2.2.4 Kepercayaan Masyarakat
+a. Pengertian Kepercayaan
+Kepercayaan yaitu kemampuan seseorang untuk mempercayakan
+perusahaan atau sebuah merek untuk melakukan atau menjalankan sebuah
+fungsi selain itu, kepercayaan juga dapat didefinisikan sebagai suatu
+
+20
+
+kondisi ketika salah satu pihak yang terlibat dalam proses pertukaran
+yakin dengan keandalan dan integritas pihak yang lain.
+Sikap (attitudes) konsumen adalah faktor penting yang akan
+mempengaruhi keputusan konsumen. Konsep sikap sangat terkait dengan
+konsep kepercayaan (trust) dan perilaku (behavior). Mowen dan Minor
+menyebutkan bahwa istilah pembentukan sikap konsumen (consumer
+attitude formation) seringkali menggambarkan hubungan antara
+kepercayaan, sikap dan perilaku. Kepercayaan, sikap dan perilaku
+memilikihubungan timbal balik yang saling mempengaruhi dalam
+pengambilan keputusan. Ketiganya saling mempengaruhi,kepercayaan
+akan mempengaruhi seseorang dalam bersikap. Sikap seseorang akan
+membentuk perilaku seseorang.(Adibrata et al., 2021)
+Kepercayaan adalah kekuatan bahwa suatu produk memiliki
+atribut tertentu. kepercayaan konsumen sebagai semua pengetahuan yang
+dimiliki oleh konsumen, dan semua kesimpulan yang dibuat oleh
+konsumen tentang objek, atribut dan manfaatnya. Kepercayaan
+masyarakat dibentuk oleh masyarakat sendiri melalui beberapa
+pengetahuan yang dimiliki. Pengetahuan terkait citra, reputasi dan
+kualitas pelayanan memiliki kekuatan untuk membentuk kepercayaan.
+(Rahmadika & Riauan, 2022)
+Kepercayaan didefinisikan sebagai keinginan untuk menyerahkan
+sesuatu kepada partner yang bisa dipercaya. kepercayaan merupakan
+harapan umum yang dimiliki individu bahwa kata-kata yang muncul dari
+pihak lainnya dapat diandalkan. Ketika seseorang mengambil keputusan,
+ia akan lebih memilih keputusan berdasarkan pilihan dari orang-orang
+yang lebih dapat ia percaya dari pada yang kurang dipercayai.
+b. Indikator Kepercayaan
+Indikator kepercayaan terdiri dari 3 komponen, yaitu:
+1) Integritas (integrity)
+Merupakan persepsi konsumen bahwa perusahaan
+mengikuti prinsip-prinsip yang dapat diterima seperti menepati
+janji, berperilaku sesuai etika dan jujur Integritas perusahaan
+tergantung dari konsistensi perusahaan dimasa lalu, komunikasi
+kredibel atau komunikasi tidak kredibel suatu perusahaan pada
+kelompok lain, dan apakah tindakan yang dilakukan perusahaan
+sesuai dengan janji atau kata – kata yang diucapkan perusahaan.
+2) Kebaikan (benevolence)
+Yang didasarkan pada besarnya kepercayaan kemitraan
+yang memiliki tujuan dan motivasi yang menjadi kelebihan untuk
+
+21
+
+2.3
+
+organisasi lain pada saat kondisi yang baru muncul, yaitu kondisi
+dimana komitmen tersebut tidak terbentuk.
+3) Kompetensi (Competence)
+Kompetensi merupakan kemampuan untuk memecahkan
+permasalahan yang dihadapi oleh konsumen dan memenuhi segala
+keperluanya. Kemampuan mengacu pada keahlian dan
+karakteristik yang memungkinkan suatu kelompok mempunyai
+pengaruh yang dominan.(Kasinem, 2020)
+Definisi Konseptualisasi dan Operasional Variabel
+2.3.1 Definisi Konseptualisasi Variabel
+Variabel penelitian adalah suatu atribut atau sifat atau nilai dari
+orang, obyek atau kegiatan yang mempunyai variasi tertentu yang yang
+ditetapkan oleh peneliti untuk dipelajari dan kemudian ditarik
+kesimpulanya. (Sugiyono, 2019) Sesuai dengan judul yang ada maka dalam
+penelitian ini didapat dua variabel yaitu:
+a. CSR (variabel x)
+Variablel independen adalah merupakan variabel yang
+mempengaruhi atau yang menjadi sebab perubahanya atau timbulnya
+variabel dependen (terikat). (Sugiyono, 2019)Variabel independen dalam
+penelitian ini Corporate Social Responsibility (CSR).
+Corporate Social Responsibility (CSR) secara singkat dapat diartikan
+sebagai tanggung jawab sosial perusahaan kepada para pihak-pihak yang
+berkepentingan, baik secara langsung maupun tidak langsung terhadap
+eksistensi atau aktivitas perusahaan, seperti karyawan, konsumen,
+masyarakat, maupun pemerintah.(Syukerti et al., 2022)
+b.
+Kepercayaan Masyarakat (variabel y)
+Variabel dependen merupakan variabel yang dipengaruhi atau yang
+menjadi akibat, karena adanya variabel bebas (Sugiyono, 2019).Variabel
+dependen dalam penelitian ini adalah kepercayaan masyarakat.
+Kepercayaan konsumen sebagai semua pengetahuan yang dimiliki
+oleh konsumen, dan semua kesimpulan yang dibuat oleh konsumen
+tentang objek, atribut dan manfaatnya. Kepercayaan masyarakat dibentuk
+oleh masyarakat sendiri melalui beberapa pengetahuan yang
+dimiliki. Pengetahuan terkait citra, reputasi dan kualitas pelayanan
+memiliki kekuatan untuk membentuk kepercayaan. (Rahmadika & Riauan,
+2022)
+2.3.2 Definisi Operasional Variabel
+Definisi Operasional Variabel merujuk pada pengembangan
+definisi yang diaplikasikan pada variabel yang sedang dioperasionalkan.
+Variabel ini merupakan fokus dari penelitian dan diberi makna yang
+
+22
+
+terkait, sehingga setiap variabel yang diselidiki memiliki makna yang
+spesifik, sesuai dengan konteks operasional variabel tersebut.
+Variabel dapat diartikan sebagai sifat khas individu atau objek
+yang menunjukkan "variasi" antara objek satu dengan lainnya atau
+individu satu dengan individu lainnya. Oleh karena itu, variabel-variabel
+yang akan menjadi objek pengukuran dalam penelitian ini terdiri dari
+variabel x yaitu CSR dan variabel y kepercayaan masyarakat.
+Operasional dari penelitian ini adalah
+1. Corporate Sosial Responsibility (variabel x)
+a. CSR Pendidikan
+CSR Pendidikan Ini melibatkan inisiatif dan program yang
+dilakukan oleh perusahaan untuk mendukung akses, kualitas, dan
+informasi dalam pendidikan.
+Adapun operasional yang dipilih sebagai berikut
+1) Jasa Raharja Corner
+PT Jasa Raharja Cabang Riau Menyajikan buku-buku
+keselamatan berlalu lintas pada pojok baca.
+2) Sosialisasi Sukses Wawancara Kerja dan Pelopor berlalu lintas
+PT Jasa Raharja Cabang Riau memberikan pembekalan kepada
+100 mahasiswa tentang sukses wawancara kerja dan sosialisasi
+agar tertib dan menjadi pelopor dalam berlalu lintas.
+3) Seminar Lingkungan Hidup dan Safety Riding
+PT Jasa Raharja Cabang Riau melalui Program Tanggung
+Jawab Sosialnya melakukan Seminar Lingkungan Hidup dan
+Safety Riding yang diikuti 100 Mahasiswa.
+b. CSR Ekonomi
+CSR Ekonomi merujuk pada tanggung jawab sosial perusahaan
+dalam mempertimbangkan dampak ekonomi dari programnya
+terhadap masyarakat dan lingkungan.
+Adapun operasional yang dipilih sebagai berikut
+1) Bantuan Program Kemitraan UMKM
+PT Jasa Raharja Cabang Riau menyerahkan bantuan Program
+Kemitraan kepada pengusaha menengah maupun kecil di
+Pekanbaru. Jumlah total bantuan program kemitraan yang
+diserahkan adalah Rp. 592.000.000.
+2) Bantuan Dana Renovasi Mushola Terminal Tipe A Dumai
+PT Jasa Raharja Cabang Riau menyalurkan Program Bina
+Lingkungan bantuan renovasi Mushola Terminal Tipe A
+Dumai senilai Rp10 juta.
+
+23
+
+3) Bantuan Kemitraan UMKM
+PT Jasa Raharja Cabang Riau memberikan bantuan kredit
+kemitraan Rp168 juta pada UMKM yang bergerak di bidang
+jasa dan perdagangan guna meningkatkan produktivitas usaha
+mereka.
+c. CSR Lingkungan
+CSR Lingkungan adalah upaya perusahaan untuk beroperasi secara
+berkelanjutan dengan memperhatikan pelestarian sumber daya
+alam, mengurangi polusi, dan menjaga lingkungan.
+Adapun operasional yang dipilih sebagai berikut
+1) Penanaman 1.000 bibit pohon produktif
+PT. Jasa Raharja Cabang Riau melakukan aksi nyata terhadap
+lingkungan dengan acara penanaman 1.000 bibit pohon
+produktif, seperti Mangga, matoa, lengkeng.
+2) Pengobatan gratis
+PT. Jasa Raharja Cabang Riau berikan pengobatan gratis
+kepada masyarakat.
+3) Kegiatan gerak jalan Bersama
+PT. Jasa Raharja Cabang Riau mengadakan kegiatan gerak
+jalan Bersama sekaligus mengedukasi Peduli Lingkungan dan
+memberikan informasi kepada masyarakat mengenai
+pembayaran Pajak Kendaraan Bermotor.
+2. Kepercayaan Masyarakat (variabel y)
+a. Integritas (Integrity)
+Konsistensi dan ketulusan dalam melakukan tindakan dan
+keputusan tanpa mengabaikan etika atau nilai-nilai moral.
+Adapun operasional yang dipilih sebagai berikut
+1) Tanggung Jawab
+Kemampuan individu atau organisasi untuk menerima
+konsekuensi dari tindakan atau keputusan yang diambil, baik
+berupa hasil positif maupun negatif.
+2) Kebenaran Informasi Publik
+Kelengkapan dan kebenaran informasi yang diberikan dalam
+program akan diperiksa untuk memastikan bahwa kejadian
+tersebut benar-benar terjadi dan memenuhi persyaratan.
+3) Transparansi
+Sejauh mana individu atau organisasi mengungkapkan
+informasi yang jelas terhadap hasil-hasil yang dicapai serta
+dampak yang ditimbulkan, tindakan, dan kinerja mereka secara
+terbuka dan jujur.
+
+24
+
+b. Kebaikan (Benevolence)
+Kebaikan adalah Sesuatu Sifat baik, perbuatan baik, sesuatu yang
+bermakna dan sifat manusia yang dianggap baik.
+Adapun operasional yang dipilih sebagai berikut
+1) Perhatian
+Upaya yang dilakukan oleh perusahaan untuk memperhatikan,
+memahami, dan merespons kebutuhan, dan masalah yang
+dihadapi oleh pelanggan serta pihak-pihak lain yang terlibat.
+2) Dapat diharapkan
+Harapan atau ekspektasi terhadap sesuatu yang mungkin terjadi
+atau dilakukan dalam situasi tertentu dan dampaknya.
+3) Empati
+Kemampuan untuk memahami dan merasakan perasaan,
+pengalaman, dan pandangan orang lain dari perspektif mereka
+sendiri.
+c. Kompetensi (Competence)
+Kompetensi
+merupakan
+gabungan
+antara
+pengetahuan,
+keterampilan, dan atribut kepribadian seseorang sehingga mampu
+meningkatkan kinerja dan memberikan kontribusi untuk
+keberhasilan organisasi dan memecahkan permasalahan yang
+dihadapi oleh konsumen dan memenuhi segala keperluannya.
+Adapun operasional yang dipilih sebagai berikut
+1) Menyediakan Produk
+Proses atau tindakan mempersiapkan dan menyajikan barang
+atau jasa sesuai dengan kebutuhan dan keinginan.
+2) Pelayanan
+Pelayanan adalah segala bentuk upaya atau tindakan yang
+dilakukan oleh individu, perusahaan, atau organisasi untuk
+memenuhi kebutuhan, keinginan, atau permintaan pelanggan
+atau pihak lainnya
+3) Kepuasan
+merujuk pada tingkat kepuasan yang dirasakan oleh pelanggan
+setelah menggunakan produk atau layanan suatu perusahaan.
+
+25
+
+Tabel 1.2
+Operasional Variabel X dan Variabel Y
+NO
+
+VARIABEL
+
+INDIKATOR
+
+1
+
+CSR (X)
+
+CSR
+Pendidikan
+Sosialiasi
+Peluang Kerja
+
+CSR Ekonomi
+Bantuan
+UMKM
+
+SUB
+INDIKATOR
+
+INSTRUMEN
+
+1. Mendukung
+Akses
+
+1. Jasa Raharja
+Corner
+
+2. Kualitas
+Informasi
+
+2. Sosialisasi
+Sukses
+Wawancara
+Kerja dan
+Pelopor berlalu
+lintas
+
+1. Tanggung
+Jawab Sosial
+2. Dampak
+Ekonomi
+
+3. Seminar
+Lingkungan
+Hidup dan Safety
+Riding
+1. Bantuan
+Program
+Kemitraan
+UMKM
+2. Bantuan
+renovasi
+Mushola
+Terminal Tipe A
+Dumai
+
+CSR
+Lingkungan
+Pelestarian
+Daerah
+
+1. Sumber Daya
+Alam
+2. Polusi dan
+Lingkungan
+
+3. Bantuan
+Program
+Kemitraan
+UMKM
+1. Penanaman
+1.000 bibit
+pohon produktif
+2. Pengobatan
+gratis
+3. Kegiatan gerak
+jalan Bersama
+
+26
+
+2
+
+Kepercayaan
+Masyarakat
+(Y)
+
+Integritas
+(Integrity)
+
+Kebaikan
+(Benevolence)
+
+1. Konsisten
+
+1. Tanggung Jawab
+
+2. Citra
+Perusahaan
+
+2. Kebenaran
+Informasi Publik
+
+1. Opini
+
+3. Transparansi
+1. Perhatian
+
+2. Kesejahteraan
+
+Kompetensi
+(Competence)
+
+1. Mempengaruh
+i
+
+2. Dapat
+diharapkan
+3. Empati
+1. Menyediakan
+Produk
+
+2. Memenuhi
+Kebutuhan
+
+2. Pelayanan
+3. Kepuasan
+
+2.4
+
+Kerangka Pemikiran
+
+Kerangka pemikiran adalah gambaran yang menjelaskan secara ideal antara
+teori dalam penelitian dan pemahaman atas beragam permasalahan yang menjadi
+rumusan mengapa pentingnya penelitian tersebut dijalankan dan diselesaikan.
+(Sugiyono, 2019)
+Berikut ini adalah gambaran kerangka berfikir dalam penelitian ini.
+Gambar 2.1 Kerangka Pikir Penelitian
+
+Pendidikan
+
+Program CSR
+
+Ekonomi
+
+Lingkungan
+
+Kepercayaan
+Masyarakat
+
+27
+
+2.5
+
+Hipotesis Penelitian
+
+Hipotesis adalah pernyataan yang belum tentu kebenerannya dan masih
+harus diuji terlebih dahulu karena bersifat sementara atau dugaan awal. Hipotesis
+merupakan pertanyaan yang melatar belakangi seseorang melakukan penelitian.
+Dalam melaksanakan penelitian diperlukan hipotesis yang benar sehingga peneliti
+dapat menentukan teknik dalam menguji hipotesis yang ada.
+Maka hipotesis dalam penelitian ini adalah sebagai berikut :
+H1: Terdapat pengaruh yang signifikan antara program Corporate Social
+Responsibility (CSR) dan kepercayaan masyarakat.
+H0: Tidak terdapat pengaruh yang signifikan antara program Corporate
+Social Responsibility (CSR) dan kepercayaan masyarakat.
+
+BAB III
+METODOLOGI PENELITIAN
+
+3.1
+
+3.2
+
+3.3
+
+Jenis Penelitian
+Desain penelitian adalah program penelitian yang disusun sedemikian
+rupa sehingga peneliti dapat memperoleh jawaban terhadap pertanyaan
+penelitian. Desain penelitian menetapkan pada jenis atau macam penelitian
+yang dipilih untuk mencapai tujuan penelitian, serta berperan sebagai media
+dan arahan untuk mencapai tujuan tersebut. Desain penelitian membantu
+peneliti untuk mendapatkan jawaban dari penelitian dengan valid, objektif,
+dan teliti.(Gunawan, 2015)
+Penelitian kuantitatif ini lebih kepada pola tradisional, experimental
+dan positif. Jenis penelitian yang digunakan dalam penelitian ini adalah
+penelitian kuantitatif. Metode ini dipilih untuk mengetahui besar kecilnya
+pengaruh dan hubungan variable independent terhadap variable dependen.
+Selain itu metode kuantitatif dinilai lebih jelas dan dapat diuji secara
+statistik untuk melihat hubungan dari variabel-variabel tersebut sehingga
+data yang dihasilkan akurat dan terukur.
+Lokasi dan Waktu Penelitian
+Hal pertama yang selalu berkaitannya dengan metodologi penelitian
+adalah tempat penelitian. Yang dimaksud dengan tempat penelitian yaitu
+dimana proses studi yang digunakan untuk memperoleh pemecahan masalah
+penelitian itu berlangsung.(Sukardi, 2018) Penelitian ini dilakukan di PT.
+Jasa Raharja Cabang Riau di Jalan Jendral Sudirman, Kota Pekanbaru.
+Waktu dilaksanakan selama 5 Bulan.
+Populasi dan Sampel
+3.2.1 Populasi
+Populasi adalah suatu wilayah yang terdiri dari objel atau subjekyang
+mempunyai kualitas dan karakteristik tertentu terhadap apa yang
+diterapkan oleh peneliti untuk di pelajari dan ditarik
+kesimpulannya.(Sugiyono, 2019) Dalam konteks ini, populasi adalah
+seluruh masyarakat yang terkait dengan PT Jasa Raharja, seperti
+nasabah, pemegang saham, karyawan, dan masyarakat umum yang
+terpengaruh oleh kegiatan perusahaan ini dengan rentang usia 18 –
+50 Tahun.
+3.2.2 Sampel
+Sampel adalah bagian dari populasi yang akan di teliti secara
+mendalam. Syarat utama sampel harus mewakili dari populasi
+
+28
+
+29
+
+tersebut, oleh karena itu ciri-ciri populasi harus diwakili dalam
+sampel.
+Teknik sampling yaitu Teknik yang digunakan untuk
+mengambil sampel sebagai bentuk representasi dari populasi.
+Pengambilan sampel dari penelitian ini menggunakan probability
+sampling dengan Teknik simple random sampling, dimana
+pengambilan sampel anggota populasi dilakukan secara acak agar
+setiap anggota populasi mempunyai kesempatan yang sama untuk
+dijadikan sampel. (Nasution, 2011) Dalam penelitian ini populasi
+yang diambil dari seluruh masyarakat yang terkait dengan
+perusahaan tersebut, termasuk pelanggan, pemegang saham,
+karyawan, dan masyarakat umum yang terpengaruh oleh kegiatan
+perusahaan.
+Untuk menghitung penentuan Jumlah sampel dari suatu
+populasi tertentu yang dikembangkan, maka pengambilan sampel
+menggunakan rumus Slovin. Perhitungan sampel dengan rumus
+Slovin sebagai berikut :
+
+(
+
+)
+
+Keterangan:
+n = Jumlah Sampel
+N = Jumlah Populasi
+e = Margin Error
+Dalam menentukan Jumlah sampel yang akan dipilih,
+peneliti menggunakan tingkat kesalahan sebesar 5%. Dalam setiap
+penelitian tidak mungkin hasil yang didapat sempurna 100%.
+Jumlah populasi yang digunakan adalah 125 orang, dengan
+perhitungan sebagai berikut:
+
+n = 100 orang
+
+30
+
+3.4
+
+Jadi dari populasi yang diambil sebagai sampel adalah
+sebanyak 100 orang responden.
+Teknik Pengumpulan Data
+Teknik pengumpulan data merupakan langkah dalam penelitian,
+karena tujuan utama dari penelitian adalah mendapatkan data. Tanpa
+mengetahui teknik pengumpulan data, maka peneliti tidak akan
+mendapatkan data yang memenuhi standar data yang ditetapkan.(Sugiyono,
+2019)
+Untuk mendapatkan keseluruhan informasi yang sesuai dengan inti
+penelitian maka yang dijadikan teknik pengumpulan data adalah sebagai
+berikut:
+3.4.1 Kuesioner (angket)
+Kuesioner atau angket adalah sebuah Teknik yang digunakan dalam
+mengumpulkan data dengan menggunakan formulir yang berisi sejumlah
+pertanyaan yang berhubungan dengan objek yang sedang diteliti. Pertanyaan
+diberikan secara tertulis kepada beberapa orang yang bertujuan untuk
+mendapat informasi yang kiranya mewakili dan diperlukan peniliti.(Rahmi
+Syariza, 2022) Pada penelitian ini pengumpulan data responden dilakukan
+dengan cara menyebarkan angket online lewat Goggle Forms.
+Adapun skala yang digunakan dalam penelitian ini skala likert. Skala
+likert digunakan untuk mengukur sikap, pendapat, persepsi seseorang atau
+sekelompok orang perihal fenomena social. Dalam penelitian fenomena
+social ini sudah ditetapkan secara khusus oleh peneliti, yang selanjutnya
+disebut sebagai variabel penelitian.Skala Likert
+a. Skala Likert
+Skala likert digunakan untuk mengukur pendapat dan tanggapan
+responden dalam penelitian ini. Digunakan untuk menghitung
+pendapat, persepsi serta tanggapan seseorang atau sekelompok
+orang mengenai suatu fenomena. Setiap pertanyaan memiliki 5
+alternatif jawaban dan masing-masing jawaban yang dipilih
+memiliki nilai atau bobot sebagai berikut :
+
+31
+
+Tabel 2. 1 Skala Likert
+No. Klasifikasi
+
+Jawaban
+
+Skor
+
+1
+
+SS
+
+Sangat Setuju
+
+5
+
+2
+
+CS
+
+Cukup Setuju
+
+4
+
+3
+
+S
+
+Setuju
+
+3
+
+4
+
+TS
+
+Tidak Setuju
+
+2
+
+5
+
+STS
+
+Sangat Tidak Setuju
+
+1
+
+Di dalam perhitungan Nilai (Skor) terdapat 2 macam nilai (skor) yaitu :
+1) Nilai Maksimum
+Nilai maksimum didapatkan dari Skor jawaban paling tinggi dikalikan
+dengan jumlah Responden kemudian dikalikan dengan jumlah
+kuisioner.
+2) Nilai Minimum
+Nilai minumum didapatkan dari skor jawaban terendah dan kemudian
+dikalikan dengan jumlah Responden dan selanjutnya dikalikan dengan
+Jumlah Kuesioner. Skor minimum = 1 x Jumlah Responden x Jumlah
+Kuesioner.(Arikunto, 2010)
+3.4.2 Dokumentasi
+Dokumentasi adalah pengumpulan, pemilihan, pengolahan, dan
+penyimpanan informasi dalam bidang pengetahuan. Mempelajari datadata yang ada dalam perusahaan dan dinilai penting dengan penelitian
+yang dilakukan peneliti.
+3.4.3 Uji Validitas dan Reliabilitas Data
+a.
+
+Uji Validitas
+Validitas digunakan untuk mengetahui apakah alat ukur
+yang digunakan dalam penelitian cocok untuk mengukur konsep
+yang akan diukur. Suatu alat ukur dikatakan memiliki efektivitas
+tinggi jika dapat mengukur secara akurat benda yang diukur.
+Validitas sangat penting dalam analisis isi, karena hasil analisis
+ini didasarkan pada alat ukur yang digunakan. Jika alat ukur yang
+digunakan tidak sesuai, maka hasil yang diperoleh tentu tidak
+dapat dipercaya.(Erianto, 2011)
+Untuk menguji validitas instumen hal yang wajib dilakukan
+menggunakan cara mencari harga koefisen, korelasi antara
+
+32
+
+b.
+
+3.5
+
+bagian-bagian dari alat ukur secara keseluruhan, yaitu dengan
+cara mengegresikan setiap butir alat ukur dengan skor total yang
+artinya jumlah setiap item soal. Jika hasil perhitungan terjadi t
+hitung lebih besar dari t table, maka butir soal dinyatakan valid.
+Tetapi jika sebaliknya maka butir soal tersebut dinyatakan tidak
+valid serta selanjutnya diperbaiki atau tidak dipergunakan dalam
+instrument penelitian.
+Lalu untuk mengukur validitas instrument digunakan
+korelasi product moment pada taraf signifikan dengan nilai
+probabilitas 0.05 atau 5%. Pada program SPSS teknik pengujian
+yang digunakan untuk uji validitas ialah menggunakan Corected
+item-Total Correlation (item total statistic). Perhitungan teknik ini
+cocok dipergunakan di skala yang menggunakan uji 2 sisi
+menggunakan taraf signifikan 0,05.
+Kriteria pengujian sebagai berikut:
+- Jika r dihitung> r tabel (uji 2 sisi dengan sig 0,05) maka
+instrument atau item-item pertanyaan berkorelasi signifikan
+terhadap skor total dinyatakan valid).
+- Jika r dihitung< r table (uji 2 sisi dengan sig 0,05) maka
+instrument atau item-item pernyataan berkorelasi signifikan
+terhadap skor total dinyatakan tidak valid.(Noor, 2011)
+Uji Reliabilitas
+
+Uji reliabilitas dipergunakan untuk mengetahui konsistensi
+alat ukur, apakah alat pengukur yang digunakan sanggup
+diandalkan dan tetap konsisten, bila pengukuran diulang konsisten
+bila pengukuran tadi diulang. Metode pengujian reliabilitas yang
+peneliti gunakan adalah metode cronbach’s alpha. Dalam program
+SPSS metode cronbach’s alpha sangat cocok digunakan pada skor
+berbentuk skala (misalnya 1-4,1-5) atau skor rentangan (misal 020, 0-50)
+Untuk pengujian biasanya memakai batasan tertentu seperti
+0,60. Reliabilitas kurang dari 0,60 adalah kurang baik, sedangkan
+0,70 dapat diterima dan diatas 0,80 adalah baik.
+Teknik Analisis Data
+Analisis data disebut juga pengolahan data. Analisis data merupakan
+upaya mencari dan menata secara sistematis catatan hasil wawancara,
+observasi, dan lainnya untuk meningkatkan pemahaman peneliti tentang
+kasus yang diteliti dan menyajikan sebagai temuan bagi orang lain.
+Sedangkan untuk meningkatkan pemahaman tersebut perlu dilanjutkan
+dengan berupaya mencari makna.
+
+33
+
+Dalam penelitian ini analisis data menggunakan Regresi Linear
+Sederhana adalah Metode Statistik yang berfungsi untuk menguji sampai
+mana hubungan sebab akibat antara Variabel Faktor Penyebab (X) terhadap
+Variabel Akibatnya. Faktor Penyebab pada umumnya dilambangkan
+menggunakan X atau disebut juga dengan Predictor sedangkan Variabel
+Akibat dilambangkan dengan Y atau bisa juga dengan Response. Regresi
+Linear Sederhana atau disingkat dengan SLR (Simple Linear Regression)
+juga artinya salah satu Metode Statistik yang dipergunakan pada produksi
+untuk melakukan peramalan ataupun memprediksi tentang karakteristik
+kualitas maupun kuantitas.
+Model Persamaan Regresi Linear Sederhana ialah seperti berikut ini :
+Y = a + bX
+Dimana :
+Y = Variabel Response atau Variabel Akibat (Dependent)
+X = Variabel Predictor atau Variabel Faktor Penyebab (Independent)
+a = konstanta
+b = koefisien regresi (kemiringan) besaran Response yang ditimbulkan oleh
+Predictor.
+
+BAB IV
+GAMBARAN UMUM
+4.1 Jasa Raharja Cabang Riau
+4.1.1 Profile
+Jasa Raharja Cabang Riau adalah salah satu kantor dari 28 kantor
+cabang perusahaan Asuransi PT Jasa Raharja Indonesia. Jasa Raharja
+(Persero) Kantor Cabang Pekanbaru beralamat di Jl. Jend. Sudirman No.
+285, Simpang Empat, Kota Pekanbaru, Riau 28121. PT Jasa Raharja
+(Persero) Kantor Cabang Pekanbaru dapat dihubungi melalui kontak nomor
+telepon (0761) 42851. Website PT Jasa Raharja (Persero) Kantor Cabang
+Pekanbaru dapat di akses online melalui www.jasaraharja.co.id. Jasa raharja
+sendiri merupakan perusahaan BUMN yang bergerak dalam bidang asuransi
+sosial khususnya asuransi kecelakaan dan asuransi tanngung jawab menurut
+hukum pada pihak ketiga (asuransi perjanjian). PT Jasa raharja Cabang Riau
+didirikan dengan tujuan memberikan perlindungan kepada korban
+kecelakaan lalu lintas. Tugas pokok dari jasa raharja ini adalah memberikan
+pelayanan dana santunan semaksimal mungkin bagi korban kecelakaan lalu
+lintas.
+Adapun masyarakat yang dapat menerima santunan asuransi
+kecelakaan jasa raharja adalah penumpang kendaraan umum, korban
+kecelakaan lalu lintas, dan lainnya. Kehadiran Jasa Raharja memberikan
+perlindungan dasar kepada masyarakat melalui 2 (dua) program
+pertanggungan, yaitu Asuransi Kecelakaan Penumpang Alat Angkutan
+Umum yang dilaksanakan berdasarkan Undang-Undang No. 33 Tahun 1964
+tentang Dana Pertanggungan Wajib Kecelakaan Penumpang serta Asuransi
+Tanggung Jawab Menurut Hukum Terhadap Pihak Ketiga yang
+dilaksanakan berdasarkan Undang-Undang No. 34 Tahun 1964 tentang
+Dana Kecelakaan Lalu Lintas Jalan.
+4.1.2 Sejarah
+PT Jasa Raharja disebut “Jasa Raharja” atau “Perusahaan” berdiripada
+tanggal 1 Januari 1960 seiring dengan disahkannya Undang-Undang (UU)
+No. 19 PRP Tahun 1960 tentang Perusahaan Negara yang seluruh modalnya
+merupakan kekayaan Negara Republik Indonesia. Sejarah berdirinya Jasa
+Raharja tidak terlepas dari kebijakan Pemerintah untuk melakukan
+nasionalisasi terhadap perusahaan-perusahaan milik Belanda dengan
+diundangkannya UU No. 86 tahun 1958 tentang Nasionalisasi Perusahaan
+Belanda. Di bidang asuransi kerugian, penerbitan UU tersebut dijabarkan
+
+34
+
+35
+
+melalui Peraturan Pemerintah (PP) No. 3 tahun 1960 tentang Penentuan
+Perusahaan Asuransi Kerugian Belanda yang dikenakan Nasionalisasi.
+Berdasarkan PP tersebut dan Pengumuman Menteri Keuangan No.
+12631/B.U.M.II tanggal 9 Februari 1960, empat perusahaan milik Belanda,
+yaitu Firma Blom & Van Der Aa, Firma Bekouw & Mijnssen, Firma
+Sluyters & Co dan N.V. Assurantie Maatschappij Djakarta dilebur menjadi
+Perusahaan Asuransi Kerugian Negara “IKA BHAKTI”. Kemudian N.V.
+Assurantie Kantor LangveldtSchroder berubah nama menjadi Perusahaan
+Asuransi Kerugian Negara “IKA DHARMA”. Perusahaan N.V. Assurantie
+Kantor O.W.J. Schlenceker dan Perusahaan N.V. Kantor Asuransi “Kali
+Besar” dilebur menjadi Perusahaan Asuransi Kerugian Negara “IKA
+MULJA” serta Perusahaan P.T. Maskapai Asuransi Arah Baru (Arba)
+berubah nama menjadi Perusahaan Asuransi Kerugian Negara “IKA
+SAKTI”.
+Lalu beberapa perusahaan yang telah dinasionalisasi tersebut
+ditetapkan dengan status badan hukum Perusahaan Negara Asuransi
+Kerugian (PNAK) sesuai dengan UU No. 19 PRP Tahun 1960 tentang
+Perusahaan Negara yang seluruh modalnya merupakan kekayaan Negara
+Republik Indonesia. Kemudian berdasarkan PP No. 15 Tahun 1961 tentang
+Pendirian Perusahaan Negara Asuransi Kerugian Eka Karya, keempat
+PNAK tersebut yang semula berdasarkan Pengumuman Menteri Keuangan
+(Badan Penguasa Perusahaan-perusahaan Asuransi Kerugian Belanda)
+No.12631/B.U.M.II. tanggal 9 Februari 1960 yang nama perusahaannya
+disebut dengan “Ika” berubah menjadi “Eka”. Penggabungan dari empat
+PNAK, yaitu Eka Bhakti, Eka Dharma, Eka Mulya dan Eka Sakti disebut
+sebagai Perusahaan Negara Asuransi Kerugian Eka Karya. Namun dalam
+Pengumuman Menteri Keuangan (Badan Penguasa Perusahaan-perusahaan
+Asuransi Kerugian Belanda) No. 294923/B.U.M.II tanggal 31 Desember
+1960, penyebutan nama perusahaan-perusahaan tersebut kembali
+menggunakan “Ika” termasuk perusahaan yang baru didirikan tersebut yaitu
+“Ika Karya”. Adanya perbedaan tersebut disebabkan karena Pengumuman
+Menteri Keuangan tersebut diterbitkan mendahului diundangkannya PP No.
+15 Tahun 1961 tentang Pendirian Perusahaan Negara Asuransi Kerugian
+Eka Karya yaitu pada tanggal 24 Maret 1961.
+Lalu pada tahun 1965, berdasarkan PP No. 8 tahun 1965 tentang
+Pendirian Perusahaan Negara Asuransi Kerugian Jasa Rahardja, mulai 1
+Januari 1965 PNAK Eka Karya dilebur menjadi perusahaan baru dengan
+nama “Perusahaan Negara Asuransi Kerugian Jasa Raharja” yang kemudian
+disusul dengan penerbitan Surat Keputusan Menteri Urusan Pendapatan,
+Pembiayaan dan Pengawasan No. B.A.P.N. 1-3-3 pada 30 Maret1965 yang
+
+36
+
+menunjuk PNAK Jasa Raharja untuk melaksanakan penyelenggaraan Dana
+Pertanggungan Wajib Kecelakaan Penumpang dan Dana Kecelakaan Lalu
+Lintas Jalan sesuai Undang-Undang No. 33 dan Undang-Undang No. 34
+tahun 1964.
+Pada tahun 1970, PNAK Jasa Raharja diubah statusnya menjadi
+Perusahaan Umum (Perum) Jasa Raharja yang tertuang dalam Surat
+Keputusan Menteri Keuangan Republik Indonesia No.Kep.750/
+KMK/IV/II/1970 tanggal 18 November 1970 sebagai tindak lanjut
+diterbitkannya UU No. 9 Tahun 1969 tentang Penetapan Peraturan
+Pemerintah Pengganti Undang-Undang No.1 Tahun 1969 (Lembaran
+Negara Tahun 1969 No. 16; Tambahan Lembaran Negara No. 2890) tentang
+Bentuk-Bentuk Usaha Negara Menjadi Undang-Undang. Pasal 2 ayat 2 dari
+UU tersebut menyatakan bahwa PERUM adalah Perusahaan Negara yang
+didirikan dan diatur berdasarkan ketentuan-ketentuan yang termasuk dalam
+Undang-Undang No. 19 PRP tahun 1960. Sementara pada tahun 1978,
+selain mengelola pelaksanaan UU No. 33 dan UU No. 34 tahun 1964, Jasa
+Raharja mendapat mandat tambahan untuk menerbitkan surat jaminan
+dalam bentuk Surety Bond, berdasarkan PP No. 34 tahun 1978 tentang
+Perubahan Atas Peraturan Pemerintah No. 8 tahun 1965 tentang Pendirian
+Perusahaan Umum Asuransi Kerugian “Jasa Raharja”. Penunjukan tersebut
+menjadikan Jasa Raharja sebagai pionir. Penyelenggara Surety Bond di
+Indonesia, di saat perusahaan asuransi lain umumnya masih bersifat fronting
+office dari perusahaan surety di luar negeri sehingga terjadi aliran devisa ke
+luar negeri untuk kepentingan tersebut.
+Kemudian sebagai upaya pengemban rasa tanggung jawab sosial
+kepada masyarakat khususnya bagi mereka yang belum memperoleh
+perlindungan dalam lingkup UU No. 33 dan UU No. 34 tahun 1964, maka
+dikembangkan pula usaha asuransi aneka. Sejalan dengan perkembangan
+usahanya sehingga diperlukan pengelolaan usaha yang lebih terukur dan
+efisien, maka pada tahun 1980 berdasarkan PP No. 39 tahun 1980 tentang
+Pengalihan Bentuk Perusahaan Umum Asuransi Kerugian “Jasa Raharja”
+menjadi Perusahaan Perseroan (Persero) tanggal 6 November 1980, status
+Jasa Raharja diubah lagi menjadi Perusahaan Perseroan (Persero) dengan
+nama PT (Persero) Asuransi Kerugian Jasa Raharja.
+Anggaran Dasar Jasa Raharja yang semula diatur dalam Peraturan
+Pemerintah pendiriannya, maka sesuai dengan Peraturan Pemerintah No.12
+tahun 1969 tentang Perusahaan Perseroan (Persero) pengaturannya harus
+dipisahkan. Anggaran Dasar Jasa Raharja tersebut selanjutnya dituangkan
+dalam Akta Notaris Imas Fatimah, S.H. No. 49 tahun 1981 tanggal 28
+Februari 1981. Dengan adanya perubahan nomenklatur kementerian,
+
+37
+
+Pemerintah melalui Menteri Keuangan memperbaharui penunjukan Jasa
+Raharja dengan menerbitkan Keputusan Menteri Keuangan no. 337/
+KMK.011/1981 tanggal 2 Juni 1981 tentang Penunjukan Perusahaan
+Perseroan (Persero) Asuransi Kerugian Jasa Raharja untuk
+menyelenggarakan Dana Pertanggungan Wajib Kecelakaan Penumpang dan
+Dana Kecelakaan Lalu Lintas Jalan.
+Pada tahun 1994, Pemerintah menetapkan PP No. 73 tahun 1992
+tentang Penyelenggaraan Usaha Perasuransian sebagai penjabaran UU No.2
+tahun 1992 tentang Usaha Perasuransian. Peraturan Pemerintah tersebut
+mengatur antara lain ketentuan yang melarang perusahaan asuransi yang
+telah menyelenggarakan program asuransi sosial untuk menjalankan
+asuransi lain selain program asuransi sosial. Sejalan dengan ketentuan
+tersebut, maka terhitung mulai tanggal 1 Januari 1994 hingga saat ini Jasa
+Raharja melepaskan usaha asuransi non-wajib dan surety bond untuk lebih
+fokus dalam menjalankan program asuransi sosial yaitu menyelenggarakan
+Dana PertanggunganWajib Kecelakaan Penumpang sebagaimana diatur
+dalam UU No. 33 tahun 1964 dan Dana Kecelakaan Lalu Lintas
+Jalansebagaimana diatur dalam UU No. 34 tahun 1964.
+4.2
+
+VISI DAN MISI
+Visi Menjadi Perusahaan Tepercaya dalam Memberikan Perlindungan Dasar
+Terhadap Risiko Kecelakaan dengan Pelayanan yang Terbaik.
+Misi Menyediakan Perlindungan Dasar yang Terintegrasi Secara Digital dan
+Didukung Human Capital yang Unggul Guna Menguatkan Stakeholders
+Engagement. (Jasaraharja.co.id, 2024)
+
+4.3 STRUKTUR ORGANISASI
+
+2838
+
+58
+
+BAB VI
+PENUTUP
+A. Kesimpulan
+Berdasarkan hasil penelitian yang telah dilakukan terhadap 100
+responden. Peneliti menemukan konklusi hasil yang diperoleh yaitu kuat dengan
+ini artinya penguji mengetahui apakah ada pengaruh antara CSR terhadap
+kepercayaan masyarakat, untuk kalangan masyarakat yang berada di Pekanbaru
+Riau secara general sebagai berikut hasil uji korelasi didapatkan bahwa pengaruh
+CSR terhadap kepercayaan masyarakat dengan nilai 0,745 yang berada di interval
+0,60-0, 799 dengan signifikan 0,000<0,05 yang artinya terhadap hubungan yang
+signifikan antara variabel (X) terhadap variabel (Y).
+Sedangkan secara analisis regresi sederhana menunjukkan pengaruh
+program CSR terhadap kepercayaan masyarakat dapat dilihat dari hasil regresi
+linear dengan menggunakan Model Summary Nilai R square sebesar 0.465
+menunjukkan bahwa 46,5% variasi dari Kepercayaan Masyarakat (Y) dapat
+dijelaskan oleh Program CSR (X). Sedangkan sisanya, yaitu 53,5% sedangkan
+Hasil uji F menunjukkan bahwa nilai F hitung = 71.450 dengan signifikansi =
+0.000 < 0.05, sehingga dapat disimpulkan bahwa model regresi signifikan secara
+statistik. Artinya, secara simultan, Program CSR berpengaruh terhadap
+Kepercayaan Masyarakat.
+Diketahui hasil uji hipotesis menjelaskan bahwa nilai sig untuk pengaruh
+variabel X terhadap Variabel Y adalah sebanyak 0,000 < 0,05 dan nilai T hitung
+sebanyak 7,646 > T tabel (df= 100-2) dengan alpha 0,05 two tailed, maka
+sebanyak 1,998. Sehingga dapat disimpulkan bahwa H1 diterima dan H0 ditolak,
+yang berarti bahwa “Terdapat Pengaruh Signifikan Antara Corporate Social
+Responsibilities Terhadap Kepercayaan Masyarakat pada PT Jasa Raharja Cabang
+Riau”
+Berdasarkan hasil penelitian dapat disimpulkan bahwa pelaksanaan
+kegiatan CSR, baik dalam bentuk kegiatan social, lingkungan, Pendidikan
+memperoleh tanggapan positif dari masyarakat, dengan rata-rata skor berada pada
+kategori baik. Tingkat kepercayaan masyarakat terhadap perusahaan juga
+tergolong tinggi yang diukur melalui indikator transparansi, tanggung jawab
+social, komitmen jangka panjang menunjukkan skor rata-rata yang mencerminkan
+persepsi positif. Seluruh hipotesis yang diuji diterima secara statistik.
+
+58
+
+59
+
+B. Saran
+Berdasarkan temuan dalam penelitian ini, peneliti memberikan beberapa
+saran berikut:
+1. Bagi Perusahaan
+1) Meningkatkan Kualitas Program CSR terutama yang bersentuhan
+langsung dengan kebutuhan masyarakat seperti kesehatan,
+pendidikan, dan bantuan sosial.
+2) Perusahaan sebaiknya melakukan evaluasi berkala terhadap
+efektivitas program CSR dan melibatkan masyarakat dalam proses
+perencanaan dan pelaksanaan agar program tepat sasaran dan
+membangun kepercayaan lebih kuat.
+3) Meningkatkan transparansi informasi terkait kegiatan CSR melalui
+media sosial, laporan tahunan, atau publikasi resmi agar masyarakat
+mengetahui kontribusi nyata perusahaan.
+2. Bagi Masyarakat
+1) Partisipasi Aktif dalam Program CSR, Masyarakat diharapkan dapat
+lebih aktif berpartisipasi dalam program CSR yang diselenggarakan
+oleh PT Jasa Raharja, sehingga manfaat yang dirasakan lebih
+maksimal.
+2) Menjaga Hubungan Baik dengan Perusahaan dan Masyarakat
+sebaiknya menjaga komunikasi yang baik dan memberikan
+masukan yang konstruktif terhadap pelaksanaan CSR, sehingga
+tercipta hubungan saling percaya dan saling mendukung antara
+masyarakat dan perusahaan.
+3. Bagi Mahasiswa
+Meningkatkan Kepedulian Sosial Melalui kajian CSR, mahasiswa
+diharapkan lebih memahami pentingnya tanggung jawab sosial
+perusahaan dan bagaimana hal tersebut dapat memengaruhi citra serta
+kepercayaan publik.
+
+38
+
+DAFTAR PUSTAKA
+Adibrata, A. R., Hartati, N., & Asih, V. S. (2021). Tingkat Kepercayaan dan Minat
+Terhadap Investasi Obligasi Syariah pada Mahasiswa UIN Sunan Gunung Djati
+Bandung di Masa Normal Baru. Journal of Applied Islamic Economics and
+Finance, 1(3)
+
+Adila, A. N. 2023. Pengaruh Program Csr, Kepercayaan Konsumen Dan
+Persepsi Konsumen Terhadap Perilaku Konsumen Aqua (Doctoral
+dissertation, Universitas Islam Indonesia).
+Afifa Umami dan Rahmi Syariza. 2022. Analisis Kualitas Pelayanan Terhadap Klaimen
+PT Jasa Raharja Cabang Sumatera Utara, Deli Serdang: Jurnal Ilmu
+Administrasi Publik. Vol. 8, No.1.
+
+Amalia, M., Ayumiati, A., & Jalilah, J. (2021). Analisis Implementasi Corporate
+Social Responsibility Bank Aceh Syariah Kantor Pusat Pada Program
+Bantuan Bina Lingkungan Dalam Meningkatkan Kesejahteraan
+Masyarakat Banda Aceh. Jihbiz: Global Journal of Islamic Banking and
+Finance., 3(2)
+Amini, A. 2018. Pengaruh Program Corporate Social Responsibility (CSR)
+Terhadap Peningkatan Kesejahteraan Masyarakat dalam Perspektif
+Ekonomi Islam (Studi Pada Implementasi CSR PT. Pertamina Geothermal
+Energy (PGE) Desa Pagar Alam dan Desa Ngarip Kecamatan Ulubelu
+Kabupaten Tanggamus) (Doctoral dissertation, UIN Raden Intan
+Lampung).
+Ang Swat Lin Lindawati, Marsella Eka Puspita, 2015. Corporate Social
+Responsibility: Implementasi Stakeholder dan Legitimacy Gap dalam
+Meningkatkan Kinerja Perusahaan, Jurnal Akuntansi Multiparadigma Vol.
+6 No.1.
+Azheri, Busyra. 2012. Corporate Social Responsibility: Dari Voluntary Menjadi
+Mandotory. Jakarta: Fajar Interpratama Offset.
+Bambang Rudiato dan Melia Famiola, 2007. Etika Bisnis Dan Tnggung Jawab
+Perusahaan di Indonesia, Bandung: Rekayasa Sains.
+Bhattacharya, C. B., Korschun, D., & Sen, S. 2009. Strengthening stakeholder–
+company relationships through mutually beneficial corporate social
+responsibility initiatives. Journal of Business Ethics, 85(2).
+Budiwati, M., & Samuel, H. 2015. Pengaruh Penerapan CSR Terhadap Brand
+Loyalty Melalui Brand Image dan Customer Satisfaction Pada Produk
+Komestika. Petra Business and Management Review, 1(2).
+Busyra Azheri, Op-Cit, h. 34.
+
+39
+
+Crowther, David, 2008.Corporate Social Responsibility.Guler Aras & Ventus
+David Crowther, Guler Aras, 2017 Corporate Social Responsibility (On-line), (28
+Desember 2017).
+Du, S., Bhattacharya, C. B., & Sen, S. 2010. Maximizing business returns to
+corporate social responsibility (CSR): The role of CSR communication.
+International Journal of Management Reviews, 12(1).
+Edi Suharto, 2010. CSR dan COMDEV Investasi Kreatif Perusahaan di Era
+Globalisasi, Bandung: Alfabeta.
+Erianto, 2011. Analisis Isi Pengantar Metodologi untuk Penelitian Ilmu
+Komunikasi dan Ilmu-Ilmu Social Lainnya, Jakarta. Kencana.
+F. W. Husni, Y. Edy & A Yusri. 2015. Pengaruh corporate social sesponsibility
+(csr) terhadap Perusahaan. Jurnal Administrasi Bisnis (JAB), Vol 2 No 1.
+Gita Aulia Utami dan Imsar. 2023. Analisis Kinerja PT. Jasa Raharja Dalam
+Penyelesaian Klaim Kecelakaan Lalu Lintas Pada Era Society 5.0, Jurnal
+Masharif Al-Syariah: Jurnal Ekonomi dan Perbankan Syariah Volume 8, No. 1.
+
+Gunawan Widjaja dan Yeremia Ardi Pratama, 2008. Resiko Hukum dan Bisnis
+Perusahaan Tanpa CSR, Jakarta: Forum Sahabat.
+Hendrik Budi Untung, 2008. Corporate Social Responsibility, Jakarta: Sinar
+Grafika.
+Imam Gunawan, 2015. Metode Penelitian Kualitatif, Jakarta. Bumi Aksara.
+Irawan, F., & Muarifah, E. (2020). Analisis Penerapan Corporate Social
+Responsibilty (Csr) Dalam Perspektif Sharia Enterprise Theory: Minhaj:
+Jurnal Ilmu Syariah, 1(2).
+Juliansyah Noor, 2011. Metode Penelitian Skripsi, Tesis,Disertai, dan Karya
+Ilmiah, Jakarta. Kencana Prenada Group.
+Kasinem, (2020). Pengaruh Kepercayaan dan Kualitas Pelayanan Terhadap
+Kepuasan Konsumen Pada Hotel Bukit Serelo Lahat. Jurnal Media
+Wahana Ekonomika, Vol. 17 No.4
+Keith, Butterick. 2001. Pengantar Public Relations. Jakarta: PT. Gelora Aksara
+Pratama.
+Kotler, P dan Amstrong. 2018. Prinsip-prinsip Marketing Edisi Ke Tujuh.
+Penerbit Salemba Empat. Jakarta.
+Moh.Kasiran, Metodologi Penelitian Kualitatif-Kuantitatif,
+
+40
+
+Nadirah, I. (2020). Pelaksanaan Corporate Social Responsibility (CSR) Terhadap
+Masyarakat Sekitar Wilayah Perusahaan Perkebunan. Iuris Studia: Jurnal
+Kajian Hukum, 1(1)
+Nana Herdiana Abdurrahman, 2015. Manejemen Strategi Pemasaran, Bandung:
+Pustaka Setia.
+Nancy Silvana Heliwela, 2011 Tinjaun Hukum Tanggung Jawab Sosial
+Perusahaan (Corporate Social Responsibility/CSR), Jurnal Sasi Vol. 17
+No. 4.
+Nasution, 2011. Metode Research, Jakarta. Bumi Aksara.
+Natalina, S. A. (2022). Impact of Corporate Social Responsibility Disclosure Coal
+Mining Companies In Indonesia During the Health Crisis. Proceedings of
+Islamic Economics, Business, and Philanthropy, 1(2)
+Rahmadika, H., & Riauan, M. A. I. 2022. Manajemen Corporate Social
+Responsibility GraPari Kota Pekanbaru Dalam Meningkatkan
+Kepercayaan Masyarakat. Journal of Communication Management and
+Organization, 1(01),
+Rosyida, I., & Nasdian, F. T. 2011. Partisipasi masyarakat dan stakeholder dalam
+penyelenggaraan program corporate social responsibility (csr) dan
+dampaknya terhadap komunitas perdesaan. Sodality: Jurnal Sosiologi
+Pedesaan, 5(1).
+S. Ahmaniar Cahya Lestari, and A. Naryoso, 2020, Hubungan Antara Efektivitas
+Komunikasi Antarpribadi Fasilitator CSR Dan Tingkat Kepercayaan Penerima
+Manfaat Dengan Reputasi Perusahaan Pt. Indonesia Power Semarang Pgu
+Interaksi Online, vol. 8, no. 4
+
+Salam, N. E. 2007. Pengelolaan corporate social responsibility (CSR) dalam
+membangun citra perusahaan. Jurnal Ilmu Komunikasi (JKMS), 2(2),
+Sari, R., & Maharani, Y. (2021). Analisis CSR Dan Hubunganya Dengan
+Propitabilitas Masa Covid-19 Pada Perusahaan Konsumsi. Islamic
+Banking: Jurnal Pemikiran dan Pengembangan Perbankan Syariah, 7(1)
+Satriyadi, K., & Listya, D. (2023). Sinergi Pemerintah Daerah Dengan Pt. Adaro
+Indonesia Dalam Pelaksanaan Corporate Social Responsibility Di
+Kabupaten Barito Timur. Jurnal Borneo Humaniora, 6(1).
+Sitorus, G.C. Taruli. dan Yeni Mangoting. 2014. Pengaruh Pengungkapan
+Corporate Social Responsibility Terhadap Profit Perusahaan Consumer
+Goods di Indonesia Tahun 2010-2012.Tax & Accounting Review. Vol. 4,
+No.1.
+
+41
+
+Sovani, J. T., Dh, A. F., & Arifin, Z. 2016. Pengaruh Penerapan Corporate
+Social Responsibility (CSR) Terhadap Citra Merek, Kepercayaan Merek
+dan Loyalitas Merek (Survei pada Masyarakat Sekitar PT. Tirta
+Investama, Desa Keboncandi, Kecamatan Gondang Wetan, Kabupaten
+Pasuruan. Profit: Jurnal Administrasi Bisnis, 10(1).
+Sri Ardani, N. K., & Mahyuni, L. P. 2020. Penerapan Corporate Social Responsibility
+(CSR) dan Manfaatnya Bagi Perusahaan. Jurnal Manajemen Bisnis, 17(1)
+
+Sugiyono. 2019. Metode Penelitian Kuantitatif Kualitatif dan R&D Bandung:
+Alfabet.
+Suharsimi Arikunto, 2010. Prosedur Penelitian Suatu Pendekatan Praktik,
+Jakarta. PT Bina Aksara.
+Sukardi, 2018 Metodologi Penelitian, Jakarta. Bumi Aksara.
+Sumarwan. Ujang, dkk. 2015. Riset Pemasaran Dan Konsumen. Bogor. (PT
+Penerbit IPB Pers.
+Supriyadi, A., & Setyorini, C. T. (2020). Pengaruh pengungkapan manajemen
+risiko terhadap nilai perusahaan melalui kinerja keuangan di industri
+perbankan Indonesia. Owner: Riset dan Jurnal Akuntansi, 4(2)
+Syukerti, N., Ningsih, I. N. D. K., & Evanne, L. (2022). Program Corporate Social
+Responsibility (CSR) Pt. Bara Prima Pratama Di Desa Batu Ampar Indragiri
+Hilir Riau. Al-Kalam: Jurnal Komunikasi, Bisnis Dan Manajemen, 9(1)
+
+T. Romo Marnelly, 2012. Corporate Social Responsibility (CSR): Tinjauan Teori
+dan Praktek di Indonesia, Jurnal Aplikasi Bisnis: Vol. 2 No. 2.
+T. W. Ningrum, & S. P. Hadi. 2020. Pengaruh Corporate Social Responsibility (CSR)
+Terhadap Corporate Image PT Dan Liris. Jurnal Ilmu Administrasi Bisnis. Vol. 9,
+No. 1.
+Utami, G.A., & Imsar. 2023. Analisis Kinerja PT. Jasa Raharja Dalam Penyelesaian
+Klaim Kecelakaan Lalu Lintas Pada Era Society 5.0, Jurnal Masharif Al-Syariah:
+Jurnal Ekonomi dan Perbankan Syariah Volume 8, No. 1
+Winningsih, P., & Rejeki, D. (2022). Good Corporate Governance (GCG) Dan
+Corporate Social Responsibility (CSR) Sebagai Determinasi Nilai Perusahaan
+(Studi Empiris Pada Perusahaan Perusahaan LQ45 Yang Terdaftar Di Bursa
+Efek Indonesia Periode 2017–2020). Jurnal Akuntansi Dan Bisnis
+Krisnadwipayana, 9(1)
+
+Yanti, N. L. E. K., Endiana, I. D. M., & Pramesti, I. G. A. A. (2021). Pengaruh
+ukuran perusahaan, ukuran dewan komisaris, kepemilikan institusional,
+leverage, dan profitabilitas terhadap pengungkapan corporate social
+responsibility. Jurnal Kumpulan Hasil Riset Mahasiswa Akuntansi
+(KHARISMA
+
+42
+
+DAFTAR LAMPIRAN
+LAMPIRAN 1. KOESIONER PENELITIAN
+KOESIONER PENELITIAN
+PENGARUH PROGRAM CSR TERHADAP KEPERCAYAAN
+MASYARAKAT PADA PT. JASA RAHARJA CABANG RIAU
+A.
+
+Data Responden
+Nama Responden :
+
+Sebelum menjawab kuesioner, mohon mengisi beberapa data berikut
+terlebih dahulu (Jawaban yang rekan berikan akan diperlukan secara rahasia).
+Lingkari (o) atau silang (x) untuk pilihan jawaban.
+A.Identitas Responden :
+Nama Responden
+
+: __________________________________________________
+
+Jenis Kelamin
+
+:
+
+Usia
+
+: __________________________________________________
+
+Pekerjaan
+
+: ___________________________________________________
+
+Petunjuk Pengisian
+
+:
+
+Laki – Laki
+
+Perempuan
+
+Kuesioner Responden dapat memberikan tanda centang (√) atau silang (x)
+pada salah satu jawaban yang tersedia. Hanya satu jawaban saja yang
+dimungkinkan untuk setiap pertanyaan. Pada masing-masing pertanyaan terdapat
+lima jawaban yang mengacu pada skala likert yaitu : STS (Sangat Tidak Setuju),
+TS (Tidak Setuju), S (Setuju), N (Netral), SS (Sangat Setuju). Dimohon
+masyarakat mengisi kuesioner dengan sebenar-benarnya dan se obyektif mungkin
+
+43
+
+B.Tabel Koesioner Penelitian :
+No.
+
+1.
+2.
+
+3.
+
+1.
+
+2.
+
+3.
+
+1.
+
+2.
+
+3.
+
+1.
+
+2.
+
+Pertanyaan Variabel
+SS S N TS STS
+Corporate Social Responbilities (X)
+Pendidikan
+Apakah anda tahu tentang program Pojok Baca
+yang diadakan oleh PT. Jasa Raharja di sekolah?
+Apakah anda ikut serta atau tahu tentang seminar
+wawancara kerja dan pelopor berlalu lintas yang
+diadakan PT. Jasa Raharja?
+Apakah anda ikut serta atau tahu tentang seminar
+lingkungan hidup dan safety riding yang diadakan
+PT. Jasa Raharja?
+Ekonomi
+Apakah anda tahu dengan bantuan Program
+Kemitraan UMKM yang diberikan PT Jasa
+Raharja?
+Apakah anda ikut senang dengan adanya bantuan
+renovasi Musholla Terminal Type A Dumai yang
+diberikan PT. Jasa Raharja?
+Apakah anda tahu dengan bantuan Kredit
+Kemitraan UMKM yang diberikan PT. Jasa
+Raharja?
+Lingkungan
+Apakah anda ikut serta atau tahu dalam melakukan
+penanaman 1.000 bibit pohon produktif bersama
+PT Jasa Raharja?
+Apakah anda tahu tentang pengobatan gratis yang
+diberikan kepada masyarakat oleh PT. Jasa
+Raharja?
+Apakah anda tahu tentang kegiatan gerak jalan
+bersama yang diadakan PT. Jasa Raharja?
+Kepercayaan
+Masyarakat (Y)
+Integritas
+Apakah anda percaya bahwa PT. Jasa Raharja
+bertanggung jawab terhadap tindakan dan tidak
+mengabaikan
+moral
+dalam
+melaksanakan
+keputusan?
+Apakah anda percaya bahwa informasi yang
+disampaikan oleh PT. Jasa Raharja adalah
+informasi yang benar?
+
+44
+
+3.
+
+1.
+
+2.
+
+3.
+
+1.
+2.
+3.
+
+Apakah anda percaya bahwa keterbukaan informasi
+PT. Jasa Raharja dalam mencapai tujuan, tindakan
+dan kinerja yang dilakukan telah terbuka dan jujur?
+
+Kebaikkan
+Apakah anda merasa pihak PT Jasa Raharja telah
+memberikan perhatian, memahami dan merespon
+kebutuhan khusus terhadap persoalan yang
+dihadapi pelanggan?
+Apakah anda merasa pihak PT. Jasa Raharja dapat
+diharapkan dalam mengatasi masalah yang
+dihadapi pelanggan?
+Apakah anda merasa pelayanan yang diberikan PT
+Jasa Raharja tidak memandang status sosial?
+Kompetensi
+Apakah PT. Jasa Raharja telah menyediakan
+kebutuhan pelanggan?
+Apakah PT. Jasa Raharja telah memberikan
+pelayanan, kebutuhan dan permintaan pelanggan?
+Apakah PT. Jasa Raharja telah memberikan tingkat
+kepuasan kepada pelanggan terhadap produk dan
+layanan yang diberikan?
+
+45
+
+LAMPIRAN 2. TABULASI DATA
+no.
+
+x1
+
+x2
+
+x3
+
+x4
+
+x5
+
+x6
+
+x7
+
+x8
+
+x9
+
+y1
+
+y2
+
+y3
+
+y4
+
+y5
+
+y6
+
+y7
+
+y8
+
+y9
+
+1
+
+5
+
+5
+
+3
+
+4
+
+4
+
+3
+
+3
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+4
+
+4
+
+5
+
+2
+
+2
+
+4
+
+5
+
+5
+
+3
+
+4
+
+5
+
+4
+
+3
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+3
+
+5
+
+5
+
+5
+
+5
+
+4
+
+3
+
+3
+
+3
+
+5
+
+3
+
+4
+
+4
+
+4
+
+5
+
+3
+
+3
+
+4
+
+4
+
+4
+
+3
+
+5
+
+3
+
+5
+
+3
+
+5
+
+3
+
+5
+
+5
+
+2
+
+2
+
+3
+
+4
+
+4
+
+3
+
+4
+
+5
+
+2
+
+5
+
+2
+
+5
+
+3
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+4
+
+3
+
+3
+
+4
+
+3
+
+3
+
+4
+
+4
+
+2
+
+6
+
+4
+
+3
+
+5
+
+5
+
+5
+
+3
+
+4
+
+5
+
+3
+
+5
+
+3
+
+3
+
+4
+
+3
+
+3
+
+4
+
+4
+
+3
+
+7
+
+5
+
+5
+
+3
+
+5
+
+4
+
+3
+
+4
+
+4
+
+5
+
+1
+
+3
+
+1
+
+4
+
+5
+
+3
+
+4
+
+1
+
+1
+
+8
+
+5
+
+5
+
+5
+
+3
+
+4
+
+4
+
+4
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+9
+
+4
+
+2
+
+2
+
+4
+
+4
+
+3
+
+3
+
+5
+
+5
+
+4
+
+4
+
+4
+
+4
+
+3
+
+5
+
+5
+
+5
+
+2
+
+10
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+3
+
+4
+
+4
+
+1
+
+3
+
+2
+
+3
+
+2
+
+11
+
+4
+
+4
+
+4
+
+5
+
+4
+
+5
+
+5
+
+4
+
+3
+
+3
+
+4
+
+4
+
+3
+
+3
+
+5
+
+3
+
+4
+
+4
+
+12
+
+5
+
+5
+
+5
+
+4
+
+3
+
+3
+
+5
+
+4
+
+5
+
+4
+
+4
+
+5
+
+5
+
+5
+
+4
+
+3
+
+2
+
+3
+
+13
+
+5
+
+5
+
+4
+
+4
+
+5
+
+5
+
+3
+
+4
+
+5
+
+4
+
+1
+
+1
+
+5
+
+3
+
+3
+
+4
+
+2
+
+2
+
+14
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+2
+
+5
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+15
+
+5
+
+5
+
+5
+
+5
+
+4
+
+3
+
+5
+
+5
+
+5
+
+4
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+4
+
+5
+
+16
+
+4
+
+3
+
+4
+
+3
+
+5
+
+5
+
+5
+
+5
+
+5
+
+1
+
+3
+
+3
+
+4
+
+1
+
+3
+
+3
+
+5
+
+3
+
+17
+
+5
+
+5
+
+5
+
+5
+
+5
+
+4
+
+3
+
+4
+
+4
+
+4
+
+5
+
+3
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+18
+
+3
+
+3
+
+5
+
+5
+
+5
+
+4
+
+4
+
+5
+
+5
+
+2
+
+5
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+19
+
+3
+
+4
+
+5
+
+5
+
+3
+
+5
+
+4
+
+5
+
+5
+
+1
+
+3
+
+1
+
+4
+
+1
+
+3
+
+4
+
+4
+
+1
+
+20
+
+3
+
+3
+
+5
+
+5
+
+2
+
+4
+
+5
+
+5
+
+5
+
+2
+
+5
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+21
+
+4
+
+5
+
+4
+
+4
+
+5
+
+3
+
+3
+
+5
+
+5
+
+3
+
+4
+
+4
+
+5
+
+5
+
+2
+
+2
+
+5
+
+2
+
+22
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+2
+
+2
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+23
+
+3
+
+5
+
+5
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+4
+
+3
+
+3
+
+4
+
+2
+
+3
+
+2
+
+4
+
+4
+
+24
+
+5
+
+5
+
+5
+
+5
+
+3
+
+3
+
+3
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+25
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+3
+
+4
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+26
+
+5
+
+5
+
+5
+
+5
+
+3
+
+3
+
+4
+
+5
+
+5
+
+3
+
+2
+
+3
+
+4
+
+3
+
+4
+
+2
+
+4
+
+2
+
+27
+
+3
+
+4
+
+4
+
+4
+
+5
+
+5
+
+3
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+5
+
+3
+
+4
+
+28
+
+4
+
+5
+
+2
+
+5
+
+4
+
+3
+
+4
+
+5
+
+5
+
+4
+
+2
+
+5
+
+4
+
+2
+
+3
+
+4
+
+3
+
+2
+
+29
+
+5
+
+5
+
+5
+
+5
+
+3
+
+4
+
+3
+
+4
+
+5
+
+3
+
+3
+
+2
+
+4
+
+3
+
+4
+
+2
+
+2
+
+2
+
+30
+
+2
+
+5
+
+3
+
+4
+
+4
+
+5
+
+3
+
+5
+
+5
+
+2
+
+2
+
+3
+
+4
+
+3
+
+3
+
+4
+
+2
+
+5
+
+31
+
+5
+
+5
+
+3
+
+5
+
+5
+
+3
+
+4
+
+5
+
+5
+
+5
+
+3
+
+5
+
+4
+
+2
+
+3
+
+4
+
+5
+
+3
+
+32
+
+3
+
+5
+
+4
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+4
+
+2
+
+4
+
+4
+
+5
+
+3
+
+2
+
+1
+
+3
+
+46
+
+33
+
+4
+
+5
+
+5
+
+3
+
+5
+
+3
+
+4
+
+5
+
+5
+
+2
+
+3
+
+5
+
+4
+
+3
+
+3
+
+2
+
+4
+
+4
+
+34
+
+5
+
+4
+
+3
+
+5
+
+4
+
+3
+
+2
+
+5
+
+4
+
+5
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+2
+
+2
+
+35
+
+4
+
+5
+
+4
+
+5
+
+3
+
+4
+
+3
+
+5
+
+5
+
+2
+
+3
+
+4
+
+4
+
+2
+
+5
+
+3
+
+5
+
+1
+
+36
+
+5
+
+5
+
+4
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+3
+
+2
+
+3
+
+4
+
+4
+
+3
+
+4
+
+2
+
+5
+
+37
+
+3
+
+5
+
+4
+
+5
+
+4
+
+5
+
+3
+
+4
+
+5
+
+2
+
+5
+
+4
+
+4
+
+2
+
+4
+
+5
+
+3
+
+3
+
+38
+
+5
+
+5
+
+4
+
+5
+
+3
+
+3
+
+2
+
+5
+
+3
+
+5
+
+2
+
+3
+
+4
+
+3
+
+3
+
+2
+
+4
+
+2
+
+39
+
+5
+
+5
+
+3
+
+5
+
+5
+
+3
+
+4
+
+5
+
+5
+
+3
+
+3
+
+5
+
+4
+
+2
+
+3
+
+4
+
+5
+
+2
+
+40
+
+4
+
+5
+
+5
+
+3
+
+4
+
+3
+
+3
+
+5
+
+5
+
+2
+
+2
+
+1
+
+4
+
+3
+
+5
+
+3
+
+2
+
+1
+
+41
+
+2
+
+5
+
+5
+
+2
+
+1
+
+3
+
+3
+
+4
+
+5
+
+4
+
+5
+
+2
+
+4
+
+3
+
+3
+
+5
+
+4
+
+2
+
+42
+
+4
+
+4
+
+5
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+2
+
+2
+
+5
+
+3
+
+4
+
+3
+
+4
+
+5
+
+2
+
+43
+
+5
+
+5
+
+4
+
+4
+
+5
+
+3
+
+3
+
+5
+
+3
+
+5
+
+2
+
+3
+
+4
+
+3
+
+3
+
+2
+
+2
+
+2
+
+44
+
+3
+
+5
+
+5
+
+5
+
+4
+
+4
+
+3
+
+5
+
+5
+
+2
+
+5
+
+3
+
+4
+
+2
+
+3
+
+4
+
+5
+
+2
+
+45
+
+4
+
+5
+
+2
+
+4
+
+3
+
+3
+
+3
+
+5
+
+5
+
+5
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+2
+
+2
+
+46
+
+5
+
+5
+
+5
+
+4
+
+4
+
+2
+
+3
+
+5
+
+5
+
+3
+
+2
+
+3
+
+4
+
+3
+
+4
+
+2
+
+1
+
+1
+
+47
+
+5
+
+5
+
+5
+
+3
+
+4
+
+2
+
+3
+
+5
+
+5
+
+5
+
+3
+
+2
+
+4
+
+3
+
+3
+
+5
+
+2
+
+4
+
+48
+
+4
+
+5
+
+4
+
+4
+
+3
+
+3
+
+3
+
+5
+
+5
+
+4
+
+5
+
+3
+
+4
+
+3
+
+3
+
+2
+
+5
+
+2
+
+49
+
+5
+
+5
+
+4
+
+5
+
+4
+
+3
+
+5
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+5
+
+3
+
+2
+
+50
+
+2
+
+5
+
+4
+
+4
+
+4
+
+3
+
+3
+
+5
+
+5
+
+3
+
+3
+
+3
+
+4
+
+2
+
+3
+
+4
+
+3
+
+3
+
+51
+
+5
+
+5
+
+4
+
+5
+
+5
+
+3
+
+4
+
+5
+
+5
+
+2
+
+2
+
+4
+
+4
+
+3
+
+3
+
+4
+
+4
+
+2
+
+52
+
+3
+
+5
+
+5
+
+5
+
+4
+
+3
+
+4
+
+5
+
+5
+
+4
+
+3
+
+2
+
+4
+
+2
+
+3
+
+4
+
+5
+
+2
+
+53
+
+5
+
+4
+
+5
+
+5
+
+3
+
+5
+
+3
+
+5
+
+5
+
+3
+
+5
+
+2
+
+4
+
+2
+
+4
+
+4
+
+3
+
+2
+
+54
+
+1
+
+5
+
+3
+
+5
+
+3
+
+5
+
+3
+
+5
+
+4
+
+2
+
+3
+
+4
+
+4
+
+3
+
+3
+
+2
+
+5
+
+4
+
+55
+
+4
+
+5
+
+2
+
+5
+
+4
+
+3
+
+5
+
+3
+
+5
+
+5
+
+3
+
+2
+
+4
+
+2
+
+3
+
+4
+
+4
+
+2
+
+56
+
+5
+
+5
+
+5
+
+5
+
+3
+
+3
+
+4
+
+5
+
+5
+
+3
+
+2
+
+2
+
+4
+
+3
+
+3
+
+4
+
+2
+
+5
+
+57
+
+4
+
+5
+
+5
+
+3
+
+5
+
+4
+
+3
+
+5
+
+5
+
+2
+
+3
+
+3
+
+5
+
+2
+
+3
+
+4
+
+5
+
+2
+
+58
+
+5
+
+5
+
+4
+
+5
+
+4
+
+5
+
+3
+
+5
+
+5
+
+2
+
+2
+
+3
+
+4
+
+3
+
+3
+
+5
+
+3
+
+2
+
+59
+
+2
+
+5
+
+5
+
+5
+
+4
+
+3
+
+4
+
+5
+
+5
+
+3
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+5
+
+3
+
+60
+
+5
+
+5
+
+4
+
+5
+
+3
+
+3
+
+4
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+5
+
+5
+
+3
+
+2
+
+2
+
+61
+
+4
+
+5
+
+4
+
+5
+
+1
+
+4
+
+3
+
+5
+
+5
+
+4
+
+3
+
+1
+
+4
+
+5
+
+3
+
+2
+
+4
+
+2
+
+62
+
+5
+
+5
+
+3
+
+5
+
+4
+
+3
+
+4
+
+5
+
+5
+
+2
+
+5
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+63
+
+5
+
+4
+
+5
+
+2
+
+2
+
+3
+
+2
+
+3
+
+5
+
+5
+
+3
+
+4
+
+4
+
+2
+
+4
+
+4
+
+3
+
+2
+
+64
+
+3
+
+5
+
+5
+
+5
+
+3
+
+4
+
+3
+
+5
+
+5
+
+4
+
+2
+
+2
+
+4
+
+2
+
+3
+
+5
+
+2
+
+2
+
+65
+
+5
+
+5
+
+4
+
+4
+
+4
+
+3
+
+3
+
+5
+
+5
+
+2
+
+2
+
+3
+
+4
+
+5
+
+3
+
+4
+
+4
+
+2
+
+66
+
+5
+
+5
+
+5
+
+5
+
+3
+
+1
+
+4
+
+5
+
+3
+
+2
+
+3
+
+2
+
+4
+
+2
+
+3
+
+4
+
+4
+
+5
+
+47
+
+67
+
+4
+
+2
+
+5
+
+5
+
+4
+
+5
+
+3
+
+5
+
+5
+
+3
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+1
+
+2
+
+68
+
+5
+
+5
+
+5
+
+3
+
+3
+
+4
+
+4
+
+5
+
+5
+
+2
+
+2
+
+2
+
+4
+
+2
+
+4
+
+5
+
+3
+
+2
+
+69
+
+4
+
+5
+
+5
+
+5
+
+5
+
+3
+
+4
+
+5
+
+5
+
+4
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+2
+
+2
+
+70
+
+5
+
+5
+
+3
+
+5
+
+4
+
+2
+
+2
+
+5
+
+5
+
+2
+
+5
+
+3
+
+4
+
+2
+
+3
+
+4
+
+5
+
+2
+
+71
+
+4
+
+5
+
+5
+
+5
+
+3
+
+3
+
+4
+
+5
+
+5
+
+5
+
+2
+
+2
+
+4
+
+2
+
+3
+
+2
+
+3
+
+3
+
+72
+
+5
+
+5
+
+4
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+1
+
+2
+
+73
+
+5
+
+5
+
+2
+
+5
+
+5
+
+4
+
+3
+
+5
+
+5
+
+5
+
+3
+
+3
+
+4
+
+2
+
+3
+
+2
+
+5
+
+2
+
+74
+
+4
+
+5
+
+5
+
+4
+
+3
+
+5
+
+4
+
+3
+
+5
+
+2
+
+2
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+75
+
+5
+
+4
+
+5
+
+3
+
+4
+
+3
+
+4
+
+5
+
+5
+
+3
+
+2
+
+2
+
+4
+
+3
+
+3
+
+2
+
+2
+
+4
+
+76
+
+5
+
+5
+
+4
+
+5
+
+3
+
+3
+
+3
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+2
+
+4
+
+2
+
+77
+
+4
+
+5
+
+3
+
+5
+
+4
+
+4
+
+3
+
+5
+
+5
+
+3
+
+3
+
+2
+
+4
+
+2
+
+4
+
+4
+
+3
+
+3
+
+78
+
+2
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+5
+
+2
+
+1
+
+79
+
+5
+
+5
+
+5
+
+5
+
+3
+
+4
+
+3
+
+5
+
+5
+
+4
+
+2
+
+3
+
+4
+
+2
+
+3
+
+2
+
+5
+
+3
+
+80
+
+3
+
+4
+
+5
+
+5
+
+4
+
+5
+
+3
+
+5
+
+5
+
+5
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+3
+
+2
+
+81
+
+5
+
+5
+
+5
+
+3
+
+3
+
+3
+
+2
+
+5
+
+5
+
+2
+
+3
+
+2
+
+3
+
+4
+
+3
+
+4
+
+5
+
+3
+
+82
+
+5
+
+1
+
+4
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+3
+
+3
+
+2
+
+4
+
+3
+
+5
+
+4
+
+2
+
+1
+
+83
+
+4
+
+5
+
+5
+
+5
+
+3
+
+4
+
+3
+
+5
+
+5
+
+5
+
+2
+
+3
+
+4
+
+2
+
+3
+
+2
+
+5
+
+2
+
+84
+
+5
+
+1
+
+4
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+3
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+2
+
+1
+
+85
+
+5
+
+4
+
+5
+
+5
+
+5
+
+3
+
+3
+
+5
+
+5
+
+2
+
+2
+
+1
+
+4
+
+2
+
+3
+
+4
+
+3
+
+5
+
+86
+
+5
+
+5
+
+3
+
+5
+
+4
+
+5
+
+3
+
+5
+
+4
+
+5
+
+3
+
+2
+
+2
+
+4
+
+3
+
+4
+
+5
+
+2
+
+87
+
+4
+
+5
+
+5
+
+5
+
+4
+
+5
+
+3
+
+5
+
+5
+
+3
+
+3
+
+2
+
+5
+
+3
+
+4
+
+2
+
+4
+
+3
+
+88
+
+5
+
+5
+
+5
+
+5
+
+3
+
+2
+
+4
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+2
+
+3
+
+4
+
+3
+
+3
+
+89
+
+4
+
+5
+
+3
+
+2
+
+4
+
+4
+
+1
+
+5
+
+3
+
+4
+
+2
+
+3
+
+4
+
+3
+
+2
+
+5
+
+5
+
+2
+
+90
+
+5
+
+5
+
+4
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+1
+
+3
+
+2
+
+2
+
+2
+
+91
+
+3
+
+2
+
+5
+
+1
+
+2
+
+1
+
+2
+
+5
+
+5
+
+3
+
+3
+
+5
+
+4
+
+3
+
+3
+
+4
+
+5
+
+2
+
+92
+
+5
+
+5
+
+5
+
+5
+
+3
+
+5
+
+4
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+5
+
+1
+
+93
+
+5
+
+5
+
+4
+
+5
+
+5
+
+3
+
+3
+
+5
+
+5
+
+4
+
+3
+
+2
+
+4
+
+5
+
+3
+
+2
+
+3
+
+3
+
+94
+
+4
+
+5
+
+5
+
+3
+
+1
+
+4
+
+5
+
+5
+
+5
+
+2
+
+2
+
+2
+
+4
+
+3
+
+3
+
+1
+
+4
+
+3
+
+95
+
+5
+
+3
+
+5
+
+5
+
+3
+
+4
+
+3
+
+5
+
+5
+
+3
+
+3
+
+3
+
+4
+
+2
+
+3
+
+4
+
+5
+
+3
+
+96
+
+5
+
+5
+
+4
+
+5
+
+5
+
+3
+
+3
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+5
+
+4
+
+2
+
+1
+
+3
+
+97
+
+4
+
+5
+
+2
+
+5
+
+5
+
+3
+
+4
+
+5
+
+5
+
+5
+
+3
+
+2
+
+4
+
+2
+
+3
+
+4
+
+5
+
+1
+
+98
+
+5
+
+5
+
+5
+
+4
+
+3
+
+3
+
+4
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+4
+
+2
+
+2
+
+99
+
+4
+
+5
+
+5
+
+5
+
+4
+
+3
+
+3
+
+5
+
+5
+
+4
+
+2
+
+3
+
+4
+
+2
+
+3
+
+5
+
+5
+
+1
+
+100
+
+5
+
+5
+
+4
+
+5
+
+3
+
+4
+
+3
+
+5
+
+5
+
+2
+
+3
+
+2
+
+4
+
+3
+
+3
+
+2
+
+4
+
+2
+
+48
+
+LAMPIRAN 3. OLAHAN DATA PENELITIAN
+Jumlah
+Item
+
+Variabel
+
+Nilai
+
+Batas
+
+Croncbach Realibilitas
+
+Keterangan
+
+Pernyataan
+
+Alpha
+
+9
+
+0,971
+
+0,70
+
+Reliabel
+
+9
+
+0,971
+
+0,70
+
+Reliabel
+
+Corporate
+Social
+Responsib
+ilities
+Kepercayaan
+Masyarakat
+
+Variabel X
+
+Variabel Y
+
+Korelasi (r) Sig. (2tailed)
+
+N
+
+Interprestasi
+Korelasi
+
+Program
+CSR (X1X9)
+
+Kepercayaan
+Masyarakat
+(Y1-Y9)
+
+0,745
+
+100
+
+Kuat dan
+Signitif
+
+R
+
+Adjusted R
+
+Model
+
+R
+
+Square
+
+Square
+
+1
+
+,823a
+
+,677
+
+,673
+
+Model
+
+1
+
+0,000
+
+R
+
+Adjustare R
+
+Std Error of
+
+Square
+
+Square
+
+the Estimate
+
+0.465
+
+Sum of
+
+0.495
+
+Df
+
+Squaress
+Regression
+
+5,441
+
+R
+
+0.682
+
+Model
+
+Std. Error ofthe Estimate
+
+1650.321
+
+Mean
+
+4.567
+
+F
+
+Sig
+
+71.450
+
+0.000
+
+Square
+1
+
+1650.321
+
+49
+
+Residual
+
+1897.679
+
+98
+
+19.364
+
+Total
+
+3548.000
+
+99
+
+Model
+
+Unstandardized
+
+Standardized
+
+Coefficients
+
+Coefficients
+
+B
+
+Std.Error
+
+Beta
+
+(Constant)
+
+15.432
+
+2.103
+
+-
+
+7.34
+
+CSR (X)
+
+0.578
+
+0.071
+
+0.682
+
+8.14
+
+T
+
+Sig
+
+Standardiz
+ed
+
+Model
+
+Unstandardized
+
+Coefficien
+
+Coefficients
+
+ts
+
+B
+
+Std. Error
+
+T
+
+Sig.
+
+Bet
+a
+
+1(Constant)
+
+8,674
+
+2,647
+
+3,277
+
+,001
+
+Kepercayaa
+
+,682
+
+,048
+
+,823
+
+14,325
+
+,000
+
+Variabel
+
+t hitung
+
+t tabel
+
+Sig.(p)
+
+Keterangan
+
+CSR (X)
+
+7,646
+
+1.998
+
+0,000
+
+H0 diterima, H1
+ditolak
+
+n
+Masyarakat
+
+Kepercayaan
+Masyarakat (Y)
+
+LAMPIRAN 4. DOKUMENTASI
+
+50
+
+RIWAYAT HIDUP
+
+51
+
+Rico Andriatmoko, lahir di Pekanbaru pada tanggal 28 Juli
+2000, anak tunggal, dari bapak Ali Wiratmoko dan Ibu
+Emma. Pendidikan pertama adalah TK Adiyaksa Pekanbaru
+yang dijalani dari tahun 2005 sampai 2006. Setelah itu
+melanjutkan Pendidikan Sekolah Dasar di SDN 027
+Pekanbaru yang dijalani dari tahun 2006 sampai 2012,
+selanjutnya penulis melanjutkan Pendidikan di SMPN 3
+Pekanbaru yang dijalani dari tahun 2012 sampai 2015.
+Setelah itu penulis melanjutkan sekolah di SMKN 7
+Pekanbaru dari tahun 2015 sampai 2018. Kemudian penulis melanjutkan
+Pendidikan di Universitas Islam Negeri Sultan Syarif Kasim Riau, Fakultas
+Dakwah dan Komunikasi, Jurusan Ilmu Komunikasi, dengan Konsentrasi Public
+Relation lulus pada tahun 2025. Selama menempuh Pendidikan di Perguruan
+Tinggi, penulis menjalani perkuliahan dan Kuliah Kerja Nyata (KKN) di
+Kelurahan Sidomulyo Timur, Kecamatan Marpoyan Damai, Kota Pekanbaru,
+Provinsi Riau dan melaksanakan Job Training atau magang di Kantor Pengadilan
+Negeri Pekanbaru Kelas I A pada Tahun 2021. Akhir kata penulis mengucapkan
+syukur dan terima kasih karena telah berhasil menyelesaikan Pendidikan Strata 1
+(S1) dan serta dapat menyandang gelar Sarjana Ilmu Komunikasi (S.I.Kom) lulus
+pada Tanggal 10 Juli 2025 dengan Skripsi yang berjudul “Pengaruh Program
+Corporate Social Responsibility Terhadap Kepercayaan Masyarakat Pada PT. Jasa
+Raharja Cabang Riau”.
+
+

@@ -1,0 +1,3213 @@
+https://journal.unismuh.ac.id/index.php/kimap/index
+
+PENERAPAN SISTEM INFORMASI MANAJEMEN DI PT. JASA RAHARJA CABANG SULAWESI SELATAN KOTA MAKASSAR
+Sintia Ayu Lestari1*, Isa Ansari2, Samsir Rahim3
+1. Ilmu Administrasi Negara, Universitas Muhammadiyah Makassar, Indonesia
+2. Ilmu Administrasi Negara, Universitas Muhammadiyah Makassar, Indonesia
+3. Ilmu Administrasi Negara, Universitas Muhammadiyah Makassar, Indonesia
+Abstract
+The purpose of this study was to determine the application of management information systems at
+PT. Jasa Raharja South Sulawesi Branch Makassar City. This study used qualitative research with
+data sources consisting of primary data and secondary data. The informants consisted of the Head
+of Service, employees and the community. Data collection techniques used observation and
+interview guidelines. Data analysis techniques were data reduction, data presentation and
+verification. The results of the study that the data input in the application of SIM based on online
+application had been applied by the PT. Jasa Raharja from the management, operational and
+technical aspects of insurance services. Data processing in SIM based on online application had
+been implemented well to provide convenience to customers and the public through the use of the
+JRku application, so that community data that had entered could be immediately processed by the
+PT. Jasa Raharja. Data output in the application of SIM based on online application had been
+implemented to increase the improvement of work results in providing services.
+Keywords: management, information, systems
+Abstrak
+Tujuan penelitian ini adalah untuk mengetahui penerapan Sistem informasi manajemen di PT. Jasa
+Raharja Cabang Sulawesi Selatan Kota Makassar. Jenis penelitian kualitatif dengan sumber data
+terdiri atas data primer dan data sekunder. Informan penelitian terdiri atas Kepala Dinas, pegawai
+dan masyarakat. Teknik pengumpulan data menggunakan observasi dan pedoman wawancara.
+Teknik analisis data meliputi reduksi data, penyajian data dan verifikasi. Hasil penelitian bahwa
+input data dalam penerapan SIM berbasis pengajuan santuan online telah diterapkan oleh pihak PT.
+Jasa Raharja dari aspek manajemen, operasional dan teknis pelayanan asuransi. Proses data dalam
+SIM berbasis pengajuan santuan online sudah diterapkan dengan baik untuk memberikan
+kemudahan kepada nasabah dan masyarakatmelalui penggunaan aplikasi JRku, sehinggga data
+masyarakat yang sudah masuk dapat segera diproses oleh pihak PT. Jasa Raharja. Output data
+dalam penerapan SIM berbasis pengajuan santuan online telah diterapkan peningkatan untuk lebih
+meningkatkan hasil kerja dalam memberikan pelayanan.
+Kata Kunci: sistem, informasi, manajemen
+
+*
+
+sintaayulestari@gmail.com
+
+Volume 2, Nomor 3, Juni 2021
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+PENDAHULUAN
+Sumber
+
+daya
+
+terberdayakan
+
+sistem tersebut (Agushinta & Rahmita,
+
+manusia
+
+memerlukan
+
+yang
+
+sehingga perlu menyediakan informasi
+dalam
+
+Keberadaan
+
+waktu
+
+sistem
+
+yang
+
+tepat.
+
+informasi
+
+sangat
+
+penting untuk mendukung para sumber
+daya manusia dalam melaksanakan tugas
+kerjanya, dengan mengakses hardware
+dan
+
+software,
+
+meminta
+
+dukungan
+
+pengembangan aplikasi dan memperoleh
+pelatihan. Perusahaan yang ingin berhasil
+baik, perlu adanya identitas atas informasi
+yang diperlukan oleh manajemen yang
+lebih memfokuskan pada pelaksanaan
+pekerjaan dengan baik (Mc.Leod, 2012).
+Hal ini menunjukkan pentingnya
+sistem
+
+informasi
+
+dalam
+
+pencapaian
+
+pelaksanaan tugas kerja secara tepat guna.
+Menurut Hall (2016) sistem adalah
+rangkaian dua atau lebih komponenkomponen yang saling berhubungan atau
+subsistem-subsistem
+
+yang
+
+berinteraksi
+
+untuk mencapai tujuan yang sama. Sistem
+terdiri dari struktur dan proses, dimana
+struktur sistem merupakan komponenkomponen
+
+yang
+
+tersebut.
+
+Sedangkan
+
+Sumber dari informasi adalah data.
+
+informasi
+
+untuk membuat keputusan yang tepat,
+
+tersebut
+
+2016).
+
+membentuk
+proses
+
+sistem
+sistem
+
+menjelaskan cara kerja setiap unsur
+sistem tersebut dalam mencapai tujuan
+
+Byars and Rue (2018) berpendapat bahwa
+“data is the raw material from wich
+information is developed; it is composed
+of acts that describe people, places,
+things, or events that have not been
+interpreted” (Data adalah bahan baku dari
+informasi yang dikembangkan, terdiri dari
+fakta
+
+yang
+
+menggambarkan
+
+orang,
+
+tempat-tempat, hal-hal atau kejadian yang
+belum ditafsirkan).
+Pada dunia pendanaan, kejadiankejadian yang sering terjadi adalah
+transaksi perubahan dari suatu nilai yang
+disebut transaksi. Kesatuan nyata adalah
+berupa suatu obyek nyata seperti tempat,
+benda dan orang yang betul-betul ada dan
+terjadi.
+
+Informasi
+
+yang
+
+baik
+
+akan
+
+menghasilkan informasi yang relevan,
+tepat waktu dan akurat. Alreando (2013)
+mendifinisikan
+
+informasi
+
+sebagai
+
+“a
+
+meaningfull collection of facts or data”
+(sehimpunan
+
+fakta
+
+atau
+
+data
+
+yang
+
+memiliki makna).
+Menurut Antonhy (2011), sistem
+informasi merupakan suatu kerangka
+kerja dimana sumber daya manusia
+(manusia dan komputer) dikoordinasikan
+untuk mengubah masukan (data) menjadi
+
+Volume 2, Nomor 3, Juni 2021
+
+771
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+keluaran
+
+(informasi)
+
+guna
+
+mencapai
+
+organisasi.
+
+Sistem
+
+istilah penting dalam penerapan SIM.
+
+informasi adalah seperangkat komponen
+
+Sebab sistem ini menjadi perangkat utama
+
+yang saling berhubungan yang fungsinya
+
+yang dibutuhkan untuk memahami suatu
+
+mengumpulkan, memproses, menyimpan
+
+sistem prosedural dalam jaringan kerja
+
+dan mendistribusikan informasi untuk
+
+atau prosedur kerja dalam menyelesaikan
+
+mendukung pembuatan keputusan dan
+
+pekerjaan dari sebuah perangkat kerja.
+
+pengawasan dalam organisasi.
+
+McLeod (2012:18) menyatakan bahwa
+
+sasaran-sasaran
+
+Pengertian
+
+sistem
+
+ini
+
+menjadi
+
+Sistem informasi manajemen (SIM)
+
+sistem merupakan unsur penting dari SIM
+
+yang diamati dalam penelitian ini adalah
+
+yang mengatur hubungan atau interaksi
+
+penerapan
+
+pengajuan
+
+berbagai elemen yang ada dalam sistem
+
+santunan online. Penerapan SIM ini
+
+tersebut. Wujud sistem dalam SIM berupa
+
+penting
+
+meningkatkan
+
+input, proses, output dan feedback.
+
+kualitas layanan pengajuan santunan yang
+
+Keempat wujud sistem ini diperlukan
+
+diterapkan
+
+secara
+
+online
+
+sehingga
+
+dalam setiap prosedur atau perangkat
+
+terpenuhi
+
+kepuasan
+
+dari
+
+masyarakat.
+
+SIM
+
+dalam
+
+berbasis
+
+rangka
+
+pekerjaan.
+
+Konsep SIM ini perlu dipahami dengan
+
+Selanjutnya pengertian informasi
+
+terlebih dahulu memahami apa arti SIM
+
+juga merupakan istilah penting dalam
+
+itu.
+
+SIM.
+Pengertian SIM terdiri dari kata
+
+sistem,
+
+informasi
+
+Menurut
+
+Scott
+
+Informasi
+
+dalam
+
+aktivitas
+
+manajemen biasa diartikan data yang
+
+dan
+
+manajemen.
+
+telah diproses sehingga menjadi arti
+
+(2013:12)
+
+pengertian
+
+tertentu bagi penerimanya. Sumber dari
+
+sistem adalah suatu jaringan kerja dari
+
+informasi adalah data, sedangkan data itu
+
+prosedur
+
+sendiri
+
+yang
+
+berkumpul
+
+saling
+
+berhubungan,
+
+kenyataan
+
+yang
+
+untuk
+
+menggambarkan suatu kejadian yang
+
+melaksanakan suatu kegiatan atau untuk
+
+merupakan suatu peristiwa yang terjadi
+
+menyelesaikan
+tertentu.
+
+bersama-sama
+
+adalah
+
+suatu
+
+Pengertian
+
+sasaran
+
+yang
+
+pada waktu tertentu yang diakses atau
+
+sistem
+
+adalah
+
+ditampilkan dalam berbagai data yang ada
+
+kumpulan dari elemen yang terinteraksi
+
+dalam informasi yang saling berkaitan.
+
+untuk mencapai tujuan tertentu.
+
+Volume 2, Nomor 3, Juni 2021
+
+772
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+Pengertian informasi menurut Scott
+(2013:55) sebagai data yang diolah
+
+laporan yang diperlukan bagi organisasi
+lainnya.
+
+menjadi bentuk yang lebih berguna dan
+
+Pengertian sistem informasi selalu
+
+lebih berarti bagi yang menerimanya.
+
+dikaitkan dengan sistem pengelolaan data,
+
+Atau dengan kata lain, informasi adalah
+
+yang menyebabkan orang dapat melihat
+
+sumber data yang dapat diproses dalam
+
+prosedur kerja suatu sistem perangkat
+
+sistem itu sendiri. Informasi masuk ke
+
+kerangka yang digunakan dalam suatu
+
+sistem prosedur input, proses, output dan
+
+organisasi,
+
+sehingga
+
+diperlukan
+
+feedback, sehingga menghasilkan sebuah
+
+keterlibatan
+
+manajemen.
+
+Pengertian
+
+aktivitas kerja yang dapat dikelola sesuai
+
+manajemen menurut Terry (2018:85)
+
+dengan
+
+kepentingan
+
+adalah segala upaya yang dilakukan untuk
+
+pekerjaan. Dan hal ini sangat membantu
+
+memanfaatkan sumber daya yang tersedia
+
+pencapaian
+
+dalam
+
+kebutuhan
+
+suatu
+
+dan
+
+pekerjaan
+
+atau
+
+organisasi.
+
+menunjang pencapaian tujuan
+
+organisasi. Sumber daya dapat berupa
+
+Setelah memahami arti sistem dan
+informasi, maka Scott (2013:57) juga
+menjelaskan
+
+definisi sistem informasi.
+
+manusia, alat perangkat dan anggaran
+yang digunakan mewujudkan tujuan.
+Pemahaman
+
+tentang
+
+sistem,
+
+Definisi dari sistem informasi adalah
+
+informasi dan manajemen merupakan
+
+sistem yang diciptakan oleh para analis
+
+suatu pengertian yang saling berkaitan
+
+dan manajer guna melaksanakan tugas
+
+dan menunjang satu sama lain untuk
+
+tertentu yang sangat esensial bagi fungsi
+
+mencapai tujuan organisasi. Menurut Hall
+
+organisasi. Sementara pengertian sistem
+
+(2016:75)
+
+suatu
+
+informasi
+
+manajemen
+
+adalah
+
+menurut
+
+Leitch
+
+(2012:49)
+
+sistem
+
+informasi
+
+kumpulan
+
+dari
+
+bahwa sistem informasi adalah suatu
+
+manusia dan sumber daya modal dan
+
+sistem di dalam suatu organisasi yang
+
+peralatan perangkat atau fasilitas kerja
+
+mempertemukan kebutuhan pengelolaan
+
+yang tersedia dalam suatu organisasi
+
+transaksi
+
+dipertanggungjawabkan
+
+harian, pendukung operasi,
+
+melalui
+
+bersifat manajerial dan kegiatan strategi
+
+mengumpulkan dan mengelola data untuk
+
+suatu organisasi dan menyediakan kepada
+
+menghasilkan informasi yang berguna
+
+pihak luar tertentu untuk memenuhi
+
+untuk semua tingkatan manajemen sesuai
+fungsinya
+
+Volume 2, Nomor 3, Juni 2021
+
+yaitu
+
+perencanaan,
+
+773
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+pengorganisasian,
+
+pengendalian
+
+dan
+
+pengawasan.
+
+Gorry dan Scot (2013:74) SIM
+menggambarkan suatu sistem komputer.
+
+Menurut Hartono (2013:37) SIM
+
+Inti
+
+pengertian
+
+SIM
+
+konvensional
+
+adalah kumpulan dari sistem-sistem yang
+
+terkandung dalam pekerjaan-pekerjaan
+
+menyediakan
+
+untuk
+
+sistematis seperti pencatatan agenda,
+
+mendukung manajemen. Sistem yang
+
+kearsipan, komunikasi di antara manajer
+
+dimaksud adalah serangkaian kegiatan
+
+organisasi,
+
+atau jalur yang harus dijalankan atau
+
+komunikasi diantara manajer organisasi,
+
+dikelola untuk memperoleh hasil kerja.
+
+penyajian informasi untuk pengambilan
+
+Serangkaian
+
+tidak
+
+keputusan dan lain sebagainya. Akan
+
+terlepas dari sistem input, proses, output
+
+tetapi, tersedianya teknologi pengolahan
+
+dan feedback. Semakin tersedia sistem
+
+data dengan komputer yang relatif murah
+
+yang lengkap, maka semakin mudah
+
+penggunaan komputer untuk menunjang
+
+mengelola dan mendapatkan hasil kerja
+
+SIM tidak dapat dihindari lagi.
+
+informasi
+
+kegiatan
+
+tersebut
+
+yang baik.
+
+penyajian
+
+informasi,
+
+SIM adalah sistem manusia/mesin
+
+Keluaran dari sistem informasi
+
+yang terpadu guna menyajikan informasi
+
+pengendalian manajemen dalam SIM
+
+untuk
+
+mendukung
+
+fungsi
+
+operasi,
+
+adalah rencana dan anggaran, laporan
+
+manajemen dan pengambilan keputusan
+
+yang
+
+dijadwalkan,
+
+laporan
+
+khusus,
+
+di
+
+analisis
+
+situasi,
+
+keputusan
+
+dan
+
+jawaban
+
+dalam
+
+suatu
+
+organisasi.
+
+SIM
+
+suatu
+
+merupakan
+
+suatu
+
+pendekatan
+
+yang
+
+atas
+
+terorganisir dan terencana untuk memberi
+
+permasalahan. SIM tergambar sebagai
+
+eksekutif bantuan informasi yang tepat
+
+suatu sistem yang diciptakan untuk
+
+dan dapat memberikan kemudahan bagi
+
+melaksanakan pengolahan data yang akan
+
+proses manajemen. SIM membutuhkan
+
+dimanfaatkan
+
+perencanaan yang sangat matang dan
+
+penelaahan
+
+oleh
+
+suatu
+
+organisasi.
+
+Pemanfaatan data disini dapat berarti
+
+panjang,
+
+penunjang
+
+perkembangan manajemen perusahaan di
+
+pada
+
+tugas-tugas
+
+rutin,
+
+evaluasi terhadap prestasi organisasi, atau
+untuk
+
+pengambilan
+
+keputusan
+
+sambil
+
+memperhitungkan
+
+masa mendatang.
+
+oleh
+
+organisasi tersebut (Wahyudi, 2019:92).
+
+Volume 2, Nomor 3, Juni 2021
+
+774
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+METODE PENELITIAN
+
+sedangkan output yang dimaksud berupa
+
+Lokasi penelitian berada pada PT.
+Jasa Raharja (persero) Cabang Sulawesi
+Selatan Kota Makassar. Penelitian ini
+menggunakan jenis penelitian kualitatif
+untuk mencakup penggunaan subjek yang
+dikaji dan kumpulan dari berbagai data
+studi
+
+kasus,
+
+pengalaman
+
+pribadi,
+
+wawancara, teks hasil pengamatan, visual
+yang menggambarkan makna keseharian.
+Tipe penelitian yang digunakan adalah
+studi kasus dengan maksud peneliti
+mengkaji kasus yang berkaitan dengan
+penerapan sistem informasi manajemen di
+PT.
+
+Jasa
+
+Raharja
+
+Cabang
+
+Sulawesi
+
+Teknik pengumpulan data yang
+digunakan adalah dengan melakukan
+langsung,
+
+diuraikan hasil penelitian berdasarkan
+hasil observasi peneliti dan wawancara
+yang telah peneliti rangkum.
+Input
+
+data
+
+yaitu
+
+kegiatan
+
+memasukkan data atau informasi yang
+berkaitan dengan aktivitas manajemen,
+operasional
+
+dan
+
+asuransi.
+
+Berikut
+
+teknis
+
+pelayanan
+
+ditunjukkan
+
+data
+
+sekunder mengenai input SIM berbasis
+pengajuan santuan online. Persentase
+Penerapan SIM berdasarkan Input dalam
+Pelayanan
+
+Asuransi
+
+pada
+
+PT.
+
+Jasa
+
+Raharja Cabang Sulawesi Selatan di Kota
+Makassar.
+
+Selatan Kota Makassar.
+
+observasi
+
+hasil kerja, target dan realisasi. Berikut
+
+wawancara
+
+Berdasarkan input dalam pelayanan
+asuransi pada PT. Jasa Raharja yang
+terdiri
+
+dari
+
+operasional
+
+mendalam dan dokumentasi.
+
+manajemen
+pelayanan
+
+pelayanan,
+dan
+
+teknis
+
+pelayanan rata-rata baru mencapai 67.3%.
+HASIL DAN PEMBAHASAN
+Hasil
+
+penelitian
+
+Ini berarti masih diperlukan upaya untuk
+
+mengenai
+
+penerapan SIM di PT. Jasa Raharja
+Cabang Sulawesi Selatan Kota Makassar.
+Penerapan
+
+SIM
+
+dilihat
+
+dari
+
+tiga
+
+komponen yaitu input, proses dan output
+data dalam pengajuan santunan online.
+Input meliputi manajemen, operasional
+dan teknis, selanjutnya proses dalam SIM
+
+meningkatkan
+
+persentase
+
+pencapaian
+
+dengan
+
+memperbaiki
+
+manajemen
+
+pelayanan
+
+yang
+
+pengajuan
+
+santunan
+
+berbasis
+
+online,
+
+meningkatkan
+
+operasional
+
+pelayanan
+
+menyediakan
+
+aplikasi
+
+dengan
+JRku
+
+yang
+
+memiliki fitur-fitur informasi kebutuhan
+asuransi pilihan dan teknis pelayanan
+
+berupa keputusan, kegiatan dan sistem,
+
+Volume 2, Nomor 3, Juni 2021
+
+775
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+yang masih perlu ditingkatkan dalam
+
+bagi nasabah dalam pengajuan santunan
+
+penyediaan akses pelayanan asuransi.
+
+online.
+Selanjutnya peneliti mewawancarai
+
+Manajemen Pelayanan Asuransi
+Manajemen
+
+asuransi
+
+mengatakan bahwa setiap nasabah yang
+
+dalam penerapan SIM berbasis pengajuan
+
+telah menginput berbagai data tentang
+
+santunan
+
+memberikan
+
+pengajuan santuan online, maka dengan
+
+pelayanan kepada nasabah sesuai dengan
+
+secara otomatis data nasabah terakses
+
+fungsi
+
+dari
+
+dalam database, karena itu pihak PT. Jasa
+
+pelaksanaan,
+
+Raharja berupaya memberikan pelayanan
+
+online
+
+pelayanan
+
+Kasubag Administrasi Santunan yang
+
+yaitu
+
+manajemen
+
+mulai
+
+perencanaan,
+pengorganisasian
+segala
+
+hal
+
+yang
+
+dan
+
+pengevaluasian
+
+terbaik
+
+dengan
+
+menyediakan
+
+dengan
+
+aplikasi sesuai pilihan. Bagi nya sebagai
+
+pengajuan santunan oleh nasabah secara
+
+karyawan telah memberikan pelayanan
+
+online.
+
+dengan mengakses input nasabah yang
+
+Berdasarkan
+
+berkaitan
+
+yang
+
+hasil
+
+wawancara
+
+masuk.
+
+peneliti dengan Kepala Cabang untuk
+menanyakan
+
+mengenai
+
+input
+
+Berdasarkan
+
+hasil
+
+wawancara
+
+SIM
+
+dengan informan di atas, menunjukkan
+
+berbasis pengajuan santunan online dari
+
+bahwa penerapan input dalam SIM dari
+
+aspek manajemen pelayanan asuransi,
+
+aspek manajemen telah diterapkan oleh
+
+beliau mengatakan bahwa bagi pihak Jasa
+
+PT.
+
+Raharja di dalam menerapkan SIM
+
+manajemen pelayanan yang diberikan.
+
+berdasarkan input dilihat dari aspek
+
+Pihak
+
+manajemen pelayanan
+
+pengadministrasian sesuai perencanana,
+
+asuransi
+
+telah
+
+Jasa
+
+Raharja
+
+sesuai
+
+manajemen
+
+dengan
+
+melakukan
+
+diterapkan. Seperti program aplikasi JRku
+
+pelaksanaan,
+
+dari Jasa Raharja yang bisa digunakan
+
+pengevaluasian segala aktivitas yang
+
+nasabah untuk mendapatkan informasi
+
+berkaitan dengan pengajuan santunan
+
+manajemen pelayanan
+
+online.
+
+asuransi
+
+yang
+
+pengorganisasian
+
+dan
+
+tersedia, dapat menginput datanya sesuai
+
+Peneliti selanjutnya mewawancarai
+
+dengan ketentuan dan prosedur yang telah
+
+informan masyarakat pengguna aplikasi
+
+disediakan untuk memberikan kemudahan
+
+JRku
+
+yaitu
+
+menanyakan
+
+Volume 2, Nomor 3, Juni 2021
+
+informan
+
+SR
+
+pendapatnya
+
+untuk
+tentang
+
+776
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+bagaimana
+
+penerapan
+
+manajemen
+
+santunan online yaitu melayani setiap
+
+pelayanan asuransi dalam input SIM
+
+nasabah yang melakukan penginputan
+
+berbasis
+
+pengajuan
+
+Berikut
+
+hasil
+
+santuan
+
+online
+
+atau pengisian format pengajuan santunan
+
+wawancara
+
+dengan
+
+secara online kepada pihak PT. Jasa
+
+informan:
+
+Raharja.
+
+“Sebagai masyarakat yang selalu
+
+Berikut hasil wawancara peneliti
+
+bepergian saya merasa senang dengan
+
+dengan
+
+adanya layanan SIM yang diberikan oleh
+
+Cabang untuk menanyakan mengenai
+
+pihak PT. Jasa Raharja dalam rangka
+
+input SIM berbasis pengajuan santuan
+
+menjaga hal-hal yang tidak diharapkan,
+
+online dari aspek operasional pelayanan
+
+sehingga
+
+asuransi. Petikan wawancara
+
+saya
+
+selalu
+
+mengakses
+
+pelayanan asuransi dengan mendonlod
+
+informan
+
+selalu
+
+tanggungan Jasa Raharja”.
+
+kekinian
+
+makna
+
+bahwa
+
+Kepala
+
+dengan
+
+“Bagi instansi kami penerapan SIM
+
+kendaraan yang saya gunakan di bawah
+
+memberi
+
+selaku
+
+informan:
+
+aplikasi JRku untuk mengetahui apakah
+
+Ini
+
+JJ
+
+mengikuti
+
+tuntutan
+
+termasuk
+
+pelayanan
+
+dalam
+
+hal
+
+ini
+
+memberikan pelayanan secara operasional
+
+penerapan SIM melalui input dalam aspek
+
+kepada
+
+manajemen telah diterapkan oleh Jasa
+
+pengajuan santunan online atas berbagai
+
+Raharja dalam memberikan kemudahan
+
+hal yang berkaitan dengan asuransi baik
+
+pelayanan kepada setiap nasabah dalam
+
+asuransi
+
+hal
+
+kecelakaan.
+
+ini
+
+masyarakat
+
+yang
+
+selalu
+
+nasabah
+
+jiwa,
+
+untuk
+
+melakukan
+
+kendaraan
+
+Melalui
+
+maupun
+
+aplikasi
+
+JRku
+
+menggunakan kendaraan umum untuk
+
+nasabah mendapatkan banyak informasi
+
+bepergian. Aplikasi JRku merupakan
+
+tentang aktivitas operasional pelayanan
+
+program yang disediakan oleh pihak PT.
+
+asuransi”.
+
+Jasa Raharja untuk di input dalam
+
+Selanjutnya peneliti mewawancarai
+
+melakukan pengajuan santuan online
+
+Kasubag
+
+melalui penerapan SIM.
+
+informan FR untuk menanyakan hal yang
+sama.
+
+Operasional Pelayanan Asuransi
+Operasional
+
+pelayanan
+
+Administrasi
+
+Petikan
+
+wawancara
+
+Santunan,
+
+dengan
+
+informan:
+
+asuransi
+
+dalam penerapan SIM berbasis pengajuan
+
+Volume 2, Nomor 3, Juni 2021
+
+777
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+“Saat ini secara administratif dalam
+aktivitas pengoperasional penerapan SIM
+
+Berikut
+
+yaitu
+
+telah
+
+aplikasi
+
+JRku
+
+mengoperasikan
+
+untuk
+
+memberikan
+
+wawancara
+
+dengan
+
+informan:
+“Saya merasa mendapat kemudahan
+
+yang telah dilakukan oleh PT. Jasa
+Raharja
+
+hasil
+
+dengan adanya penerapan SIM yang
+dioperasikan
+
+dengan
+
+menggunakan
+
+pelayanan secara online kepada nasabah
+
+aplikasi JRku untuk pengajuan santunan
+
+dengan operator operasional yang stand
+
+online.
+
+by
+
+kecepatan
+
+kemudahan
+
+dan
+
+dengan
+
+mudah
+
+setiap
+
+saat
+
+untuk
+
+pelayanan
+
+sesuai
+
+dengan
+
+fitur-fitur
+
+dilakukan, sehingga tidak menggunakan
+
+disediakan,
+
+membuat
+
+waktu yang lama untuk datang ke kantor
+
+nasabah memiliki banyak pilihan dalam
+
+PT. Jasa Raharja, sebab dapat diakses
+
+melakukan pengajuan santunan online”
+
+langsung di handphone”.
+
+layanan
+
+yang
+
+Hasil
+
+wawancara
+
+memberikan
+
+Berbagai
+
+para
+
+Ini memberi makna bahwa PT. Jasa
+
+informan dari pihak PT. Jasa Raharja di
+
+Raharja telah melakukan inovasi yang
+
+atas,
+
+secara
+
+berbasis internet of thing (IoT) untuk
+
+operasional input dari sistem manajemen
+
+memberikan kemudahan setiap nasabah
+
+telah diterapkan dengan menyediakan
+
+dalam melakukan pengajuan santunan
+
+aplikasi JRku yang memiliki banyak fitur
+
+online
+
+pilihan
+
+menunjukkan
+
+yang
+
+masyarakat
+
+dengan
+
+layanan
+
+bahwa
+
+atas
+
+jaminan
+
+digunakan
+
+oleh
+
+dipilihnya. Aktivitas operasional yang
+
+sebagai
+
+nasabah
+
+untuk
+
+dilakukan oleh PT. Jasa Raharja dengan
+menyediakan
+
+sesuai prosedur dan prasyarat pilihan
+
+membantu
+
+bagi
+
+asuransi.
+
+melakukan
+
+aplikasi
+
+Peneliti selanjutnya mewawancarai
+informan masyarakat pengguna aplikasi
+yaitu
+
+menanyakan
+bagaimana
+
+yang
+
+dapat
+
+melakukan pengajuan santunan online
+
+JRku
+
+asuransi
+
+informan
+
+AR
+
+pendapatnya
+penerapan
+
+aplikasi
+
+JRku
+
+sangat
+
+masyarakat
+
+untuk
+
+online
+
+dalam
+
+mendapatkan pelayanan asuransi setiap
+saat.
+
+untuk
+tentang
+
+operasional
+
+Teknis Pelayanan Asuransi
+Teknis pelayanan asuransi dalam
+
+pelayanan asuransi dalam input SIM
+
+penerapan
+
+berbasis
+
+santunan online yaitu melayani secara
+
+pengajuan
+
+santuan
+
+online
+
+SIM
+
+berbasis
+
+pengajuan
+
+teknis berupa pengajuan santunan online
+
+Volume 2, Nomor 3, Juni 2021
+
+778
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+bagi setiap nasabah untuk mendapatkan
+
+online.
+
+berbagai informasi yang ada pada aplikasi
+
+didapatkan oleh masyarakat atau nasabah
+
+JRku.
+
+yang mengajukan santunan online yaitu
+Berikut hasil wawancara peneliti
+
+dengan
+
+informan
+
+JJ
+
+selaku
+
+Kepala
+
+Berbagai
+
+kemudahan
+
+teknis
+
+akan memperoleh informasi yang detail
+sesuai fitur informasi yang tersedia”.
+
+Cabang untuk menanyakan mengenai
+
+Berdasarkan
+
+hasil
+
+wawancara
+
+input SIM berbasis pengajuan santuan
+
+dengan informan di atas, menunjukkan
+
+online
+
+bahwa secara teknis penerapan SIM
+
+dari
+
+aspek
+
+teknis
+
+pelayanan
+
+asuransi. Petikan wawancara
+
+dengan
+
+informan:
+
+melalui input memberikan kemudahan
+kepada masyarakat dan nasabah dalam
+
+“Saat ini PT. Jasa Raharja telah
+
+mendapatkan
+
+informasi
+
+pengajuan
+
+melakukan inovasi secara teknis dengan
+
+santunan online. Berbagai pilihan secara
+
+menyediakan
+
+dalam
+
+teknis disediakan PT. Jasa Raharja dalam
+
+dan
+
+fitur di aplikasi JRku untuk memudahkan
+
+pemberitahuan kepada masyarakat dan
+
+masyarakat mengecek dan mendapatkan
+
+nasabah dalam hal teknis pengajuan
+
+informasi
+
+santunan online. Aplikasi JRku secara
+
+dengan pengajuan santunan online.
+
+aplikasi
+
+memberikan
+
+JRku
+
+informasi
+
+yang
+
+diinginkan
+
+berkaitan
+
+teknis tidak harus melayani nasabah
+
+Peneliti selanjutnya mewawancarai
+
+secara face to face tetapi dapat dilakukan
+
+informan masyarakat pengguna aplikasi
+
+dengan mengakses berbagai fitur yang
+
+JRku
+
+tersedia dalam aplikasi tersebut “.
+
+menanyakan
+
+Selanjutnya peneliti mewawancarai
+Kasubag
+
+Administrasi
+
+yaitu
+
+informan
+
+SR
+
+pendapatnya
+
+untuk
+tentang
+
+bagaimana penerapan teknis pelayanan
+
+Santunan,
+
+asuransi
+
+dalam
+
+input
+
+SIM
+
+informan FR untuk menanyakan hal yang
+
+berbasis
+
+pengajuan
+
+santuan
+
+online
+
+sama.
+
+Berikut
+
+hasil
+
+wawancara
+
+dengan
+
+Petikan
+
+wawancara
+
+dengan
+
+informan:
+
+informan:
+
+“Secara teknis aktivitas input dalam
+
+“Saya melihat teknis dari penerapan
+
+pendekatan SIM sudah diterapkan dengan
+
+SIM dalam pelayanan asuransi ini sudah
+
+menyediakan
+
+baik, dimana PT. Jasa Raharja telah
+
+aplikasi
+
+JRku
+
+yang
+
+memberi kemudakan bagi masyarakat
+
+menyediakan
+
+untuk
+
+memiliki fitur informasi yang dibutuhkan
+
+mengajukan
+
+santunan
+
+secara
+
+Volume 2, Nomor 3, Juni 2021
+
+aplikasi
+
+JRku
+
+yang
+
+779
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+untuk mengajukan santunan online sesuai
+
+Proses
+
+dengan pilihan yang tersedia. Secara
+
+Santuan Online
+
+teknis
+
+memberikan
+
+efisiensi
+
+waktu
+
+kemudahan
+dalam
+
+informasi lewat handphone sendiri” (28
+
+Ini
+
+memberi
+
+makna
+
+bahwa
+
+masyarkaat
+
+merasa
+
+terbantu
+
+dengan
+
+keberadaan aplikasi JRku yang secara
+dan
+
+mengefisienkan waktunya dengan tidak
+harus
+
+datang
+
+yang
+
+berkaitan
+
+informasi
+
+ke
+
+kantor
+
+untuk
+
+mendapatkan pelayanan face to face.
+Tetapi masyarakat dapat menggunakan
+aplikasi JRku sesuai dengan fitur yang
+
+di
+
+dengan
+
+data
+
+atau
+
+dalam
+
+pengambilan
+
+keputusan, menjalankan kegiatan dan
+sistem
+
+Agustus 2019).
+
+kemudahan
+
+Pengajuan
+
+Proses data yaitu memproses segala
+
+mengurus
+
+datang ke kantor, tapi mendapatkan
+
+memberikan
+
+berbasis
+
+dan
+
+pengajuan santunan. Kita tidak lagi harus
+
+teknis
+
+SIM
+
+pelayanan
+
+asuransi.
+
+Berikut
+
+ditunjukkan data sekunder mengenai
+proses SIM berbasis pengajuan santuan
+online.
+Persentase
+
+Penerapan
+
+SIM
+
+berdasarkan Proses dalam Pelayanan
+Asuransi pada PT. Jasa Raharja Cabang
+Sulawesi Selatan di Kota Makassar.
+Persentase dari penerapan SIM
+berdasarkan proses
+
+dalam
+
+pelayanan
+
+asuransi pada PT. Jasa Raharja berupa
+
+tersedia.
+Berdasarkan
+
+uraian
+
+di
+
+atas
+
+menunjukkan bahwa input data dalam
+penerapan
+
+SIM
+
+berbasis
+
+pengajuan
+
+santuan online telah diterapkan oleh pihak
+PT. Jasa Raharja dari aspek manajemen,
+operasional
+
+dan
+
+teknis
+
+pelayanan
+
+asuransi. Saat ini pelayanan asuransi
+secara online dapat dilakukan melalui
+aplikasi JRku, di mana masyarakat atau
+nasabah
+
+akan
+
+informasi
+
+sesuai
+
+mudah
+dengan
+
+mendapatkan
+fitur
+
+yang
+
+tersedia tanpa harus mendatangi kantor
+Jasa Raharja.
+
+pengambilan
+
+keputusan,
+
+kegiatan
+
+pelayanan dan sistem pelayanan rata-rata
+baru mencapai 64.7%. Ini berarti perlu
+lebih ditingkatkan persentase pencapaian
+dalam proses pelayanan asuransi dengan
+pendekatan
+
+SIM
+
+berbasis
+
+pengajuan
+
+santunan online melalui pengambilan
+keputusan yang tepat, kegaitan pelayanan
+asuransi yang memberikan kemudahan
+dan sistem pelayanan asuransi yang
+efisien
+
+dalam
+
+memproses
+
+pengajuan
+
+santunan online yang diajukan oleh
+masyarakat.
+
+Volume 2, Nomor 3, Juni 2021
+
+780
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+Pengambilan
+
+Keputusan
+
+Pelayanan
+
+Asuransi
+
+Selanjutnya peneliti mewawancarai
+Kasubag Pelayanan, informan GN untuk
+menanyakan hal yang sama. Petikan
+
+Pengambilan
+
+keputusan
+
+dalam
+
+wawancara dengan informan:
+
+pelayanan asuransi dengan pendekatan
+SIM berbasis pengajuan santunan online
+yaitu proses melayani aktivitas pengajuan
+santunan online bagi setiap nasabah untuk
+mendapatkan
+
+keputusan
+
+memperoleh
+
+santunan asuransi dari pihak PT. Jasa
+Raharja.
+
+oleh PT. Jasa Raharja melalui aplikasi
+JRku
+
+informan
+
+JJ
+
+selaku
+
+Kepala
+
+Cabang untuk menanyakan mengenai
+
+dilayani
+
+sesuai
+
+dengan
+
+keputusan yang telah ditetapkan oleh
+pimpinan sesuai dengan prosedur dan
+prasyarat yang harus dipenuhi. Nasabah
+
+lanjut
+
+online dari aspek pengambilan keputusan
+pelayanan asuransi. Petikan wawancara
+dengan informan:
+
+yang masuk ke redaksi meja saya, saya
+harus memastikan bahwa usulan tersebut
+dan terproses dalam
+
+database setelah itu dipastikan sudah
+
+saya
+
+tindaklanjuti
+
+sesuai
+
+keputusan yang berlaku. Bagi nasabah
+memilih
+
+proses
+
+JRku
+
+tidak
+
+membutuhkan waktu terlalu lama untuk
+ditindaklanjuti
+pelayanannya”.
+
+balasan
+
+sesuai fitur yang dipilih”.
+Berdasarkan
+
+hasil
+
+wawancara
+
+dengan informan di atas, menunjukkan
+bahwa setiap proses dari penerapan SIM
+
+disesuaikan
+
+dalam
+
+proses
+
+dengan
+
+keputuan
+
+yang
+
+berlaku dari pilihan aplikasi JRku yang
+dipilih
+
+untuk
+
+ditindaklanjuti
+
+sesuai
+
+dengan ketentuan dan prasyarat yang
+ditetapkan.
+
+memenuhi ketentuan dan prosedur, maka
+prosesnya
+
+mendapatkan
+
+yang dilakukan oleh Jasa Raharja harus
+
+“Setiap pengajuan santunan online
+
+sudah terinput
+
+setelah
+
+berupa jawaban atas pilihan asuransi
+
+proses SIM berbasis pengajuan santuan
+
+yang
+
+akan
+
+menerima keputusan untuk diproses lebih
+
+Berikut hasil wawancara peneliti
+dengan
+
+“Setiap pelayanan yang diberikan
+
+Peneliti selanjutnya mewawancarai
+informan masyarakat pengguna aplikasi
+JRku
+
+yaitu
+
+informan
+
+AR
+
+untuk
+
+menanyakan
+
+pendapatnya
+
+tentang
+
+pengambilan
+
+keputusan
+
+pelayanan
+
+asuransi dalam proses SIM berbasis
+pengajuan santuan online Berikut hasil
+wawancara dengan informan:
+
+Volume 2, Nomor 3, Juni 2021
+
+781
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+“Saya
+
+merasa
+
+terbantu
+
+dengan
+
+adanya aplikasi JRku dalam melakukan
+pengurusan
+
+pelayanan
+
+santunan
+
+online
+
+asuransi. Petikan wawancara
+
+dengan
+
+informan:
+“Kegiatan
+
+pengajuan
+
+pelayanan
+
+asuransi
+
+yang
+
+sudah
+
+dengan pendekatan SIM yang telah telah
+
+pendekatan
+
+SIM.
+
+diproses selama ini disesuaikan dengan
+
+Keputusan atas pembayaran santunan
+
+jenis kegiatan pelayanan yang dibutuhkan
+
+dengan
+
+oleh
+
+menggunakan
+
+mudah
+
+dapat
+
+ditindaklanjuti
+
+nasabah.
+
+Kegiatan
+
+pelayanan
+
+sesuai dengan fitur aplikasi yang tersedia
+
+tersebut telah melalui mediasi secara
+
+dengan cepat memberikan balasan atas
+
+langsung maupun menggunakan media
+
+aplikasi secara otomatis”.
+
+online sesuai fitur yang tersedia yang
+
+Ini memberi makna bahwa proses
+pelayanan
+
+asuransi
+
+telah
+
+diterapkan
+
+menunjukkan layanan aktivitas yang bisa
+diaplikasikan oleh nasabah tanpa harus
+
+sesuai SIM berbasis pengajuan santunan
+
+datang langsung
+
+online dengan ketersediaan fitur-fitur
+
+layanan face to face. Kegiatan pelayanan
+
+yang
+
+untuk
+
+asuransi saat ini sudah bagus karena
+
+mendapatkan informasi yang berkaitan
+
+nasabah sudah menggunakan aplikasi
+
+dengan
+
+atas
+
+JRku, jadi saat berada di kantor kegiatan
+
+pembayaran santuan yang telah diproses.
+
+pelayanan asuransi tidak lagi berbelit-
+
+bisa
+
+dimanfaatkan
+
+pengambilan
+
+keputusan
+
+untuk
+
+mendapatkan
+
+belit”.
+Kegiatan Pelayanan Asuransi
+Kegiatan
+
+pelayanan
+
+Selanjutnya peneliti mewawancarai
+asuransi
+
+diterapkan
+
+dengan
+
+pendekatan
+
+SIM
+
+berbasis
+
+pengajuan
+
+santunan
+
+online
+
+sebagai proses yang harus dilalui setiap
+nasabah
+
+dalam
+
+pengajuan
+
+santunan
+
+kepada pihak PT. Jasa Raharja.
+Berikut hasil wawancara peneliti
+dengan
+
+informan
+
+JJ
+
+selaku
+
+Kasubag Pelayanan, informan GN untuk
+menanyakan hal yang sama. Petikan
+wawancara dengan informan:
+“Sebagai karyawan asuransi selalu
+merespon
+
+kegiatan
+
+dilakukan
+
+oleh
+
+pelayanan
+
+nasabah
+
+yang
+
+yang
+telah
+
+melakukan proses pengajuan santunan
+
+Kepala
+
+secara online. Kegiatan pelayanan yang
+
+Cabang untuk menanyakan mengenai
+
+diterapkan selama ini kecenderungan
+
+proses SIM berbasis pengajuan santuan
+
+lebih mudah diaktualisasikan melalui
+
+online dari aspek kegiatan pelayanan
+
+Volume 2, Nomor 3, Juni 2021
+
+782
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+sistem online JRku yang meyediakan fitur
+pelayanan yang dibutuhkan”.
+
+Ini memberi makna bahwa PT. Jasa
+Raharja telah menindaklanjuti kegiatan
+
+Hasil wawancara dengan informan
+
+pelayanan
+
+dengan
+
+memproses
+
+setiap
+
+di atas, menunjukkan bahwa penerapan
+
+pengajuan santunan asuransi yang telah
+
+SIM
+
+dilakukan secara online oleh masyarakat
+
+dari
+
+proses
+
+pelayanan
+
+telah
+
+dilakukan dengan menyediakan proses
+
+maupun
+
+kegiatan pengajuan santunan online yang
+
+pelayanan sudah memberikan kemudahan
+
+tersedia
+
+bagi nasabah dan masyarakat dalam
+
+di
+
+nasabah
+
+aplikasi
+
+JRku,
+
+sehingga
+
+yang
+
+datang
+
+tinggal
+
+nasabah.
+
+Proses
+
+kegiatan
+
+setiap pelayanan pengajuan santunan.
+
+memperlihatkan bukti data yang dimiliki
+untuk ditindaklanjuti dalam kegiatan
+
+Sistem Pelayanan Asuransi
+
+pelayanan.
+
+Sistem
+
+pelayanan
+
+asuransi
+
+PT.
+
+Raharja
+
+Peneliti selanjutnya mewawancarai
+
+diterapkan
+
+pada
+
+informan masyarakat pengguna aplikasi
+
+dilakukan
+
+dengan
+
+pendekatan
+
+SIM
+
+JRku
+
+untuk
+
+berbasis
+
+pengajuan
+
+santunan
+
+online
+
+tentang
+
+sebagai proses yang harus dilalui setiap
+
+kegiatan pelayanan asuransi dalam proses
+
+nasabah dalam mendapatkan pelayanan
+
+SIM berbasis pengajuan santuan online
+
+pengajuan santunan.
+
+yaitu
+
+menanyakan
+
+Berikut
+
+informan
+
+SR
+
+pendapatnya
+
+hasil
+
+wawancara
+
+dengan
+
+informan:
+
+Berikut hasil wawancara peneliti
+dengan
+
+“Kegiatan
+
+pelayanan
+
+Jasa
+
+informan
+
+JJ
+
+selaku
+
+Kepala
+
+sudah
+
+Cabang untuk menanyakan mengenai
+
+dilakukan oleh pihak PT. Jasa Raharja
+
+proses SIM berbasis pengajuan santuan
+
+yang memberikan proses pelayanan atas
+
+online
+
+pengajuan
+
+asuransi. Petikan wawancara
+
+santunan
+
+asuransi
+
+secara
+
+online. Kegiatan pelayanan yang saya
+
+dari aspek sistem
+
+pelayanan
+dengan
+
+informan:
+
+rasakan sudah baik, lancar, tidak berbelit-
+
+“Sistem pelayanan asuransi saat ini
+
+belit, karena data saya sudah secara
+
+sudah baik, karena PT. Jasa Raharja
+
+otomatis
+
+selalu berinovasi dalam memberikan
+
+telah
+
+ditindaklanjuti”.
+
+terproses
+
+untuk
+
+pelayanan kepada masyarakat. Buktinya
+saat
+
+ini
+
+sistem
+
+pelayanan
+
+sudah
+
+menggunakan pendekatan SIM berbasis
+
+Volume 2, Nomor 3, Juni 2021
+
+783
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+pengajuan
+memberikan
+
+santunan
+
+online
+
+kemudahan
+
+masyarakat
+
+yang
+
+Peneliti selanjutnya mewawancarai
+
+kepada
+
+informan masyarakat pengguna aplikasi
+
+memperoleh
+
+JRku
+
+yaitu
+
+informan
+
+AR
+
+untuk
+
+informasi yang dibutuhkan dan prasyarat
+
+menanyakan pendapatnya tentang sistem
+
+dalam pengajuan santunan”.
+
+pelayanan asuransi dalam proses SIM
+
+Selanjutnya peneliti mewawancarai
+
+berbasis
+
+pengajuan
+
+santuan
+
+online
+
+Kasubag Pelayanan, informan GN untuk
+
+Berikut
+
+hasil
+
+wawancara
+
+dengan
+
+menanyakan hal yang sama. Petikan
+
+informan:
+‘Keberadaan aplikasi JRku bagi
+
+wawancara dengan informan:
+“Sistem pelayanan asuransi sudah
+
+saya sangat membantu untuk membuat
+
+sesuai dan saat ini sudah menggunakan
+
+pengajuan santunan secara online, jadi
+
+sistem komputerisasi dan juga dengan
+
+saat tiba di kantor pelayanan Jasa Raharja
+
+pendekatan SIM yang berbasis pengajuan
+
+tidak membutuhkan waktu yang lama
+
+santunan online, jadi setiap karyawan di
+
+untuk dilayani, karena karyawa tinggal
+
+bagian pelayanan hanya memberikan
+
+mengecek di
+
+pelayanan kepada masyarakat yang telah
+
+tersambung internet, data pengajuan saya
+
+memasukkan
+
+sudah
+
+datanya
+
+secara
+
+online
+
+bisa
+
+komputer yang sudah
+
+langsung
+
+diproses
+
+dan
+
+melalui aplikasi JRku, sehingga setiap
+
+ditindaklanjuti”.
+
+masyarakat mendapatkan pelayanan yang
+
+Ini
+
+memberi
+
+makna
+
+bahwa
+
+mudah dan tidak menunggu antrian yang
+
+masyarakat
+
+merasa
+
+terbantu
+
+dengan
+
+terlalu lama untuk dilayani”.
+
+program JRku yang dikeluarkan oleh PT.
+
+Berdasarkan
+
+hasil
+
+wawancara
+
+Jasa Raharja sebagai aplikasi sistem yang
+
+dengan informan di atas, menunjukkan
+
+berbasis
+
+bahwa sistem pelayanan asuransi di PT.
+
+dengan mendapatkan berbagai informasi
+
+Jasa Raharja sudah berjalan sesuai dengan
+
+sesuai
+
+pendekatan SIM yang berbasis pengajuan
+
+sehingga cepat ditindaklanjuti oleh pihak
+
+santunan online, yang mudah diakses oleh
+
+Jasa Raharja.
+
+masyarakat atau nasabah dan mudah
+
+pengajuan
+
+fitur
+
+santunan
+
+aplikasi
+
+Berdasarkan
+
+yang
+
+uraian
+
+online,
+
+tersedia,
+
+di
+
+atas
+
+mendapatkan pelayanan dari pihak Jasa
+
+menunjukkan bahwa proses data dalam
+
+Raharja.
+
+SIM berbasis pengajuan santuan online
+sudah diterapkan dengan baik untuk
+
+Volume 2, Nomor 3, Juni 2021
+
+784
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+memberikan kemudahan kepada nasabah
+
+hasil kerja, target dan realisasi dalam
+
+dan
+
+menindaklanjuti
+
+masyarakat
+
+dalam
+
+membuat
+
+pengajuan santuan secara online melalui
+
+pelayanan
+
+pengajuan
+
+santunan asuransi secara online.
+
+penggunaan aplikasi JRku, sehinggga
+KESIMPULAN
+
+data masyarakat yang sudah masuk dapat
+segera diproses oleh pihak PT. Jasa
+Raharja.
+Output
+
+SIM
+
+Berbasis
+
+Pengajuan
+
+Santuan Online
+Output
+
+data
+
+yaitu
+
+kegiatan
+
+berkaitan dengan aktivitas hasil kerja,
+target dan realisasi pelayanan asuransi.
+ditunjukkan
+
+data
+
+sekunder
+
+mengenai output SIM berbasis pengajuan
+santuan online.
+Persentase
+
+Penerapan
+
+SIM
+
+berdasarkan Output dalam Pelayanan
+Asuransi pada PT. Jasa Raharja Cabang
+Sulawesi Selatan di Kota Makassar.
+Persentase dari penerapan SIM
+berdasarkan output
+
+dalam
+
+pelayanan
+
+asuransi pada PT. Jasa Raharja dilihat
+dari pencapaian hasil kerja, target dan
+realisasi
+
+pelayanan
+
+rata-rata
+
+sebesar
+
+60.3%. Ini berarti output pelayanan masih
+belum optimal dari penerapan SIM yang
+berbasis
+
+pengajuan
+
+santunan
+
+online,
+
+sehingga masih diperlukan upaya untuk
+meningkatkan
+
+kemudian
+
+dibahas
+
+berdasarkan
+
+penelitian,
+
+maka
+
+dapat
+
+persentase
+
+pencapaian
+
+hasil
+
+disimpulkan
+
+sebagai berikut: (1) Input data dalam
+penerapan
+
+memasukkan data atau informasi yang
+
+Berikut
+
+Berdasarkan rumusan masalah yang
+
+SIM
+
+berbasis
+
+pengajuan
+
+santuan online telah diterapkan oleh pihak
+PT. Jasa Raharja dari aspek manajemen,
+operasional
+
+dan
+
+teknis
+
+pelayanan
+
+asuransi. Saat ini pelayanan asuransi
+secara online dapat dilakukan melalui
+aplikasi JRku, di mana masyarakat atau
+nasabah
+
+akan
+
+informasi
+
+sesuai
+
+mudah
+
+mendapatkan
+
+dengan
+
+fitur
+
+yang
+
+tersedia tanpa harus mendatangi kantor
+Jasa Raharja, (2) Proses data dalam SIM
+berbasis pengajuan santuan online sudah
+diterapkan
+
+dengan
+
+baik
+
+untuk
+
+memberikan kemudahan kepada nasabah
+dan
+
+masyarakat
+
+dalam
+
+membuat
+
+pengajuan santuan secara online melalui
+penggunaan aplikasi JRku, sehinggga
+data masyarakat yang sudah masuk dapat
+segera diproses oleh pihak PT. Jasa
+Raharja, (3) Output data dalam penerapan
+SIM berbasis pengajuan santuan online
+telah
+
+diterapkan
+
+Volume 2, Nomor 3, Juni 2021
+
+sesuai
+
+dengan
+
+785
+
+https://journal.unismuh.ac.id/index.php/kimap/index
+peningkatan dan upaya untuk lebih
+meningkatkan
+
+hasil
+
+kerja
+
+dalam
+
+memberikan pelayanan asuransi kepada
+masyarakat atau nasabah untuk mencapai
+target
+
+dan
+
+realisasi
+
+dari
+
+kegiatan
+
+pelayanan asuransi yang selama ini telah
+diperkenalkan kepada masyarakat.
+DAFTAR PUSTAKA
+
+(Persero)
+Cabang
+Sulawesi
+Tengah. e-Jurnal Katalogis, Volume
+2 Nomor 7, Juni 2014 hlm 89-100,
+ISSN:
+2302-2019.
+Peraturan Menteri Keuangan Nomor
+37/PMK.010/2008 tentang Besar
+Santunan dan Iuran Wajib Dana
+Pertanggungan Wajib Kecelakaan
+Penumpang
+Alat
+Angkutan
+Penumpang Umum di Darat,
+Sungai/Danau,
+Ferry/Penyeberangan, Laut dan
+Udara.
+
+Gorry dan Scot Morton 2013, Business
+And Its Environment, Stanford
+University, New Jersey.
+Hartono, Bambang. 2013. Sistem
+Informasi Manajemen Berbasis
+Komputer. Jakarta: PT. Rineka
+Cipta.
+Hall, George, 2016. Information System
+in Company. Published by John
+Wiley and Son, New York.
+Leitch, Henny, 2012. Application of
+Information System to Increasing
+Performance.
+Published
+by
+Shemarad Books, New York.
+McLeod, Raymond, Jr. 2012. Sistem
+Informasi Manajemen. Jakarta: PT.
+Prenhallindo.
+Rahardjo, Budi, 2018. Jasa Rahardja
+dalam Inovasi Teknologi Aplikasi
+SIM. Profil PT. Jasa Raharja.
+Scott,
+Jhon,
+2013.
+Management
+Information System to Welcome of
+Revolution 4.0. Booksheel, New
+York.
+Terry, Gerry, 2018. The Management and
+Information
+System
+for
+Organization.
+Published
+by
+Prentice Hall, Ohio Press.
+Wahyudi Rahmadian, 2019. Pengaruh
+Pemberdayaan
+dan
+Sistem
+Informasi
+terhadap
+Kinerja
+Pegawai pada PT. Jasa Raharja
+
+Volume 2, Nomor 3, Juni 2021
+
+786
+
+

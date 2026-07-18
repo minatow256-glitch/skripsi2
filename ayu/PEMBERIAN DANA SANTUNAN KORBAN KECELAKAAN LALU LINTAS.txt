@@ -1,0 +1,2959 @@
+PEMBERIAN DANA SANTUNAN KORBAN KECELAKAAN LALU LINTAS
+OLEH PT. JASA RAHARJA (PERSERO) PERWAKILAN MADIUN.
+(Studi Implementasi Pasal 4 Undang-Undang Nomor 34 Tahun 1964
+Tentang Dana Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan)
+
+SKRIPSI
+Untuk Memenuhi Sebagian Syarat-Syarat
+Untuk Memperoleh Gelar Kesarjanaan
+Dalam Ilmu Hukum
+Oleh :
+AL FAIZ BINASHRILLAH
+NIM. 0810110078
+
+KEMENTRIAN PENDIDIKAN DAN KEBUDAYAAN
+UNIVERSITAS BRAWIJAYA
+FAKULTAS HUKUM
+MALANG
+2012
+
+LEMBAR PERSETUJUAN
+
+PEMBERIAN DANA SANTUNAN KORBAN KECELAKAAN LALU LINTAS
+OLEH PT. JASA RAHARJA (PERSERO) PERWAKILAN MADIUN.
+(Studi Implementasi Pasal 4 Undang-Undang Nomor 34 Tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan)
+
+Oleh :
+
+AL FAIZ BINASHRILLAH
+NIM. 0810110078
+
+Disetujui pada tanggal :
+
+Pembimbing Utama
+
+Pembimbing Pendamping
+
+Indrati, S.H.,M.H.
+
+Amelia Sri Kusuma Dewi, S.H.,M.Kn.
+
+NIP. 19480222 198003 2 001
+
+NIP. 19811214 200801 2 001
+
+Mengetahui
+Ketua Bagian Hukum Perdata
+
+Siti Hamidah, S.H., M.M.
+NIP. 19660622 199002 2 001
+
+i
+
+LEMBAR PENGESAHAN
+PEMBERIAN DANA SANTUNAN KORBAN KECELAKAAN LALU LINTAS
+OLEH PT. JASA RAHARJA (PERSERO) PERWAKILAN MADIUN.
+(Studi Implementasi Pasal 4 Undang-Undang Nomor 34 Tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan)
+Oleh :
+AL FAIZ BINASHRILLAH
+NIM. 0810110078
+Skripsi ini telah disahkan oleh Dosen Pembimbing pada tanggal :
+Pembimbing Utama
+
+Pembimbing Pendamping
+
+Indrati, S.H., M.H.
+
+Amelia Sri Kusuma Dewi S.H.,M.Kn
+
+NIP. 19480222 198003 2 001
+
+NIP. 19811214 200801 2 001
+
+Ketua Majelis Penguji,
+
+Ketua Bagian Hukum Perdata
+
+Dr. Bambang Winarno S.H., M.H.
+
+Siti Hamidah, S.H., M.M.
+
+NIP.19530121 197903 1 002
+
+NIP. 19660622 199002 2 001
+Mengetahui
+Dekan,
+
+Dr. Sihabudin, SH., MH.
+NIP. 19591216 198503 1 001
+ii
+
+KATA PENGANTAR
+
+Segala puji dan syukur penulis panjatkan kehadirat Allah SWT, yang telah
+memberikan rahmat dan karunia yang tiada henti hingga penulis dapat sampai pada
+tahap ini, khususnya dengan selesainya skripsi ini rahmat dan karunia yang tiada
+henti hingga penulis dapat sampai pada tahap ini, khususnya dengan selesainya
+skripsi ini untuk memperoleh gelar kesarjanaan dalam ilmu hukum. Sholawat serta
+salam tidak lupa penulis haturkan kepada junjungan Nabi Besar Muhammad SAW.
+Dalam penyusunan skripsi ini penulis menyadari bahwa skripsi tidak akan
+selesai tanpa bantuan dari berbagai pihak. Oleh karena itu, penulis ingin
+mengucapkan terima kasih yang sebesar-besarnya kepada :
+1.
+
+Bapak Dr. Sihabudin, S.H., M.H. selaku Dekan Fakultas Hukum Universitas
+Brawijaya.
+
+2.
+
+Ibu Indrati, S.H., M.H selaku Dosen Pembimbing Utama atas bimbingan dan
+kesabarannya.
+
+3.
+
+Ibu Amelia Srikusuma Dewi. S.H., M.Kn selaku Dosen Pembimbing
+Pendamping atas bimbingan kesabaran, serta motivasinya.
+
+4.
+
+Keluarga besar PT. Jasa Raharja (Persero) Perwakilan Madiun terutama kepada
+Bapak Herry Murdiyanto, SE yang memberikan ijin kepada penulis untuk
+melakukan penelitian di PT. Jasa Raharja (Persero) Perwakilan Madiun.
+
+5.
+
+Kepala Unit Kecelakaan Lalu Lintas Polres Madiun Kota Ipda Sujarwo, S.H atas
+ijin yang diberikan kepada penulis untuk melakukan penelitian.
+
+iii
+
+6.
+
+Para korban kecelakaan lalu lintas yang bersedia meluangkan waktunya untuk
+diwawancarai.
+
+7.
+
+Kedua Orang Tua serta keluarga yang selalu memberikan doa serta dukungan
+hingga penulis menyelesaikan skripsi ini.
+
+8.
+
+Izzati Firdausi, S.H. yang selalu setia menemani dan memberikan dukungan serta
+semangat hingga penulis menyelesaikan skripsi ini.
+
+9.
+
+Sahabat-sahabatku Elok, Gita, Andika, Ferdy, serta teman-teman kontrakan yang
+telah memberikan inspirasi serta motivasi kepada penulis.
+
+10. Anak-anakku Zheryn, Bagindut, Chilla, Repsol, serta 18 krucil-krucilku yang
+telah ikhlas dikembang biakkan untuk menambah uang saku kuliah.
+11. UKM Pencak Silat Persaudaraan Setia Hati Terate Universitas Brawijaya yang
+telah mempercayai saya sebagai ketua umum periode 2010-2011 dan telah
+berhasil membawa UKM PSHT UB menjadi jawara untuk wilayah Jawa Timur.
+11. Pihak lain yang turut serta membantu terselesaikannya skripsi ini, yang tidak
+dapat penulis sebutkan satu persatu.
+Penulis menyadari bahwa skripsi ini masih jauh dari sempurna. Oleh karena
+itu, kritik saran yang membangun sangat penulis harapkan untuk memperbaikinya di
+kemudian hari. Penulis berharap semoga skripsi ini dapat bermanfaat.
+
+Malang, Maret 2012
+
+Penulis
+iv
+
+DAFTAR ISI
+
+LEMBAR PERSETUJUAN……………………………………………………...i
+KATA PENGANTAR……………………………………………..…………..…ii
+DAFTAR ISI….……………………………………………………………….….iv
+DAFTAR BAGAN…………..…………………………………………………...viii
+DAFATAR TABEL……………………………………………………………….ix
+DAFTAR LAMPIRAN……………………………………………………………x
+ABSTRAKSI………………………………………………………………………xi
+
+BAB I PENDAHULUAN
+A. Latar Belakang Permasalahan………………………………………….…. 1
+B. Perumusan Masalah……………………………………………….………. 6
+C. Tujuan Penelitian ……………………………………………………….… 6
+D. Manfaat Penelitian……………………………….…………………………7
+E. Sistematika Penulisan………………………………….…………………... 9
+BAB II TINJAUAN PUSTAKA
+A. Tinjauan Umum Tentang Asuransi
+1. Pengertian Asuransi…………………………………………………….11
+2. Pengaturan Tentang Asuransi…………………………………………..15
+3. Obyek Perjanjian asuransi………………………………………………15
+4. Pihak-Pihak Daam Perjanjian Asuransi…………………………………17
+
+v
+
+5. Tujuan Asuransi………………………………………………………....18
+
+B. Tinjauan Umum Tentang Pertanggungan Wajib/Sosial………………..……19
+
+C. Tinjauan Umum Tentang Korban Kecelakaan Lalu Lintas…………….…..21
+
+D. Tinjauan Umum Tentang Dana Santunanan Kecelakaan lalu lintas
+1. Ruang Lingkup Pemberian Dana Pertanggungan
+Kecelakaan Lalu lintas…………………………………………………..23
+2. Besaran Dana Kecelakaan Lalu Lintas………………………………..…25
+BAB III METODE PENELITIAN
+A. Metode Pendekatan……………………………………………………..….28
+B. Lokasi Penelitian…………………………………………………………....29
+C. Jenis dan Sumber Data……………………………………………………...29
+D. Teknik Pengumpulan Data……………………………………………….....30
+E. Populasi dan Sampel………………………………………………………...32
+F. Teknik Analisis Data………………………………………………………..32
+G. Definisi Operasional Variable………………………………………….…....33
+BAB IV HASIL DAN PEMBAHASAN
+A. Gambaran Umum PT. Jasa raharja (Persero)………………………………..35
+B. Implementasi Pasal 4 Undang-Undang No 34 Tahun 1964 Tentang Dana
+Pertanggungan wajib Kecelakaan lalu Lintas Jalan oleh PT. Jasa Raharja
+(Persero) Perwakilan Madiun…………………………….………………….38
+B.1 Persyaratan Pengurusan Dana Santunan Korban Kecelakaan
+Lalu Lintas di PT. Jasa Raharja (Persero) Perwakilan Madiun
+B.1.1 Persayaratan Pengurusan Dana Santunan Oleh Korban………….48
+B.1.2 Persyaratan Pegurusan Dana Santunan Oleh Kuasa Korban……..48
+vi
+
+B.1.3 Persyaratan Pegurusan Dana Santunan Oleh Ahli Waris Korban...49
+B.2 Mekanisme Pengurusan Dana Santunan Korban Kecelakaan
+Lalu Lintas di PT. Jasa Raharaja (Persero) Perwakilan Madiun
+B.2.1. Mekanisme Dana Santunan Korban Kecelakaan Lalu Lintas yang
+Korbannnya Terjamin dalam Undang-Undang Nomor 34 tahun
+1964
+a. Mekanisme Pengurusan Dana Santunan Secara Umum………..50
+b. Mekanisme Pengurusan Dana Santunan Apabila Korban
+Tidak Berdomisili di Kota Madiun…………………………….54
+B.2.2 Mekanisme Dana Santunan Korban Kecelakaan Lalu Lintas
+yang Korbannnya Tidak Terjamin dalam Undang-Undang
+Nomor 34 tahun 1964…………………………………………….59
+
+C. Faktor Penghambat dari Implementasi Pasal 4 Undang-Undang No 34
+Tahun 1964 Tentang Dana Pertanggungan wajib Kecelakaan lalu Lintas
+Jalan oleh PT. Jasa Raharja (Persero) Perwakilan Madiun…..……………...64
+1. Faktor Internal……………………………………………………………65
+2. Faktor Eksternal…………………………………………………………..67
+
+D. Upaya yang Dilakukan Untuk Mengatasi Faktor Penghambat
+Implementasi Pasal 4 Undang-Undang No 34 Tahun 1964 Tentang
+Dana Pertanggungan wajib Kecelakaan lalu Lintas Jalan………………..…69
+1. Upaya untuk Mengatasi Hambatan Internal……..………………………70
+2. Upaya untuk Mengatasi Hambatan Eksternal…….……………………...72
+
+vii
+
+BAB V
+A. Kesimpulan…………………………………………………………………..75
+B. Saran…………………………………………………………………………77
+DAFTAR PUSTAKA……………………………………………………………….78
+
+viii
+
+DAFTAR BAGAN
+Bagan 1 : Struktur Organisasi PT. Jasa Raharja (Persero) Perwakilan Madiun….37
+Bagan 1 : Mekanisme Pengurusan Dana Pertanggungan Kecelakaan Lalu Lintas
+di PT. Jasa Raharaja (Persero)…………………………..…….……….46
+Bagan 2 : Mekanisme Pengurusan Dana Pertanggungan Kecelakaan Lalu Lintas
+di PT. Jasa Raharaja (Persero) Apabila Korban tidak Berdomisili
+di Wilayah Karisidenan Madiun………………………………...……..47
+Bagan 3 : Mekanisme Pengurusan Dana Bantuan Sosial apabila Korban
+Kecelakaan Lalu Lintas Tidak Terjamin dalam undang-undang…..….56
+
+ix
+
+DAFTAR TABEL
+Tabel 1 : Besaran Nilai Santunan Korban Kecelakaan Lalu Lintas
+Jalan Sesuai SK Menteri Keuangan No. 416/KMK.06/2001 Dibanding
+Dengan Peraturan Menteri Keuangan No. 36/PMK.010/2008...............27
+Tabel 2 : Data Korban Kecelakaan Lalu Lintas Kepolisian Resort Madiun Kota..45
+Tabel 3 : Dana pertanggungan yang telah diberikan oleh
+PT. Jasa Raharja (Persero) Perwakilan Madiun kepada
+masyarakat yang berdomisili di Kota Madiun
+selama kurun waktu tahun 2007-2011....................................................46
+
+x
+
+DAFTAR LAMPIRAN
+1. Surat Pernyataan Keaslian Skripsi
+2. Surat Penetapan Pembimbing Skripsi
+3. Surat Keterangan Telah Melakukan Penelitian di PT. Jasa Raharja (Persero)
+Perwakilan Madiun
+4. Formulir kosong pengajuan dana santunan korban kecelakaan lalu lintas di PT.
+Jasa Raharja (Persero) Perwakilan Madiun
+5. Contoh Berkas Persyaratan yang telah dilengkapi oleh Korban Kecelekaan Lalu
+Lintas
+6. Undang-Undang Nomor 34 Tahun 1964 Tentang Dana Pertanggungan Wajib
+Kecelakaan Lalu Lintas Jalan
+7. Peraturan Pemerintah republic Indonesia Nomor 18 Tahun 1965 Tentang
+Ketentuan-Ketentuan Pelaksanaan Dana Kecelakaan Lalu-Lintas Jalan
+
+xi
+
+ABSTRAK
+Al Faiz Binashrillah, 0810110078. 2012. PEMBERIAN DANA SANTUNAN
+KORBAN KECELAKAAN LALU LINTAS OLEH PT. JASA RAHARJA
+(PERSERO) PERWAKILAN MADIUN (Studi Implementasi Pasal 4 UndangUndang Nomor 34 Tahun 1964 Tentang Dana Pertanggungan Wajib
+Kecelakaan Lalu Lintas Jalan). Skripsi. Fakultas Hukum Universitas Brawijaya.
+Dosen Pembimbing : 1. Indrati, S.H., M.H. 2. Amelia Srikusuma Dewi. S.H., M.Kn.
+Dalam penelitian ini yang akan dibahas adalah mengenai pemberian dana santunan
+korban kecelakaan lalu lintas oleh PT. Jasa Raharja (Persero) Perwakilan Madiun.
+Rumusan masalah dalam penelitian ini adalah bagaimana implementasi Pasal 4
+Undang-Undang Nomor 34 Tahun 1964 Tentang Dana Pertanggungan Wajib
+Kecelakaan Lalu Lintas Jalan mengenai pemberian dana santunan korban kecelakaan
+lalu lintas oleh PT. Jasa Raharja (Persero) Perwakilan Madiun serta apa saja faktor
+penghambat dan upaya yang dapat dilaksanakan untuk mengatasi faktor penghambat
+dari implementasi Pasal 4 Undang-Undang Nomor 34 Tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan tersebut.
+Adapun tujuan yang ingin dicapai adalah untuk mengetahui dan mendeskripsikan PT.
+Jasa Raharja (Persero) Perwakilan Madiun dalam menyalurkan dana santunan
+kecelakaan lalu lintas, Untuk mengetahui dan mendeskripsikan mengenai faktor
+penghambat yang dialami, serta untuk mengetahui dan menganalisis secara kritis
+mengenai upaya yang dapat dilaksanakan untuk mengatasi faktor penghambat.
+Penulis menggunakan jenis penelitian hukum empiris dengan menggunakan
+pendekatan yuridis sosiologis. Untuk pengumpulan data penulis menggunakan
+wawancara dan studi kepustakaan yang diambil dari PT. Jasa Raharja (Persero)
+Perwakilan Madiun dan Kepolisian Resort Madiun Kota, wawancara para pihak serta
+mengutip catatan, karya tulis, Undang-Undang maupun peraturan dan dokumen
+lainnya. Teknik analisis data menggunakan metode analisis deskriptif untuk data
+primer sedangkan untuk data sekunder menggunakan teknik analisis isi.
+Berdasarkan hasil penelitian, penulis memperoleh jawaban atas permasalahan yang
+ada, bahwa pemberian dana santunan korban kecelakaan lalu lintas oleh PT. jasa
+Raharja (Persero) Perwakilan Madiun telah dilaksanakan sesuai dengan Pasal 4
+Undang-Undang Nomor 34 Tahun 1964 Tentang Dana Pertanggungan Wajib
+Kecelakaan Lalu Lintas Jalan yang akhirnya dari hasil penelitian dapat membedakan
+mengenai syarat pengajuan dana santunan untuk korban, ahli waris korban, ataupun
+kuasa korban serta mengklasifikasikan mengenai mekanisme pengajuan dana
+santunan secara umum, apabila korban tidak berdomisili di wilayah Madiun Raya,
+serta apabila tidak terjamin dalam undang-undang. Hambatan yang dominan menjadi
+kendala dalam pemberian dana santunan adalah mengenai sosialisasi yang sangat
+kurang, dengan mengetahui hal ini maka diharapkan PT. Jasa Raharja (Persero)
+Perwakilan Madiun lebih berperan aktif dalam melaksanakan program sosialisasi
+mengenai dana santunan kecelakaan lalu lintas.
+xii
+
+1
+
+BAB I
+PENDAHULUAN
+A. Latar Belakang Masalah
+Tidak dapat dipungkiri lagi, bahwa Negara Indonesia untuk saat ini
+mengalami kemajuan yang pesat di bidang ekonomi dan teknologi. Kemajuan
+yang pesat di bidang ekonomi dan teknologi tidak terlepas dengan perkembangan
+sarana prasarana transportasi didalamnya. Sarana transportasi yang berupa
+kendaraan bermotor menjadi penunjang kemajuan gerak laju pertumbuhan
+perekonomian nasional serta menjadi tolak ukur perkembangan teknologi.
+Berkaitan dengan risiko-risiko akibat dari perkembangan ilmu pengetahuan dan
+teknologi khususnya di bidang lalu lintas dan trasportasi, ternyata tidak hanya
+memberikan manfaat dan pengaruh positif terhadap perilaku kehidupan
+masyarakat, namun juga membawa dampak negatif antara lain timbulnya masalahmasalah di bidang lalu lintas seperti risiko kecelakaan lalu lintas di jalan raya.
+Tata Pergaulan Masyarakat khususnya masyarakat modern seperti sekarang
+ini, membutuhkan suatu institusi atau lembaga yang bersedia mengambil alih
+resiko-resiko masyarakat baik resiko individual ataupun resiko kelompok.
+Masyarakat modern sampai saat ini, mempunyai kandungan resiko yang relatif
+lebih tinggi dibandingkan dengan waktu-waktu yang lampau karena kemajuan
+teknologi di segala bidang. Kemajuan teknologi yang sudah sedemikian rupa
+
+1
+
+2
+
+mempengaruhi kehidupan manusia, dapat menimbulkan resiko yang lebih luas.1
+Saat ini keberadaan asuransi tidak lagi dipandang sebagai sesuatu hal yang asing.
+Keberadaan asuransi mempunyai kedudukan yang penting di dalam kegiatan
+perekonomian masyarakat.
+Pada hakekatnya manusia hidup untuk mencapai suatu kesejahteraan.
+Namun dalam pencapaian kesejahateraan tersebut manusia tidak terlepas dari
+permasalahan yang dihadapinya. Bahkan dalam Undang-Undang Dasar Negara
+Republik Indonesia tahun 1945 mengenai kesejahteraan warga Negara Indonesia
+juga telah diatur. Dengan demikian dapat disimpulkan bahwa Pemerintah akan
+berusaha semaksimal mungkin untuk mensejahterakan warga negaranya, sebagai
+salah satu contoh adalah dengan adanya asuransi sosial/pemerintah yang
+dilaksanakan oleh pemerintah.
+Asuransi pemerintah dapat bersifat sukarela atau wajib. Bila wajib disebut
+asuransi sosial. Asuransi memberikan sumbangan kepada masyarakat dengan
+memperbaiki pemerataan faktor-faktor produksi, ikut terjun dalam kegiatankegiatan pencegahan kerugian, mengganti kerugian-kerugian merupakan dasar
+bagi struktur kredit, membasmi kekhawatiran, dan menyediakan saluran untuk
+dana-dana yang dapat diinvestasikan. 2
+Pemerintah dalam menanggulangi kerugian yang menimpa korban
+kecelakaan lalu lintas telah membentuk suatu perusahaan Negara yang bergerak
+
+1
+2
+
+Sri Redjeki Hartono, Hukum Asuransi dan Perusahaan Asuransi,Sinar Grafika, Jakarta, 2001, hal. 5
+Hasymi Ali, Pengantar AsuransiI, Bumi Aksara, Jakarta, 1993, hal 18
+
+3
+
+didalam bidang asuransi sosial yaitu PT Jasa Raharja (persero). PT Jasa Raharja
+(Persero) dalam menjalankan program asuransi sosial yaitu menyelenggarakan
+Dana Pertanggungan Wajib Kecelakaan Penumpang sebagaimana diatur dalam
+Undng-Udang Nomor 33 Tahun 1964 Tentang Dana Pertanggungan Wajib
+Penumpang dan Undang-Undang Nomor 34 Tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas.
+PT. Jasa Raharja (Persero) adalah lembaga yang bergerak dibidang asuransi
+didalam kegiatannya adalah dengan menerima iuran dan sumbangan wajib dari
+pemilik/pengusaha angkutan umum dan penumpang angkutan umum kemudian
+menyalurkannya kembali melalui dana santunan kecelakaan jasa raharja. Dengan
+demikian kedudukan PT. Jasa Raharja (Persero) sangatlah penting dalam upaya
+memberikan jaminan dan perlindungan terhadap korban/ahli waris korban
+kecelakaan lalu lintas di jalan raya. PT Jasa Raharja (Persero) tidak hanya
+menerima iuran dan sumbangan wajib, untuk selanjutnya menyalurkan kepada
+pihak korban atau ahli waris korban saja, namun diharapkan mampu memberikan
+jaminan keselamatan di jalan raya kepada setiap pemakai sarana jalan raya.
+PT. Jasa Raharja (Persero) merupakan salah Perusahaan Negara dibawah
+pengawasan Kementrian Keuangan Republik Indonesia. PT. Jasa Raharja
+(Persero) adalah perusahaan asuransi sosial yang paling bertanggung jawab atas
+asuransi kecelakaan lalu lintas di jalan raya. Dana santunan tersebut berasal dari
+iuran wajib dan sumbangan wajib. Iuran wajib dikutip atau dikenakan kepada
+penumpang alat transportasi umum seperti kereta api, pesawat terbang, bus dan
+
+4
+
+sebagainya. Sedangkan khusus penumpang kendaraan bermotor umum di dalam
+kota dan kereta api jarak pendek (kurang dari 50 km) dibebaskan dari pembayaran
+iuran wajib tersebut. Sumbangan wajib dikutip atau dikenakan kepada
+pemilik/pengusaha kendaraan bermotor, oleh karena itu dilakukan kerjasama yang
+baik dengan berbagai pihak dalam upaya meningkatkan kesadaran masyarakat
+dalam membayar iuran dan sumbangan wajib.
+Untuk iuran wajib setiap penumpang yang akan menggunakan alat
+transportasi umum membayarkan iuran wajib yang disatukan dengan ongkos
+angkut pada saat membeli karcis atau membayar tarif angkutan dan pengutipan ini
+dilakukan oleh masing-masing pengelola alat transportasi tersebut. Sedangkan
+untuk pembayaran sumbangan wajib dilakukan secara periodik di Kantor Samsat
+pada saat pendaftaran atau perpanjangan Surat Tanda Nomor Kendaraan.
+Dalam prakteknya PT. Jasa Raharja (Persero) tidak dapat berdiri sendiri,
+keberadaannya membutuhkan institusi yang lain untuk mendukung keberadaan PT
+Jasa Raharja (Persero) ini. Institusi yang dimaksud adalah Kepolisian Republik
+Indonesia dibantu oleh pemerintah kota/pemerintah kabupaten. Kerja sama PT
+Jasa Raharja (Persero) dengan Polri dan pemerintah Kota/kabupaten merupakan
+sebagai suatu upaya untuk menekan resiko tingkat kecelakaan lalu lintas di jalan
+raya dan sebagai sarana untuk menumbuhkembangkan kesadaran pemilik
+kendaraan bermotor dan pengguna/pemilik angkutan umum untuk taat membayar
+iuran wajib/sumbangan wajib.
+
+5
+
+Namun demikian masih banyak ditemukan hambatan dalam proses
+kepengurusan hak atas santunan kecelakaan lalu lintas tersebut. Selain itu masih
+banyak juga beragam penafsiran yang salah mengenai keberadaan PT Jasa Raharja
+(Persero) yang ada di dalam masyarakat. Serta masih berkurangnya usaha dari PT
+Jasa Raharja untuk melakukan sosialisasi terhadap masyarakat mengenai dana
+santunan kecelakaan lalu lintas.
+Berawal dari beberapa persoalan tersebut diatas maka penulis berusaha
+mencari tahu, sejauh mana pemberian dana santunan terhadap korban kecelakaan
+lalu lintas oleh PT. Jasa Raharja (Persero) Perwakilan Madiun. Hal ini didukung
+dengan kenaikan jumlah peristiwa kecelakaan lalu lintas di Kota Madiun, yaitu
+118 jumlah peristiwa kecelakaan lalu lintas pada tahun 2010 dan 164 jumlah
+peristiwa kecelakaan pada tahun 2011 3. Dapat dikatakan bahwa kenaikan volume
+kecelakaan sebesar 38,9%, itupun merupakan kecelakaan yang didapat dari data
+Unit Kecelakaan Lalu Lintas Kepolisian Resort Madiun Kota, belum lagi kejadian
+kecelakaan lalu lintas yang tidak terdata di kepolisian.
+Sesungguhnya masih banyak hal-hal yang tidak diketahui mengenai asuransi
+terhadap kecelakaan lalu lintas di jalan raya oleh PT Jasa Raharja (Pesero)
+Perwakilan Madiun sehingga disini penulis merasa perlu dan tertarik untuk
+meneliti melalui skripsi ini, disamping itu masih banyak masyarakat awam yang
+tidak/belum mengetahui peranan dari PT Jasa Raharja (Persero). Mudah-mudahan
+
+3
+
+Hasil wawancara dengan kepala unit kecelakaan lalu lintas polres madiun kota ipda sujarwo, S.H
+tanggal 31 januari 2012 di Madiun
+
+6
+
+melalui penulisan skripsi yang singkat ini dapat memberikan sedikit pemahaman
+tentang asuransi kecelakaan lalu lintas oleh PT Jasa Raharja (Persero) Perwakilan
+Madiun.
+
+B. Perumusan Masalah
+1. Bagaimanakah implementasi Pasal 4 Undang-Undang Nomor 34 Tahun 1964
+Tentang Dana Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan mengenai
+pemberian dana santunan korban kecelakaan lalu lintas oleh PT. Jasa Raharja
+(Persero) Perwakilan Madiun?
+2. Apa saja faktor penghambat dari implementasi Pasal 4 Undang-Undang Nomor
+34 Tahun 1964 Tentang Dana Pertanggungan Wajib Kecelakaan Lalu Lintas
+Jalan mengenai pemberian dana santunan korban kecelakaan lalu lintas oleh
+PT. Jasa Raharja (Persero) Perwakilan Madiun?
+3. Apa saja upaya yang dapat dilakukan untuk mengatasi faktor penghambat dari
+implementasi Pasal 4 Undang-Undang Nomor 34 Tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan mengenai pemberian dana
+santunan korban kecelakaan lalu lintas oleh PT. Jasa Raharja (Persero)
+Perwakilan Madiun?
+
+7
+
+C. Tujuan Penelitian
+1. Untuk mengetahui dan mendeskripsikan PT. Jasa Raharja Perwakilan Madiun
+dalam melaksanakan tugasnya untuk menyalurkan dana santunan kecelakaan
+lalu lintas apakah telah sesuai dengan Pasal 4 Undang-Undang Nomor 34
+Tahun 1964 Tentang Dana Pertanggungan Wajib Kecelakaan Lalu Lintas.
+2. Untuk mengetahui dan mendeskripsikan mengenai faktor penghambat yang
+dialami dalam implementasi Pasal 4 Undang-Undang Nomor 34 Tahun 1964
+Tentang Dana Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan mengenai
+pemberian dana santunan korban kecelakaan lalu lintas oleh PT. Jasa Raharja
+(Persero) Perwakilan Madiun baik berasal dari PT Jasa Raharja (persero)
+Perwakilan Madiun, korban kecelakaan lalu lintas, ataupun pihak terkait
+lainnya.
+3. Untuk mengetahui serta menganalisis secara kritis mengenai upaya yang dapat
+dilaksanakan untuk mengatasi faktor penghambat dari implementasi Pasal 4
+Undang-Undang Nomor 34 Tahun 1964 Tentang Dana Pertanggungan Wajib
+Kecelakaan Lalu Lintas Jalan mengenai pemberian dana santunan korban
+kecelakaan lalu lintas oleh PT. Jasa Raharja (Persero) Perwakilan Madiun
+
+D. Manfaat Penelitian
+1. Manfaat Teoritis
+Penelitian yang dilakukan ini diharapkan dapat memberikan sumbangan
+pemikiran, masukan, serta solusi bagi pengembangan ilmu pengetahuan pada
+
+8
+
+umumnya dan ilmu hukum pada khususnya. Dapat memberikan bahan-bahan
+dan materi kajian ilmu hukum khususnya hukum asuransi, hukum perusahaan,
+serta sosiologi hukum. Serta dapat memberikan jawaban terhadap permasalahan
+yang sedang diteliti.
+2. Manfaat Praktis
+a. Bagi penulis
+Menambah wawaan mengenai penerapan teori hukum asuransi, hukum
+perusahaan, serta sosiologi hukum terhadap pemberian dana santunan
+terhadap korban kecelakaan lalu lintas di jalan raya oleh pihak PT Asuransi
+Jasa Raharja Perwakilan Madiun. Serta bertujuan memperoleh gelar sarjana
+hukum strata-I di Fakultas Hukum Universitas Brawijaya.
+b. Bagi Akademisi
+Dengan adanya penelitian ini dimaksudkan dapat menjadi salah satu
+referensi terhadap mahasiswa lain apabila akan mengkaji terhadap suatu
+permasalahn yang sama.
+c. Bagi Pihak PT. Jasa Raharja (Persero) Perwakilan Madiun
+Sebagai salah satu tolak ukur bagi pihak PT Asuransi Jasa Raharja
+(Persero) Perwakilan Madiun terhadap penyaluran dana korban kecelakaan
+lalu lintas di jalan raya. Dapat dipakai sebagai masukan mengenai sejauh
+mana implementasi penyaluran dana santunan kecelakaan lalu lintas oleh PT
+Jasa Raharja Perwakilan Madiun.
+
+9
+
+d. Bagi Pihak Kepolisian
+Penelitian ini diharapkan sebagai masukan bagi penentu kebijakan
+utama yaitu para Kasat Lantas disetiap Kepolisian Resor (Kabupaten/Kota)
+dalam memberikan pelayanan terhadap masyarakat.
+e. Bagi Korban Kecelakaan Lalu Lintas
+Sebagai sarana informsi terhadap korban kecelakaan lalu lintas di jalan
+raya bahwa tedapat suatu lembaga yang berfungsi untu membantu
+memberikan dana santunan terhadap korban kecelakaan lalu lintas.
+
+E. Sistematika Penulisan
+Untuk mempermudah pemahaman keseluruhan hasil penelitian ini, maka
+penulis menyusun skripsi ini secara sistematis yang secara garis besar diuraikan
+sebagai berikut :
+BAB I : PENDAHULUAN
+Dalam bab pendahuluan diuraikan tentang latar belakang, rumusan masalah,
+tujuan penelitian, manfaat penelitian.
+BAB II : KAJIAN PUSTAKA
+Pada bab ini diuraikan mengenai kajian pustaka yang menunjang seperti teori,
+doktrin, pendapat para ahli, ketentuan perundang-undangan yang akan digunakan
+penulis untuk mendukung analisa permasalahan yang akan diteliti.
+BAB III : METODE PENELITIAN
+
+10
+
+Dalam bab ini diuraikan tentang metode pendekatan, pemilihan lokasi penelitian,
+jenis sumber data, responden penelitian, teknik pengumpulan data, metode
+analisis.
+BAB IV : PEMBAHASAN
+Dalam bab ini akan diuraikan tentang hasil penelitian dan pembahasan tentang
+bagaimana pemberian dana santunan terhadap korban kecelakaan lalu lintas di
+jalan raya menurut Pasal 4 Undang-Undang Nomor 33 Tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas serta beberapa hambatan yang di
+alami ketika undang-undang tersebut mulai diberakukan.
+BAB V : PENUTUP
+Bab penutup berisi kesimpulan dan saran sehubungan dengan permasalahan yang
+akan diangkat dalam penulisan skripsi ini yang diambil dari hasil pembahasan
+secara keseluruhan
+
+11
+
+BAB II
+TINJAUAN PUSTAKA
+
+A. Tinjauan Umum Tentang Asuransi
+1. Pengertian asuransi
+Asuransi merupakan salah satu dari buah peradaban manusia dan
+merupakan suatu hasil evaluasi kebuthan manusia dan merupakan suatuhasil
+evaluasi kebutuhan manusia yang sangat hakiki adalah kebutuhan akan rasa
+aman dan terlindung, terhadap kemungkinan menderita kerugian. Asuransi
+merupakan buah pikiran dan akal budi manusia untuk mencapai suatu keadaan
+yang dapat memenuhi kebutuhannya, terutama sekali untuk kebutuhankebutuhannya yang hakiki sifatnya antara lain rasa aman dan terlindung
+seperti yang dimaksud diatas 4.
+Di
+
+Indonesia,
+
+untuk istilah asuransi sering digunakan istilah
+
+pertanggungan, kedua istilah ini mengikuti istilah dalam bahasa Belanda,
+Yaitu assurantie (asuransi) dan verzekering (pertanggungan). Pertanggungan
+atau asuransi di Indonesia dapat dikatakan berasal dari hukum barat,
+khususnya belanda 5.
+Menurut Undang-Undang Nomor 2 Tahun 1992 tentang Usaha
+Perasuransian, pengertian asuransi atau adalah perjanjian antara dua belah
+
+4
+5
+
+Sri Redjeki Hartono, Op.Cit, hal. 5
+Hasymi Ali, Op.Cit, hal 18
+
+11
+
+12
+
+pihak atau lebih, dengan mana pihak penanggung mengikatkan diri kepada
+tertanggung,
+
+dengan
+
+menerima
+
+premi
+
+asuransi,
+
+untuk
+
+memberikan
+
+penggantian kepada tertanggung karena kerugian, kerusakan, atau kehilangan
+keuntungan yang diharapkan, atau tanggung jawab hukum kepada pihak
+ketiga yang mungkin akan diderita tertanggung, yang timbul dari suatu
+peristiwa yang tidak pasti, atau untuk memberikan suatu pembayaran yang
+didasarkan atas meninggal atau hidupnya seseorang yang dipertanggungkan 6.
+Asuransi atau pertanggungan, pengertian yuridisnya dapat ditemui
+dalam pasal 246 KUHD yang memberikan batasan sebagai berikut,’’ Asuransi
+adalah suatu persetujuan dimana penanggung berjanji pada tertanggung untuk
+membayar sejumah kerugian yang telah disepakati bila terjadi suatu
+kerusakan, kerugian, atau kehilangan keuntungan itu, disebabkan leh sesuatu
+peristiwa yang belum tentu terjadi”. 7
+Dari penjelasan pasal 246 KUHD diatas Prof. Emmy Paangaribuan
+selanjutnya menjabarkan lebih lanjut bahwa perjanjian asuransi atau
+pertanggungan itu mempunyai sifat-sifat sebagai berikut 8 :
+a. Perajanjian asuransi atau pertanggungan pada asasnya adalah suatu
+perjanjian penggantian kerugian. Penanggung mengikatkan diri untuk
+menggantikan kerugian karena pihak tertangung menderita kerugian
+6
+
+Republik Indonesia, ” Undang-Undang Nomor 2 Tahun 1992 tentang Usaha Perasuransian, Bab I,
+Pasal 1
+7
+C.S.T Kansil dan Christine S.T. Kansil, Pokok-Pokok Pengetahuan Hukum Dagang Indonesia, Sinar
+Grafika, Jakarta, 2002, hal 178
+8
+Sri Redjeki Hartono, Op.Cit, hal. 84
+
+13
+
+dan yang diganti itu adalah seimbang dengan kerugian yang
+sungguh-sungguh diderita (prinsip indemnitas).
+b. Perjanjian asuransi atau pertanggungan adalah perjanjian bersyarat.
+Kewajiban mengganti rugi dari penanggung hanya dilaksanakan
+kalau
+
+peristiwa
+
+yang
+
+tidak
+
+tertentu
+
+atas
+
+mana
+
+diadakan
+
+pertanggungan itu terjadi.
+c. Perjanjian asuransi atau pertanggungan adalah perjanjian timbal
+balik. Kewajiban penanggung mengganti rugi diharapkan dengan
+kewajiban tertangung membayar premi.
+d. Kerugian yang diderita adalah sebagai akibat dari peristiwa yang
+tidak tertentu atas mana diadakan pertanggungan.
+Disamping itu Prof. P.L Wery, dalam bukunya Hoofzaken van het
+verzekeringsrecht lebih lanjut mengatakan bahwa dari batasan pasal 246 KUH
+Dagang Indonesia, yang sama dengan pasal 246 juga dari Wetboek van
+Koephandel menyimpulkan bahwa pasal tersebut mengandung tiga sifat
+pokok dari perjanjian suransi atau pertanggungan sebagai berikut 9 :
+a. Asuransi pada dasarnya merupakan kontrak atau perjanjian ganti
+kerugian atau kontrak indemnitas pihak yang satu (penanggung)
+mengingat dirinya terhadap pihak yang lain (pengambil asuransi atau
+tertanggung) untuk mengganti kerugian yang munkin diserita
+olehnya.
+9
+
+P.L. Wery, Hoofzaken van het verzekeringsrecht (Deveter: Kluwer B.V. 1984) hal 7 dan seterusnya.
+
+14
+
+b. Asuransi merupakan perjanjian bersyarat, dalam arti bahwa
+penanggung mengganti kerugian pihak tertanggung ditentukan atau
+tertanggung pada peristiwa yang tidak dapat dipastikan lebih dahulu.
+c. Asuransi merupakan perjanjian timbal balik. Dan penanggung
+terdapat ikatan bersyarat terhadap tertanggung untuk membayar ganti
+rugi, tetapi sebaliknya dari sisi tertanggung terdapat ikatan tidak
+bersyarat untuk membayar premi.
+
+2. Pengaturan Tentang Asuransi
+a. Pengaturan Dalam KUHD
+Didalam KUHD ada 2 cara pengaturan asuransi yaitu pengaturan
+yang bersifat umum dan pengaturan yang bersifat khusus. Pengaturan
+ynag bersifat umum terdapata dalam Buku I Bab 9 pasal 246- pasal 286
+KUHD yang berlaku bagi semua jenis asuransi. Pengaturan yang
+bersifat khusus terdapat dalam Buku I Bab 10 pasal 287-pasal 308
+KUHD dan Buku II Bab 9 dan Bab 10 pasal 592-dan pasal 695 KUHD,
+dengan rician sebagai berikut ;
+1) Asuransi Kebakaran Pasal 287-298 KUHD
+2) Asuransi Hasil Pertanian Pasal 299-301 KUHD
+3) Asuransi jiwa Pasal 302-308 KUHD
+
+15
+
+4) Asuransi pengangkutan laut dan perbudakan Pasal 592-685
+KUHD
+5) Asuransi pengangkutan darat, sungai dan perairan pedalaman
+Pasal 686-695 KUHD
+Pengaturan asuransi dalam Kitab Undang-undang Hukum Dagang
+(KUHD) mengutamakan segi keperdataan yang didasarkan pada
+perjanjian antara tertanggung dan penanggung. Perjanjian tersebut
+menimbulkan kewajiban dan hak tertanggung dan penanggung secara
+bertimbal balik, sebagai perjanjian khusus asuransi dibuat secara tertulis
+dalam bentuk akta yang disebut polis asuransi.
+b. Pengaturan Dalam Undang-Undang Nomor 2 Tahun 1992 Tentang
+Usaha Perasuransian
+c. Dalam Undang-undang ini lebih mengutamakan pengaturan asuransi
+dari segi bisnis dan public administratif, yang jika dilanggar akan
+dikenakan sanksi pidana dan administratif. Pengaturan usaha
+perasurasian dalam Undang-Undang Nomor. 2 tahun 1992 Tentang
+Usaha Perasuransian terdiri dari 13 Bab dan 28 pasal, dengan riciannya
+sebagai berikut :
+1) Bidang usaha perasuransian,
+2) Jenis usaha peransurasian,
+3) Perusahaan perasuransian,
+4) Bentuk hukum usaha perasuransian,
+
+16
+
+5) Kepemilikan perusahaan perasuransian,
+6) Perizinan usaha pearsuransian oleh Menteri Keuangan,
+7) Pembinaan dan pengawasan terhadap usaha perasuransian
+oleh Mentri Keuangan,
+8) Kepailitan dan likuidasi Perusahaan asuransi menurut
+pengadilan Niaga,
+9) Ketentuan sanksi pidana dan administratif.
+
+3. Obyek Perjanjian Asuransi
+Obyek Asuransi adalah semua kepentingan yang menurut sifat dan
+macamnya dapat terancam bahaya oleh suatu peristiwa yang tidak pasti dan
+dapat menimbulkan kerugian yang dapat dinilai dengan uang 10. Terlebih dahulu
+kita akan melihat pasal 268 KUHD, dimana di dalam pasal tersebut dikatakan
+tentang hal-hal yang dapat menjadi objek asuransi, ialah semua kepentingan
+yang : 11
+a. Dapat dinilai dengan jumlah uang ( op geld waar deerbaar )
+b. Dapat takluk pada macam-macam bahaya ( aan gevaar on derhevig )
+c. Tidak dikecualikan oleh undang-undang.
+
+4. Pihak-Pihak Dalam asuransi
+10
+
+Republik Indonesia, ” Undang-Undang Nomor 2 Tahun 1992 tentang Usaha Perasuransian, Bab I,
+Pasal 1
+11
+Djoko prakoso, Op.Cit, hal 83
+
+17
+
+Di dalam pasal 1313 KUH Perdata dinyatakan bahwa: “suatu
+persetujuan adalah suatu perbuatan dengan mana satu orang atau lebih
+mengikatkan dirinya terhadap satu orang lain atau lebih”. Jadi, dalam tiap-tiap
+persetujuan selalu ada dua macam subyek hukum yaitu di satu pihak seorang
+atau suatu badan hukum yang mendapat beban kewajiban untuk melakukan
+sesuatu dan di lain pihak ada seorang atau badan hukum yang mendapat hak
+atas pelaksanaan kewajiban itu. Oleh karena itu di dalam setiap perjanjian
+selalu ada pihak berkewajiban dan pihak berhak. 12
+Lain halnya dalam suatu persetujuan seperti asuransi yang merupakan
+perjanjian timbal balik (wederkering overeenkomst), dimana satu pihak tidak
+selalu menjadi pihak yang berhak, melainkan dari sudut lain mempunyai
+beban kewajiban juga terhadap pihak yang lain, yang dengan demikian tidak
+selalu menjadi pihak berwajib melainkan menjadi pihak yang berhak pula
+terhadap kewajiban dari pihak pertama yang harus dilaksanakan 13. yang
+disebut sebagai Penanggung dan Tertanggung di dalam perjanjian asuransi.
+Subyek hukum dalam asuransi adalah sebagai berikut:
+a. Pihak Penanggung
+Penanggung adalah pihak terhadap siapa diperalihkan risiko
+yang seharusnya dipikul sendiri oleh tertanggung karena menderita
+kerugian sebagai akibat dari suatu peristiwa yang tidak tertentu.
+
+12
+13
+
+Djoko prakoso, Idem, hal 102
+Djoko Prakoso, Op.Cit, hal 102
+
+18
+
+Risiko ini hanya diperalihkan kepadanya berdasarkan adanya premi
+yang juga dinikmatinya, jadi pihak penanggung mengikatkan dirinya
+untuk menanggung risiko apabila ia menikmati suatu premi.
+b. Pihak Tertanggung
+Pihak tertanggung adalah orang-orang yang berkepentingan
+dalam
+
+mengadakan
+
+perjanjian
+
+asuransi
+
+sebagai
+
+pihak
+
+yang
+
+berkewajiban untuk membayar premi kepada penanggung, sekaligus
+atau berangsur-angsur. Dengan tujuan akan mendapat penggantian
+suatu kerugian yang mungkin akan ia derita sebagai akibat dari suatu
+peristiwa yang semula belum tentu terjadi. tertanggung dapat
+berstatus sebagai perseorangan, persekutuan atau badan hokum dan
+harus pihak yang berkepentingan atas obyek yang diasuransikan.
+
+5. Tujuan Asuransi
+Perjanjian asuransi itu mempunyai tujuan untuk mengganti kerugian
+pada tertanggung, jadi tertanggung harus dapat menunjukkan bahwa dia
+menderita kerugian dan benar-benar menderita kerugian. 14
+Menurut Emmy Pangaribuan Simanjuntak, asuransi itu mempunyai
+tujuan pertama-tama ialah : mengalihkan segala risiko yang ditimbulkan
+peristiwa-peristiwa yang tidak dapat diharapkan terjadinya itu kepada orang
+
+14
+
+Djoko Prakoso, Op. Cit, hal 9
+
+19
+
+lain yang mengambil risiko itu untuk mengganti kerugian. 15 Menurut
+
+C.S.T.
+
+Kansil, auransi mempunyai tujuan sebagai berikut: 16
+a. Apabilaperusahaan/perorangan menderita satu musibah yang telah
+ditentukan dalam suatu persetujuan atau kejadian kerugian yang
+dideritanya maka ada yang menanggung,
+b. Tanggung jawab perusahaan/perorangan itu kepada phak ketiga
+seolah-ola dipikulkan pada pihak penanggung.
+Dengan demikian tujuan pokoknya adalah untuk memperkecil resiko
+yang harus dihadapi tertanggung apabila terjadi peristiwa yang merugikan
+tertanggung (perusahaan/perorangan). Atau dengan lain perkataan, tujuan
+hokum dan tujuan ekonominya adalah pembagian resiko atau pemndahan
+resiko.
+
+B. Tinjauan Umum Tentang Pertanggungan Wajib/Sosial
+Pertanggungan wajib disebutkan juga sebagai pertanggungan orang karena
+oleh karena obyek pertanggungan itu adalah orang, sedangkan disebut
+pertanggungan jumlah oleh karena ganti rugi yang akan diterima oleh karena ganti
+rugi yang akan diterima oleh tertanggung sudah ditentukan jumlahnya
+sebelumnya, jadi tidak sejumlah kerugian yang diderita. Disebutkan juga sebagai
+social insurance atau pertanggungan sosial oleh karena tujuan mewajibkan atau
+15
+
+Emmy Pangaribuan Simanjuntak, Hukum Pertanggungan (Pokok-pokok Kerugian,Kebakaran dan
+Jiwa), Yogyakarta : Seksi Hukum Dagang Fakultas Hukum Universitas Gajah Mada, 1975, hal 5.
+16
+C.S.T Kansil dan Christine S.T. Kansil, Op. Cit, hal 1
+
+20
+
+mengadakan pertanggungan itu adalah untuk memberkan jaminan sosial tertentu
+bagi anggota masyarakat. 17
+Dalam hubungan hukum pertanggungan wajib, sebab hubungan hokum
+antara pembayar iuran atau pemi dan pemerintah sebagai penanggung adalah
+diciptakan oleh undang-undang. Di dalam hubungan hokum itu terdapat suatu
+unsure wajib yang dibebankan kepada salah satu pihak oleh pihak lain tanpa
+memperhatikan persesuaian kehendaknya. 18
+Menurut Undang-undang Nomor 40 tahun 2004 tentang Sistem Jaminan
+Sosial Nasional Asuransi sosial adalah merupakan suatu mekanisme pengumpulan
+dana yang bersifat wajib yang berasal dari iuran guna memberikan perlindungan
+atas resiko sosial ekonomi yang menimpa peserta dan/atau anggota keluarganya.
+Menurut Undang-undang Nomor 2 tahun 1992 tentang Usaha Perasuransian
+Program asuransi Sosial hanya dapat dilaksanakan oleh badan usaha milk negara.
+Program asuransi sosial betujuan untuk memberikan perlindungan dasar bagi
+kesejahteraan masyarakat.
+Penyelenggaraan asuransi sosial biasanya merupakan suatu organisasi di
+bawah wewenang dan pengawasan negara. Jadi dalam hal ini negara
+berkedudukan sebagai penanggung sekaligus sebagai penguasa dan pengelola
+dana. Dengan demikian fungsi sosial dari asuransi sosial nampak jelas, yaitu di
+satu pihak asuransi ini menuju ke satu sistem jaminan sosual ialah untuk
+17
+
+Emmy Pangaribuan Simanjuntak, Pertanggungan wajib/social undang-undang no 33 dan 34 tahun
+1964,, Yogyakarta : Seksi Hukum Dagang Fakultas Hukum Universitas Gajah Mada, 1973, hal 8.
+18
+Emmy Pangaribuan Simanjuntak, Ibid., hal 3.
+
+21
+
+kesejahteraan masyarakat dan di lain pihak dana yang terkumpul dan yang
+dikuasai negara itu akan kembali lagi kepada masyarakat.
+Dalam melihat undang-undang nomor 34 tahun 1964 semua tergantung
+kepada kita, apakah kita menitik beratkan dari sudut atau unsur persesuaian
+kehendak sehingga kita menyabutnya pertanggungan wajib, ataukah kita
+memandangnya dari sudut “tujuan” yaitu untuk jaminan sosial, sehingga kita
+menyebutnya pertanggungan sosial (Social Insurance) 19.
+
+C. Tinjauan Umum Tentang Korban Kecelakaan Lalu Lintas
+Pembahasan tentang korban penting diberikan untuk membantu menentukan
+secara jelas batas-batas yang dimaksud oleh pengertian tersebut sehingga
+diperoleh kesamaan pandangan. Beberapa pendapat yang dikemukakan oleh para
+ahli mengenai definisi korban adalah sebagai berikut :
+1. Menurut Arief Gosita, korban adalah “mereka yang menderita jasmaniah
+dan rohaniah sebagai akibat tindakan orang lain yang mencari pemenuhan
+kepentingan diri sendiri atau orang lain yang bertentangan dengan
+kepentingan diri sendiri atau kepentingan hak asasi pihak yang
+dirugikan” 20
+2. Muladi menyatakan bahwa korban adalah orang-orang yang baik secara
+individual maupun kolektif telah menderita kerugian, termasuk kerugian
+
+19
+20
+
+Emmy Pangaribuan Simanjuntak, Ibid., hal7.
+Arief Gosita, Masalah Korban Kejahatan, Akademika Pressisndo, 1993, hal. 63
+
+22
+
+fisik atau mental, emosional, ekonomi atau ganguan substansial terhadap
+hak-haknya yang fundamental, melalui suatu perbuatan atau komisi yang
+melanggar
+
+hukum
+
+pidana
+
+di
+
+masing-masing
+
+negara,
+
+termasuk
+
+penyalahgunaan kekuasaan. 21
+Dalam melakukan suatu analisa mengenai kecelakaan lalu lintas,memang
+diperlukan pengetahuan mengenai definisi kecelakaan. Kecelakaan disini
+mempunyai pengertian menjatuhi tubuh seseorang oleh suatu peristiwa yang
+datangnya dari luar secara tiba-tiba dan kejam 22. Kecelakaan merupakan suatu
+kejadian yang tidak disengaja dan tidak terkendali yang menyebabkan adanya
+suatu kerugian.
+Korban pada dasarnya tidak hanya orang-perorangan atau kelompok yang
+secara langsung menderita akibat dari perbuatan-perbuatan yang menimbulkan
+kerugian/penderitaan bagi diri/kelompoknya, bahkan lebih luas lagi termasuk di
+dalamnya keluarga dekat atau tanggungan langsung dari korban dan orang-orang
+yang mengalami kerugian ketika membantu korban mengatasi penderitaannya.
+Menurut Peraturan Pemerintah Republik Indonesia nomor 43 tahun 1993
+tentang Prasarana dan lalu Lintas Jalan, definisi Kecelakaan lalu lintas adalah
+suatu peristiwa di jalan yang tidak dapat diperkirakan sebelumnya dan tidak
+
+21
+22
+
+Muladi, HAM dalam Perspektif Sistem Peradilan Pidana, Refika Aditama, Bandung, 2005, hal. 108
+Djoko Prakoso, Op.it, hal 272
+
+23
+
+sengaja melibatkan kendaraan dengan atau tanpa pemakai jalan lainnya, sehingga
+mengakibatkan korban jiwa atau kerugian harta benda lainnya 23.
+Ada tiga faktor utama yang menyebabkan terjadikanya kecelakaan, pertama
+adalah faktor manusia, kedua adalah faktor kendaraan dan yang terakhir adalah
+faktor infrastruktur. Kombinasi dari ketiga faktor itu bisa saja terjadi, antara
+manusia dengan kendaraan misalnya berjalan melebihi batas kecepatan yang
+ditetapkan kemudian ban pecah yang mengakibatkan kendaraan mengalami
+kecelakaan. Disamping itu masih ada faktor lingkungan, cuaca yang juga bisa
+berkontribusi terhadap kecelakaan.
+
+D. Tinjauan Umum Tentang Dana Santunan Kecelakaan Lalu Lintas Jalan
+1. Ruang Lingkup Pemberian Dana Pertanggungan Kecelakaan Lalu Lintas
+Jalan
+Dalam hal ini ruang lingkup pemberian dana santunan kecelakaan lalu
+lintas jalan merupakan ruang lingkup yang terdapat dalam Undang-Undang
+Repubik Indonesia Nomor 34 Tahun 1964 Jo Peraturan Pemerintah Nomor 18
+Tahun 1965. Tidak semua pihak yang mendapat kerugian akibat terjadinya
+kecelakaan lalu lintas di jalan dapat menuntut haknya untuk mendapatkan dana
+pertanggungan kecelakaan dari pihak PT. Jasa Raharja (Persero).
+
+23
+
+Republik Indonesia, ” Undang-Undang Nomor 2 nomor 43 tahun 1993 tentang Prasarana dan lalu
+Lintas Jalan, Bab XI, Pasal 93
+
+24
+
+Ruang Lingkup pemberian dana pertanggungan korban kecelakaan lalu
+lintas menurut Undang-Undang repubik Indonesia Nomor 34 Tahun 1964 Jo
+Peraturan Pemerintah Nomor 18 tahun 1965 yaitu :
+a. Korban Yang Berhak Atas Santunan, adalah pihak ketiga yaitu :
+1) Setiap orang yang berada di luar angkutan lalu lintas jalan yang
+menimbulkan kecelakaan yang menjadi korban akibat kecelakaan
+dari penggunaan alat angkutan lalu lintas jalan tersebut, contoh :
+Pejalan kaki ditabrak kendaraan bermotor
+2) Setiap orang atau mereka yang berada di dalam suatu kendaraan
+bermotor dan ditabrak, dimana pengemudi kendaran bermotor
+yang ditumpangi dinyatakan bukan sebagai penyebab kecelakaan,
+termasuk dalam hal ini para penumpang kendaraan bermotor dan
+sepeda motor pribadi
+b. Tabrakan Dua atau Lebih Kendaraan Bermotor
+1) Apabila dalam laporan hasil pemeriksaan Kepolisian dinyatakan
+bahwa pengemudi yang mengalami kecelakaan merupakan
+penyebab terjadinya kecelakaan, maka baik pengemudi mapupun
+penumpang kendaraan tersebut tidak terjamin dalam UU No
+34/1964 jo PP no 18/1965.
+2) Apabila dalam kesimpulan hasil pemeriksaan pihak Kepolisian
+belum diketahui pihak-pihak pengemudi yang menjadi penyebab
+kecelakaan dan atau dapat disamakan kedua pengemudinya sama-
+
+25
+
+sama sebagai penyebab terjadinya kecelakaan, pada prinsipnya
+sesuai dengan ketentuan UU No 34/1964 jo PP No 18/1965
+santunan belum daat diserahkan atau ditangguhkan sambil
+menunggu Putusan Hakim/Putusan Pengadilan.
+c. Kasus Tabrak Lari
+d. Kecelakaan Lalu Lintas Jalan Kereta Api
+1) Berjalan kaki di atas rel atau jalanan kereta api dan atau
+menyebrang sehingga tertabrak kereta api serta pengemudi/
+penumpang kendaraan bermotor yang mengalami kecelakaan
+akibat lalu lintas perjalanan kerata api, maka korban terjamin UU
+No 34/1964
+2) Pejalan kaki atau pengemudi/penumpang kendaraan bermotor
+yang dengan sengaja menerobos palang pintu kereta api yang
+sedang difungsikan sebagaimana lazimnya kerata api akan lewat ,
+apabila tertabrak kereta api maka korban tidak terjamin oleh UU
+No 34/1964
+
+2. Besaran Dana Santunan Kecelakaan Lalu Lintas Jalan
+Besaran santunan terhadap korban kecelakaan lalu lintas di jalan raya
+selalu mendapat sorotan dan kajian yang mendalam dari pihak PT Jasa Raharja
+(Persero). Hal ini dibuktikan dengan kenaikan besaran santunan terhadap
+korban kecelakaan lalu lintas pada tahun 2008, maka pemerintah merespon
+
+26
+
+keinginan dan kondisi yang ada di masyarakat selama ini untuk menyesuaikan
+nilai manfaat santunan Jasa Raharja dengan menerbitkan Peraturan Menteri
+Keuangan RI Nomor 36/PMK.010/2008 tanggal 26 Februari 2008 tentang
+Besaran Santunan dan Sumbangan Wajib Dana Kecelakaan Lalu Lintas Jalan
+(SWDKLJJ) dan Nomor 37/PMK.010/2008 tanggal 26 Februari 2008 tentang
+Besara Santunan dan Iuran Wajib (IW).
+Peraturan Menteri Keuangan RI Nomor 36/PMK.010/2008 tanggal 26
+Februari 2008 mengatur besaran santunan untuk korban meninggal dunia, lukaluka dan cacat tetap yang diakibatkan kecelakaan lalu lintas jalan akibat
+tertabrak kendaraan bermotor.
+Terlihat jelas bahwa dengan ditingkatkannnya besaran santunan terhadap
+korban kecelakaan lalu lintas jalan mengindikasikan bahwa pihak PT. Jasa
+Raharja (Persero) selalu berupaya semaksimal mengkin demi kesejahteraan
+masyarakat. Kenaikan besaran santunan apabila dilihat dari tabel dibawah
+megalami kenaikan yang signifikan, untuk biaya santunan korban yang
+mengalami meninggal dan cacat tetap mendapatkan kenaikan 150% dan untuk
+korban yang mengalami perawatan serta untuk biaya pemakaman mendapatkan
+kenaikan 100%.
+
+27
+
+Tabel 1
+Besaran Nilai Santunan Korban Kecelakaan Lalu Lintas Jalan Sesuai SK
+Menteri Keuangan No. 416/KMK.06/2001 Dibanding Dengan Peraturan
+Menteri Keuangan No. 36/PMK.010/2008
+Santunan Bagi Korban Kecelakaan Lalu Lintas
+Peraturan
+SK
+
+Menteri
+
+Jenis Santunan
+
+Menteri
+Keuangan
+
+No.
+Keuangan
+
+No. %
+
+416/KMK.06/2001
+36/PMK.010/2008
+Meninggal
+Cacat
+
+10.000.000,00
+
+25.000.000,00
+
+150
+
+Tetap 10.000.000,00
+
+25.000.000,00
+
+150
+
+(maksimal)
+Perawatan (maksimal)
+
+5.000.000,00
+
+10.000.000,00
+
+100
+
+Biaya Pemakaman
+
+1.000.000,00
+
+2.000.000,00
+
+100
+
+Sunber : Data Sekunder, yang diolah 2011
+
+28
+
+BAB III
+METODE PENELITIAN
+
+A. Metode Pendekatan
+Hukum yang pada kenyataanya dibuat dan diterapkan oleh manusia yang
+hidup dalam masyarakat. Artinya, keberadaan hukum tidak bisa dilepaskan dari
+keadaan sosial masyarakat serta perilaku manusia yang terkait dengan lembaga
+hukum tersebut 24. Keberhasilan dalam suatu penelitian tergantung dari bagaimana
+prosedur kerjanya. Prosedur kerja dalam sebuah penelitian dapat dikatakan sebagai
+metode penelitian.
+Penelitian ini termasuk kedalam jenis penelitian empiris, yaitu penelitian
+hukum yang memperoleh datanya dari data primer atau data yang diperoleh
+langsung dari masyarakat. 25 Sedangkan model penelitiannya menggunakan model
+penelitian yuridis sosiologis. Penelitian hukum empiris dengan model penelitian
+yuridis sosiologis mempunyai objek kajian mengenai perilaku masyarakat.
+Perilaku masyarakat yang dikaji adalah perilaku yang timbul akibat berinteraksi
+dengan system norma yang ada 26. Metode pendekatan tersebut menggunakan data
+primer sebagai data utama yang diperoleh secara langsung maupun tidak langsung
+dari obyek penelitian, dan juga memerlukan data sekunder dari data pendukung.
+
+24
+
+Mukti Fajar dan Yulianto Achmad, Dualisme Penelitian Hukum Normatif & Empiris, Yogyakarta,
+Pustaka Pelajar, 2010, hal 44
+25
+Ronny Hanitijo Soemitro, Metodologi Penelitian Hukum, Jakarta, Ghalia Indonesia,1983 hal.24.
+26
+Mukti Fajar dan Yulianto Achmad, Op.Cit, hal 47
+
+28
+
+29
+
+Penelitian ini dimaksudkan untuk mengkaji tentang implementasi pemberian dana
+santunan korban kecelakaan lalu lntas di jalan oleh pihak PT. Asuransi Jasa
+Raharja (Persero) menurut Undang-undang Nomor 34 tahun 1964.
+
+B. Lokasi Penelitian
+Untuk mendapatkan data dilakukan penelitian di PT. Jasa Raharja (Persero)
+Perwakilan Madiun, dikarenakan menurut keterangan dari pihak kepolisian banyak
+terjdi peristiwa kecelakaan yang berada di wilayah Kota Madiun.
+
+C. Jenis Dan Sumber Data
+1. Jenis Data
+Jenis Data yang digunakan ada dua, yaitu jenis data primer dan jenis data
+sekunder. Data primer yaitu data yang diperoleh langsung dari lokasi penelitian
+yaitu studi dan wawancara pada PT. Jasa Raharja (Persero) Perwakilan Madiun,
+Pihak Kanit Lakalantas Polres Madiun Kota, serta Pihak yang menjadi korban
+kecelakaan lalu lintas baik melalui wawancara, dalam hal ini pihak-pihak yang
+terkait dan memiliki kualifikasi terhadap data yang penulis perlukan sesuai
+dengan permasalahan yang diteliti maupun arsip-arsip dan dokumen-dokumen
+yang berkaitan dengan permasalahan penelitian.
+Sedangkan data sekunder yaitu data yang diperoleh secara tidak langsung,
+yang memberi atas data primer, guna membantu menganalisa dan memahami
+permasalahan yang diangkat dalam penelitian ini, yakni peraturan perundangan
+
+30
+
+yang berlaku, buku-buku referensi hukum, pendapat-pendapat ahli hukum,
+dokumen-dokumen resmi dan jurnal hukum yang mempunyai kaitan dengan
+permasalahan.
+2. Sumber data
+Sumber data yang digunakan dalam penelitian ini adalah sumber data
+primer dan sumber data sekunder. Sumber data primer adalah data yang
+diperoleh langsung dari sumbernya atau keterangan lokasi penelitian. Dalam
+penelitian ini, diperoleh data primer melalui wawancara dengan responden yang
+bersangkutan yang dianggap representatif atau yang berkompeten dalam
+memberikan informasi yang berkaitan dengan permasalahan penelitian
+
+yaitu
+
+PT. Jasa Raharja (Persero) Perwakilan Madiun, Pihak Kanit Lakalantas Polres
+Madiun Kota, serta Pihak yang menjadi korban kecelakaan lalu lintas.
+Sedangkan Sumber data sekunder adalah data-data yang diperoleh
+melalui bahan kepustakaan. Data sekunder diperoleh dari literatur, kliping
+koran, internet dan studi dokumnetasi berkas-berkas yang berkaitan dengan
+pemberian dana sanunan korban kecelakaan lalu lintas.
+D. Teknik Pengumpulan Data
+Dalam pelaksanaan penelitian ini,teknik pengumpulan data yang
+digunakan adalah:
+1. Data Primer
+Data primer diperoleh dari wawancara, yaitu cara yang ditempuh
+untuk memperoleh data atau informasi dengan melakukan pertanyaan
+
+31
+
+lisan kepada narasumber untuk mendapatkan data atau informasi
+sesuai dengan fokus penelitian. Estberg (2002) mendefinisikan
+wawancara merupakan pertemuan dua orang untuk bertukar informasi
+dan ide melalui tanya jawab, sehingga dapat dikonstruksikan dalam
+suatu topik tertentu.
+Wawancara digunakan sebagai teknik pengumpulan data apabila
+peneliti ingin melakukan studi pendahuluan untuk menemukan
+permasalahan yang harus diteliti. Selain itu juga dengan meminta data
+yang valid mengenai penelitian yang sedang dilakukan. Hasil
+wawancara disusun secara sistematis, analisis wawancara digunakan
+untuk menyusun secara sistematis data yang telah diperoleh, menurut
+Nazir (1988) dengan menganalisa data yang ada maka akan diperoleh
+pemecahan masalah dalam penelitian.
+2. Data Sekunder
+Teknik pengumpulan untuk data sekunder dilakukan melalui
+studi kepustakaan yaitu dengan cara mengutip catatan, karya-karya
+tulis yang bersifat kualitatif maupun kuantitatif, serta Undang-Undang
+maupun peraturan dan dokumen lainnya yang erat kaitannya dengan
+penyusunan penelitian ini. Aktivitas ini merupakan tahapan yang amat
+penting bahkan dapat dikatakan bahwa studi kepustakaan merupakan
+seluruh dari keseluruhan aktivitas penelitian.
+
+32
+
+E. Populasi Dan Sampel
+Populasi dalam penelitian ini yaitu PT. Jasa Raharja (Persero)
+Perwakilan Madiun, Kepolisian Resort Madiun Kota, Korban Kecelakaan
+Lalu Lintas di Wilayah Kota Madiun.
+Penentuan sampel oleh penulis dilakukan dengan metode purposive
+sampling, yaitu sampel yang ditetapkan atas dasar tujuan tertentu yang
+mempunyai hubungan erat dengan permasalahan implementasi pasal 4
+Undang-Undang Republik Indonesia Nomor 34 Tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan mengenai pemberian
+dana santunan korban kecelakaan lalu lintas oleh PT. Jasa Raharja (Persero)
+Perwakilan Madiun. Sampel dalam penelitian ini adalah kepala PT. Jasa
+Raharja (Persero) Perwakilan Madiun, Kepala Unit Kecelakaan Lalu Lintas
+Polres Madiun Kota, serta korban kecelakaan yang telah mendapatkan dana
+santunan kecelakaan lalu lintas.
+
+F. Teknik Analisis Data
+Data yang diperoleh disusun secara sistematis untuk mendapatkan
+gambaran umum yang jelas mengenai obyek penelitian. Digunakan metode
+analisis deskriptif untuk data primer, yaitu suatu bentuk analisis dengan cara
+memaparkan data yang diperoleh dilapangan berupa apa yang dinyatakan oleh
+responden secara tertulis maupun lisan dan perilaku-perilaku nyata, untuk
+selanjutnya disusun, dijabarkan serta dianalisa untuk memperoleh jawaban
+
+33
+
+maupun kesimpulan atas masalah yang diajukan dengan melalui pemikiran
+logis serta dapat memberikan suatu pemecahan terhadap persoalan-persoalan
+yang timbul yang menyangkut obyek-obyek penelitian. Untuk data sekunder
+dilakukan dengan teknik analisa isi yaitu mengkaji dan mengkonsistensi
+peraturan yang ada dan masih berlaku.
+
+G. Definisi Operasional Variable
+1. Pemberian Dana Santunan
+Pemberian dana santunan yang dimaksud disini adalah
+merupakan suatu pemberian dana santunan korban kecelakaan lalu
+lintas jalan oleh PT Jasa Raharja (Persero) Perwakilan Madiun
+menurut Undang-Undang Nomor 34 tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas. Besaran santunan telah
+ditetapkan oleh Peraturan Menteri Keuangan Nomor 36/PMK.10/2008
+tentang Besar Santunan dan Sumbangan Wajib Dana Kecelakaan Lalu
+Lintas Jalan.
+2. Korban
+mereka yang menderita jasmaniah dan rohaniah sebagai akibat
+tindakan orang lain yang mencari pemenuhan kepentingan diri sendiri
+atau orang lain yang bertentangan dengan kepentingan diri sendiri atau
+kepentingan hak asasi pihak yang dirugikan
+
+34
+
+3. Kecelakaan Lalu Lintas
+Keadaan yang tidak pasti di jalan raya yang tidak dapat
+diperkirakan sebelumnya dan tidak sengaja yang melibatkan
+kendaraan dengan atau tanpa pemakai jalan lainnya, sehingga
+mengakibatkan korban jiwa atau kerugian lainnya.
+
+35
+
+BAB IV
+HASIL PENELITIAN DAN PEMBAHASAN
+
+A. Gambaran Umum PT. Jasa Raharja (Persero) Perwakilan Madiun
+Letak Kantor PT. Pasa Raharja (Persero) Perwakilan Madiun sangat
+strategis, terletak di pusat kota tepatnya di Jalan. Dr. Sutomo Nomor 42, dengan
+nomor telepon (0351) 455192 Fax: (0351) 484500degan batas sebelah timur yaitu
+rumah sakit umum daerah Dr. Soedono Madiun, sebelah selatan berbatasan dengan
+Jalan Sumatra, sebelah barat dengan rumah warga, sebelah utara berbatasan
+dengan PT. Asuransi Jiwa Sraya.
+Dalam melaksanakan tugasnya, PT. Jasa Raharha (Persero) Perwakilan
+Madiun mempunyai visi dan misi, yaitu :
+Visi
+
+: Menjadi perusahaan terkemuka di bidang Asuransi dengan
+mengutamakan penyelenggaraan program Asuransi Sosial dan
+Asuransi Wajib sejalan dengan kebutuhan masyarakat.
+
+Misi
+
+: Catur Bakti Ekakarsa Jasa Raharja
+1) Bakti kepada Masyarakat, dengan mengutamakan perlindungan
+dasar
+
+dan
+
+pelayanan
+
+prima
+
+sejalan
+
+dengan
+
+kebutuhan
+
+masyarakat.
+2) Bakti kepada Negara, dengan mewujudkan kinerja terbaik
+sebagai penyelenggara Program Asuransi Sosial dan Asuransi
+Wajib, serta Badan Usaha Milik Negara.
+35
+
+36
+
+3) Bakti kepada Perusahaan, dengan mewujudkan keseimbangan
+kepentingan agar produktivitas dapat tercapai secara optimal
+demi kesinambungan Perusahaan.
+4) Bakti kepada Lingkungan, dengan memberdayakan potensi
+sumber daya bagi keseimbangan dan kelestarian lingkungan.
+Dalam rangka memenuhi tuntutan kegiatan perusahaan yang terus
+berkmbang serta mengantisipasi bidang usaha perasuransian yang semakin
+komplek, PT. Jasa Raharja (Persero) Perwakilan Madiun melakukan pembenahan
+dalam struktur keorganisasian. PT. Jasa Raharja (persero) Perwakilan Madiun
+untuk sekarang ini dipimpin oleh Bapak Herry Murdiyanto,SE. Beliau menjabat
+sebagai pimpinan PT. Jasa Raharja (Perwakilan) Madiun sejak bulan januari tahun
+2011 sehingga dapat dikatakan bapak Herry Murdiyanto S.E merupakan sosok
+pemimpin baru. Untuk lebih mendekatkan dengan para korbaan kecelakaan yang
+ingin mendapatkan dana pertanggungan kecelakaan, maka PT. Jasa Raharja
+(Persero) Perwakilan Madiun membuka dua Kantor Pelayanan Jasa Raharja
+(KPJR) yang berada di Kota Magetan dan Kota Ngawi. Selain itu dalam penarikan
+sumbangan wajib juga ditempatkan Penanggung Jawab PT. Jasa Raharja (Persero)
+Perwakilan Madiun di kantor samasat kota-kota yang berada di wilayah
+karisedenan Madiun, seperti Kota Madiun, Kabupaten Madiun, Ngawi, Ponorogo,
+dan Pacitan. Didalam kepemimpinan barunya beliau juga dibantu oleh para
+staffnya serta Pegawai Arujasa.
+
+37
+
+Bagan 1 : Struktur Organisasi PT. Jasa Raharja (Persero) Perwakilan
+Madiun.
+
+KAPER MADIUN
+Herry Murdiyanto
+Tj.6
+
+KPJR NGAWI
+Bambang Winarko
+Tj. 8
+
+KPJR PONOROGO
+Buntaran
+Tj. 8
+
+Andhika Juliarta
+CP
+
+Elfin Fidiantoro
+TJ.9
+
+PJ SAMSAT
+MADIUN KAB.
+Hary Krismawan Tj.8
+
+PJ SAMSAT
+MAGETAN
+Handriya Utama Tj.8
+
+PJ SAMSAT
+PACITAN
+Arya Aditya CP
+
+PJ SAMSAT
+MADIUN KOTA
+Tri Purwandoko Tj.9
+
+PJ SAMSAT NGAWI
+& WIDODAREN
+Ayudi Damawan Tj.9
+
+PJ SAMSAT
+PONOROGO Widodo
+Tj.8
+
+KASIR
+Faizal Rachman Tj.8
+
+SAMSAT
+WIDODAREN
+Krisna Dwi A CP
+
+Eko Prasetyo Tj.9
+
+May Hastuti Tj.9
+
+Sumber : Data Sekunder, yang diolah 2012
+
+Lina Sagita Tj.9
+
+38
+
+B. Implementasi Pasal 4 Undang-Undang No 34 Tahun 1964 Tentang Dana
+Pertanggungan wajib Kecelakaan lalu Lintas Jalan oleh PT. Jasa Raharja
+(Persero) Perwakilan Madiun.
+PT. Jasa Raharja (Persero) merupakan Badan Usaha Milik Negara yang
+bergerak untuk mengelola program asuransi sosial/wajib sesuai dengan Undang
+Undang Nomor 33 Tahun 1964 Tentang Dana Pertanggungan Wajib Kecelakaan
+Penumpang dan Undang Undang Nomor 34 Tahun 1964 Tentang Dana
+Kecelakaan Lalu Lintas Jalan yang selalu senantiasa berupaya meningkatkan
+kualitas pelayanannya kepada masyarakat agar manfaat dana pertranggungan yang
+diberikan kepada korban kecelakaan alat angkutan umum dan kecelakaan lalu
+lintas jalan dirasakan meningkat. Untuk lebih spesifik serta mendapatkan hasil
+yang optimal, dalam penelitian ini penulis hanya mengkaji mengenai implementasi
+Pasal 4 Undang Undang Nomor 34 Tahun 1964 Tentang Dana Kecelakaan Lalu
+Lintas Jalan mengenai pemberian dana pertanggungan yang dilaksanakan oleh
+pihak PT. Jasa Raharja (Persero) Perwakilan Madiun.
+Pasal 4 Undang-Undang No 34 Tahun 1964 Tentang Dana Pertanggungan
+wajib Kecelakaan lalu Lintas Jalan berbunyi sebagai berikut :
+1. Setiap orang yang menjadi korban mati atau cacad tetap akibat
+kecelakaan yang disebabkan oleh alat angkutan lalu lintas jalan tersebut
+dalam pasal 1, dana akan memberi kerugian kepadanya atau kepada ahli
+warisnya sebesar jumlah yang ditentukan berdasarkan Peraturan
+Pemerintah.
+
+39
+
+2. Untuk melaksanakan pembayaran ganti rugi kepada korban menurut
+ketentuan tersebut dalam ayat (1) pasal ini Menteri dapat menunjuk
+instansi Pemerintah yang dianggap perlu.
+Maksud dari pasal 4 ayat 1 diatas adalah mengenai pihak yang mendapatkan
+jaminan berdasarkan Undang-undang ini ialah mereka korban kecelakaan lalu
+lintas/ahli waris yang berada di jalan di luar alat angkutan yang menyebabkan
+kecelakaan, baik menderita cacat tetap ataupun mati. Jumlah berapa santunan yang
+diterima oleh korban kecelakaan/ ahli waris telah ditetapkan berdasarkan Peraturan
+Menteri Keuangan No. 36/PMK.010/2008.
+Sedangkan bunyi dalam pasal 4 ayat 2 telah jelas bahwa pihak yang
+memberi penggantian kerugian itu adalah menteri/ pemerintah. Jika ini kita
+sesuaikan dengan pergantian posisi penanggung di dalam hukum pertanggungan
+pada umumnya, maka di dalam pertanggungan wajib menurut Undang-Undang No
+34 Tahun 1964 Tentang Dana Pertanggungan wajib Kecelakaan lalu Lintas Jalan
+yang dimksud dengan pihak penanggung adalah pemerintah 27. Sedangkan
+tertanggung dapat dilihat dalam pasal 2 ayat 1 dan pasal 3, dari kedua pasal diatas
+dapatlah kita lihat siapakah pihak
+
+yang mempunyai kewajiban untuk
+
+menyetor/membayar premi di dalam pertanggungan wajib tersebut, kewajiban
+tersebut dibebankan kepaa seseorang pengsaha atau pemilik alat angkutan lalu
+lintas jalan. 28
+
+27
+28
+
+Emmy Pangaribuan Simanjuntak, Op.Cit., hal 25
+Emmy Pangaribuan Simanjuntak, idem., hal 24
+
+40
+
+PT Jasa Raharja (Persero) dalam melaksanakan tugas dan tanggung
+jawabnya dalam bidang asuransi sosial kecelakaan telah memberikan jaminan
+pertanggungan kepada korban/ahli waris korban kecelakaan di jalan raya. PT Jasa
+Raharja (Persero) Perwakilan Madiun sesuai dengan instruksi dari PT. Jasa
+Raharja (pesero) Pusat jakarta dalam penyaluran santunan telah melaksanakan
+konsep yang telah dibuat yaitu dengan“Prinsip tepat pelayanan santunan “ 29,yaitu :
+1. Tepat informasi, Diperolehnya informasi yang akurat tentang kecelakaan alat
+angkutan umum dan lalu lintas jalan sedini mungkin serta diberitahukan kepada
+korban atau ahli waris.
+2. Tepat jaminan, Pemberian santunan kepada korban atau ahli waris korban
+dipastikan sesuai dengan ketentuan dan ruang lingkup serta nilai jaminan.
+3. Tepat subjek, Penerima santunan adalah korban/ahli waris korban yang benarbenar berhak atas dana santunan.
+4. Tepat waktu, pelayanan penyelesaian santunan mulai dari proses pengajuan
+sampai dengan penyerahan dana santunan.
+5. Tepat tempat, Penyerahan dana santunan diupayakan sedekat mungkin dengan
+domisili korban dan atau ahli waris korban.
+Dengan ketentuan yang sangat ketat dengan harapan bahwa dana santunan
+korban kecelakaan lalu lintas tepat waktu dan tepat sasaran khususnya kepada
+yang berhak adalah korban atau ahli waris korban kecelakaan lalu lintas di jalan
+
+29
+
+Hasil wawancara dengan kepala kantor PT. Jasa Raharaja (Persero) Perwakilan Madiun Herry
+Murdiyanto pada tanggal 24 januari 2012 di Madiun
+
+41
+
+raya. Penyalur dana pertanggungan tidak mengenal makelar atau calo baik
+pengurusannya ataupun penerimaan santunan tersebut, oleh sebab itu santunan jasa
+raharja pasti sampai kepada yang berhak dengan utuh tanpa potongan apapun.
+Mengenai prosedur untuk mendapatkan dana santunan bagi korban kecelakaan lalu
+lintas/ahli waris korban kecelakaan lalu lintas tidaklah sulit.
+Perlu diketahui, bahwa dana santunan yang di berikan terhadap korban
+kecelakaan lalu lintas/ahli warisnya bukan merupakan semata-mata berasal dari
+dana pemerintah saja, dalam prakteknya setiap tertanggung seperti yang
+disebutkan dalam pasal 2 ayat 1 dan pasal 3 juga membayar premi. Dalam pasal 2
+ayat 1 undang-undang No 34 Tahun 1964 Tentang Dana Pertanggungan wajib
+Kecelakaan lalu Lintas Jalan disebutkan bahwa pengusaha/pemilik alat angkutan
+lalu lntas jalan diharuskan memberi sumbangan wajib setiap tahun kepada dana
+yang dimaksud di dalam pasal 1 30. Sumbangan wajib ini dengan demikian dapat
+kita sebutkan sebagai premi di dalam hukum pertanggungan, hanya saja bahwa
+didalam undang-undang yang bersangkutan tidak terdapat istilah premi 31
+Premi yang dimaksud berasal dari iuran wajib serta sumbangan wajib.
+Undang Undang nomor 33 tahun 1964 tentang Dana Pertanggungan Wajib
+Kecelakaan Penumpang dan Undang Undang nomor 34 tahun 1964 tentang Dana
+Kecelakaan Lalu Lintas Jalan tersebut mengamanahkan kepada Jasa Raharja untuk
+menghimpun dana dari masyarakat untuk membayar santunan melalui dua sumber.
+
+30
+31
+
+Emmy Pangaribuan Simanjuntak, idem., hal 26
+Emmy Pangaribuan Simanjuntak, idem., hal 27
+
+42
+
+Pertama, pengutipan iuran wajib (premi) dari setiap penumpang alat angkutan
+umum baik di darat, laut, udara, sungai, danau dan penyeberangan yang
+besarannya sudah disatukan dengan ongkos atau tiket. Kedua, pengutipan
+Sumbangan Wajib Dana Kecelakaan Lalu Lintas Jalan dari para pemilik kendaraan
+bermotor yang dibayarkan oleh pemilik kendaraan pada saat pendaftaran atau
+perpanjangan STNK setiap tahunnya di Kantor SAMSAT seluruh Indonesia.
+Untuk di wilayah madiun sendiri penarikan sumbangan wajib pemilik kendaraan
+bermotor dilakukan oleh SAMSAT Kota Madiun.
+Untuk memenuhi kecukupan sosial dalam pemberian perlindungan dasar
+kepada masyarakat yang menjadi korban kecelakaan alat angkutan lalu lintas jalan,
+untuk memberikan manfaat lebih besar kepada masyarakat dan setelah melakukan
+kajian yang mendalam terhadap terjadinya peningkatan kebutuhan hidup
+masyarakat dan tingkat inflasi yang terjadi maka pemerintah meningkatkan
+besaran santunan dengan menerbitkan Peraturan Menteri Keuangan RI Nomor
+36/PMK.010/2008 tanggal 26 Februari 2008 tentang Besaran Santunan dan
+Sumbangan Wajib Dana Kecelakaan Lalu Lintas Jalan (SWDKLJJ).
+Dalam pemberlakuan perbaharuan Peraturan Menteri Keuangan No.
+36/PMK.010/2008 tersebut, PT Jasa Raharja (Persero) Perwakilan Madiun telah
+melakukan langkah-langkah koordinasi terutama dengan Pemerintah Daerah
+Kota/Kabupaten Madiun, pihak kepolisian setempat, rumah sakit, stasiun radio
+setempat, instansi yang berada di Kota/Kabupaten Madiun agar sosialisasi
+pelaksanaan Peraturan Menteri euangan serta pengetahuan mengenai keberadaan
+
+43
+
+PT. Jasa Raharja (Persero) Perwakilan Madiun kepada masyarakat dapat berjalan
+dengan baik.
+Dalam
+
+pelaksanaan
+
+Peraturan
+
+Menteri
+
+Keuangan
+
+RI
+
+Nomor
+
+36/PMK.010/2008 tanggal 26 Februari 2008 tentang Besaran Santunan dan
+Sumbangan Wajib Dana Kecelakaan Lalu Lintas Jalan (SWDKLJJ) dan mulai
+berlaku efektif pada tanggal 27 Maret 2008 Jam : 00.00 wib 32. Dengan demikian
+terlihat jelas bahwa PT. Jasa Raharja (Persero) memang sangat berantusias untuk
+memberikan
+
+pelayanan
+
+yang
+
+semaksimal
+
+mungkin
+
+untuk
+
+kesejahteraan
+
+masyarakat, khususnya korban kecelakaan lalu lintas jalan.
+Dalam melaksanakan pemberian dana santunan korban kecelakaan lalu lintas
+jalan PT. Jasa Raharja (Persero) Perwakilan Madiun melakukan kerja sama dengan
+pihak Kepolisian Resort Madiun Kota. Hal ini berpedoman dengan kerja sama
+yang telah dibangun oleh pucuk pimpinan antara PT. Jasa Raharja (Persero) pusat
+dengan Kepolisian Republik Indonesia
+
+No. Pol. Kep/18/IV/2004 No.
+
+SKEB/06/IV/2004 tanggal 22 April 2004, dimana PT. Jasa Raharja (Persero)
+berhak mendapatkan laporan Polisi mengenai kecelakaan lalu lintas 3 X 24 jam.33
+Kerja sama tersebut dalam upaya meningkatkan hubungan kerja dan dalam rangka
+meningkatkan pelayanan serta kesadaran masyarakat terhadap hak dan
+kewajibannya bagi pemakai sarana jalan raya.
+
+32
+
+Hasil wawancara dengan kepala kantor PT. Jasa Raharaja (Persero) Perwakilan Madiun Herry
+Murdiyanto pada tanggal 24 januari 2012 di Madiun.
+33
+Hasil wawancara dengan kepala kantor PT. Jasa Raharaja (Persero) Perwakilan Madiun Herry
+Murdiyanto pada tanggal 24 januari 2012 di Madiun.
+
+44
+
+Pelaksanaan kerjasama antara Kepolisian Resort Madiun Kota dengan PT.
+Jasa Raharja (Persero) Perwakilan Madiun, sudah seharusnya untuk lebih
+ditingkatkan karena adanya hubungan fungsional dari kedua instansi . Tugas dan
+tanggung jawab PT. Jasa Raharja (Persero)
+
+Perwakilan Madiun diantaranya
+
+adalah menyalurkan dana pertanggungan kepada korban/ahli waris Korban
+kecelakaan lalu lintas di jalan raya. Disinilah peranan Polisi khususnya fungsi unit
+kecelakaan lalu lintas dalam memberikan dukungan administrasi kelengkapan dan
+persyaratan akan hak yang dibutuhkan oleh masyarakat yang mengalami
+kecelakaan di jalan raya, karena telah tanpa memperoleh laporan keterangan
+kecelakaan lalu lintas maka dana pertanggungan tidak akan dapat tersalurkan.
+Dengan demikian kerjasama antara Kepolisian Resort Madiun Kota dengan
+PT Jasa Raharja (Persero) Perwakilan Madiun haruslah berjalan dengan baik
+seperti yang telah dilakukan oleh pucuk pimpinan antara kedua instansi ini guna
+mendukung PT Jasa Raharja (Persero) dalam memupuk iuran dan sumbangan
+wajib dari masyarakat hingga penyalurannya kepada masyarakat melalui
+pemberian dana santunan.
+Berikut ini merupakan data korban kecelakaan lalu lintas yang didapatkan di
+Kepolisisan Resort Madiun Kota Unit Kecelakaan Lalu Lintas untuk tiga tahun
+terakhir:
+
+45
+
+Tabel 2 : Data Korban Kecelakaan Lalu Lintas Kepolisian Resort Madiun
+Kota
+Korban
+Jumlah
+No
+
+Tahun
+
+Meninggal
+
+Luka
+
+Luka
+
+Dunia
+
+Berat
+
+Ringan
+
+Kejadian
+
+1.
+
+2009
+
+160
+
+47
+
+-
+
+232
+
+2.
+
+2010
+
+118
+
+40
+
+-
+
+186
+
+3.
+
+2011
+
+164
+
+50
+
+1
+
+224
+
+Sumber data : data primer yang diolah 2012
+Dari data korban kecelakaan lalu lintas untuk Kota Madiun sudah terlihat
+jelas, mengalami fluktuasi dalam frekuensi kecelakaan. Memang hal ini
+disebabkan oleh banyak faktor, antara lain yaitu kesadaran pengendara kendaraan
+bermotor, kurangnya rambu-rambu lalu lintas, keadaan sarana dan prasarana jalan
+yang kurang memadai.
+Pelaksanaan pemberian dana santunan oleh pihak PT. Jasa Raharja (Persero)
+perwakilan madiun sebenarnya telah dilaksanakan sesuai dengan undang-undang
+yang berlaku. Banyaknya santunan yang diberikan oleh PT. Jasa Raharja (Persero)
+Perwakilan Madiun kepada masyarakat yang mengalami korban kecelakaan lalu
+lintas jalan di setiap tahunnya mengalami kenaikan diikuti dengan meningkatnya
+jumlah kecelakaan lalu lintas jalan di Madiun. PT. Jasa Raharja (Persero)
+Perwakilan
+
+46
+
+Tabel 3 : Dana pertanggungan yang telah diberikan oleh PT. Jasa Raharja
+(Persero) Perwakilan Madiun kepada masyarakat yang berdomisili di Kota
+Madiun selama kurun waktu tahun 2009-2011.
+No Tahun
+
+Meninggal Dunia
+
+Luka dan Cacat tetap
+
+Jumlah
+
+Dana
+
+Korban
+
+Jumlah
+
+Korban
+
+Jumlah
+
+Pertanggungan
+
+1.
+
+2009
+
+31
+
+657.000.000
+
+176
+
+159.843.051
+
+816.843.051
+
+2.
+
+2010
+
+27
+
+579.000.000
+
+132
+
+117.589.525
+
+696.589.525
+
+3.
+
+2011
+
+33
+
+687.000.000
+
+165
+
+143.987.050
+
+830.987.050
+
+Sumber : Data Primer yang diolah 2012
+Dengan melihat pebandingan tabel antara data kecelakaan yang didapat di
+Kepolisian Resort Kota Madiun serta data besarnya jumlah santunan yang telah
+dibayarkan oleh PT. Jasa Raharja (Persero) Perwakilan Madiun terhadap korban
+kecelakaan dapat ditarik kesimpulan ternyata dari jumlah sekian banyak korban
+kecelakaan lalu lintas yang di data oleh pihak kepolisian tidak semua berhasil
+mendapatkan haknya yaitu Dana Pertanggunga Kecelakaan lalu Lintas.
+Perbedaan hal ini dapat ditinjau dari terlaksananya azas domisili bagi
+pemberian dana pertanggungan, maksudnya bahwa semua kecelekaan yang terjadi
+di Kota Madiun tidak semua dapat menerima dana pertanggungan kecelakaan lalu
+lintas, karena dalam pemberian dana pertanggungan berdasarkan domisili korban.
+
+47
+
+Selain itu juga masih banyak terdapat korban kecelakaan lalu lintas yang tidak
+melakukan klaim atas adanya dana pertanggungan korban kecelakaan lalu lintas.
+Sementara mengenai kecelakaan lalu lintas yang merupakan tugas pokok PT.
+Jasa Raharja (Persero) Perwakilan Madiun untuk memberikan santunan bagi
+korbannya, menurut Herry Murdiyanto,SE tidaklah bisa dikendalikan karena
+kecelakaan itu merupakan suatu subsistem dari system yang besar. Dengan
+meningkatnya taraf eknomi, maka akan lebih banyak orang yang yang membeli
+motor dan sebagainya sehingga jumlah kendaraan bermotor semakin banyak.
+Subsistem yang lainnya adalah disiplin pengendara yang dirasa kurang. Subsistem
+yang lainnya adalah kondidi infrastruktur yang kurang memadahi. Dengan
+kombinasi beberapa subsitem itulah PT. Jasa Raharja (Persero) Perwakilan
+Madiun selalu berusaha member pelayanan yang baik. Bagaimana pun visi dan
+misi PT. Jasa Raharja (Persero), namun harus disadari bahwa sukses PT. Jasa
+Raharja (Persero) dalam mewujudkan utama dalam perlindungan, prima dalam
+pelayanan sebagai komitmennya juga ditentukan oleh peran serta dan partisipasi
+masyarakat.
+
+48
+
+B.1. Persyaratan Pengurusan Dana Santunan Korban Kecelakaan Lalu
+Lintas di PT. Jasa Raharja (Persero) Perwakilan Madiun.
+B.1.1. Persayaratan Pengurusan Dana Santunan Oleh Korban.
+Persyaratan pengurusan dana santunan korban kecelakaan lalu lintas
+apabila korban sendiri yang mengurus adalah sebagai berikut :
+1) Laporan kecelakaan dari kepolisian setempat,
+2) Surat keterangan kesehatan dari dokter atau rumah sakit,
+3) Kuitansi biaya pengobatan dan perawatan untuk korban luka-luka
+4) KTP/identitas korban,
+5) Formulir yang diberikan secara cuma-cuma oleh PT. Jasa Raharja
+(Persero) Perwakilan Madiun.
+B.1.2. Persyaratan Pegurusan Dana Santunan Oleh Kuasa Korban.
+Dalam pengurusan dana santunan korban kecelakaan lalu lintas
+ternyata boleh dikuasakan. Akan tetapi tidak semua orang dapat diberi kuasa
+oleh korban, yang mendapat kuasa haruslah merupakan orang yang
+mempunyai hubungan keluarga dengan korban 34. Persyaratan pengurusan
+dana santunan korban kecelakaan lalu lintas apabila dikuasakan oleh korban
+adalah sebagai berikut:
+1) Laporan kecelakaan dari kepolisian setempat,
+2) Surat keterangan kesehatan dari dokter atau rumah sakit,
+
+34
+
+Hasil wawancara dengan kepala kantor PT. Jasa Raharaja (Persero) Perwakilan Madiun Herry
+Murdiyanto pada tanggal 24 januari 2012 di Madiun
+
+49
+
+3) Kuitansi biaya pengobatan dan perawatan untuk korban luka-luka
+4) KTP/identitas korban,
+5) KTP/identitas penerima kuasa,
+6) Surat kuasa,
+7) Kartu keluarga,
+8) Formulir yang diberikan secara cuma-cuma oleh PT. Jasa Raharja
+(Persero) Perwakilan Madiun.
+B.1.3 Persyaratan Pegurusan Dana Santunan Oleh Ahli Waris Korban.
+Dalam hal korban meninggal dunia, maka dana santunan korban
+meninggal dunia diserahkan langsung kepada ahli waris korban yang sah,
+yaitu 35 :
+a. Janda atau dudanya yang sah,
+b. Dalam hal tidak ada janda/dudanya yang sah, kepada anak-anaknya
+yang sah,
+c. Dalam hal tidak ada janda/dudanya dan anak-anaknya yang sah
+kepada orang tuanya yang sah.
+Persyaratan pengurusan dana santunan korban kecelakaan lalu lintas apabila
+diurus oleh ahli waris korban adalah sebagai berikut:
+1) Laporan kecelakaan dari kepolisian setempat,
+2) Surat keterangan kematian,
+3) Surat keterangan ahli waris,
+35
+
+“Prosedur Pengurusan santunan”,Media Raharja, oktober 2011, hal 1
+
+50
+
+4) KTP/identitas korban,
+5) KTP/identitas ahli waris korban
+6) Kartu keluarga,
+7) Formulir yang diberikan cuma-cuma oleh PT. Jasa Raharja
+(Perwakilan) Madiun.
+
+B.2.
+
+Mekanisme Pengurusan Dana Santunan Korban Kecelakaan Lalu
+Lintas di PT. Jasa Raharaja (Persero) Perwakilan Madiun.
+B.2.1. Mekanisme Dana Santunan Korban Kecelakaan Lalu Lintas yang
+Korbannnya Terjamin dalam Undang-Undang Nomor 34 tahun
+1964
+a. Mekanisme Pengurusan Dana Santunan Secara Umum
+Secara umum dalam memperoleh dana santunan korban
+kecelakaan lalu lintas, tindakan yang perlu dilaksanakan oleh
+korban/ahli waris korban adalah sebagai berikut :
+1. Langkah-langkah yang harus diambil oleh korban atau ahli
+waris korban kecelakaan lalu lintas jalan yang pertamatama harus menghubungi instansi yang mengeluarkan
+persyaratan
+
+dalam
+
+pengurusan
+
+dana santunan
+
+korbn
+
+kecelakaan lalu lintas, yaitu kepolisian dan pihak rumah
+sakit.
+
+51
+
+2. Selanjutnya darilah instansi-instansi didapatkan surat-surat
+yang dapat memberikan keterengan sebagai alat bukti
+tentang kecelakaan itu sendiri maupun mengenai korban/ahli
+warisnya.
+3. Persyaratan yang dapat di perlukan untuk mendapatkan dana
+santunan korban kecelakaan lalu lintas adalah sebagai
+berikut :
+a. Laporan Polisi,
+b. Surat Keterangan kesehatan dari dokter/ rumah sakit
+c. Kuitansi biaya pengobatan dan perawatan (luka-luka)
+d. KTP/ Identitas Korban/ Ahli Waris Korban
+e. Surat keterangan kematian dan Surat keterangan ahli
+waris bagi ahli waris yang mengurus korban meninggal
+dunia.
+f. Surat kuasa bagi korban yang memberikan kuasanya
+kepada pihak keluarganya untuk mengurus dana santunan
+kecelakaan lalu lintas.
+g. Kartu keluarga bagi ahli waris yang mengurus korban
+yang meninggal dunia serta korban yang membeikan
+kuasanya.
+h. Mengisi formulir dari PT. Jasa Raharja (Persero)
+Perwakilan Madiun
+
+52
+
+4. Setelah persyaratan lengkap kemudian dibawa ke PT. jasa
+Raharja (Persero) Perwakilan Madiun. Persyaratan tersebut
+layak untuk mendapatkan dan dinyatakan lengkap maka
+pihak korban atau ahli waris korban diperintahkan
+menyerahkan kepada pihak PT. Jasa Raharja (Persero)
+Perwakilan Madiun
+5. Setelah persyaratan lengkap dan dinayatakan diterima oleh
+PT. Jasa Raharja (Persero) Perwakilan Madiun dan
+kemudian
+
+korban/ahli
+
+waris
+
+korban
+
+menunggu
+
+dan
+
+selanjutnya menerima dana santunan kecelakaan lalu lintas
+melalui kasir berwujud uang tunai yang ditransfer melalui
+rekening bank rakyat Indonesia.
+
+53
+
+Bagan 2 : Mekanisme Pengurusan Dana Santunan Korban
+Kecelakaan Lalu Lintas di PT. Jasa Raharaja (Persero)
+Korban Kecelakaan Lalu Lintas
+
+Rumah sakit
+
+Kepolisian Unit Laka
+Lantas
+
+Persyaratan Pengajuan Dana Santunan
+1. Laporan Polisi
+
+1. Surat Keterangan kesehatan
+dari dokter/rumah sakit
+2. Kuitansi biaya pengobatan
+dan perawatan (luka-luka)
+
+1. KTP/ Identitas Korban/ Ahli Waris Korban
+2. Surat keterangan kematian dan Surat keterangan ahli waris bagi ahli
+waris yang mengurus korban meninggal dunia,
+3. Surat kuasa bagi korban yang memberikan kuasanya kepada pihak
+keluarganya untuk mengurus dana santunan kecelakaan lalu lintas.
+4. Kartu keluarga bagi ahli waris yang mengurus korban yang meninggal
+dunia serta korban yang membeikan kuasanya.
+5. Mengisi formulir dari PT. Jasa Raharja (Persero) Perwakilan Madiun
+
+PT. Jasa Raharja
+(Persero)
+
+Persyaratan Lengkap
+
+Kasir
+
+Sumber : Data Primer, diolah 2012
+
+54
+
+b. Mekanisme Pengurusan Dana Santunan Apabila Korban
+Tidak Berdomisili di Kota Madiun
+Dalam kejadian kecelakaan di wilayah Kota Madiun
+kenyataannya juga terdapat banyak terdapat korban kecelakaan
+yang tidak berdomisisli di Madiun. Kepala Kantor PT. Jasa
+Raharja (Persero) Perwakilan Madiun Bapak Herry Murdiyanto
+mengatakan:
+”Dalam menangani kejadian kecelakaan apabila korban tidak
+berdomisili di wilayah Karisidenan Madiun maka pengajuan
+dana santunan tetap di PT. Jasa Raharja (Persero) Perwakilan
+Madiun, karena laporan kepolisisan mengenai kecelakaan lalu
+lintas berada di wilayah Karisidenan Madiun, akan tetapi dalam
+pencairan dana santunan tetap di PT. Jasa Raharja (Persero) di
+wilayahnya masing-masing. Seperti contoh kejadian tahun
+2011, di Jalan Surabaya – Madiun Km 133-134 tepatnya di
+Jalan Ring Road Desa Pajaran Kec. Saradan Kab. Madiun
+sekitar pukul 21.15 WIB terdapat tabrakan antara Bus Sumber
+Kencono dengan plat nomor W 7666 UY dengan Truk plat
+nomr AE 8804 BA yang mengakibatkan 10 orang tewas yang
+terdapat korban berdomisili di wilayah Kediri, maka kami juga
+menghubungi Kantor Perwakilan PT. Jasa Raharja Perwakilan
+(Kediri) untuk melakukan koordinasi”.
+
+Sehingga terdapat pengecualian dalam pemberian dana
+santunan terhadap korban kecelakaan yang mempunyai KTP diluar
+Wilayah Karisidenan Madiun. Maka dalam pelaksanaan pemberian
+dana santunan akan mendapatkan proses pelimpahan 36.
+
+36
+
+Hasil wawancara dengan kepala kantor PT. Jasa Raharaja (Persero) Perwakilan Madiun Herry
+Murdiyanto pada tanggal 24 januari 2012 di Madiun
+
+55
+
+Tahapan dalam pengajuan dana santunan korban kecelakaan
+lalu lintas apabila korban tidak berdomisili di wilayah karisidenan
+Madiun adalah :
+1. Langkah-langkah yang harus diambil oleh korban atau ahli
+waris korban kecelakaan lalu lintas jalan yang pertamatama harus menghubungi instansi yang mengeluarkan
+persyaratan
+
+dalam
+
+pengurusan
+
+dana santunan
+
+korbn
+
+kecelakaan lalu lintas, yaitu kepolisian dan pihak rumah
+sakit.
+2. Selanjutnya darilah instansi-instansi didapatkan surat-surat
+yang dapat memberikan keterengan sebagai alat bukti
+tentang kecelakaan itu sendiri maupun mengenai korban/ahli
+warisnya.
+3. Persyaratan yang dapat di perlukan untuk mendapatkan dana
+santunan korban kecelakaan lalu lintas adalah sebagai
+berikut :
+i. Laporan Polisi,
+j. Surat Keterangan kesehatan dari dokter/ rumah sakit
+k. Kuitansi biaya pengobatan dan perawatan (luka-luka)
+l. KTP/ Identitas Korban/ Ahli Waris Korban
+
+56
+
+m. Surat keterangan kematian dan Surat keterangan ahli
+waris bagi ahli waris yang mengurus korban meninggal
+dunia.
+n. Surat kuasa bagi korban yang memberikan kuasanya
+kepada pihak keluarganya untuk mengurus dana santunan
+kecelakaan lalu lintas.
+o. Kartu keluarga bagi ahli waris yang mengurus korban
+yang meninggal dunia serta korban yang membeikan
+kuasanya.
+p. Mengisi formulir dari PT. Jasa Raharja (Persero)
+Perwakilan Madiun
+6. Setelah persyaratan lengkap kemudian dibawa ke PT. jasa
+Raharja (Persero) Perwakilan Madiun. Persyaratan tersebut
+layak untuk mendapatkan dan dinyatakan lengkap maka
+pihak korban atau ahli waris korban diperintahkan
+menyerahkan kepada pihak PT. Jasa Raharja (Persero)
+Perwakilan Madiun
+7. Setelah persyaratan lengkap dan dinayatakan diterima oleh
+PT. Jasa Raharja (Persero) Perwakilan Madiun kemudian
+akan dibuatkan surat rekomendasi yang berisi mengenai
+pembayaran dana santunan sesuai wilayah domisili korban
+kecelakaan lalu lintas.
+
+57
+
+8. Kemudian korban/ahli waris korban tinggal mendatangi PT.
+Jasa Raharja (Persero) sesuai dengan domisilinya sendiri,
+korban menunggu dan selanjutnya menerima dana santunan
+kecelakaan lalu lintas melalui kasir berwujud uang tunai
+yang ditransfer melalui rekening bank rakyat Indonesia.
+Proses
+
+pelimpahan
+
+yang
+
+dimaksud
+
+adalah
+
+pelimpahan
+
+wewenang pemberian dana santunan sesuai tempat domisili korba
+bertempat
+
+tinggal.
+
+Perlu
+
+diketahui
+
+bahwa
+
+pencairan
+
+dana
+
+pertanggungan menganut azas domisili (sesuai KTP). Dalam
+memberikan santunan, bagi Jasa Raharja tak ada kamus kekurangan.
+Artinya, dibeberapa daerah yang secara keuangan defisit karena
+potensi kutipannya minim ataupun karena tingkat kecelakaannya
+tinggi, ketersediaan dana untuk pembayaran dana santunan tetap
+terjamin cukup
+
+58
+
+Bagan 3 : Mekanisme Pengurusan Dana Santunan Korban
+Kecelakaan Lalu Lintas Apabila Korban Tidak Berdomisili di
+Wilayah Karisidenan Madiun
+Korban Kecelakaan Lalu Lintas
+
+Rumah sakit
+
+Kepolisian Unit Laka
+Lantas
+
+Persyaratan Pengajuan Dana Santunan
+1. Laporan Polisi
+
+1. Surat Keterangan kesehatan
+dari dokter/rumah sakit
+2. Kuitansi biaya pengobatan
+dan perawatan (luka-luka)
+
+1. KTP/ Identitas Korban/ Ahli Waris Korban
+2. Surat keterangan kematian dan Surat keterangan ahli waris bagi ahli
+waris yang mengurus korban meninggal dunia,
+3. Surat kuasa bagi korban yang memberikan kuasanya kepada pihak
+keluarganya untuk mengurus dana santunan kecelakaan lalu lintas.
+4. Kartu keluarga bagi ahli waris yang mengurus korban yang meninggal
+dunia serta korban yang membeikan kuasanya.
+5. Mengisi formulir dari PT. Jasa Raharja (Persero) Perwakilan Madiun
+
+Kasir
+
+PT. Jasa Raharja
+(Persero)
+
+Persyaratan Lengkap
+ke PT. Jasa Raharja
+(Persero)
+sesuai
+domisilinya
+
+Urusan Pelimpahan
+
+Sumber : Data Primer, diolah 2012
+
+59
+
+B.2.2 Mekanisme Dana Santunan Korban Kecelakaan Lalu Lintas yang
+Korbannnya Tidak Terjamin dalam Undang-Undang Nomor 34
+tahun 1964
+Dalam proses pengajuan dana santunan korban kecelakaan lalu
+lintas juga banyak terjadi korban yang tidak terjamin dalam UndangUndang Nomr 34 Tahun 1964 Tentang Dana Pertanggungan Wajib
+Kecelakaan Lalu Lintas Jalan. Bapak Herry Murdiyanto selaku
+Kepala Kantor Jasa Raharja (Persero) Perwakilan Madiun juga
+mengatakan bahwa :
+“ Dalam pengajuan dana santunan korban kecelakaan lalu lintas
+jalan juga terdapat korban yang tidak terjamin dalam undangundang, dalam hali ini PT. Jasa Raharja (Persero) Perwakilan
+Madiun juga akan berusaha memberikan dana santunan dengan
+jalur kebijaksanaan, seperti yang dialami oleh saudara agustina
+rahmawati”
+
+Dalam hal korban yang tidak terjamin berdasarkan undangundang akan tetapi semua persyaratan telah dilengkapi, maka PT.
+Jasa Raharja (Persero) Perwakilan Madiun dapat memberikan dana
+santunan melalui jalur kebijaksanaan (Ex Gratia) sesuai Keputusan
+Direksi No. KEP/180/2004 tanggal 31 Desember 2004 yaitu
+memberikan santunan kepada korban penyebab kecelakaan melalui
+suatu jalur kebijakan (Ex Gratia).
+Pengajuan klaim dana santunan melalui jalur kebijakan (Ex
+Gratia) ini tidak berbeda dengan pengajuan klaim korban kecelakaan
+
+60
+
+lalu lintas jalan secara umum, yang membedakan adanya surat
+penolakan yang dikelurkan oleh pihak PT. Jasa Raharja (Persero).
+Tahapan-tahapan dalam pengajuan dana santunan apabila korban
+tidak terjamin dalam undang-undang yaitu :
+1. Langkah-langkah yang harus diambil oleh korban atau ahli
+waris korban kecelakaan lalu lintas jalan yang pertamatama harus menghubungi instansi yang mengeluarkan
+persyaratan
+
+dalam
+
+pengurusan
+
+dana santunan
+
+korbn
+
+kecelakaan lalu lintas, yaitu kepolisian dan pihak rumah
+sakit.
+2. Selanjutnya darilah instansi-instansi didapatkan surat-surat
+yang dapat memberikan keterengan sebagai alat bukti
+tentang kecelakaan itu sendiri maupun mengenai korban/ahli
+warisnya.
+3. Persyaratan yang dapat di perlukan untuk mendapatkan dana
+santunan korban kecelakaan lalu lintas adalah sebagai
+berikut :
+a. Laporan Polisi,
+b. Surat Keterangan kesehatan dari dokter/ rumah sakit
+c. Kuitansi biaya pengobatan dan perawatan (luka-luka)
+d. KTP/ Identitas Korban/ Ahli Waris Korban
+
+61
+
+e. Surat keterangan kematian dan Surat keterangan ahli
+waris bagi ahli waris yang mengurus korban meninggal
+dunia.
+f. Surat kuasa bagi korban yang memberikan kuasanya
+kepada pihak keluarganya untuk mengurus dana santunan
+kecelakaan lalu lintas.
+g. Kartu keluarga bagi ahli waris yang mengurus korban
+yang meninggal dunia serta korban yang membeikan
+kuasanya.
+h. Mengisi formulir dari PT. Jasa Raharja (Persero)
+Perwakilan Madiun
+9.
+
+Setelah persyaratan lengkap kemudian dibawa ke PT. jasa
+Raharja (Persero) Perwakilan Madiun. Apabila korban tidak
+terjamin dalam undang-undang nomor 34 tahun 1964
+Tentang dana Pertanggungan Wajib Kecelakaan Lalu Lintas
+Jalan maka PT. Jasa Raharja (Persero) Perwakilan madiun
+akan membuatkan surat penolakan yang bersisi mengenai
+alas an penolakan tersebut seperti apa. Dalam hal penolakan
+suatu pengajuan santunan dilakukan setelah pengajuan
+pertama. Penolakan dalam bentuk tertulis dibuat dengan
+menerangkan kepada korban alasan penolakan berdasarkan
+ketentuan perundang-undangan.
+
+62
+
+10. Setelah mendapatkan surat yang berisi penolakan pemberian
+dana santunan oleh PT. Jasa Raharja (Persero) Perwakilan
+Madiun selanjutnya korban/ahli waris korban membuat surat
+yang berisi mengenai permohonan akan pemberian dana
+santunan melalui jalur kebijaksanaan/ex gratia.
+11. Kemudian korban/ahli waris korban tinggal mendatangi PT.
+Jasa Raharja (Persero) Perwakilan Madiun lagi dengan
+membawa persyaratan lagi untuk mengajukan permohonan
+pemberian dana santunan melalui jalur kebijaksanaan/ ex
+gratia. Jadi korban/ ahli waris korban melakukan pengajuan
+ke PT. Jasa Raharja (Persero) Perwakilan Madiun sebanyak
+dua kali.
+12. Setelah persyaratan lengkap dan dinayatakan diterima oleh
+PT. Jasa Raharja (Persero) Perwakilan Madiun dan
+kemudian
+
+korban/ahli
+
+waris
+
+korban
+
+menunggu
+
+dan
+
+selanjutnya menerima dana santunan kecelakaan lalu lintas
+melalui kasir berwujud uang tunai yang ditransfer melalui
+rekening bank rakyat Indonesia.
+
+63
+
+Bagan 4 : Mekanisme Pengurusan Dana Bantuan Sosial apabila
+Korban Kecelakaan Lalu Lintas Tidak Terjamin dalam undangKorban Kecelakaan Lalu Lintas
+
+undang
+Kepolisian Unit Laka
+Lantas
+
+Rumah sakit
+
+Persyaratan Pengajuan Dana Santunan
+1. Laporan Polisi
+
+1. Surat Keterangan kesehatan
+dari dokter/rumah sakit
+2. Kuitansi biaya pengobatan
+dan perawatan (luka-luka)
+
+1. KTP/ Identitas Korban/ Ahli Waris Korban
+2. Surat keterangan kematian dan Surat keterangan ahli waris bagi ahli
+waris yang mengurus korban meninggal dunia,
+3. Surat kuasa bagi korban yang memberikan kuasanya kepada pihak
+keluarganya untuk mengurus dana santunan kecelakaan lalu lintas.
+4. Kartu keluarga bagi ahli waris yang mengurus korban yang meninggal
+dunia serta korban yang membeikan kuasanya.
+5. Mengisi formulir dari PT. Jasa Raharja (Persero) Perwakilan Madiun
+
+PT. Jasa Raharja
+(Persero)
+
+Pengajuan dana
+santunan ditolak
+
+Kasir
+
+Permohonan
+pangajuan
+dana
+santuanan melalui
+jalur ex gratia
+
+Sumber : data primer, diolah 2012
+
+64
+
+Berpedoman pada prosedur untuk mendapatkan dana santunan maka PT Jasa
+Raharja (Persero), menetapkan sistem pelayanan santunan jasa raharja kepada
+setiap korban /ahli waris korban dengan pola terpadu 37, maksud dari terpadu
+adalah adanya hubungan yang berkesinambungan antara pihak kepolisian dan
+pihak instansi kesehatan dengan pihak PT. Jasa Raharja (Persero). Kepolisian
+(Satuan Unit Kecelakaan Lalu Lintas) selaku petugas yang memberikan
+pertolongan awal dan pengajuan administrasi kepengurusan santunan kepada PT
+Jasa Raharja (Persero). Dimana pihak rumah sakit memberikan pertolongan dalam
+pemberian bantuan kesehatan.
+
+C. Faktor Penghambat dari Implementasi Pasal 4 Undang-Undang No 34 Tahun
+1964 Tentang Dana Pertanggungan wajib Kecelakaan lalu Lintas Jalan oleh
+PT. Jasa Raharja (Persero) Perwakilan Madiun .
+Dalam melaksanakan tugasnya untuk menyalurkan dana santunan korban
+kecelakaan lalu lintas jalan PT. Jasa Raharja (Persero) Perwakilan Madiun pasti
+mengalami hambatan dalam pelaksanaannya. Hambatan dalam menyalurkan dana
+santunan tersebut tidak semata-mata berasal dari pihak eksternal saja, namun
+berasal juga dari pihak internal sendiri. Faktor internal yang dimaksud adalah
+faktor yang datang dari dalam pihak PT. jasa Raharja (Persero) Perwakilan
+Madiun sendiri, yang menyangkut kebijakan/peraturan dari pimpinan terhadap
+
+37
+
+Hasil wawancara dengan kepala kantor PT. Jasa Raharaja (Persero) Perwakilan Madiun Herry
+Murdiyanto pada tanggal 24 januari 2012 di Madiun
+
+65
+
+pengelolaan PT Jasa Raharja (Persero) serta faktor yang berasal dari staff PT. Jasa
+Raharja (Persero) Perwakilan Madiun. Sedangkan yang dimaksud faktor eksternal
+adalah hubungan antar Perusahaan PT Jasa Raharja (Persero) Perwakilan Madiun
+dengan instansi lainnya, khususnya pihak kepolisian. Karena tanpa dukungan
+instansi kepolisian PT Jasa Raharja (Persero) tidak akan dapat melaksanakan
+penyaluran dana santunan korban kecelakaan lalu lintas jalan.
+Adapun faktor penghambat dari implementasi pemberian dana santunan
+korban kecelakaan lalu lintas oleh PT. Jasa Raharja (Persero) Perwakilan Madiun
+menurut pasal 4 Undang-Undang Nomor 34 Tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan sebagai berikut :
+a. Faktor Internal
+Pertama, Sekalipun ketentuan-ketentuan yang mengatur mengenai
+prosedur pemberian dana santunan kecelakaan lalu lintas telah jelas, namun
+berkaitan dengan sosialisasi yang sangat minim dari pihak PT Jasa Raharja
+(Persero) Perwakilan Madiun menimbulkan kurangnnya pemahaman
+mengenai prosedur tersebut.sehingga perlu adanya sosialisasi berkala dari
+pihak PT. Jasa Raharja (Persero) Perwakilan Madiun. Kurangnya sosialisasi
+dari PT. Jasa Raharaja (Persero) Perwakilan Madiun merupakan sesuatu
+hambatan yang dominan dalam menghambat proses pengajuan dana
+santunan.
+Kedua, Dalam pemberian dana santunan, pihak PT. Jasa Raharja
+(Persero) Perwakilan Madiun terdapat melakukan deskriminasi, hanya
+
+66
+
+kecelakaan besar yang menyebabkan korban massal saja yang mendapatkan
+dana santunan tanpa harus datang ke kantor PT. Jasa Raharja (Persero)
+Perwakilan Madiun, untuk kecelakaan yang bersifat kecil sama sekali tidak
+pernah mendapatkan layanan jemput bola dari pihak PT. Jasa Raharja
+(Persero) Perwakilan Madiun. Seharusnya sifat deskriminasi dalam
+pemberian dana santunan korban kecelakaan lalu lintas tidaklah terjadi
+sehingga tidak menimbulkan kesenjanga sosial.
+Ketiga, Walaupun telah mengalami kenaikan dalam besaran
+pemberian dana santunan korban kecelakaan lalu lintas sesuai dengan
+Peraturan Menteri Keuangan No. 36/PMK.010/2008, dimana nilainya untuk
+saat ini menglami kenaikan akan tetapi jumlah nilai tersebut jika dikaitkan
+dengan kerugian immateriil yang dialami jumlah itu tidaklah sebanding.
+Sebab santunan dari PT. Jasa Raharja (Persero) itu sifatnya hanya sebagai
+perlindungan dasar yang diberikan oleh pemerintah dan itu belumcukup
+untuk memenuhi efek yang ditimbulkan dari ecelakaan tersebut. Sehingga
+untuk beberapa periode tertentu perlunya pembenahan peraturan dikaitkan
+dengan keadaan ekonomi saat ini.
+Keempat, mengenai jumlah personil petugas PT. Jasa Raharja
+(Persero) Perwakilan Madiun yang dirasa sangat kurang untuk melaksanakan
+tugas dan tanggung jawab yang sangat besar ntuk manyalurkan dana
+santunan korban kecelakaan lalu lintas jalan. Dengan pertimbangan bahwa
+kecelakaan di wilayah Karisedenan Madiun yang senakin lama semakin
+
+67
+
+meningkat, hal ini dipicu karena wilyah karisidenan madiun merupakan
+letak yang strategis jalur transportasi antar propinsi.
+Kelima, tidak adanya suatu keterangan tertulis mengenai klasifikasi
+yang menyebutkan secara jelas mengenai prosedur pemberian dana santunan
+korban kecelakaan lalu lintas yang korbannya tidak terjamin dalam UndangUndang Nomor 34 Tahun 1964 Tentang Dana Pertanggungan Wajib
+Kecelakaan Lalu Lintas Jalan serta unuk korban yang tidak berdomisili di
+wilayah karisidenan Madiun. Hanya terdapat keterangan tertulis yang
+menerangkan prosedur pemberian dana santnan korban kecelakaan lalu
+lintas secara umum saja.
+
+b. Faktor Eksternal
+Pertama,
+
+hambatan
+
+eksternal
+
+yang
+
+paling
+
+mendasar
+
+adalah
+
+Kepolisiaan Unit Kecelakaan Lalu Lintas yang melayani kepengurusan
+laporan berkaitan dengan syarat administrasi kepengurusan dana santunan
+terkesan tidak mau menginformasikan mengenai keberadaan PT. Jasa
+Raharja (Persero) Perwakilan Madiun sebagai lembaga yang meberikan dana
+santunan apabila terjadi kecelakaan lalu lintas. Dengan hal ini dapat terlihat
+bahwa kerja sama antara kedua belah pihak instansi ini sangatlah kurang,
+padahal kedua instansi ini sangatlah berkaitan erat dalam hubungannya
+dengan kelengkapan pemberian dana santunan korban kecelakaan lalu lintas.
+
+68
+
+Kedua, Selain itu juga banyak masyarakat yang meremehkan
+keberadaan PT. Jasa Raharja (Persro), hal ini ditandai dengan tidak kemauan
+untuk mengurus haknya apabila terjadi kecelakaan lalu lintas di jalan raya
+dengan alasan pengurusan santunan terkesan berbelit-belit. 38
+Ketiga, berdasarkan hasil wawancara terhadap Agung Ponang
+Pamungkas korban kecelakaan lalu lintas yang mengurus dana santunan
+mengatakan bahwa :
+“Dalam mekanisme pengurusan dana santunan terkesan menyusahkan
+saya, karena saya dalam keadaan gagar otak dan pendarahan telinga
+harus mengurusi sendiri sendiri mengenai penerimaan dana santunan
+korban kecelakaan lalu lintas. Saya dengar pihak PT. Jasa Raharja
+(Persero) Perwakilan Madiun akan melakukan proses jemput bola
+dalam penanganan pemberian dana santunan akan tetapi setelah saya
+tunggu selama 3 bulan tidak dikunjungi juga, padahal saya telah
+melakukan laporan kepada kepolisian pada hari terjadinya
+kecelakaan”.
+Dengan demikian dapat dikatakan bahwa proses jemput bola yang
+diprogramkan oleh Pihak PT. Jasa Raharja (Persero) Perwakilan Madiun
+dirasa sangat kurang.
+
+Keempat, Mengenai kadaluarsa pengurusan dana santunan kecelakaan
+lalu lintas oleh PT. Jasa Raharja (Persero) terkesan memaksa, karena apabila
+korban tidak melapor dalam jangka waktu 6 (enam) bulan maka hak akan
+dana santunan akan gugur. Sementara diketahui bahwa sosialisasi PT. Jasa
+
+38
+
+Hasil wawancara dengan kepala kantor PT. Jasa Raharaja (Persero) Perwakilan Madiun Herry
+Murdiyanto pada tanggal 24 januari 2012 di Madiun
+
+69
+
+Raharja (Persero) Perwakilan Madiun kepada masyarakat dirasa sangatlah
+kurang.
+Kelima, Dalam Peraturan Pemerintah Nomor 18 Tahun 1965 sebagai
+peraturan pelaksana atas Undang-Undang Nomor 34 Tahun 1964 Tentang
+Dana Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan, khususnya
+tentang korban tunggal kecelakaan lalu lintas belum diatur, padahal seperti
+yang kita ketahui bahwa setiap tahunnya mereka juga membayar sumbangan
+wajib dana kecelakaan lalu lintas sejak pendaftaran kendaraan dan setiap
+tahun ketika perpanjangan STNK. Kecelakaan tunggal adalah suatu
+kecelakaan yang hanya melibatkan satu kendaraan bermotor dan tidak
+melibatkan pemakai jalan lain. Contohnya seperti kendaraan terguling
+karena ban pecah, kendaraan yang menabrak marka jalan, dll.
+
+D. Upaya yang Dilakukan Untuk Mengatasi Faktor Penghambat Implementasi
+Pasal 4 Undang-Undang No 34 Tahun 1964 Tentang Dana Pertanggungan
+wajib Kecelakaan lalu Lintas Jalan.
+PT Jasa Raharja (Persero) Perwakilan Madiun dalam melaksanakan tugasnya
+tidak terlepas dari keberadaan instansi pemerintahan yang lainnya. Sehingga
+perlulah suatu dukungan dari beberapa instansi demi tercapainya semua tugas dan
+tanggung jawab PT. Jasa Raharja (Persero) Perwakilan Madiun dalam memberikan
+dana santunan korban kecelakaan lalu lintas seperti yang tertuang dalam Undang
+No 34 Tahun 1964 Tentang Dana Pertanggungan Wajib Kecelakaan Lalu Lintas
+
+70
+
+Jalan. Tanpa dukungan dari instansi yang lain tidak akan membuat PT. Jasa
+Raharja (Persero) menjadi perusahaan yang solid dan bersinergi dalam bidang
+asuransi sosial.
+Upaya yang seharusnya dilaksanakan untuk mengatasi beberapa hambatan
+yang timbul dalam pelaksanaan pemberian dana pertanggungan korban kecelakaan
+lalu lintas yaitu :
+a. Upaya Untuk Mengatasi Hambatan Internal
+Pertama, seharusnya PT. Jasa Raharja (Persero) Perwakilan
+Madiun
+
+melakukan
+
+sosialisasi
+
+yang
+
+berkala.
+
+Sosialisasi
+
+dapat
+
+dilaksanakan melalui kerjasama dengan radio pemerintah maupun swasta,
+pihak media, maupun beerja sama degan instansi-instansi terkait seperti
+dinas pendidikan untuk melakukan penyuluhan-penyuluhan ke Sekolah
+Menengah Atas, karena masa-masa SMA merupakan masa permulaan
+pelajar mengendarai kendaraan bermotor. Sehingga selain melakukan
+penyuluhan
+pertanggungan
+
+mengenai
+
+prosedur
+
+kecelakaan
+
+juga
+
+pelaksanaan
+dapat
+
+pemberian
+
+melaksanakan
+
+dana
+
+penyuluhan
+
+mengenai pencegahan kecelakaan lalu lintas, serta mendirikan suatu
+papan informasi mengenai keberadaan PT. Jasa Raharja (Persero) pada
+tempat yang strategis.
+Kedua, pelaksanaan dalam sistem jemput bola haruslah sesegera
+mungkin diberlakukan kepada semua korban kecelakaan lalu lintas,
+dengan menabah personil PT. Jasa Raharja (Persero) Perwakilan Madiun
+
+71
+
+di tempat yang dirasa sering terjadi kecelakaan. Haruslah ada
+penambahan personil yang lebih dari dalam PT. Jasa Raharja (Persero)
+Perwakilan Madiun. Sebab sistem jemput bola apabila akan dilaksanakan
+secara maksimal pasti akan merubah citra PT. Jasa Raharja (Persero)
+Perwakilan Madiun. Serta menempatkan personil PT. Jasa Raharja
+(Persero) Perwakilan Madiun di Kantor Kepolisisan Resort Madiun Kota,
+sehingga apabila ada korban yang melporkan kejadian kecelakaan lalu
+lintas yang ialaminya sesegera mungkin ada pihak dari PT. jasa raharja
+(Persero) yang mengarahkan bagaimana prosedur untuk mendapatkan
+dana pertanggungan kecelakaan lalu intas.
+Ketiga, sebaiknya peraturan yang mengatur mengenai besaran dana
+pertanggungan kecelakaan lalu lintas haruslah selalu dibenahi, minimal
+lima tahun sekali. Disebabkan kondisi ekonomi yan terus semakin
+berkembang. Sehingga jumlah dana pertanggungan haruslah bersifat
+fluktuatif, yaitu mengikuti keadaan dimana mengikuti kondisi yang ada.
+Kenaikan dana pertanggungan korban kecelakaan lalu lintas juga
+seharusnya diikuti dengan kenaikan sumbangan wajib dan iuran wajib.
+Keempat, penambahan jumlah personil PT. Jasa Raharja (Persero)
+Perwakilan
+
+madiun
+
+haruslah
+
+segera ditingkatkan,
+
+sebab
+
+jumlah
+
+kecelakaan yang terus semakin meningkat serta didukung dengan wilayah
+Karisedenan Madiun yang sangat luas.
+
+72
+
+Kelima, seharusnya terdapat informasi tertulis mengenai prosedur
+pemberian dana santunan korban kecelakaan lalu lintas oleh beberapa
+korban yang tergolong dalam korban kecelakaan secara umum, korban
+kecelakaan yang tidak berdomisili di Karisidenan madiun, ataupun
+korban yang tidak terjamin di dalam Undang No 34 Tahun 1964 Tentang
+Dana Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan. Hal ini
+dimaksudkan agar korban kecelakaan lalu lintas tidak dibingungkan
+dengan prosedur pemberian dana santunan yang berbeda untuk tiap
+klasifikasi korbannya.
+
+b. Upaya Untuk Mengatasi Hambatan Eksternal
+Pertama, yang terpenting yaitu dari pihak kepolisisan sebagai
+lembaga yang mengurusi masalah laporan kecelakaan lalu lintas haruslah
+bertindak aktif. Bertindak aktif disini yaitu secara aktif memberikan
+informasi kepada korban kecelakaan lalu lintas mengenai keberadaan PT.
+Jasa Raharja (Persero) Perwakilan Madiun saat korban mendatangi pihak
+kepolisian untuk melaporkan terjadinya kecelakaan. Kerjasama antara
+kedua instansi ini haruslah tetap terjaga, sebab pihak kepolisian
+mengeluarkan laporan kepolisian mengenai kecelakaan lalu lintas yang
+dibutuhkan oleh korban kecelakaan lalu lintas untuk melengkapi
+persyaratan proses pengajuan dana santunan.
+
+73
+
+Kedua, usaha dari PT. Jasa Raharja (Persero) Perwakilan Madiun
+untuk membuat masyarakat mempunyai anggapan bahwa pengurusan
+dana santuna tidak terkesan berbelit-belit dengan membuat gambar/ papan
+iklan di tempat yang dianggap strategis mengenai prosedur pengurusan
+dana santunan korban kecelakaan lalu lintas.
+Ketiga, PT. Jasa Raharja (Persero) Perwakilan Madiun haruslah
+semaksimal mungkin menangani korban yang mengharapkan dana
+pertanggungaan kecelakaan lalu lintas. Sistem jemput bola dengan tidak
+membeda-bedakan korban kecelakaan haruslah sesegera mungkin
+dilaksan dan semua kecelakaan haruslah mendapat perhatian dari PT. Jasa
+Raharja (Persero) Perwakilan Madiun.
+Keempat, mengenai adanya waktu kedaluarsa dalam pengurusan
+dana santunan haruslah di kaji lebih ulang. Disini dikarenakan kita tidak
+tahu mengenai keadaan korban yang mengalami kecelakaan, apakah
+parah ataupun tidak. Walaupun dapat diwakilkan dengan menggunakan
+surat kuasa akan tetapi apabila ada hubungan dengan nyawa dan
+kesehatan, waktu enam bulan sebagai batas waktu kedaluarsa pengurusan
+dana santunan dirasa kurang.
+Kelima, permasalahan mengenai kecelakaan tunggal dalam
+peraturan Peraturan Pemerintah Nomor 18 Tahun 1965 sebagai peraturan
+pelaksana Undang-Undang Nomor 34 Tahun 1964 Tentang Dana
+Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan belum diatur.
+
+74
+
+Seharusnya ada aturan mengenai kecelakaan tunggal ini mengingat
+korban juga telah membatar premi tiap tahunnya. Haruslah secepatnya
+ada pembenahan sehingga para korban kecelakaan tunggal dapat terjamin
+dalam undang-undang.
+
+75
+
+BAB V
+PENUTUP
+
+A. Kesimpulan
+1. Berdasarkan hasil penelitian yang penulis lakukan di PT. Jasa Raharja
+(Persero) Perwakilan Madiun, maka dapat diambil sebuah perbedaan
+mengenai mekanisme pemberian dana santunan korban kecelakaan lalu lintas
+oleh PT. Jasa Raharja (Persero) Perwakilan Madiun. Untuk memudahkan
+korban/ kuasa korban/ ahli waris korban dalam mengajukan dana santunan
+kecelakaan lalu lintas, terdapat tiga klasifikasi mengenai mekanisme
+pengajuan dana santunan korban kecelakaan lalu lintas yaitu sebagai berikut :
+a. Mekanisme Pengurusan Dana Santunan Korban Kecelakaan Lalu Lintas di
+PT. Jasa Raharaja (Persero).
+b. Mekanisme Pengurusan Dana Santunan Apabila Korban Tidak Berdomisili
+di Kota Madiun.
+c. Mekanisme Dana Santunan Korban Kecelakaan Lalu Lintas yang
+
+Korbannnya Tidak Terjamin dalam Undang-Undang Nomor 34 tahun 1964
+2. Dalam melaksanakan tugasnya untuk menyalurkan dana santunan korban
+
+kecelakaan lalu lintas jalan PT. Jasa Raharja (Persero) Perwakilan Madiun
+pasti mengalami hambatan dalam pelaksanaannya. Faktor penghambat
+dalam pemberian dana santunan oleh PT. Jasa Raharja (Persero) Perwakilan
+
+75
+
+76
+
+Madiun dibagi menjadi dua, yaitu faktor penghambat internal dan faktor
+penghambat eksternal.
+No
+1.
+
+Upaya Penyelesaian
+
+Faktor Penghambat
+Faktor Internal
+a. Sosialisasi
+
+yang
+
+sangat
+
+a. Kerjasama
+
+dengan
+
+radio
+
+minim dari pihak PT Jasa
+
+pemerintah
+
+maupun
+
+swasta,
+
+Raharja (Persero) Perwakilan
+
+pihak media, maupun instansi
+
+Madiun.
+
+terkait.
+
+b. Hanya kecelakaan besar yang
+didatangi
+
+dengan
+
+system
+
+jemput bola.
+
+b. Dengan menambah personil di
+tempat yang dirasa sering terjadi
+kecelakaan.
+
+c. Besaran santunan yang telah
+
+c. Peraturan
+
+yang
+
+mengatur
+
+mengalami kenaikan dirasa
+
+mengenai besaran dana santunan
+
+sangat kurang.
+
+haruslah selalu dibenahi.
+
+d. Kurangnya jumlah personil
+
+d. Penambahan
+
+personil
+
+Raharja
+
+(Persero)
+
+PT. Jasa Raharja (Persero)
+
+PT.
+
+Perwakilan Madiun.
+
+Perwakilan madiun harus segera
+
+e. Tidak
+
+adanya
+
+suatu
+
+keterangan tertulis mengenai
+klasifikasi
+
+prosedur
+
+pemberian dana santunan.
+
+Jasa
+
+jumlah
+
+ditingkatkan.
+e. Seharusnya terdapat informasi
+tertulis
+
+mengenai
+
+prosedur
+
+pemberian dana santunan.
+
+Faktor Ekternal
+a. Unit Kecelakaan Lalu Lintas
+
+a. Kepolisisan haruslah bertindak
+
+tidak mau menginformasikan
+
+secara
+
+mengenai
+
+informasi mengenai keberadaan
+
+Jasa
+
+keberadaan
+
+Raharja
+
+Perwakilan Madiun.
+
+PT.
+
+(Persero)
+
+PT.
+
+aktif
+
+Jasa
+
+memberikan
+
+Raharja
+
+perwakilan Madiun.
+
+(Persero)
+
+77
+
+b. Proses
+
+pengajuan
+
+santunan
+
+dana
+
+b. Sistem jemput bola haruslah
+
+terkesan
+
+sesegera mungkin dilaksanakan
+
+meyusahkan yang mengalami
+luka berat.
+c. Banyak
+
+secara maksimal.
+c. Membuat gambar/ papan iklan
+
+masyarakat
+
+yang
+
+di
+
+tempat
+
+yang
+
+strategis
+
+meremehkan keberadaan PT.
+
+mengenai prosedur pengurusan
+
+Jasa Raharja (Persero).
+
+dana santunan.
+
+d. Mengenai
+
+kadaluarsa
+
+d. Kedaluarsa dalam pengurusan
+
+pengurusan dana santunan
+
+dana santunan haruslah di kaji
+
+terkesan memaksa.
+
+lebih ulang.
+
+e. Korban tunggal kecelakaan e. Seharusnya ada aturan mengenai
+lalu lintas belum diatur dalam kecelakaan tunggal ini mengingat
+undang-undang.
+
+korban juga membatar premi.
+
+B. Saran
+1. Untuk PT. Jasa Raharja (Persero) Perwakilan Madiun haruslah meningkatkan
+kegiatan sosialisasi mengenai keberadaan PT. Jasa Raharja (Persero)
+Perwakilan Madiun, sosialisasi tersebut dapat menjalin kerja sama dengan
+radio pemerintah ataupun swasta, dinas pendidikan dan kebudayaan, serta
+instansi lainnya.
+2. Untuk Kepolisian Unit Kecelakaan Lalu Lintas haruslah bertindak aktif serta
+bersama-sama meningkatkan kerja sama dengan PT. Jasa Raharja (Persero)
+Perwakilan Madiun sehingga semua korban kecelakaan lalu lintas yang
+meminta laporan mengenai kecelakaan dapat sepenuhnya terjangkau.
+
+78
+
+DAFTAR PUSTAKA
+
+Abdul Mukti Fajar dan Yulianto Achmad, 2010, Dualisme Penelitian Hukum
+Normatif & Empiris, Yogyakarta: Pustaka Pelajar, 2010
+
+C.S.T Kansil dan Christine S.T. Kansil, Pokok-Pokok Pengetahuan Hukum Dagang
+Indonesia, Jakarta: Sinar Grafika, 2002
+
+Djoko prakoso, Hukm Asuransi Indonesia, Jakarta: PT Rineka Cipta, 2004
+
+Emmy Pangaribuan Simanjuntak, Hukum Pertanggungan (Pokok-pokok Kerugian,
+Kebakaran dan Jiwa), Yogyakarta : Seksi Hukum Dagang Fakultas Hukum
+Universitas Gajah Mada, 1975
+
+Emmy Pangaribuan Simanjuntak, Pertanggungan Wajib/Sosial. Undang-Undang
+No 33 dan 34 Tahun 1964, Yogyakarta : Seksi Hukum Dagang Fakultas Hukum
+Universitas Gajah Mada, 1973
+
+Hasymi Ali, Pengantar Asuransii, Jakarta: Bumi Aksara, 1993
+
+Media Raharja, Jakarta: PT. Jasa Raharja (Persero), oktober 2011
+
+Media Raharja, Jakarta: PT. Jasa Raharja (Persero), Desember 2011
+
+Ronny Hanitijo Soemitro, Metodologi Penelitian Hukum, Jakarta: Ghalia
+Indonesia,1983
+
+Sri Redjeki Hartono, Hukum Asuransi dan Perusahaan Asuransi, Jakarta: Sinar
+Grafika, 2001
+
+79
+
+Undang-undang Nomor 33 Tahun 1964 tentang Dana Pertanggungan Wajib
+Kecelakaan Penumpang
+
+Undang-undang Nomor 34 Tahun 1964 tentang Dana Pertanggungan Wajib
+Kecelakaan Lalu Lintas.
+
+Undang-undang Nomor 2 Tahun 1992 tentang Usaha Perasuransian.
+
+Peraturan Pemerintah Nomor 18 Tahun 1965 tentang Ketentuan ketentuan
+Pelaksanaan Dana Kecelakaan Lalu Lintas Jalan.
+
+Peraturan Pemerintah Nomor 39 Tahun 1980 tentang Pengalihan Bentuk Perusahaan
+Umum Jasa Raharja Menjadi Perusahaan Perseroan (Lembaran Negara Repblik
+Indonesia Tahun 1980 Nomor 62).
+
+Peraturan menteri Keuangan Republik Indonesia Nomor 36 /PMK.010 /2008 tentang
+Besar Santunan dan Sumbangan Wajib Dana Kecelakaan Lalu Lintas jalan.
+
+
